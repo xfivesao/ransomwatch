@@ -55,10 +55,10 @@ def main(webpage):
         sleeptz = 5
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
-        if 'lockbitapt' in webpage:
-            stdlog('geckodriver: ' + 'special detected, waiting for captcha')
-            driver.add_cookie({"name": "ddosproteck", "value": "lol"})
-            driver.find_element_by_css_selector('button').click()
+        #if 'lockbitapt' in webpage:
+        #    stdlog('geckodriver: ' + 'special detected, waiting for captcha')
+        #    driver.add_cookie({"name": "ddosproteck", "value": "lol"})
+        #    driver.find_element_by_css_selector('button').click()
         '''
         get html from dom after js processing and page rendering complete
         '''
@@ -68,6 +68,8 @@ def main(webpage):
         # if e contains neterror?e=dnsNotFound, then we are dealing with an onion site failing hsdir
         if 'about:neterror?e=dnsNotFound' in str(e):
             errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
+        elif 'about:neterror?e=netTimeout' in str(e):
+            errlog('geckodriver: ' + 'geckodriver socks request timed out!')
         else:
             errlog('geckodriver: ' + 'error: ' + str(e))
         driver.quit()

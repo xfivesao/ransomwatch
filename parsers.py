@@ -102,7 +102,7 @@ def everest():
 def suncrypt():
     stdlog('parser: ' + 'suncrypt')
     parser = '''
-    cat source/suncrypt-*.html | tr '>' '\n' | grep -A1 '<a href="client?id=' | sed '/^--/d' | sed '/^<a/d' | cut -d '<' -f1 | sed 's/[ \t]*$//' "$@"
+    cat source/suncrypt-*.html | tr '>' '\n' | grep -A1 '<a href="client?id=' | sed -e '/^--/d' -e '/^<a/d' | cut -d '<' -f1 | sed -e 's/[ \t]*$//' "$@" -e '/Read more/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -134,17 +134,15 @@ def lockbit2():
 
 '''
 used to fetch the description of a lb2 post - not used
-'''    
 def lockbit2desc():
     stdlog('parser: ' + 'lockbit2desc')
-    parser = '''
-    sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
-    '''
+    # sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lockbit2: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit2')
+'''
 
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
@@ -157,10 +155,11 @@ def arvinclub():
     for post in posts:
         appender(post, 'arvinclub')
 
-def hiveleak():
+def hive():
     stdlog('parser: ' + 'hiveleak')
+    # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     parser = '''
-    grep 'bookmark' source/hiveleak-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hive-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -245,7 +244,7 @@ def revil():
 def ragnarok():
     stdlog('parser: ' + 'ragnarok')
     parser = '''
-    grep 'var post_links =' source/ragnarok-*.html | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
+    grep 'var post_links =' source/ragnarok-*.html --no-filename | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -257,7 +256,7 @@ def conti():
     stdlog('parser: ' + 'conti')
     # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'newsList' source/conti-continewsnv5ot*.html | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
+    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -389,7 +388,7 @@ def darkleakmarket():
 def blackmatter():
     stdlog('parser: ' + 'blackmatter')
     parser = '''
-    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html | cut -d '"' -f4 | sort -u
+    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html --no-filename | cut -d '"' -f4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -422,7 +421,7 @@ def groove():
 def bonacigroup():
     stdlog('parser: ' + 'bonacigroup')
     parser = '''
-    grep 'h5' source/bonacigroup-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep 'h5' source/bonacigroup-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -433,7 +432,7 @@ def bonacigroup():
 def karma():
     stdlog('parser: ' + 'karma')
     parser = '''
-    grep "h2" source/karma-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed '/^$/d'
+    grep "h2" source/karma-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -510,7 +509,7 @@ def five4bb47h():
 def midas():
     stdlog('parser: ' + 'midas')
     parser = '''
-    grep "/h3" source/midas-*.html | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
+    grep "/h3" source/midas-*.html --no-filename | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -532,7 +531,7 @@ def snatch():
 def robinhood():
     stdlog('parser: ' + 'robinhood')
     parser = '''
-    grep '<h2 class="title"' source/robinhood-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep '<h2 class="title"' source/robinhood-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -561,3 +560,47 @@ def rook():
         errlog('rook: ' + 'parsing fail')
     for post in posts:
         appender(post, 'rook')
+
+def cryp70n1c0d3():
+    stdlog('parser: ' + 'cryp70n1c0d3')
+    parser = '''
+    grep 'class="selection">' source/cryp70n1c0d3-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/\$/d' -e '/OPEN/d' -e '/BID/d' -e '/CLOSED/d' -e '/SALE/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cryp70n1c0d3: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cryp70n1c0d3')
+
+def blackshadow():
+    stdlog('parser: ' + 'blackshadow')
+    parser = '''
+    egrep -o '_self">([[:alnum:]]| |\.)+</a>'  source/blackshadow-blackshadow.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Donate/d' -e '/Home/d' -e '/Contact US/d' -e '/Telegram channel/d' | sort -u
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blackshadow: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'blackshadow')
+
+def mosesstaff():
+    stdlog('parser: ' + 'mosesstaff')
+    parser = '''
+    grep '<h2 class="entry-title">' source/moses-moses-staff.html -A 3 --no-filename | grep '</a>' | sed 's/^ *//g' | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mosesstaff: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mosesstaff')
+
+def alphav():
+    stdlog('parser: ' + 'alphav')
+    parser = '''
+    egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('alphav: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'alphav')

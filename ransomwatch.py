@@ -257,6 +257,11 @@ if args.mode == 'parse':
     parsers.robinhood()
     parsers.marketo()
     parsers.rook()
+    parsers.cryp70n1c0d3()
+    parsers.hive()
+    parsers.blackshadow()
+    parsers.mosesstaff()
+    parsers.alphav()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

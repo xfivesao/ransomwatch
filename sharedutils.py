@@ -130,8 +130,8 @@ def socksfetcher(url):
         except AttributeError as ae:
             errlog('sharedutils: ' + 'socks response error - ' + str(ae))
             return None
-    except requests.exceptions.Timeout as ret:
-        errlog('sharedutils: ' + 'socks request timeout - ' + str(ret))
+    except requests.exceptions.Timeout:
+        errlog('geckodriver: ' + 'socks request timed out!')
         return None
     except requests.exceptions.ConnectionError as rec:
         # catch SOCKSHTTPConnectionPool Host unreachable
@@ -153,7 +153,7 @@ def siteschema(location):
         'title': None,
         'version': getonionversion(location)[0],
         'slug': location,
-        'available': None,
+        'available': False,
         'updated': None,
         'lastscrape': '2021-05-01 00:00:00.000000'
     }
