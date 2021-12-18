@@ -4,6 +4,18 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-18 | `SSMSJUSTICE.COM FILES PART8 - 192.168.1.250\D\DOCUMENTS\CIVIL\Environmental Justice...Hern` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `MTMRECOGNITION.COM FILES PART3 - 10.0.12.108, 10.0.0.40 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `DACOLL.CO.UK FILES PART12 - 172.21.240.103\user3\ACCOUNTS\Shared Folders\MAINT...SL PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `SLIMSTOCK.COM FILES PART7 - 10.30.11.194, 10.30.12.35, 10.30.15.2, 10.30.16.2, 10.31.1.100` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `QUANTUMGROUP.COM FILES PART6 - QUANTUM FTPLP03V\Quantum FTP\ais\NSCBatch PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `MCH-GROUP.COM FILES PART5 - 172.16.60.11\ACAD_ZEI\Infrastruktur\MZK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `EDAN.COM FILES PART4 - 192.168.2.6\E$\人力资源组文件\个人\唐羽,李少静 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `BOLTONUSA.COM FILES PART9 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\client files\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `ABSOLUTERESULTS.COM FILES PART9 - E\FTP Directory\DealerTrack Archive\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `STRATISVISUALS.COM FILES PART12 - C\FTP\stratis\Dollar General Frito Lay Strips -Ready To ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `SWIRESPO.COM FILES PART4 - Personal Folders-P167, P171, P174, P177, WAFDXB.crewing@swire.c` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-18 | `ENPRECIS.COM FILES PART2 - 10.50.1.4, 10.50.21.4, 10.50.31.4, 10.51.21.7, 10.51.122.6, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-18 | `Strataworldwide.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-18 | `RCMS` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-18 | `Electron Csillag` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
@@ -92,15 +104,3 @@ _last `100` posts_
 | 2021-12-14 | `hsisensing.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-13 | `TALIS GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-13 | `Chantelle Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-13 | `Nordic Choice Hotels` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-13 | `MEETH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-13 | `DOMICIM Agence` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-13 | `Comerio Ercole spa` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-13 | `tt-network.dk` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-12 | `luzeirosfortale...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-12 | `Social Enterprise (SEC)` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2021-12-11 | `rbauction.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-11 | `masselin.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-10 | `KOBE BUSSAN - HACKED AND MORE THEN 500Gb DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-10 | `Medical Pharmacies` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-12-10 | `MTMRECOGNITION.COM FILES PART1 - mbox PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
