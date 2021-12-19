@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1639936835" rel="stylesheet">
+    <link href="/blog.css?v=1639940544" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1639936835"></script>
+    <script src="/script.js?v=1639940544"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,162 @@
 
         <script>
 
+            var proof_img_block40 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof40(){
+                if(showed40 === 0){
+                    showed40 = 1;
+                    $("#target_40 .proof_block").html(proof_img_block40).slideDown(400);
+                }else{
+                    showed40 = 0;
+                    $("#target_40 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons40(){
+                if(showed_d_buttons40 === 0){
+                    showed_d_buttons40 = 1;
+                    $("#target_40 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons40 = 0;
+                    $("#target_40 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed40 = 0;
+            var showed_d_buttons40 = 0;
+            var HAPPYSEC40 = 1259856;
+            var t_sec40 = HAPPYSEC40;
+
+            var time40;
+            var intervalId40=0;
+
+
+            $(document).ready(function () {
+
+                intervalId40 = setInterval(function (){
+                    timerDecrement40();
+                }, 1000);
+            });
+
+
+            function timerDecrement40() {
+                time40 = $('#target_40 span.timer');
+
+                if(t_sec40 < 1){
+                    t_sec40 = 0;
+                    newTime = t_sec40 ;
+                }else{
+                    newTime = t_sec40 - 1;
+                }
+
+
+                t_sec40 = newTime;
+
+                var t_min = t_sec40 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec40 % 60)+ '</b> ';
+
+                time40.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC40 > 0 || newTime < 1){
+
+                    time40.html('');
+                    $("#target_40 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_40 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_40 .btn2").addClass("redbg");
+                    $("#target_40 .arrow-8").addClass("r8");
+                    $("#target_40 .perc").html("100%");
+
+                    clearInterval(intervalId40);
+                    GetDownloadLink(40,$("#target_40 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_40">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Kangean Energy Indonesia    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Kangean Energy Indonesia (KEI) is an oil and gas exploration and production company which was incorporated in Delaware. It is currently operating the Kangean Working Area in East Java in partnership with Special Task Force for Upstream Oil and Gas Business Activities (SKK Migas). KEI is jointly-managed by Mitsubishi Corporation, Japan Petroleum Exploration. (JAPEX), and PT Energi Mega Persada Tbk. (EMP). The technical, commercial, and financial expertise of Mitsubishi Corporation and JAPEX, together with the local expertise of EMP, will enhance the value of Kangean Working Area for all stakeholders, including the Government of Indonesia and local communities.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">409</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://kangean-energy.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 98 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+62 21 25504880</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/X12bF75av4/data_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block39 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +322,7 @@
 
             var showed39 = 0;
             var showed_d_buttons39 = 0;
-            var HAPPYSEC39 = 313165;
+            var HAPPYSEC39 = 309456;
             var t_sec39 = HAPPYSEC39;
 
             var time39;
@@ -322,7 +478,7 @@
 
             var showed37 = 0;
             var showed_d_buttons37 = 0;
-            var HAPPYSEC37 = 917965;
+            var HAPPYSEC37 = 914256;
             var t_sec37 = HAPPYSEC37;
 
             var time37;
@@ -478,7 +634,7 @@
 
             var showed36 = 0;
             var showed_d_buttons36 = 0;
-            var HAPPYSEC36 = 917965;
+            var HAPPYSEC36 = 914256;
             var t_sec36 = HAPPYSEC36;
 
             var time36;
@@ -634,7 +790,7 @@
 
             var showed35 = 0;
             var showed_d_buttons35 = 0;
-            var HAPPYSEC35 = 917965;
+            var HAPPYSEC35 = 914256;
             var t_sec35 = HAPPYSEC35;
 
             var time35;
@@ -790,7 +946,7 @@
 
             var showed33 = 0;
             var showed_d_buttons33 = 0;
-            var HAPPYSEC33 = -1501235;
+            var HAPPYSEC33 = -1504944;
             var t_sec33 = HAPPYSEC33;
 
             var time33;
@@ -988,7 +1144,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = -291635;
+            var HAPPYSEC32 = -295344;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -1144,7 +1300,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = -291635;
+            var HAPPYSEC31 = -295344;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -1300,7 +1456,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = -291635;
+            var HAPPYSEC30 = -295344;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -1456,7 +1612,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = -810035;
+            var HAPPYSEC29 = -813744;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -1612,7 +1768,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = -810035;
+            var HAPPYSEC28 = -813744;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -1768,7 +1924,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = -1242035;
+            var HAPPYSEC27 = -1245744;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1924,7 +2080,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -3834035;
+            var HAPPYSEC26 = -3837744;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -2132,7 +2288,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = -1242035;
+            var HAPPYSEC24 = -1245744;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -2310,7 +2466,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1760435;
+            var HAPPYSEC21 = -1764144;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -2538,7 +2694,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1760435;
+            var HAPPYSEC21 = -1764144;
             var t_sec21 = HAPPYSEC21;
 
             var time21;

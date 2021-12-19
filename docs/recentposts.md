@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-19 | `Kangean Energy Indonesia    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-12-19 | `Dental Health Products    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-12-18 | `SSMSJUSTICE.COM FILES PART8 - 192.168.1.250\D\DOCUMENTS\CIVIL\Environmental Justice...Hern` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-18 | `MTMRECOGNITION.COM FILES PART3 - 10.0.12.108, 10.0.0.40 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-14 | `Rossell Techsys` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-14 | `Amoria Bond` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-14 | `hsisensing.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-13 | `TALIS GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
