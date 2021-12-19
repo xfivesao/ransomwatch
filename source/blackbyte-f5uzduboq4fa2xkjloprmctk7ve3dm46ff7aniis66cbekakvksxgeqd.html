@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1639894784" rel="stylesheet">
+    <link href="/blog.css?v=1639897117" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1639894784"></script>
+    <script src="/script.js?v=1639897117"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,162 @@
 
         <script>
 
+            var proof_img_block39 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof39(){
+                if(showed39 === 0){
+                    showed39 = 1;
+                    $("#target_39 .proof_block").html(proof_img_block39).slideDown(400);
+                }else{
+                    showed39 = 0;
+                    $("#target_39 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons39(){
+                if(showed_d_buttons39 === 0){
+                    showed_d_buttons39 = 1;
+                    $("#target_39 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons39 = 0;
+                    $("#target_39 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed39 = 0;
+            var showed_d_buttons39 = 0;
+            var HAPPYSEC39 = 352883;
+            var t_sec39 = HAPPYSEC39;
+
+            var time39;
+            var intervalId39=0;
+
+
+            $(document).ready(function () {
+
+                intervalId39 = setInterval(function (){
+                    timerDecrement39();
+                }, 1000);
+            });
+
+
+            function timerDecrement39() {
+                time39 = $('#target_39 span.timer');
+
+                if(t_sec39 < 1){
+                    t_sec39 = 0;
+                    newTime = t_sec39 ;
+                }else{
+                    newTime = t_sec39 - 1;
+                }
+
+
+                t_sec39 = newTime;
+
+                var t_min = t_sec39 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec39 % 60)+ '</b> ';
+
+                time39.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC39 > 0 || newTime < 1){
+
+                    time39.html('');
+                    $("#target_39 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_39 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_39 .btn2").addClass("redbg");
+                    $("#target_39 .arrow-8").addClass("r8");
+                    $("#target_39 .perc").html("100%");
+
+                    clearInterval(intervalId39);
+                    GetDownloadLink(39,$("#target_39 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_39">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Dental Health Products    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">?</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://dhpionline.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ ? </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>800.626.2163</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/x6u9o0Y6v4/Accounting_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block37 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +322,7 @@
 
             var showed37 = 0;
             var showed_d_buttons37 = 0;
-            var HAPPYSEC37 = 960016;
+            var HAPPYSEC37 = 957683;
             var t_sec37 = HAPPYSEC37;
 
             var time37;
@@ -322,7 +478,7 @@
 
             var showed36 = 0;
             var showed_d_buttons36 = 0;
-            var HAPPYSEC36 = 960016;
+            var HAPPYSEC36 = 957683;
             var t_sec36 = HAPPYSEC36;
 
             var time36;
@@ -478,7 +634,7 @@
 
             var showed35 = 0;
             var showed_d_buttons35 = 0;
-            var HAPPYSEC35 = 960016;
+            var HAPPYSEC35 = 957683;
             var t_sec35 = HAPPYSEC35;
 
             var time35;
@@ -634,7 +790,7 @@
 
             var showed33 = 0;
             var showed_d_buttons33 = 0;
-            var HAPPYSEC33 = -1459184;
+            var HAPPYSEC33 = -1461517;
             var t_sec33 = HAPPYSEC33;
 
             var time33;
@@ -832,7 +988,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = -249584;
+            var HAPPYSEC32 = -251917;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -988,7 +1144,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = -249584;
+            var HAPPYSEC31 = -251917;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -1144,7 +1300,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = -249584;
+            var HAPPYSEC30 = -251917;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -1300,7 +1456,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = -767984;
+            var HAPPYSEC29 = -770317;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -1456,7 +1612,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = -767984;
+            var HAPPYSEC28 = -770317;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -1612,7 +1768,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = -1199984;
+            var HAPPYSEC27 = -1202317;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1768,7 +1924,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -3791984;
+            var HAPPYSEC26 = -3794317;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -1976,7 +2132,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = -1199984;
+            var HAPPYSEC24 = -1202317;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -2154,7 +2310,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1718384;
+            var HAPPYSEC21 = -1720717;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -2382,7 +2538,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1718384;
+            var HAPPYSEC21 = -1720717;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
