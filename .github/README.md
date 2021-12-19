@@ -6,13 +6,35 @@
 </h1>
 </div>
 
+<p align="center">
+  <a href="https://sonarcloud.io/dashboard?id=thetanz_ransomwatch">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=thetanz_ransomwatch&metric=alert_status" alt="ransomwatch sonarcloud analysis" />
+  </a>
+  <a href="https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml">
+    <img src="https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml/badge.svg" alt="ransomwatch pylint analysis" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml">
+    <img src="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg" alt="ransomwatch engine" />
+  </a>
+  <a href="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml">
+    <img src="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml/badge.svg" alt="ransomwatch dockerimage builder" />
+  </a>
+  <a href="https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml">
+    <img src="https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg" alt="ransomwatch codeql analysis" />
+  </a>
+  <a href="https://github.com/thetanz/ransomwatch/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/thetanz/ransomwatch/actions/workflows/pages/pages-build-deployment/badge.svg" alt="ransomwatch docsify generator" />
+  </a>
+</p>
+
 an onionsite scraping framework with the intent of tracking ransomware groups
 
 running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
 
 _all artefacts, graphs and assets supporting [ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd) are dynamically generated_
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thetanz_ransomwatch&metric=alert_status)](https://sonarcloud.io/dashboard?id=thetanz_ransomwatch) [![ransomwatch](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml) [![ransomwatch-build/](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml) [![CodeQL](https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml) [![pylint](https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml) [![pages-build-deployment](https://github.com/thetanz/ransomwatch/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/pages/pages-build-deployment)
 
 missing a group ? try the [_issue template_](https://github.com/thetanz/ransomwatch/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
 
