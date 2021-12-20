@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-20 | `WOLSEY` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-20 | `Madix Inc` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-20 | `parkhotel.mk` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-20 | `The Briad Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-14 | `The Execu-Search Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-14 | `ABC Seamless` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-14 | `Kenall/Legrand` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2021-12-14 | `Rosendahl Design Group` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
