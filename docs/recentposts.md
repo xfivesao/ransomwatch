@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-21 | `Leuze` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-21 | `InTown Suites` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-21 | `leuzeusa.com` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-21 | `Tegravendas` | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-16 | `agrofair.nl` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-15 | `SSMSJUSTICE.COM FILES PART7 - 192.168.1.250\D\DOCUMENTS\CIVIL\Almahmodi, Hassan...Dutton, ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `SLIMSTOCK.COM FILES PART6 - 10.30.12.34, 10.30.14.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `MTMRECOGNITION.COM  FILES PART2 - 10.0.4.228 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
