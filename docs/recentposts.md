@@ -4,6 +4,13 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-21 | `InTown Suites` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-12-21 | `leuzeusa.com` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-12-21 | `Tegravendas` | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) |
+| 2021-12-21 | `Eisai Co., Ltd.` | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) |
+| 2021-12-21 | `LIGHT CONVERSION` | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) |
+| 2021-12-21 | `CristÃ¡lia - IndÃºstria FarmacÃªutica` | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) |
+| 2021-12-21 | `McMenamins` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-21 | `SPERONI SPA` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-21 | `hajery.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-21 | `www.hajery.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -97,10 +104,3 @@ _last `100` posts_
 | 2021-12-15 | `SSMSJUSTICE.COM FILES PART7 - 192.168.1.250\D\DOCUMENTS\CIVIL\Almahmodi, Hassan...Dutton, ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `SLIMSTOCK.COM FILES PART6 - 10.30.12.34, 10.30.14.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `MTMRECOGNITION.COM  FILES PART2 - 10.0.4.228 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `DACOLL.CO.UK FILES PART11 - 172.21.240.103\user3\ACCOUNTS\Shared Folders\Access...KF quart` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `MCH-GROUP.COM FILES PART4 - 173.16.60.11\ACAD_ZEI!MesseCad...User PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `QUANTUMGROUP.COM FILES PART5 - QUANTUM FTPLP03V\Quantum FTP\ais\ATT Invoice...Test PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `EDAN.COM FILES PART3 - 192.168.2.6\E$\国际营销系统共享文件,跟单组文件 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `TONLYELE.COM FILES PART7 - 10.84.130.219\E$\FTP __ 10.84.130.123\caiwugx_test PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `BOLTONUSA.COM FILES PART8 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\other PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `ABSOLUTERESULTS.COM FILES PART8 - E\FTP Directory\FTPARCC...PrinterFilesPurged PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
