@@ -365,8 +365,9 @@ def lockdata():
     
 def blacktor():
     stdlog('parser: ' + 'blacktor')
+    # sed -n '/tr/{n;p;}' source/bl@cktor-*.html | grep 'td' | cut -d '>' -f2 | cut -d '<' -f1
     parser = '''
-    sed -n '/tr/{n;p;}' source/bl@cktor-*.html | grep 'td' | cut -d '>' -f2 | cut -d '<' -f1
+    grep '>Details</a></td>' source/blacktor-*.html --no-filename | cut -f2 -d '"' | cut -f 2- -d- | cut -f 1 -d .
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
