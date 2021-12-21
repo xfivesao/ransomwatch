@@ -144,6 +144,8 @@ _`parser needs to be built`_
 
 _parsing : `enabled`_
 
+_`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/index.php`_
+
 - https://www.zdnet.com/article/lorenz-ransomware-attack-victims-can-now-retrieve-their-files-for-free-with-this-decryption-tool
 
 - https://www.cybertalk.org/the-worst-outcomes-lorenz-ransomware-a-new-double-extortion-strategy
@@ -194,6 +196,11 @@ _parsing : `enabled`_
 | LockBit BLOG | True | 3 | 02:20 21/12/2021 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
 | LockBit Anti-DDos protection | True | 3 | 02:21 21/12/2021 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
 | LockBit BLOG | True | 3 | 02:21 21/12/2021 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
+| none | False | 3 | 00:00 01/05/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
+| none | False | 3 | 00:00 01/05/2021 | `oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
+| none | False | 3 | 00:00 01/05/2021 | `lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
+| none | False | 0 | 00:00 01/05/2021 | `lockbitapt.uz` |
+| none | False | 3 | 00:00 01/05/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
 
 | post | date |
 |---|---|
@@ -1053,7 +1060,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| HOME | CL0P^_- LEAKS | True | 3 | 02:23 21/12/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| HOME - CL0P^_- LEAKS | True | 3 | 02:23 21/12/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 
 | post | date |
 |---|---|
@@ -2576,7 +2583,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Утечки | Groove | False | 3 | 10:50 30/10/2021 | `ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
+| Утечки - Groove | False | 3 | 10:50 30/10/2021 | `ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
 
 | post | date |
 |---|---|
@@ -2992,7 +2999,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Log in | RAMP | True | 3 | 02:27 21/12/2021 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
+| Log in - RAMP | True | 3 | 02:27 21/12/2021 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |
 
 | post | date |
@@ -3054,6 +3061,8 @@ _parsing : `disabled`_
 ## snatch
 
 _parsing : `enabled`_
+
+- https://t.me/snatch_news
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3153,6 +3162,10 @@ _parsing : `enabled`_
 _`not a ransomware group`_
 
 > fetching this site requires a headless browser for javascript processing
+
+- https://twitter.com/moses_staff_se
+
+- https://t.me/moses_staff_links
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3263,7 +3276,7 @@ _`not a ransomware group`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| |*| CRYP70N1C0D3 Team |*| | True | 3 | 02:31 21/12/2021 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
+| -*- CRYP70N1C0D3 Team -*- | True | 3 | 02:31 21/12/2021 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
 
 | post | date |
 |---|---|
