@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-21 | `lipinskilogging... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-21 | `dcashpro.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-21 | `piolax.co.th ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-21 | `urbandevelop.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-21 | `reliancenj.com - HACKED AND MORE THEN 200GB DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-20 | `CASINO WINNAVEGAS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-20 | `Skyxe Saskatoon Airport` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2021-12-15 | `ENPRECIS.COM FILES PART1 - mails PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `Ajuntament de Castelló` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2021-12-15 | `Hellmann Worldwide Logistics ` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2021-12-15 | `boxmarche.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-15 | `vipsmotel.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-15 | `DEWEtech` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-15 | `Company Group LDLC` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
