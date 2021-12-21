@@ -151,6 +151,9 @@ def scraper():
                     with open('groups.json', 'w', encoding='utf-8') as groupsfile:
                         json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
                         groupsfile.close()
+                        dbglog('ransomwatch: ' + 'groups.json updated')
+                else:
+                    errlog('ransomwatch: ' + 'task on ' + group['name'] + ' failed to return a response')
             else:
                 errlog('ransomwatch: ' + 'scrape failed - ' + host['slug'] + ' is not a v3 onionsite')
 
