@@ -1111,7 +1111,7 @@
     {
         "name": "atomsilo",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
@@ -1124,6 +1124,15 @@
                 "available": false,
                 "updated": "2021-12-17 05:02:38.125479",
                 "lastscrape": "2021-12-17 05:02:38.125384"
+            },
+            {
+                "fqdn": "l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion",
+                "title": "AtomSilo",
+                "version": 3,
+                "slug": "http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion/list.html",
+                "available": true,
+                "updated": "2021-12-22 08:28:40.877174",
+                "lastscrape": "2021-12-22 08:28:40.877136"
             }
         ],
         "profile": []
