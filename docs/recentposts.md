@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-21 | `SPERONI SPA` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2021-12-21 | `hajery.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-21 | `www.hajery.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-21 | `maibroker.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-21 | `www.maibroker.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-15 | `TONLYELE.COM FILES PART7 - 10.84.130.219\E$\FTP __ 10.84.130.123\caiwugx_test PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `BOLTONUSA.COM FILES PART8 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\other PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `ABSOLUTERESULTS.COM FILES PART8 - E\FTP Directory\FTPARCC...PrinterFilesPurged PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `STRATISVISUALS.COM FILES PART11 - C\FTP\stratis\Ready To PRINT-CT...Wakefern Weekly PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-15 | `SWIRESPO.COM  FILES PART3 - PST\210421AndBefore...Personal Folders-P165 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
