@@ -153,7 +153,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/index.php",
         "locations": [
             {
                 "fqdn": "lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
@@ -231,6 +231,51 @@
                 "available": true,
                 "updated": "2021-12-21 02:21:42.064846",
                 "lastscrape": "2021-12-21 02:21:42.064824"
+            },
+            {
+                "fqdn": "yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "lockbitapt.uz",
+                "title": null,
+                "version": 0,
+                "slug": "http://lockbitapt.uz",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
@@ -1737,7 +1782,9 @@
                 "lastscrape": "2021-12-21 01:39:14.833346"
             }
         ],
-        "profile": []
+        "profile": [
+            "https://t.me/snatch_news"
+        ]
     },
     {
         "name": "midas",
@@ -1826,7 +1873,10 @@
                 "lastscrape": "2021-12-21 02:29:52.571066"
             }
         ],
-        "profile": []
+        "profile": [
+            "https://twitter.com/moses_staff_se",
+            "https://t.me/moses_staff_links"
+        ]
     },
     {
         "name": "cooming",
