@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 '''
 screenshot up hosts using selenium w/firefox webdriver
 '''
