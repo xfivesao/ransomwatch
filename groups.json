@@ -1026,7 +1026,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion",
         "locations": [
             {
                 "fqdn": "blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion",
@@ -2101,6 +2101,26 @@
                 "available": true,
                 "updated": "2021-12-22 00:23:03.723832",
                 "lastscrape": "2021-12-22 00:23:03.723819"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "holyghost",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
