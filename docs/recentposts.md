@@ -4,6 +4,24 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-23 | `Biotique` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-12-23 | `Sodiba` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-12-23 | `www.hillsdalefurniture.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
+| 2021-12-23 | `Bay and Bay Transportation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-23 | `JCWHITE.COM FILES PART1 - 10.1.90.172, jessica.manley@jcwhite.com, PC421, PC422, PC434 PUB` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `DUTTONFIRM.COM FILES PART1 - 10.1.5.92, 10.1.5.93, 10.1.5.99, 10.1.5.102, 10.1.5.114 PUBLI` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `SLIMSTOCK.COM FILES PART8 - 10.50.10.98, 10.50.10.162, 10.64.10.12, 10.64.10.13, 10.64.10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `MTMRECOGNITION.COM FILES PART4 - 10.0.1.18\ART, Assembly Blue, ce-files, credit PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `SSMSJUSTICE.COM FILES PART9 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Discovery\D` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `QUANTUMGROUP.COM FILES PART7 - QUANTUM FTPLP03V\Quantum FTP\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `EDAN.COM FILES PART5 - 192.168.2.6\E$\人力资源组文件\个人\2.李丹, 杨澜 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `BOLTONUSA.COM FILES PART10 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\client files\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `ABSOLUTERESULTS.COM FILES PART10 - E\FTP Directory\DealerTrack Archive\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `STRATISVISUALS.COM FILES PART13 - C\FTP\stratis\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `SWIRESPO.COM FILES PART5 - PST\WAFDXB.crewing@swire.com.sg-4, WAFDXB.crewing@swire.com.sg-` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `ENPRECIS.COM FILES PART3 - 10.50.11.4\Developers_VX, Public PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-23 | `burgsimpson.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-23 | `Turner Enterprises, Inc. ` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2021-12-22 | `atskorea.co.kr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-22 | `pestbusters.com... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-22 | `Holiday Builders` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -86,21 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `Grupo5` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `MediaMarkt` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `GryphTech` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `Raveco` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `iima.ac.in` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `hislopcollege.ac.in` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `oppodigital.in` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `nals.in` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `albatross.co.in` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `suriyanar.com` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `shinyoko-porno.com` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `toxicsites.us` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `antistatik-esd-cozumler.com.tr` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `paknavy.gov.pk` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `vaja.ir` | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) |
-| 2021-12-18 | `Rossell Techsys(Data will be given tomorrow)` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
-| 2021-12-18 | `KMG Prestige, Inc. (Data will be given tomorrow)` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
-| 2021-12-18 | `cunninghamgolfc... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-18 | `baa.legal ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-18 | `skinnertrans.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-18 | `KMG Prestige, Inc. ` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
