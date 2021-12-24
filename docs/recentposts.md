@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-24 | `aria-label=Google>` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-23 | `Biotique` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-23 | `Sodiba` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-23 | `www.hillsdalefurniture.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `APR Supply` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `Grupo5` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `MediaMarkt` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `GryphTech` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
