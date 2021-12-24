@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-24 | `lozzaspa.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-24 | `sintesiautomoti... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-24 | `cbjblawfirm.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-24 | `aria-label=Google>` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-23 | `Biotique` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `Aria Systems` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `WAMGROUP` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-18 | `XacBank` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `APR Supply` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `Grupo5` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
