@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-25 | `smiimaging.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-25 | `JCWHITE.COM FILES PART2 - PC420, PC427 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `SLIMSTOCK.COM FILES PART9 - 10.40.13.67, 10.40.13.99, 10.40.13.195, 10.40.13.226, 10.40.14` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `MTMRECOGNITION.COM FILES PART5 - 10.0.1.18\HOLDING TANK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `Unit 8200` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `3D imagery of israel` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `This is just the beginning` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `Shirbit Insurance Company` | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |
