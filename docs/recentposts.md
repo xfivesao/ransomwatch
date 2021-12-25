@@ -4,6 +4,20 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-25 | `JCWHITE.COM FILES PART2 - PC420, PC427 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `SLIMSTOCK.COM FILES PART9 - 10.40.13.67, 10.40.13.99, 10.40.13.195, 10.40.13.226, 10.40.14` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `MTMRECOGNITION.COM FILES PART5 - 10.0.1.18\HOLDING TANK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `SSMSJUSTICE.COM FILES PART10 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Discovery\` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `QUANTUMGROUP.COM FILES PART8 - QUANTUM FTPLP03V\Quantum FTP\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `MCH-GROUP.COM FILES PART7 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\ PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `EDAN.COM FILES PART6 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `DUTTONFIRM.COM FILES  PART2 - 10.1.5.74, 10.1.5.78, 10.1.5.82, 10.1.5.88 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `BOLTONUSA.COM FILES PART11 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\client files\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `ABSOLUTERESULTS.COM FILES PART11 - E\FTP Directory\DealerTrack Archive\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `STRATISVISUALS.COM FILES PART14 - mccoyprinting\10.0.0.97 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `SWIRESPO.COM FILES PART6 - 10.5.2.10, 10.5.2.33, 10.5.2.39, 172.16.10.165, insur PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `ENPRECIS.COM FILES PART4 - 10.50.11.4\Developers\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-25 | `riverhead.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-25 | `cgm.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-25 | `MAX International Converters` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-12-25 | `Polysciences, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -90,17 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `3D imagery of israel` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `This is just the beginning` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `Shirbit Insurance Company` | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |
-| 2021-12-18 | `K.L.S Capital` | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |
-| 2021-12-18 | `CyberServe Company` | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |
-| 2021-12-18 | `Altus Group` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `Mega Vision` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `HI FLY` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `IBC24 News` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `SS Design` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `GURTEEN` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `Net Ninjas` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `W.H. Stovall` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `Ospray Video` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `GK.NO` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `KBM UK` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-18 | `EMCO` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
