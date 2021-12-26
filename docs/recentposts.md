@@ -4,6 +4,14 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-26 | `SVP Groupe` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `Economos properties` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `The Technord industrial group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `iGuzzini Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `Charles Kendall` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `Arbor Contract Carpet Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `Metamorph Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-26 | `RKPT` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-25 | `smiimaging.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-25 | `JCWHITE.COM FILES PART2 - PC420, PC427 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `SLIMSTOCK.COM FILES PART9 - 10.40.13.67, 10.40.13.99, 10.40.13.195, 10.40.13.226, 10.40.14` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -96,11 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `Israel MOD and Benny Gantz` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `First part of Epsilor data leaked` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `Ehud Leviathan Engineering` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `David Engineers` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `H.G.M Engineering` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `AHEC Tax Solutions` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `V-ON` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `MATITIAHU BRUCHIM Law office` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `Unit 8200` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `3D imagery of israel` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `This is just the beginning` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
