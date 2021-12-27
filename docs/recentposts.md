@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-27 | `New Corp` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-12-26 | `TUI UK` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-26 | `LAVA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-26 | `Data breach summary` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `Electron Csillag` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `Meshulam` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
 | 2021-12-18 | `DOSIK Technology` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `Epsilor Company` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
