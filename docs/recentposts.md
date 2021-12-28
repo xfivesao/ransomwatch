@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-28 | `Metro.Us` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-28 | `TRIGYN 2 0 - Data Leak` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-28 | `Evalueserve` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-28 | `DENSO` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `STRATISVISUALS.COM FILES PART12 - C\FTP\stratis\Dollar General Frito Lay Strips -Ready To ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-18 | `SWIRESPO.COM FILES PART4 - Personal Folders-P167, P171, P174, P177, WAFDXB.crewing@swire.c` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-18 | `ENPRECIS.COM FILES PART2 - 10.50.1.4, 10.50.21.4, 10.50.31.4, 10.51.21.7, 10.51.122.6, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `Strataworldwide.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
