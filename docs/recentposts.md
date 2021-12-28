@@ -4,6 +4,19 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-28 | `Mount Franklin Foods, LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-28 | `JCWHITE.COM FILES PART3 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `SLIMSTOCK.COM FILES PART10 - 10.40.11.98, 10.40.11.99, 10.40.11.130, 10.40.12.2, 10.40.12.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `MTMRECOGNITION.COM FILES PART6 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `SSMSJUSTICE.COM FILES PART11 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Investigat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `QUANTUMGROUP.COM FILES PART9 - QUANTUM FTPLP03V\QuantumGroup, Restore, Serv-U Logs, System` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `MCH-GROUP.COM FILES PART8 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\Standfot` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `EDAN.COM FILES PART7 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `DUTTONFIRM.COM FILES PART3 - 10.1.5.41, 10.1.5.84, 10.1.5.89 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `BOLTONUSA.COM FILES PART12 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT...User PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `ABSOLUTERESULTS.COM FILES PART12 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `SWIRESPO.COM FILES PART7 - 172.16.10.166\$E PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-28 | `ENPRECIS.COM FILES PART5 - 10.50.11.4\Developers\Packages\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `Metro.Us` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2021-12-28 | `TRIGYN 2 0 - Data Leak` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-28 | `Evalueserve` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
@@ -91,16 +104,3 @@ _last `100` posts_
 | 2021-12-20 | `parkhotel.mk` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-20 | `The Briad Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-19 | `Kangean Energy Indonesia    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-12-19 | `Dental Health Products    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-12-18 | `SSMSJUSTICE.COM FILES PART8 - 192.168.1.250\D\DOCUMENTS\CIVIL\Environmental Justice...Hern` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `MTMRECOGNITION.COM FILES PART3 - 10.0.12.108, 10.0.0.40 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `DACOLL.CO.UK FILES PART12 - 172.21.240.103\user3\ACCOUNTS\Shared Folders\MAINT...SL PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `SLIMSTOCK.COM FILES PART7 - 10.30.11.194, 10.30.12.35, 10.30.15.2, 10.30.16.2, 10.31.1.100` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `QUANTUMGROUP.COM FILES PART6 - QUANTUM FTPLP03V\Quantum FTP\ais\NSCBatch PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `MCH-GROUP.COM FILES PART5 - 172.16.60.11\ACAD_ZEI\Infrastruktur\MZK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `EDAN.COM FILES PART4 - 192.168.2.6\E$\人力资源组文件\个人\唐羽,李少静 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `BOLTONUSA.COM FILES PART9 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\client files\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `ABSOLUTERESULTS.COM FILES PART9 - E\FTP Directory\DealerTrack Archive\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `STRATISVISUALS.COM FILES PART12 - C\FTP\stratis\Dollar General Frito Lay Strips -Ready To ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `SWIRESPO.COM FILES PART4 - Personal Folders-P167, P171, P174, P177, WAFDXB.crewing@swire.c` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-18 | `ENPRECIS.COM FILES PART2 - 10.50.1.4, 10.50.21.4, 10.50.31.4, 10.51.21.7, 10.51.122.6, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
