@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-28 | `Evalueserve` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
+| 2021-12-28 | `DENSO` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-27 | `Bernd Siegmund GmbH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-27 | `New Corp` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-12-26 | `TUI UK` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-18 | `ENPRECIS.COM FILES PART2 - 10.50.1.4, 10.50.21.4, 10.50.31.4, 10.51.21.7, 10.51.122.6, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-18 | `Strataworldwide.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-18 | `RCMS` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-18 | `Electron Csillag` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
-| 2021-12-18 | `Meshulam` | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |
