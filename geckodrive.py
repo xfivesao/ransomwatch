@@ -55,6 +55,9 @@ def main(webpage):
         sleeptz = 5
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
+        if 'alphvmmm27o3' in webpage:
+            stdlog('geckodriver: ' + 'site hardcoded to allow additional 20s rendering time')
+            time.sleep(20)
         #if 'lockbitapt' in webpage:
         #    stdlog('geckodriver: ' + 'special detected, waiting for captcha')
         #    driver.add_cookie({"name": "ddosproteck", "value": "lol"})
