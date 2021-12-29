@@ -599,8 +599,9 @@ def mosesstaff():
 def alphav():
     stdlog('parser: ' + 'alphav')
     # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
     parser = '''
-    grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
+    jq -r '.items[].title' source/alphav-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

@@ -2039,17 +2039,17 @@
         "captcha": false,
         "parser": true,
         "geckodriver": false,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": "aka blackcat",
         "locations": [
             {
                 "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
-                "title": " ",
+                "title": null,
                 "version": 3,
-                "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
+                "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/0",
                 "available": true,
-                "updated": "2021-12-30 09:57:02.358244",
-                "lastscrape": "2021-12-30 09:57:02.358233"
+                "updated": "2021-12-30 10:37:09.929884",
+                "lastscrape": "2021-12-30 10:37:09.929867"
             },
             {
                 "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
