@@ -37,7 +37,6 @@ def dbglog(msg):
 def errlog(msg):
     '''standard error logging'''
     logging.error(msg)
-    logging.error(msg)
 
 def honk(msg):
     '''critical error logging with termination'''
