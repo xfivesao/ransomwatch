@@ -276,6 +276,15 @@
                 "available": true,
                 "updated": "2021-12-30 09:43:35.951718",
                 "lastscrape": "2021-12-30 09:43:35.951704"
+            },
+            {
+                "fqdn": "lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
