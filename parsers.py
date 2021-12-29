@@ -321,8 +321,9 @@ def ransomexx():
 
 def cuba():
     stdlog('parser: ' + 'cuba')
+    # grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
     parser = '''
-    grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
+    grep '<a href="http://' source/cuba-cuba4i* | cut -d '/' -f 4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
