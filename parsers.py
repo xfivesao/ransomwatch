@@ -444,7 +444,7 @@ def karma():
 def blackbyte():
     stdlog('parser: ' + 'blackbyte')
     parser = '''
-    cat source/blackbyte-*.html | grep "h1" | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
+    grep "h1" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -455,7 +455,7 @@ def blackbyte():
 def spook():
     stdlog('parser: ' + 'spook')
     parser = '''
-    cat source/spook-*.html | grep 'h2 class' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
+    grep 'h2 class' source/spook-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -466,7 +466,7 @@ def spook():
 def quantum():
     stdlog('parser: ' + 'quantum')
     parser = '''
-    cat source/quantum-*.html | awk '/h2/{getline; print}' | grep -v '</a>' | sed 's/^ *//g'
+    awk '/h2/{getline; print}' source/quantum-*.html | sed -e 's/^ *//g' -e '/<\/a>/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
