@@ -43,8 +43,6 @@ curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
 
-#### _[virustotal/ransomwatch](https://www.virustotal.com/graph/embed/g75a36964bca04a668232875879a6417649d214d3dc7e4ae6a27b7465b1c15872)_
-
 ## technicals
 
 [torproxy](https://github.com/thetanz/gotham) from the [**thetanz/gotham** registry](https://github.com/thetanz/gotham/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/thetanz/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
@@ -62,6 +60,8 @@ _post indexing is done with a mix of `grep`, `awk` and `sed` within [parsers.py]
 [`posts.json`](https://github.com/thetanz/ransomwatch/blob/main/posts.json) contains parsed posts, noted by their discovery time and accountable group
 
 ## analysis tools
+
+all rendered source HTML is stored within [ransomwatch/tree/main/source](https://github.com/thetanz/ransomwatch/tree/main/source) - change tracking and revision history of these blogs is made possible with git
 
 ### [screenshotter.py](https://github.com/thetanz/ransomwatch/blob/main/screenshotter.py)
 
@@ -113,6 +113,4 @@ iterate files within the `source/` directory and contribute findings to `posts.j
 
 _ransomwatch is [licensed](https://github.com/thetanz/ransomwatch/blob/main/LICENSE) under [unlicense.org](https://unlicense.org)_
 
----
-
-[ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd)
+#### [virustotal/ransomwatch](https://www.virustotal.com/graph/embed/g75a36964bca04a668232875879a6417649d214d3dc7e4ae6a27b7465b1c15872) | [ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd)
