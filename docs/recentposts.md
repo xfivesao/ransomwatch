@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-30 | `rightsys.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `grupomakler.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `New City Commercial Corporation (NCCC)` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `van Eupen Logistik - vaneupen.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-25 | `QUANTUMGROUP.COM FILES PART8 - QUANTUM FTPLP03V\Quantum FTP\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `MCH-GROUP.COM FILES PART7 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\ PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `EDAN.COM FILES PART6 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `DUTTONFIRM.COM FILES  PART2 - 10.1.5.74, 10.1.5.78, 10.1.5.82, 10.1.5.88 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
