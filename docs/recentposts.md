@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-30 | `independentprin... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-30 | `https://www.lee... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `rightsys.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `grupomakler.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `New City Commercial Corporation (NCCC)` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-25 | `MTMRECOGNITION.COM FILES PART5 - 10.0.1.18\HOLDING TANK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `SSMSJUSTICE.COM FILES PART10 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Discovery\` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `QUANTUMGROUP.COM FILES PART8 - QUANTUM FTPLP03V\Quantum FTP\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `MCH-GROUP.COM FILES PART7 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\ PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `EDAN.COM FILES PART6 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
