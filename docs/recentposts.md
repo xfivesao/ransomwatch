@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-30 | `New City Commercial Corporation (NCCC)` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2021-12-30 | `van Eupen Logistik - vaneupen.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2021-12-30 | `Buffers USA - buffersusa.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2021-12-30 | `Hunter Douglas - hunterdouglas.com.au` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2021-12-30 | `Douglas Shaw & Associates - douglasshaw.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `ticketclub-it` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
 | 2021-12-30 | `bankjatim-co-id` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
 | 2021-12-30 | `salesplaypos-com` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
@@ -50,8 +55,14 @@ _last `100` posts_
 | 2021-12-30 | `Solaris Management Consultants - solaris-mci.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `Unified Technologies - unified-team.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `Uriach - www.uriach.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `Douglas Shaw &amp; Associates - douglasshaw.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `SNOP GROUP` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2021-12-30 | `squamish` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `sonomatic` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `ncmutuallife` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `lahebert` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `bakertilly` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `atlasdie` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2021-12-30 | `American Dream` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-28 | `Mount Franklin Foods, LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-28 | `JCWHITE.COM FILES PART3 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `SLIMSTOCK.COM FILES PART10 - 10.40.11.98, 10.40.11.99, 10.40.11.130, 10.40.12.2, 10.40.12.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -93,14 +104,3 @@ _last `100` posts_
 | 2021-12-25 | `EDAN.COM FILES PART6 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `DUTTONFIRM.COM FILES  PART2 - 10.1.5.74, 10.1.5.78, 10.1.5.82, 10.1.5.88 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `BOLTONUSA.COM FILES PART11 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\client files\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `ABSOLUTERESULTS.COM FILES PART11 - E\FTP Directory\DealerTrack Archive\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `STRATISVISUALS.COM FILES PART14 - mccoyprinting\10.0.0.97 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `SWIRESPO.COM FILES PART6 - 10.5.2.10, 10.5.2.33, 10.5.2.39, 172.16.10.165, insur PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `ENPRECIS.COM FILES PART4 - 10.50.11.4\Developers\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `riverhead.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-25 | `cgm.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-25 | `MAX International Converters` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-12-25 | `Polysciences, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-24 | `lozzaspa.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-24 | `sintesiautomoti... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-24 | `cbjblawfirm.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |

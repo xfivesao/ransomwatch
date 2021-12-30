@@ -21,8 +21,8 @@ _`marketplace - not a ransomware group`_
 | none | False | 2 | 00:00 01/05/2021 | `marketojbwagqnwx.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `g5sbltooh2okkcb2.onion` |
 | 404 Not Found | False | 3 | 08:05 04/10/2021 | `fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion` |
-| Marketo | True | 3 | 09:37 30/12/2021 | `jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` |
-| Marketo | True | 0 | 09:37 30/12/2021 | `marketo.cloud` |
+| Marketo | True | 3 | 01:36 30/12/2021 | `jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` |
+| Marketo | True | 0 | 01:36 30/12/2021 | `marketo.cloud` |
 
 | post | date |
 |---|---|
@@ -81,9 +81,11 @@ _parsing : `enabled`_
 
 - https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt
 
+- https://medium.com/s2wblog/case-analysis-of-suncrypt-ransomware-negotiation-and-bitcoin-transaction-43a2194ac0bc
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 09:37 30/12/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| News | True | 3 | 01:36 30/12/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `nbzzb6sa6xuura2z.onion` |
 
 | post | date |
@@ -118,7 +120,7 @@ _`parser needs to be built`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LV Blog | True | 3 | 09:38 30/12/2021 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
+| LV Blog | True | 3 | 01:37 30/12/2021 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
 | Start-maximized.com | False | 3 | 13:09 02/12/2021 | `4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
 
 | post | date |
@@ -152,7 +154,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Lorenz | True | 3 | 09:38 30/12/2021 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| Lorenz | True | 3 | 01:37 30/12/2021 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
 
 | post | date |
 |---|---|
@@ -189,19 +191,22 @@ _parsing : `enabled`_
 
 - https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html
 
+- https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit BLOG | True | 3 | 09:39 30/12/2021 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+| LockBit BLOG | True | 3 | 01:37 30/12/2021 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
 | LOCKFILE | False | 3 | 19:05 21/11/2021 | `zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` |
-| LockBit BLOG | True | 3 | 09:39 30/12/2021 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
-| LockBit BLOG | True | 3 | 09:40 30/12/2021 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
-| LockBit Anti-DDos protection | True | 3 | 09:40 30/12/2021 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
-| LockBit BLOG | True | 3 | 09:41 30/12/2021 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
-| LockBit BLOG | True | 3 | 09:41 30/12/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
-| LockBit BLOG | True | 3 | 09:42 30/12/2021 | `oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
-| LockBit BLOG | True | 3 | 09:42 30/12/2021 | `lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
-| LockBit BLOG | True | 0 | 09:43 30/12/2021 | `lockbitapt.uz` |
-| LockBit BLOG | True | 3 | 09:43 30/12/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
+| LockBit BLOG | True | 3 | 01:38 30/12/2021 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
+| LockBit BLOG | True | 3 | 01:38 30/12/2021 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
+| LockBit BLOG | True | 3 | 01:39 30/12/2021 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
+| LockBit BLOG | True | 3 | 01:39 30/12/2021 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
+| LockBit BLOG | True | 3 | 01:39 30/12/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
+| LockBit BLOG | True | 3 | 01:39 30/12/2021 | `oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
+| LockBit BLOG | True | 3 | 01:40 30/12/2021 | `lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
+| LockBit BLOG | False | 0 | 09:43 30/12/2021 | `lockbitapt.uz` |
+| LockBit BLOG | True | 3 | 01:41 30/12/2021 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
+| LockBit BLOG | True | 3 | 01:41 30/12/2021 | `lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion` |
 
 | post | date |
 |---|---|
@@ -678,7 +683,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Hive | True | 3 | 09:43 30/12/2021 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
+| Hive | True | 3 | 01:41 30/12/2021 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
 
 | post | date |
 |---|---|
@@ -689,9 +694,11 @@ _parsing : `enabled`_
 
 - http://t.me/arvin_club
 
+- https://sosintel.co.uk/a-special-investigation-exposing-a-ransomware-groups-clear-web-ip-and-their-duplicate-identities/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Arvin Club – آزادی برای اتصال | True | 3 | 09:44 30/12/2021 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
+| Arvin Club – آزادی برای اتصال | True | 3 | 01:41 30/12/2021 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
 
 | post | date |
 |---|---|
@@ -725,7 +732,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| AvosLocker Access Queue | True | 3 | 09:44 30/12/2021 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+| AvosLocker Access Queue | True | 3 | 01:41 30/12/2021 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
 
 | post | date |
 |---|---|
@@ -762,9 +769,11 @@ _`captcha prevents indexing`_
 
 - https://heimdalsecurity.com/blog/doppelpaymer-gets-a-rebranding
 
+- https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Grief list | True | 3 | 09:44 30/12/2021 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
+| Grief list | True | 3 | 01:42 30/12/2021 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
 
 | post | date |
 |---|---|
@@ -953,7 +962,7 @@ _`xing use a custom mountlocker exe`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 星Team News | True | 3 | 09:44 30/12/2021 | `xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
+| 星Team News | True | 3 | 01:42 30/12/2021 | `xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
 
 | post | date |
 |---|---|
@@ -987,6 +996,8 @@ _parsing : `disabled`_
 
 - https://www.varonis.com/blog/darkside-ransomware
 
+- https://github.com/advanced-threat-research/DarkSide-Config-Extract
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion` |
@@ -1005,7 +1016,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
-| Home Page of Ragnar_Locker Leaks site | True | 3 | 09:45 30/12/2021 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| Home Page of Ragnar_Locker Leaks site | True | 3 | 01:42 30/12/2021 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
 
 | post | date |
@@ -1074,7 +1085,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| HOME - CL0P^_- LEAKS | True | 3 | 09:45 30/12/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| HOME - CL0P^_- LEAKS | True | 3 | 01:42 30/12/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 
 | post | date |
 |---|---|
@@ -1696,7 +1707,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Everest ransom team | True | 3 | 09:46 30/12/2021 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+| Everest ransom team | True | 3 | 01:43 30/12/2021 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
 
 | post | date |
 |---|---|
@@ -1808,8 +1819,8 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CONTI.News | True | 3 | 09:46 30/12/2021 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
-| CONTI.News | True | 0 | 09:46 30/12/2021 | `continews.click` |
+| CONTI.News | True | 3 | 01:43 30/12/2021 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
+| CONTI.News | True | 0 | 01:43 30/12/2021 | `continews.click` |
 
 | post | date |
 |---|---|
@@ -1985,6 +1996,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `ENVASES GROUP` | 26/12/2021 |
 | `Bernd Siegmund GmbH` | 27/12/2021 |
 | `Mount Franklin Foods, LLC` | 28/12/2021 |
+| `American Dream` | 30/12/2021 |
 
 ## pysa
 
@@ -1996,7 +2008,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pysa's Partners | True | 3 | 09:47 30/12/2021 | `pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
+| Pysa's Partners | True | 3 | 01:43 30/12/2021 | `pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
 
 | post | date |
 |---|---|
@@ -2377,7 +2389,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 09:47 30/12/2021 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| Babuk - Leaks site | True | 3 | 01:43 30/12/2021 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
 
 | post | date |
 |---|---|
@@ -2394,7 +2406,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| RANSOMEXX | True | 3 | 09:47 30/12/2021 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| RANSOMEXX | True | 3 | 01:43 30/12/2021 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
 
 | post | date |
 |---|---|
@@ -2437,9 +2449,12 @@ _parsing : `enabled`_
 
 - https://digital.nhs.uk/cyber-alerts/2021/cc-3855
 
+- https://www.ic3.gov/Media/News/2021/211203-2.pdf
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `cuba4mp6ximo2zlo.onion` |
+| Cuba | True | 3 | 01:44 30/12/2021 | `cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
 
 | post | date |
 |---|---|
@@ -2449,6 +2464,12 @@ _parsing : `enabled`_
 | `Datamatics is a technology company that builds intelligent solutions enabling data-driven ` | 09/09/2021 |
 | `First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i` | 09/09/2021 |
 | `The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who` | 09/09/2021 |
+| `atlasdie` | 30/12/2021 |
+| `bakertilly` | 30/12/2021 |
+| `lahebert` | 30/12/2021 |
+| `ncmutuallife` | 30/12/2021 |
+| `sonomatic` | 30/12/2021 |
+| `squamish` | 30/12/2021 |
 
 ## pay2key
 
@@ -2462,7 +2483,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pay2Key Leak Directory! | True | 3 | 09:47 30/12/2021 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
+| Pay2Key Leak Directory! | True | 3 | 01:44 30/12/2021 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
 
 | post | date |
 |---|---|
@@ -2496,7 +2517,7 @@ _`marketplace - not a ransomware group`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockData Auction | True | 3 | 09:47 30/12/2021 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
+| LockData Auction | True | 3 | 01:44 30/12/2021 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
 
 | post | date |
 |---|---|
@@ -2512,7 +2533,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 09:47 30/12/2021 | `bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 01:44 30/12/2021 | `bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
 
 | post | date |
 |---|---|
@@ -2534,7 +2555,7 @@ _`login page, no posts`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Clients page | True | 3 | 09:47 30/12/2021 | `ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
+| Clients page | True | 3 | 01:44 30/12/2021 | `ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
 
 | post | date |
 |---|---|
@@ -2655,7 +2676,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Payload.bin | True | 3 | 09:48 30/12/2021 | `vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
+| Payload.bin | True | 3 | 01:44 30/12/2021 | `vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
 
 | post | date |
 |---|---|
@@ -2718,6 +2739,12 @@ _parsing : `enabled`_
 
 _parsing : `disabled`_
 
+- https://digital.nhs.uk/cyber-alerts/2020/cc-3345
+
+- https://www.bleepingcomputer.com/news/security/ako-ransomware-another-day-another-infection-attacking-businesses/
+
+- https://malwiki.org/index.php?title=Ako
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` |
@@ -2729,10 +2756,16 @@ _parsing : `disabled`_
 
 _parsing : `enabled`_
 
+- https://www.cyfirma.com/outofband/malware-research-on-atomsilo-ransomware/
+
+- https://www.zscaler.com/blogs/security-research/atomsilo-ransomware-enters-league-double-extortion
+
+- https://twitter.com/vinopaljiri/status/1449550289204391940
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | AtomSilo | False | 3 | 05:02 17/12/2021 | `mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion` |
-| AtomSilo | True | 3 | 09:49 30/12/2021 | `l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion` |
+| AtomSilo | True | 3 | 01:45 30/12/2021 | `l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion` |
 
 | post | date |
 |---|---|
@@ -2756,10 +2789,18 @@ _parsing : `disabled`_
 
 _parsing : `enabled`_
 
+- https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/
+
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/
+
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/
+
+- https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion` |
-| BlackByte BLOG | True | 3 | 09:49 30/12/2021 | `f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion` |
+| BlackByte BLOG | False | 3 | 09:49 30/12/2021 | `f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion` |
 
 | post | date |
 |---|---|
@@ -2809,7 +2850,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Support | True | 3 | 09:49 30/12/2021 | `mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
+| Support | False | 3 | 09:49 30/12/2021 | `mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
 
 | post | date |
 |---|---|
@@ -2823,7 +2864,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `544corkfh5hwhtn4.onion` |
-| blackshadow.cc - 522: Connection timed out | True | 0 | 09:50 30/12/2021 | `blackshadow.cc` |
+| blackshadow.cc - 522: Connection timed out | True | 0 | 01:46 30/12/2021 | `blackshadow.cc` |
 
 | post | date |
 |---|---|
@@ -2834,6 +2875,8 @@ _parsing : `enabled`_
 ## bonacigroup
 
 _parsing : `disabled`_
+
+_`claim to donate 80% of earnings to charity`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -2860,9 +2903,13 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+- https://www.anomali.com/blog/the-ech0raix-ransomware
+
+- https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 09:50 30/12/2021 | `veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` |
+| none | True | 3 | 01:46 30/12/2021 | `veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` |
 
 | post | date |
 |---|---|
@@ -2881,6 +2928,8 @@ _parsing : `disabled`_
 ## exorcist
 
 _parsing : `disabled`_
+
+- https://medium.com/@velasco.l.n/exorcist-ransomware-from-triaging-to-deep-dive-5b7da4263d81
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -2904,6 +2953,16 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+_`aka fivehands`_
+
+- https://www.ic3.gov/Media/News/2021/211029.pdf
+
+- https://www.cisa.gov/uscert/ncas/analysis-reports/ar21-126a
+
+- https://research.nccgroup.com/2021/06/15/handy-guide-to-a-new-fivehands-ransomware-variant/
+
+- https://www.mandiant.com/resources/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | News | False | 3 | 15:17 02/10/2021 | `3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion` |
@@ -2915,6 +2974,10 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+_`aka hotarus corp`_
+
+- https://www.bleepingcomputer.com/news/security/ransomware-gang-hacks-ecuadors-largest-private-bank-ministry-of-finance/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Hotarus Corp | False | 3 | 04:52 22/10/2021 | `r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion` |
@@ -2925,6 +2988,16 @@ _parsing : `disabled`_
 ## karma
 
 _parsing : `enabled`_
+
+- https://www.sentinelone.com/labs/karma-ransomware-an-emerging-threat-with-a-hint-of-nemty-pedigree/
+
+- https://blogs.blackberry.com/en/2021/11/threat-thursday-karma-ransomware
+
+- https://www.bleepingcomputer.com/news/security/new-karma-ransomware-group-likely-a-nemty-rebrand/
+
+- https://blog.cyble.com/2021/08/24/a-deep-dive-analysis-of-karma-ransomware/
+
+- https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -2955,6 +3028,8 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+- https://www.thenationalnews.com/business/2021/08/21/mbc-ransomware-group-claims-responsibility-for-cyber-attack-on-irans-railway-network/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion` |
@@ -2977,6 +3052,10 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+- https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/
+
+- https://www.haaretz.com/israel-news/tech-news/.premium-iranian-hackers-hit-h-m-israel-amid-new-wave-of-cyberattacks-1.9766404
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion` |
@@ -2987,6 +3066,16 @@ _parsing : `disabled`_
 ## nemty
 
 _parsing : `disabled`_
+
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/nemty-ransomware-learning-by-doing/
+
+- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet
+
+- https://www.zdnet.com/article/nemty-ransomware-operation-shuts-down/
+
+- https://www.acronis.com/en-eu/blog/posts/threat-analysis-nemty-ransomware-and-fake-paypal-site/
+
+- https://www.infoblox.com/wp-content/uploads/threat-intelligence-report-nemty-ransomware-loves-you.pdf
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -2999,6 +3088,10 @@ _parsing : `disabled`_
 
 _parsing : `disabled`_
 
+- https://www.ic3.gov/Media/News/2021/210823.pdf
+
+- https://www.csoonline.com/article/3630635/onepercent-ransomware-group-hits-companies-via-iceid-banking-trojan.html
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion` |
@@ -3009,6 +3102,18 @@ _parsing : `disabled`_
 ## prolock
 
 _parsing : `disabled`_
+
+_`aka pwndlocker`_
+
+- https://www.zdnet.com/article/prolock-ransomware-everything-you-need-to-know/
+
+- https://news.sophos.com/en-us/2020/07/27/prolock-ransomware-gives-you-the-first-8-kilobytes-of-decryption-for-free/
+
+- https://www.bleepingcomputer.com/news/security/pwndlocker-ransomware-gets-pwned-decryption-now-available/
+
+- https://www.bleepingcomputer.com/news/security/fbi-warns-of-prolock-ransomware-decryptor-not-working-properly/
+
+- https://iacc.memberclicks.net/assets/docs/COVID19/FBI%20-%20FLASH%20TLP%20Green%20-%20Indicators%20of%20Compromise%20Associated%20with%20ProLock....pdf
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3023,6 +3128,12 @@ _parsing : `disabled`_
 
 _`login page, no posts`_
 
+- https://www.qnap.com/en/security-advisory/QSA-21-13
+
+- https://www.qnap.com/static/landing/2021/qlocker/response/da-dk/
+
+- https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 04:13 29/12/2021 | `gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` |
@@ -3033,6 +3144,14 @@ _`login page, no posts`_
 ## ranzy
 
 _parsing : `disabled`_
+
+- https://blog.malwarebytes.com/ransomware/2021/10/threat-profile-ranzy-locker-ransomware/
+
+- https://www.picussecurity.com/resource/blog/a-detailed-walkthrough-of-ranzy-locker-ransomware-ttps
+
+- https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
+
+- https://www.ic3.gov/Media/News/2021/211026.pdf
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3056,6 +3175,12 @@ _parsing : `disabled`_
 ## xinof
 
 _parsing : `disabled`_
+
+_`aka fonix`_
+
+- https://www.bleepingcomputer.com/news/security/fonix-ransomware-shuts-down-and-releases-master-decryption-key/
+
+- https://www.sentinelone.com/labs/the-fonix-raas-new-low-key-threat-with-unnecessary-complexities/
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3114,10 +3239,16 @@ _parsing : `enabled`_
 
 _parsing : `disabled`_
 
+- https://ke-la.com/new-russian-speaking-forum-a-new-place-for-raas/
+
+- https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/
+
+- https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Log in - RAMP | True | 3 | 09:53 30/12/2021 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
+| Log in - RAMP | True | 3 | 01:48 30/12/2021 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |
 
 | post | date |
@@ -3132,7 +3263,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | BLOG | False | 3 | 03:45 13/11/2021 | `54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion` |
-| 54bb47h blog – Data leak blog | True | 0 | 09:53 30/12/2021 | `54bb47h.blog` |
+| 54bb47h blog – Data leak blog | True | 0 | 01:48 30/12/2021 | `54bb47h.blog` |
 
 | post | date |
 |---|---|
@@ -3154,7 +3285,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Quantum Blog | True | 3 | 09:53 30/12/2021 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
+| Quantum Blog | True | 3 | 01:49 30/12/2021 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
 
 | post | date |
 |---|---|
@@ -3186,10 +3317,16 @@ _parsing : `enabled`_
 
 - https://t.me/snatch_news
 
+- https://lifars.com/wp-content/uploads/2020/07/Snatch-Ransomware-Malware-Analysis-Case-Study.pdf
+
+- https://news.sophos.com/en-us/2019/12/09/snatch-ransomware-reboots-pcs-into-safe-mode-to-bypass-protection/
+
+- https://thedfirreport.com/2020/06/21/snatch-ransomware/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 09:54 30/12/2021 | `hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
-| News | True | 0 | 09:54 30/12/2021 | `snatch.press` |
+| News | True | 3 | 01:49 30/12/2021 | `hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
+| News | True | 0 | 01:49 30/12/2021 | `snatch.press` |
 
 | post | date |
 |---|---|
@@ -3225,7 +3362,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Info | True | 3 | 09:54 30/12/2021 | `midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` |
+| Info | True | 3 | 01:49 30/12/2021 | `midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` |
 
 | post | date |
 |---|---|
@@ -3268,7 +3405,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Entropy hall of fall | True | 3 | 09:54 30/12/2021 | `leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` |
+| Entropy hall of fall | True | 3 | 01:49 30/12/2021 | `leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` |
 
 | post | date |
 |---|---|
@@ -3277,9 +3414,13 @@ _`captcha prevents indexing`_
 
 _parsing : `enabled`_
 
+- https://www.sentinelone.com/labs/robinhood-ransomware-coolmaker-functions-not-so-cool/
+
+- https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Not found. | True | 0 | 09:54 30/12/2021 | `robinhoodleaks.tumblr.com` |
+| Not found. | True | 0 | 01:49 30/12/2021 | `robinhoodleaks.tumblr.com` |
 
 | post | date |
 |---|---|
@@ -3297,10 +3438,14 @@ _`not a ransomware group`_
 
 - https://t.me/moses_staff_links
 
+- https://www.zdnet.com/article/mosesstaff-attackers-deploy-ransomware-on-your-systems-no-payment-no-decryption-possible/
+
+- https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `mosesstaffm7hptp.onion` |
-| Activities – Moses Staff | True | 0 | 09:55 30/12/2021 | `moses-staff.se` |
+| Activities – Moses Staff | True | 0 | 01:49 30/12/2021 | `moses-staff.se` |
 
 | post | date |
 |---|---|
@@ -3334,9 +3479,13 @@ _parsing : `disabled`_
 
 _parsing : `enabled`_
 
+- https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/
+
+- https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| We Are Rook!!! | True | 3 | 09:55 30/12/2021 | `gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion` |
+| We Are Rook!!! | True | 3 | 01:49 30/12/2021 | `gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion` |
 
 | post | date |
 |---|---|
@@ -3367,7 +3516,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 09:56 30/12/2021 | `t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
+| none | True | 3 | 01:50 30/12/2021 | `t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
 
 | post | date |
 |---|---|
@@ -3375,6 +3524,8 @@ _parsing : `disabled`_
 ## babyduck
 
 _parsing : `disabled`_
+
+- https://twitter.com/PolarToffee/status/1445873002801889280?s=20
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3389,11 +3540,17 @@ _parsing : `enabled`_
 
 _`aka blackcat`_
 
-> fetching this site requires a headless browser for javascript processing
+- https://therecord.media/alphv-blackcat-is-the-first-professional-ransomware-gang-to-use-rust/
+
+- https://www.bleepingcomputer.com/news/security/alphv-blackcat-this-years-most-sophisticated-ransomware/
+
+- https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html
+
+- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-|   | True | 3 | 09:57 30/12/2021 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
+| none | True | 3 | 01:50 30/12/2021 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |
 
 | post | date |
@@ -3401,10 +3558,14 @@ _`aka blackcat`_
 | `RCMS` | 18/12/2021 |
 | `Strataworldwide.com` | 18/12/2021 |
 | `SNOP GROUP` | 30/12/2021 |
-| `Douglas Shaw &amp; Associates  douglasshaw.com` | 30/12/2021 |
 | `Uriach - www.uriach.com` | 30/12/2021 |
 | `Unified Technologies  unified-team.com` | 30/12/2021 |
 | `Solaris Management Consultants  solaris-mci.com` | 30/12/2021 |
+| `Douglas Shaw & Associates  douglasshaw.com` | 30/12/2021 |
+| `Hunter Douglas  hunterdouglas.com.au` | 30/12/2021 |
+| `Buffers USA  buffersusa.com` | 30/12/2021 |
+| `van Eupen Logistik - vaneupen.com` | 30/12/2021 |
+| `New City Commercial Corporation (NCCC)` | 30/12/2021 |
 
 ## cryp70n1c0d3
 
@@ -3436,7 +3597,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Dread Access Queue | True | 3 | 09:57 30/12/2021 | `dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` |
+| Dread Access Queue | True | 3 | 01:51 30/12/2021 | `dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` |
 
 | post | date |
 |---|---|
@@ -3449,7 +3610,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Threat Actors - Onion Forums  | True | 3 | 09:57 30/12/2021 | `giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
+| Threat Actors - Onion Forums  | True | 3 | 01:51 30/12/2021 | `giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
 
 | post | date |
 |---|---|
