@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-30 | `Centaris.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `independentprin... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `https://www.lee... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `rightsys.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-25 | `SLIMSTOCK.COM FILES PART9 - 10.40.13.67, 10.40.13.99, 10.40.13.195, 10.40.13.226, 10.40.14` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `MTMRECOGNITION.COM FILES PART5 - 10.0.1.18\HOLDING TANK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-25 | `SSMSJUSTICE.COM FILES PART10 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Discovery\` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `QUANTUMGROUP.COM FILES PART8 - QUANTUM FTPLP03V\Quantum FTP\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
