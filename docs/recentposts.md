@@ -4,6 +4,18 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-31 | `JCWHITE.COM FILES PART4 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `SLIMSTOCK.COM FILES PART11 - 10.40.13.131 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `MTMRECOGNITION.COM FILES PART7 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `SSMSJUSTICE.COM FILES PART12 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Investigat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `QUANTUMGROUP.COM FILES PART10 - QUANTUM FTPLP04V\Quantum, Logs, Serv-U Logs, System Volume` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `MCH-GROUP.COM FILES PART9 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\Standfot` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `EDAN.COM FILES PART8 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `DUTTONFIRM.COM FILES PART4 - Dictation, Ecopy, TEST, VMAILSERVER PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `BOLTONUSA.COM FILES PART13 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\User PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `ABSOLUTERESULTS.COM FILES PART13 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `SWIRESPO.COM FILES PART8 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server B` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-31 | `ENPRECIS.COM FILES PART6 - 10.50.11.4\Developers\Packages\HONDACAR PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `lee-associates.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `Centaris.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `independentprin... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -92,15 +104,3 @@ _last `100` posts_
 | 2021-12-26 | `LAVA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-26 | `Data breach summary` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-26 | `ENVASES GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `SVP Groupe` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `Economos properties` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `The Technord industrial group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `iGuzzini Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `Charles Kendall` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `Arbor Contract Carpet Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `Metamorph Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-26 | `RKPT` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-25 | `smiimaging.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-25 | `JCWHITE.COM FILES PART2 - PC420, PC427 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `SLIMSTOCK.COM FILES PART9 - 10.40.13.67, 10.40.13.99, 10.40.13.195, 10.40.13.226, 10.40.14` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-25 | `MTMRECOGNITION.COM FILES PART5 - 10.0.1.18\HOLDING TANK PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
