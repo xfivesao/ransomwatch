@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-31 | `Chattanooga Chamber of Commerce` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-31 | `JCWHITE.COM FILES PART4 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `SLIMSTOCK.COM FILES PART11 - 10.40.13.131 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `MTMRECOGNITION.COM FILES PART7 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-26 | `TUI UK` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-26 | `LAVA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-26 | `Data breach summary` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
-| 2021-12-26 | `ENVASES GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
