@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-01 | `NanoFocus - nanofocus.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-01 | `www.paw.eu` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2022-01-01 | `Serenity Homes SWFL` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2022-01-01 | `tamerholding.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-28 | `TRIGYN 2 0 - Data Leak` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-28 | `Evalueserve` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-28 | `DENSO` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
-| 2021-12-27 | `Bernd Siegmund GmbH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
