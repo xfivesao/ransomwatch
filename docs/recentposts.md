@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-01 | `empireins.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-01 | `aulss6.veneto.i... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-01 | `CED Group` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-01 | `summit-christia...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-01 | `NanoFocus - nanofocus.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-28 | `ABSOLUTERESULTS.COM FILES PART12 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `SWIRESPO.COM FILES PART7 - 172.16.10.166\$E PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `ENPRECIS.COM FILES PART5 - 10.50.11.4\Developers\Packages\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-28 | `Metro.Us` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2021-12-28 | `TRIGYN 2 0 - Data Leak` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
