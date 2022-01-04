@@ -7,6 +7,7 @@ _last `100` posts_
 | 2022-01-04 | `atsair.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-04 | `AKIJ GROUP` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
 | 2022-01-04 | `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
+| 2022-01-04 | `Summit College` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-04 | `Close drawer` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-04 | `Close search modal` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-03 | `thalesgroup.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `American Dream` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-28 | `Mount Franklin Foods, LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-28 | `JCWHITE.COM FILES PART3 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-28 | `SLIMSTOCK.COM FILES PART10 - 10.40.11.98, 10.40.11.99, 10.40.11.130, 10.40.12.2, 10.40.12.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
