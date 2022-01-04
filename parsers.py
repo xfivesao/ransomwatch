@@ -608,3 +608,14 @@ def alphav():
         errlog('alphav: ' + 'parsing fail')
     for post in posts:
         appender(post, 'alphav')
+
+def nightsky():
+    stdlog('parser: ' + 'nightsky')
+    parser = '''
+    grep 'class="mdui-card-primary-title"' source/nightsky-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('nightsky: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'nightsky')

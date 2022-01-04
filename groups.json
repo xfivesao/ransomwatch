@@ -2242,5 +2242,28 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "nightsky",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion",
+                "title": "Night Sky",
+                "version": 3,
+                "slug": "http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion",
+                "available": true,
+                "updated": "2022-01-04 19:13:09.279021",
+                "lastscrape": "2022-01-04 19:13:09.278999"
+            }
+        ],
+        "profile": [
+            "https://t.me/arvin_club/5081",
+            "https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20"
+        ]
     }
 ]
