@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-04 | `atsair.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-04 | `AKIJ GROUP` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
+| 2022-01-04 | `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
 | 2022-01-03 | `thalesgroup.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-03 | `Iwis Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-02 | `burgsimpson.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2021-12-28 | `SLIMSTOCK.COM FILES PART10 - 10.40.11.98, 10.40.11.99, 10.40.11.130, 10.40.12.2, 10.40.12.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `MTMRECOGNITION.COM FILES PART6 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-28 | `SSMSJUSTICE.COM FILES PART11 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Investigat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-28 | `QUANTUMGROUP.COM FILES PART9 - QUANTUM FTPLP03V\QuantumGroup, Restore, Serv-U Logs, System` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-28 | `MCH-GROUP.COM FILES PART8 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\Standfot` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-28 | `EDAN.COM FILES PART7 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
