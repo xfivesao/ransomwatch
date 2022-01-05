@@ -308,8 +308,17 @@
                 "version": 3,
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
                 "available": true,
-                "updated": "2022-01-05 22:12:45.071411",
-                "lastscrape": "2022-01-05 22:12:45.071393"
+                "updated": "2022-01-06 12:01:33.769010",
+                "lastscrape": "2022-01-06 12:01:33.768712"
+            },
+            {
+                "fqdn": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
+                "title": "Hive",
+                "version": 3,
+                "slug": "http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
+                "available": true,
+                "updated": "2022-01-06 12:02:01.842544",
+                "lastscrape": "2022-01-06 12:02:01.842530"
             }
         ],
         "profile": [
