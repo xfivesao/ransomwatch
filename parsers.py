@@ -29,21 +29,20 @@ def posttemplate(victim, group_name, timestamp):
         'group_name': group_name,
         'discovered': timestamp
     }
-    stdlog('new post: ' + victim)
     dbglog(schema)
     return schema
 
+posts = openjson('posts.json')
 def existingpost(post_title, group_name):
     '''
     check if a post already exists in posts.json
     '''
-    posts = openjson('posts.json')
+    # posts = openjson('posts.json')
     for post in posts:
-        dbglog('checking post: ' + post['post_title'])
         if post['post_title'] == post_title and post['group_name'] == group_name:
-            stdlog('post already exists: ' + post_title)
+            #dbglog('post already exists: ' + post_title)
             return True
-    stdlog('post does not exist: ' + post_title)
+    dbglog('post does not exist: ' + post_title)
     return False
 
 def appender(post_title, group_name):
@@ -59,7 +58,7 @@ def appender(post_title, group_name):
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
         newpost = posttemplate(post_title, group_name, str(datetime.today()))
-        stdlog('adding new post: ' + 'group:' + group_name + 'title:' + post_title)
+        stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
         with open('posts.json', 'w') as outfile:
             '''
