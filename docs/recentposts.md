@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-05 | `bennetts.com.au` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-05 | `snapmga.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-05 | `bricofer.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-04 | `atsair.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `lahebert` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2021-12-30 | `bakertilly` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2021-12-30 | `atlasdie` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2021-12-30 | `American Dream` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
