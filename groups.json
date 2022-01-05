@@ -323,7 +323,8 @@
         ],
         "profile": [
             "https://inf.news/en/tech/c28d9382ab78a5ac3d8fc802f3f0f1e0.html",
-            "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware"
+            "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware",
+            "https://blogs.blackberry.com/en/2021/07/threat-thursday-hive-ransomware"
         ]
     },
     {
@@ -2282,6 +2283,29 @@
         "profile": [
             "https://t.me/arvin_club/5081",
             "https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20"
+        ]
+    },
+    {
+        "name": "ransomcartel",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion",
+                "title": "Ransomware - Control Panel",
+                "version": 3,
+                "slug": "http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion",
+                "available": true,
+                "updated": "2022-01-06 12:03:20.748233",
+                "lastscrape": "2022-01-06 12:03:20.748215"
+            }
+        ],
+        "profile": [
+            "https://t.me/arvin_club/5075",
+            "https://twitter.com/i/web/status/1476488238521065476"
         ]
     }
 ]
