@@ -425,6 +425,15 @@
                 "available": false,
                 "updated": "2021-09-08 00:04:04.126984",
                 "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
+                "title": "Vice Society - Official Site",
+                "version": 3,
+                "slug": "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
+                "available": true,
+                "updated": "2022-01-06 11:26:21.698717",
+                "lastscrape": "2022-01-06 11:26:21.698446"
             }
         ],
         "profile": [

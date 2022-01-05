@@ -612,10 +612,21 @@ def alphav():
 def nightsky():
     stdlog('parser: ' + 'nightsky')
     parser = '''
-    grep 'class="mdui-card-primary-title"' source/nightsky-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep 'class="mdui-card-primary-title"' source/nightsky-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('nightsky: ' + 'parsing fail')
     for post in posts:
         appender(post, 'nightsky')
+
+def vicesociety():
+    stdlog('parser: ' + 'vicesociety')
+    parser = '''
+    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed '/ato District Health Boa/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('vicesociety: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'vicesociety')
