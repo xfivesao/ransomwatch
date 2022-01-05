@@ -4,6 +4,19 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-05 | `Premium Transportation Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-01-05 | `JCWHITE.COM FILES PART5 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `SLIMSTOCK.COM FILES PART12 - 10.40.13.98, 10.40.13.66, 10.40.12.34 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `MTMRECOGNITION.COM FILES PART8 - 10.0.1.18\Customer Care Associates, disney, PDF, Resin Ca` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `SSMSJUSTICE.COM FILES PART13 - D\DOCUMENTS\CIVIL\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `QUANTUMGROUP.COM FILES PART11 - 7zQUANT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `MCH-GROUP.COM FILES PART10 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `EDAN.COM FILES PART9 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `DUTTONFIRM.COM FILES PART5 - E\Data\SHARED\Lit\Abraham, Ryan PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `BOLTONUSA.COM FILES PART14 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `ABSOLUTERESULTS.COM FILES PART14 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `SWIRESPO.COM FILES PART9 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server B` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-05 | `ENPRECIS.COM FILES PART7 - COMMON, VWM, VWUSA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `dusa.com.ve` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-05 | `bennetts.com.au` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-05 | `snapmga.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -91,16 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `Ludwig Pfeiffer Leaked` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
 | 2021-12-30 | `Webhelp's company - XtraSource` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
 | 2021-12-30 | `NEW Links for ADATA` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `ADATA LEAKED` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `GATEWAY Property Management` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `New Leak GatewayPM` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Software company Xoriant` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Solaris Management Consultants - solaris-mci.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `Unified Technologies - unified-team.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `Uriach - www.uriach.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `SNOP GROUP` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `squamish` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2021-12-30 | `sonomatic` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2021-12-30 | `ncmutuallife` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2021-12-30 | `lahebert` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2021-12-30 | `bakertilly` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
