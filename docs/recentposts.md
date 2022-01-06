@@ -29,6 +29,7 @@ _last `100` posts_
 | 2022-01-06 | `Pontificia Universidad Javeriana` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `DFL` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `Spar` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-01-06 | `dtstechnical.ca` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-06 | `DURA - Innovation Driven by Inspiration` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-05 | `Premium Transportation Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-05 | `JCWHITE.COM FILES PART5 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `ST Engineering` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
 | 2021-12-30 | `GST Autoleather Company !` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
 | 2021-12-30 | `New leaks from SOLTEK PACIFIC` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Bailey&Galyen Attorney at Law` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
