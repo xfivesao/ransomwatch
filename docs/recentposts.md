@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-07 | `The Grand Bahama Port Authority` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-07 | `chervongroup.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `cbibanks.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `meritresources....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `bankjatim-co-id` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
 | 2021-12-30 | `salesplaypos-com` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
 | 2021-12-30 | `unexca-edu-ve` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
-| 2021-12-30 | `Brunner Announce – Hello World !` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
