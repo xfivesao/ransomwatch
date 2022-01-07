@@ -4,6 +4,14 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-07 | `salesiancollege... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-06 | `aquila.ch` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2022-01-06 | `Rolle` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `Alliance COAL, LLC` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -96,11 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `Hunter Douglas - hunterdouglas.com.au` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `Douglas Shaw & Associates - douglasshaw.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `ticketclub-it` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
-| 2021-12-30 | `bankjatim-co-id` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
-| 2021-12-30 | `salesplaypos-com` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
-| 2021-12-30 | `unexca-edu-ve` | [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) |
-| 2021-12-30 | `Brunner Announce – Hello World !` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Leakage from company Catania, Mahon & Rider, PLLC` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Leaks Company Birch Communications inc.` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Leaks from company Omniga GmbH & Co.` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Leaks from company EDP Group` | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |
