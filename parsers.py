@@ -32,11 +32,11 @@ def posttemplate(victim, group_name, timestamp):
     dbglog(schema)
     return schema
 
-posts = openjson('posts.json')
 def existingpost(post_title, group_name):
     '''
     check if a post already exists in posts.json
     '''
+    posts = openjson('posts.json')
     # posts = openjson('posts.json')
     for post in posts:
         if post['post_title'] == post_title and post['group_name'] == group_name:
