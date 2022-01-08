@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-08 | `focusadventure.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-08 | `giovanardi.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-08 | `owenscaroli` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-08 | `JCWHITE.COM FILES PART6 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-08 | `SLIMSTOCK.COM FILES PART13 - 10.40.12.226, 10.40.13.2, 10.40.13.34 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-31 | `MTMRECOGNITION.COM FILES PART7 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `SSMSJUSTICE.COM FILES PART12 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Investigat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `QUANTUMGROUP.COM FILES PART10 - QUANTUM FTPLP04V\Quantum, Logs, Serv-U Logs, System Volume` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `MCH-GROUP.COM FILES PART9 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\Standfot` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `EDAN.COM FILES PART8 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
