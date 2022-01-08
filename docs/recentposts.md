@@ -4,6 +4,18 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-08 | `JCWHITE.COM FILES PART6 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `SLIMSTOCK.COM FILES PART13 - 10.40.12.226, 10.40.13.2, 10.40.13.34 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `MTMRECOGNITION.COM FILES PART9 - 10.0.1.18\EPS\LOGOS\ACCENTS, CORPORATE PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `SSMSJUSTICE.COM FILES PART14 - D\DOCUMENTS\CIVIL\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `QUANTUMGROUP.COM FILES PART12 - 7zQUANT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `MCH-GROUP.COM FILES PART11 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `EDAN.COM FILES PART10 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `DUTTONFIRM.COM FILES PART6 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `BOLTONUSA.COM FILES PART15 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `ABSOLUTERESULTS.COM FILES PART15 - E\FTP Archive\PBIWest\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `SWIRESPO.COM FILES PART10 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-08 | `ENPRECIS.COM FILES PART8 - 10.50.11.4\Developers\Packages\MMSCAN, NCI, VWC, WebAPI PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-08 | `Abdi ibrahim` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2022-01-08 | `Huhtamaki` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-08 | `wnrllc.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -92,15 +104,3 @@ _last `100` posts_
 | 2021-12-31 | `MCH-GROUP.COM FILES PART9 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\07_FOTOS\Standfot` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `EDAN.COM FILES PART8 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `DUTTONFIRM.COM FILES PART4 - Dictation, Ecopy, TEST, VMAILSERVER PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `BOLTONUSA.COM FILES PART13 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\User PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `ABSOLUTERESULTS.COM FILES PART13 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `SWIRESPO.COM FILES PART8 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server B` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `ENPRECIS.COM FILES PART6 - 10.50.11.4\Developers\Packages\HONDACAR PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `lee-associates.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-30 | `Centaris.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `independentprin... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-30 | `https://www.lee... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-30 | `rightsys.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-30 | `grupomakler.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-30 | `New City Commercial Corporation (NCCC)` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `van Eupen Logistik - vaneupen.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
