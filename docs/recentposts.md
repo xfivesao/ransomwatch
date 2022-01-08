@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-08 | `Abdi ibrahim` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2022-01-08 | `Huhtamaki` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-08 | `wnrllc.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `Amaveca Salud` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `grupomakler.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-30 | `New City Commercial Corporation (NCCC)` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `van Eupen Logistik - vaneupen.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `Buffers USA - buffersusa.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
