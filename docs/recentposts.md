@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-08 | `IT-companies Subex & Sectrio Leaked` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-01-08 | `focusadventure.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-08 | `giovanardi.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-08 | `owenscaroli` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-31 | `SLIMSTOCK.COM FILES PART11 - 10.40.13.131 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `MTMRECOGNITION.COM FILES PART7 - 10.0.1.18\Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-31 | `SSMSJUSTICE.COM FILES PART12 - 192.168.1.250\D\DOCUMENTS\CIVIL\Horton, Michelle\Investigat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-12-31 | `QUANTUMGROUP.COM FILES PART10 - QUANTUM FTPLP04V\Quantum, Logs, Serv-U Logs, System Volume` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
