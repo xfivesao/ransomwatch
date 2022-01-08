@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-08 | `wnrllc.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `Amaveca Salud` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-07 | `mcsmorandi.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `Ballester Hermanos - ballesterhermanos.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-30 | `van Eupen Logistik - vaneupen.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `Buffers USA - buffersusa.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2021-12-30 | `Hunter Douglas - hunterdouglas.com.au` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2021-12-30 | `Douglas Shaw & Associates - douglasshaw.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
