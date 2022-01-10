@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-10 | `autoelectric.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-10 | `torann-france.f... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-10 | `securiteassuran... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-10 | `strongwell` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-02 | `transrendufense...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-01 | `empireins.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-01 | `aulss6.veneto.i... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-01 | `CED Group` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
