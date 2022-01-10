@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-10 | `strongwell` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-01-10 | `sonomatic-2` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-01-10 | `regulvar` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-01-10 | `delinebox` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-01-10 | `cle` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-01-09 | `Ezz Steel` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-01-09 | `Detroit Stoker` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-09 | `SAVANNAH State University` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -99,8 +104,3 @@ _last `100` posts_
 | 2022-01-01 | `CED Group` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-01 | `summit-christia...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-01 | `NanoFocus - nanofocus.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-01 | `www.paw.eu` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
-| 2022-01-01 | `Serenity Homes SWFL` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
-| 2022-01-01 | `tamerholding.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-31 | `wagstaff.com - 1.5TB LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-31 | `Chattanooga Chamber of Commerce` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
