@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-11 | `TaxNetUSA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-11 | `Arcese` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-11 | `Hensoldt ` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-01-10 | `northsideplumbi... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-04 | `Close drawer` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-04 | `Close search modal` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-03 | `thalesgroup.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-03 | `Iwis Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
