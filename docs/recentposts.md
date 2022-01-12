@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-12 | `Durham Cathedral Schools Foundation` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-12 | `Butler Community College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-12 | `XAL` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-11 | `TaxNetUSA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-04 | `AKIJ GROUP` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
 | 2022-01-04 | `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
 | 2022-01-04 | `Summit College` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2022-01-04 | `Close drawer` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
