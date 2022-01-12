@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-12 | `weyers-archi` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-12 | `supersave.ca ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-12 | `Protected: PRIVATE POST  ITALY` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-12 | `Durham Cathedral Schools Foundation` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-12 | `Butler Community College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-01-05 | `snapmga.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-05 | `bricofer.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-04 | `atsair.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-04 | `AKIJ GROUP` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
-| 2022-01-04 | `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) |
