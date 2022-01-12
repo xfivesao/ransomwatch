@@ -4,6 +4,17 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-12 | `JCWHITE.COM FILES PART7 - dawn.hartless@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `SLIMSTOCK.COM FILES PART14 - 10.40.10.163, 10.40.10.226, 10.40.12.162, 10.40.12.194 PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `MTMRECOGNITION.COM FILES PART10 - 10.0.1.18\EPS\LOGOS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `SSMSJUSTICE.COM FILES PART15 - D\DOCUMENTS\CIVIL\Ambuul_Sanders (Becky)\Discovery\P's Disc` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `MCH-GROUP.COM FILES PART12 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `EDAN.COM FILES PART11 - 192.168.2.6\E$\人力资源组文件\个人\罗培\文件夹整理\人力资源组\培训&amp;实习\培训\系统级培训\培训教材\员` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `DUTTONFIRM.COM FILES PART7 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `BOLTONUSA.COM FILES PART16 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `ABSOLUTERESULTS.COM FILES PART16 - E\FTP Archive\PBIWest\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `SWIRESPO.COM FILES PART11 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-12 | `ENPRECIS.COM FILES PART9 - 10.50.21.9\FTPSites\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-12 | `weyers-archi` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-12 | `supersave.ca ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-12 | `Protected: PRIVATE POST  ITALY` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
@@ -93,14 +104,3 @@ _last `100` posts_
 | 2022-01-05 | `SSMSJUSTICE.COM FILES PART13 - D\DOCUMENTS\CIVIL\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `QUANTUMGROUP.COM FILES PART11 - 7zQUANT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `MCH-GROUP.COM FILES PART10 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `EDAN.COM FILES PART9 - 192.168.2.6\E$\人力资源组文件\个人\离职人员\3.曾雨\192.168.2.6国际营销系统共享文件行政&amp;人事&` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `DUTTONFIRM.COM FILES PART5 - E\Data\SHARED\Lit\Abraham, Ryan PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `BOLTONUSA.COM FILES PART14 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `ABSOLUTERESULTS.COM FILES PART14 - E\FTP Archive\PBI\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `SWIRESPO.COM FILES PART9 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server B` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `ENPRECIS.COM FILES PART7 - COMMON, VWM, VWUSA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `dusa.com.ve` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-05 | `bennetts.com.au` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-05 | `snapmga.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-05 | `bricofer.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-04 | `atsair.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
