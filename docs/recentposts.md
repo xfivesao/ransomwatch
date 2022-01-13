@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-13 | `Lewis &amp; Clark College` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-01-13 | `superfund` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-01-13 | `houstonestatepl...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-13 | `fdcbuilding` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-05 | `Premium Transportation Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-05 | `JCWHITE.COM FILES PART5 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `SLIMSTOCK.COM FILES PART12 - 10.40.13.98, 10.40.13.66, 10.40.12.34 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `MTMRECOGNITION.COM FILES PART8 - 10.0.1.18\Customer Care Associates, disney, PDF, Resin Ca` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
