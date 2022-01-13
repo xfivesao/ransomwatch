@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-13 | `fdcbuilding` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-01-12 | `JCWHITE.COM FILES PART7 - dawn.hartless@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-12 | `SLIMSTOCK.COM FILES PART14 - 10.40.10.163, 10.40.10.226, 10.40.12.162, 10.40.12.194 PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-12 | `MTMRECOGNITION.COM FILES PART10 - 10.0.1.18\EPS\LOGOS\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-05 | `MTMRECOGNITION.COM FILES PART8 - 10.0.1.18\Customer Care Associates, disney, PDF, Resin Ca` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `SSMSJUSTICE.COM FILES PART13 - D\DOCUMENTS\CIVIL\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-05 | `QUANTUMGROUP.COM FILES PART11 - 7zQUANT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-05 | `MCH-GROUP.COM FILES PART10 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
