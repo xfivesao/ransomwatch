@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-14 | `ASL Napoli 3 Sud Network Seized` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-14 | `Butler County Community College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-13 | `Hanon Systems` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-13 | `HAPOLO` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-06 | `Spar` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `D.F. Chase - dfchase.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-06 | `FrenchGourmet` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-06 | `dtstechnical.ca` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
