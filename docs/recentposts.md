@@ -4,6 +4,22 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-15 | `Shutterfly inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `RRD` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `Safeguard` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `Lyon-Waugh Auto Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `Perennials Fabrics` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `Acuity Brands` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-01-15 | `JCWHITE.COM FILES PART8 - dawn.hartless@jcwhite.com\PROJECTS\MARK FELTINGOFF\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `SLIMSTOCK.COM FILES PART15 - 10.40.12.99, 10.40.12.130 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `MTMRECOGNITION.COM FILES PART11 - 10.0.1.18\Large PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `SSMSJUSTICE.COM FILES PART16 - D\DOCUMENTS\CIVIL\Ambuul_Sanders (Becky)\Discovery\P's Disc` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `MCH-GROUP.COM FILES PART13 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `EDAN.COM FILES PART12 - 192.168.2.6\E$\人力资源组文件\人事\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `DUTTONFIRM.COM FILES PART8 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `BOLTONUSA.COM FILES PART17 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `SWIRESPO.COM FILES PART12 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-15 | `ENPRECIS.COM FILES PART10 - 10.50.21.9\FTPSites\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-14 | `ASL Napoli 3 Sud Network Seized` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-14 | `Butler County Community College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-13 | `Hanon Systems` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -88,19 +104,3 @@ _last `100` posts_
 | 2022-01-06 | `Eskenazi Health Foundation` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `Butali` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `Plastipak Holdings, Inc.` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Barlow Respiratory Hospital` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `ROC Mondriaan` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `United Health Centers` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `KESSEL AG` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Karl Bachl GmbH &amp; Co.KG` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `SRH Holding` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Manhasset Union Free School District` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Lufkin Independent School District` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `City of Witten` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Holy Family RC &amp; CE College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Hawthorn The Community Pub Co.` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Pontificia Universidad Javeriana` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `DFL` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Spar` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `D.F. Chase - dfchase.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-06 | `FrenchGourmet` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
