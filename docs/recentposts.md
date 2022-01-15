@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-15 | `PLACON` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-15 | `khattarlaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-15 | `fairnessforall.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-15 | `Shutterfly inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-06 | `Gateway College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `Centre Hospitalier D'Arles` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-06 | `3V Sigma` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-06 | `Eskenazi Health Foundation` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
