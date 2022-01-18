@@ -107,7 +107,7 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](https://rwtracker.level-4.net/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            line = '| [' + group['name'] + '](https://rwtracker.level-4.net/docs/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
 def sidebar():
@@ -184,7 +184,7 @@ def recentpage():
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
-        grouplink = '[' + group + '](https://rwtracker.level-4.net/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://rwtracker.level-4.net/docs/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | `' + title + '` | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
