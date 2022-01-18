@@ -7,3 +7,5 @@ __pycache__
 **settings.json
 source/screenshots/*.png
 source/linkanalysis/*.json
+posts.json
+groups.json
