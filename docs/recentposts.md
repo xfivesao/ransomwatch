@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-18 | `bannerbuzz.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-18 | `Vehicle Service Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-18 | `Hall Cross Academy` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-18 | `Brookson Group - brooksonone.co.uk` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-07 | `rightsys.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-07 | `The Grand Bahama Port Authority` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-07 | `chervongroup.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-07 | `cbibanks.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
