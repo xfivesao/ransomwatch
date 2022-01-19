@@ -2,7 +2,7 @@ name: ransomwatch
 
 on:
   schedule:
-    - cron: '*/50 * * * *'
+    - cron: '*/40 * * * *'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
@@ -11,7 +11,7 @@ on:
 jobs:
   torsocks-job:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 30
     services:
       torproxy:
         image: ghcr.io/xfivesao/ransomwatch/torproxy:latest
