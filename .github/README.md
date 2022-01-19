@@ -30,7 +30,7 @@
   </a>
 </p>
 
-an onionsite scraping framework with the primary intent of tracking ransomware groups
+an onionsite scraping framework with the primary intent of tracking ransomware groups.
 
 running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
 
