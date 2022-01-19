@@ -36,7 +36,7 @@ jobs:
           python3 ransomwatch.py markdown
       - name: save changes
         run: |
-          git config --global user.email "theta-bot@users.noreply.github.com"
-          git config --global user.name "theta-bot"
+          git config --global user.email "devgru@tutanota.com"
+          git config --global user.name "xfivesao"
           git commit --all --message "Updated by RW Tracker Bot" || echo "no changes to commit"
           git push
