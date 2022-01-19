@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-19 | `izo.es ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-18 | `bannerbuzz.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-18 | `Vehicle Service Group` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-01-18 | `Hall Cross Academy` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-07 | `Ballester Hermanos - ballesterhermanos.com` | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |
 | 2022-01-07 | `rightsys.com` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-07 | `The Grand Bahama Port Authority` | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |
-| 2022-01-07 | `chervongroup.co... ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
