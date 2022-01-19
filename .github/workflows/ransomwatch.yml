@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 40
     services:
       torproxy:
-        image: ghcr.io/xfivesao/ransomwatch/torproxy:latest
+        image: ghcr.io/xfivesao/ransomwatch:latest
         ports:
         - 9050:9050
     steps:
