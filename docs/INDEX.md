@@ -8,7 +8,7 @@
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | Marketo | 🟢 |  | jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion |
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | Marketo | 🟢 |  | marketo.cloud |
 | [synack](https://rwtracker.level-4.net/docs/#/profiles?id=synack) | end of game | 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
-| [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) | News | 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
+| [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) | News | 🔴 | 2022-01-20 | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |  | 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | LV Blog | 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | Start-maximized.com | 🔴 | 2021-12-02 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
@@ -60,8 +60,8 @@
 | [pay2key](https://rwtracker.level-4.net/docs/#/profiles?id=pay2key) | Pay2Key Leak Directory! | 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | [aztroteam](https://rwtracker.level-4.net/docs/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://rwtracker.level-4.net/docs/#/profiles?id=lockdata) | LockData Auction | 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 2022-01-20 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
-| [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-20 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
+| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://rwtracker.level-4.net/docs/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://rwtracker.level-4.net/docs/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://rwtracker.level-4.net/docs/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
@@ -103,7 +103,7 @@
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | BLOG | 🔴 | 2021-11-13 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | 54bb47h blog – Data leak blog | 🟢 |  | 54bb47h.blog |
-| [quantum](https://rwtracker.level-4.net/docs/#/profiles?id=quantum) | Quantum Blog | 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
+| [quantum](https://rwtracker.level-4.net/docs/#/profiles?id=quantum) | Quantum Blog | 🔴 | 2022-01-20 | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
 | [medusa](https://rwtracker.level-4.net/docs/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | snatch.press |
