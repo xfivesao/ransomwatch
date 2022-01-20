@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-20 | `bayview.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-20 | `roemer-lueftung.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-20 | `Bank of Indonesia` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-19 | `JCWHITE.COM FILES PART9 - dawn.hartless@jcwhite.com\PROJECTS\MARK FELTINGOFF\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-08 | `MTMRECOGNITION.COM FILES PART9 - 10.0.1.18\EPS\LOGOS\ACCENTS, CORPORATE PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-08 | `SSMSJUSTICE.COM FILES PART14 - D\DOCUMENTS\CIVIL\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-08 | `QUANTUMGROUP.COM FILES PART12 - 7zQUANT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-08 | `MCH-GROUP.COM FILES PART11 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
