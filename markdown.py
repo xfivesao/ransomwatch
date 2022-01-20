@@ -165,7 +165,7 @@ def recentposts(top):
 
 def recentpage():
     '''create a markdown table for the last 100 posts based on the discovered value'''
-    fetching_count = 100
+    fetching_count = 250
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
