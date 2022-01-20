@@ -1,10 +1,10 @@
 
-# RW Tracker <small></small>
+# ransomwatch <small>👀 🦅</small>
 
-> DLS Tracker
+> a darknet blog aggregator
 
 ###### _all site pages and graphs are dynamically generated hourly_
 
-[Aufrufen](#summary)
+[checkout](#summary)
 
 ![color](#000000)
