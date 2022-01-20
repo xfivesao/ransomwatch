@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-20 | `UNICRED` | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
+| 2022-01-20 | `RIVADIS` | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-01-20 | `bayview.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-19 | `Bank of Indonesia` | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-01-19 | `JCWHITE.COM FILES PART9 - dawn.hartless@jcwhite.com\PROJECTS\MARK FELTINGOFF\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2021-12-30 | `Ludwig Pfeiffer Leaked` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `Webhelp's company - XtraSource` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `NEW Links for ADATA` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
-| 2021-12-30 | `ADATA LEAKED` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
-| 2021-12-30 | `GATEWAY Property Management` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
