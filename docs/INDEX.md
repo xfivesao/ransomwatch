@@ -39,10 +39,10 @@
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🔴 | 2022-01-21 | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | [netwalker](https://rwtracker.level-4.net/docs/#/profiles?id=netwalker) |  | 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | [doppelpaymer](https://rwtracker.level-4.net/docs/#/profiles?id=doppelpaymer) | Start-maximized.com | 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
-| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🔴 | 2022-01-21 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
+| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
 | [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🔴 | 2022-01-17 | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) | Everest ransom team | 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
@@ -61,7 +61,7 @@
 | [aztroteam](https://rwtracker.level-4.net/docs/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://rwtracker.level-4.net/docs/#/profiles?id=lockdata) | LockData Auction | 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
-| [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
+| [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-21 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://rwtracker.level-4.net/docs/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://rwtracker.level-4.net/docs/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://rwtracker.level-4.net/docs/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
@@ -122,7 +122,7 @@
 | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
 | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [cryp70n1c0d3](https://rwtracker.level-4.net/docs/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
-| [dread](https://rwtracker.level-4.net/docs/#/profiles?id=dread) | Dread Access Queue | 🔴 | 2022-01-21 | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
+| [dread](https://rwtracker.level-4.net/docs/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
 | [againstthewest](https://rwtracker.level-4.net/docs/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🟢 |  | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
 | [holyghost](https://rwtracker.level-4.net/docs/#/profiles?id=holyghost) | HolyGhost | 🔴 | 2021-12-29 | matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |
 | [nightsky](https://rwtracker.level-4.net/docs/#/profiles?id=nightsky) | Night Sky | 🟢 |  | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |
