@@ -4,6 +4,17 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-21 | `JCWHITE.COM FILES PART10 - jen.shafe@jcwhite.com\Active Projects_gsdata_, AMSI, GQG PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `SLIMSTOCK.COM FILES PART17 - 10.40.11.2, 10.40.11.3, 10.40.11.131 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `MTMRECOGNITION.COM FILES PART13 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `SSMSJUSTICE.COM FILES PART18 - 192.168.1.177\C$\Users\SLF\Desktop, Documents, Downloads PU` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `MCH-GROUP.COM FILES PART15 - 172.16.60.11\DATA\LMS\EXP\EFF\Allgemein Daten\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `EDAN.COM FILES PART14 - 192.168.2.6\E$\人力资源组文件\人事\4.团建&amp;福利 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `DUTTONFIRM.COM FILES PART10 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `BOLTONUSA.COM FILES PART19 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `SWIRESPO.COM FILES PART14 - 172.16.10.166\H$\Files\Data\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `ENPRECIS.COM FILES PART12 - 10.50.21.9\FTPSites\Hyundai\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-01-21 | `en.mkb.bg` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-21 | `Gardenworks` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-21 | `onlinesalespro.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-21 | `efile.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -93,14 +104,3 @@ _last `100` posts_
 | 2022-01-10 | `torann-france.f... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-10 | `securiteassuran... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-10 | `strongwell` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-01-10 | `sonomatic-2` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-01-10 | `regulvar` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-01-10 | `delinebox` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-01-10 | `cle` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-01-09 | `Ezz Steel` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-01-09 | `Detroit Stoker` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-09 | `SAVANNAH State University` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-09 | `Carthage R-9 School District` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-08 | `IT-companies Subex & Sectrio Leaked` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-01-08 | `focusadventure.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-08 | `giovanardi.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
