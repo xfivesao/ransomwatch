@@ -28,7 +28,7 @@
 | [hive](https://rwtracker.level-4.net/docs/#/profiles?id=hive) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | [hive](https://rwtracker.level-4.net/docs/#/profiles?id=hive) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
 | [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
-| [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
+| [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🔴 | 2022-01-22 | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | [grief](https://rwtracker.level-4.net/docs/#/profiles?id=grief) | Grief list | 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | [avaddon](https://rwtracker.level-4.net/docs/#/profiles?id=avaddon) |  | 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |  | 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
@@ -60,7 +60,7 @@
 | [pay2key](https://rwtracker.level-4.net/docs/#/profiles?id=pay2key) | Pay2Key Leak Directory! | 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | [aztroteam](https://rwtracker.level-4.net/docs/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://rwtracker.level-4.net/docs/#/profiles?id=lockdata) | LockData Auction | 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 2022-01-22 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://rwtracker.level-4.net/docs/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://rwtracker.level-4.net/docs/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
@@ -121,7 +121,7 @@
 | [babyduck](https://rwtracker.level-4.net/docs/#/profiles?id=babyduck) |  | 🔴 | 2021-05-01 | babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion |
 | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
 | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
-| [cryp70n1c0d3](https://rwtracker.level-4.net/docs/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
+| [cryp70n1c0d3](https://rwtracker.level-4.net/docs/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🔴 | 2022-01-22 | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
 | [dread](https://rwtracker.level-4.net/docs/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
 | [againstthewest](https://rwtracker.level-4.net/docs/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🟢 |  | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
 | [holyghost](https://rwtracker.level-4.net/docs/#/profiles?id=holyghost) | HolyGhost | 🟢 |  | matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |
