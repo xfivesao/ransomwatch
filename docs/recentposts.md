@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-23 | `peabo` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-23 | `Off Canvas Menu` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-23 | `Header Menu` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-23 | `ipec.ro` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-11 | `Arcese` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-01-11 | `Hensoldt ` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-01-10 | `northsideplumbi... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-10 | `bernheim.org ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
