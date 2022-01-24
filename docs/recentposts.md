@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-24 | `urbandevelop.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-24 | `mfkmakina.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-24 | `cimico.net` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-24 | `kentkonut.com.t... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-24 | `weyers-architek...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-01-12 | `Protected: PRIVATE POST  ITALY` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-12 | `Durham Cathedral Schools Foundation` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-12 | `Butler Community College` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-12 | `XAL` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-01-11 | `TaxNetUSA` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
