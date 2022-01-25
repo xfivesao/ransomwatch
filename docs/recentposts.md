@@ -33,6 +33,7 @@ _last `100` posts_
 | 2022-01-25 | `Bohlke International Airways` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-01-25 | `Advanced Geosciences` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-01-25 | `ANTHONY CATALFANO INTERIORS` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-01-25 | `mtlcraft` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-01-24 | `urbandevelop.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-24 | `mfkmakina.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-24 | `cimico.net` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-15 | `MCH-GROUP.COM FILES PART13 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-15 | `EDAN.COM FILES PART12 - 192.168.2.6\E$\人力资源组文件\人事\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-15 | `DUTTONFIRM.COM FILES PART8 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-15 | `BOLTONUSA.COM FILES PART17 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
