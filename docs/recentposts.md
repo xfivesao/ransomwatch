@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-25 | `Thomson Broadbent` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-01-25 | `Airspan Networks got Leaked` | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |
 | 2022-01-25 | `plainviewmn.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-25 | `mtlcraft` | [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2021-12-30 | `Insignia Environmental company.` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `BIOLOGICAL E. Ltd. (BE) LEAK POST` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `Security breach of Campari Group network` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Security breach of CAPCOM network` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
