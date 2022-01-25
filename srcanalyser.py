@@ -5,6 +5,9 @@ import json
 from bs4 import BeautifulSoup
 from sharedutils import stdlog, dbglog, errlog, honk
 
+if not os.path.exists('source/linkanalysis'):
+    os.makedirs('source/linkanalysis')
+
 for file in os.listdir('source'):
     if file.endswith('.html'):
         stdlog('processing file: ' + file)
