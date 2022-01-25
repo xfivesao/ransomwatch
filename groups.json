@@ -447,6 +447,8 @@
             }
         ],
         "profile": [
+            "v-society.official@onionmail.org",
+            "ViceSociety@onionmail.org",
             "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
         ]
     },
@@ -1236,6 +1238,7 @@
             }
         ],
         "profile": [
+            "BlackByteSupp0rt@onionmail.org",
             "https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/",
             "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/",
             "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
