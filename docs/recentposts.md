@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-25 | `Airspan Networks got Leaked` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-01-25 | `Vermeer Southeast` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-01-25 | `Unita Locale Socio` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-01-25 | `The British Columbia Institute Of Technology` | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-15 | `SSMSJUSTICE.COM FILES PART16 - D\DOCUMENTS\CIVIL\Ambuul_Sanders (Becky)\Discovery\P's Disc` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-15 | `MCH-GROUP.COM FILES PART13 - 172.16.60.11\DATA\LMS\EXP\EFF\Administration\09_VIDEOS\Standv` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-15 | `EDAN.COM FILES PART12 - 192.168.2.6\E$\人力资源组文件\人事\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-15 | `DUTTONFIRM.COM FILES PART8 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
