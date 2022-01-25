@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-25 | `mtlcraft` | [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) |
 | 2022-01-24 | `mfkmakina.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-24 | `kentkonut.com.t... ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-23 | `Off Canvas Menu` | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2021-12-30 | `Security breach of CAPCOM network` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `LEAK post FINSA` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
 | 2021-12-30 | `LEAK Post CAPCOM` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
-| 2021-12-30 | `Ragnar_Team Announce of Potential "WallofShamer"` | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |
