@@ -34,6 +34,7 @@
 | [avaddon](https://rwtracker.level-4.net/docs/#/profiles?id=avaddon) |  | 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |  | 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
 | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) | Vice Society - Official Site | 🟢 |  | vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |
+| [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) | there is nothing... | 🟢 |  | ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion |
 | [xinglocker](https://rwtracker.level-4.net/docs/#/profiles?id=xinglocker) | 星Team News | 🔴 | 2022-01-24 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | [darkside](https://rwtracker.level-4.net/docs/#/profiles?id=darkside) |  | 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | rgleak7op734elep.onion |
@@ -49,7 +50,7 @@
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
-| [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continews.click |
+| [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🔴 | 2022-01-26 | continews.click |
 | [pysa](https://rwtracker.level-4.net/docs/#/profiles?id=pysa) | Pysa's Partners | 🟢 |  | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | [nefilim](https://rwtracker.level-4.net/docs/#/profiles?id=nefilim) |  | 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | [maze](https://rwtracker.level-4.net/docs/#/profiles?id=maze) |  | 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
@@ -118,6 +119,7 @@
 | [aGl0bGVyCg](https://rwtracker.level-4.net/docs/#/profiles?id=aGl0bGVyCg) | Error Response Page | 🔴 | 2022-01-25 | hitleransomware.cf |
 | [rook](https://rwtracker.level-4.net/docs/#/profiles?id=rook) | We Are Rook!!! | 🟢 |  | gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |
 | [unknown](https://rwtracker.level-4.net/docs/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion |
+| [unknown](https://rwtracker.level-4.net/docs/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |
 | [rransom](https://rwtracker.level-4.net/docs/#/profiles?id=rransom) |  | 🔴 | 2022-01-06 | t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion |
 | [babyduck](https://rwtracker.level-4.net/docs/#/profiles?id=babyduck) |  | 🔴 | 2021-05-01 | babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion |
 | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
