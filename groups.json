@@ -422,7 +422,7 @@
     {
         "name": "vicesociety",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": true,
         "meta": "ecdmr42axxx.onion - fileserver",
