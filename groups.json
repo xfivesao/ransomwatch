@@ -422,10 +422,10 @@
     {
         "name": "vicesociety",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": true,
-        "meta": null,
+        "meta": "ecdmr42axxx.onion - fileserver",
         "locations": [
             {
                 "fqdn": "4hzyuotli6maqa4u.onion",
@@ -444,9 +444,20 @@
                 "available": true,
                 "updated": "2022-01-26 09:53:28.889784",
                 "lastscrape": "2022-01-26 09:53:28.889732"
+              },
+          {
+              "fqdn": "ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
+              "title": null,
+              "version": 3,
+              "slug": "http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
+              "available": false,
+              "updated": null,
+              "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
+            "v-society.official@onionmail.org",
+            "ViceSociety@onionmail.org",
             "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
         ]
     },
@@ -1236,6 +1247,7 @@
             }
         ],
         "profile": [
+            "BlackByteSupp0rt@onionmail.org",
             "https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/",
             "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/",
             "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
@@ -2092,7 +2104,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "nodes or hosts with no current attribution or identification",
         "locations": [
             {
                 "fqdn": "tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion",
@@ -2102,6 +2114,15 @@
                 "available": false,
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000"
+              },
+         {
+             "fqdn": "darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion",
+             "title": null,
+             "version": 3,
+             "slug": "http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion",
+             "available": false,
+             "updated": null,
+             "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
