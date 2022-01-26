@@ -199,7 +199,7 @@ def xinglocker():
         errlog('xinglocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'xinglocker')
-
+    
 def ragnarlocker():
     stdlog('parser: ' + 'ragnarlocker')
     json_parser = '''
@@ -247,7 +247,7 @@ def ragnarok():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('ragnarok: ' + 'parsing fail')
+        errlog('ragnarok: ' + 'parsing fail')    
     for post in posts:
         appender(post, 'ragnarok')
 
@@ -262,7 +262,7 @@ def conti():
         errlog('conti: ' + 'parsing fail')
     for post in posts:
         appender(post, 'conti')
-
+    
 def pysa():
     stdlog('parser: ' + 'pysa')
     parser = '''
@@ -283,7 +283,7 @@ def nefilim():
     if len(posts) == 1:
         errlog('nefilim: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'nefilim')
+        appender(post, 'nefilim') 
 
 def mountlocker():
     stdlog('parser: ' + 'mountlocker')
@@ -306,7 +306,7 @@ def babuklocker():
         errlog('babuklocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'babuklocker')
-
+    
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')
     parser = '''
@@ -362,7 +362,7 @@ def lockdata():
         errlog('lockdata: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockdata')
-
+    
 def blacktor():
     stdlog('parser: ' + 'blacktor')
     # sed -n '/tr/{n;p;}' source/bl@cktor-*.html | grep 'td' | cut -d '>' -f2 | cut -d '<' -f1
@@ -374,7 +374,7 @@ def blacktor():
         errlog('blacktor: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blacktor')
-
+    
 def darkleakmarket():
     stdlog('parser: ' + 'darkleakmarket')
     parser = '''
@@ -484,7 +484,7 @@ def atomsilo():
         errlog('atomsilo: ' + 'parsing fail')
     for post in posts:
         appender(post, 'atomsilo')
-
+        
 def lv():
     stdlog('parser: ' + 'lv')
     parser = '''
