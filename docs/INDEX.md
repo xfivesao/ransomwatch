@@ -22,12 +22,11 @@
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |
-| [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | Apple TV
- | 🔴 | 2022-01-25 | lockbitapt.uz |
+| [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | Start-maximized.com | 🔴 | 2022-01-19 | lockbitapt.uz |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |
-| [hive](https://rwtracker.level-4.net/docs/#/profiles?id=hive) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| [hive](https://rwtracker.level-4.net/docs/#/profiles?id=hive) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
 | [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | [grief](https://rwtracker.level-4.net/docs/#/profiles?id=grief) | Grief list | 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
@@ -112,11 +111,11 @@
 | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) | Info | 🟢 |  | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🟢 |  | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://rwtracker.level-4.net/docs/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
-| [moses](https://rwtracker.level-4.net/docs/#/profiles?id=moses) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
-| [moses](https://rwtracker.level-4.net/docs/#/profiles?id=moses) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
+| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
+| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) | CoomingProject announcement | 🔴 | 2021-12-24 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
-| [aGl0bGVyCg](https://rwtracker.level-4.net/docs/#/profiles?id=aGl0bGVyCg) | Error Response Page | 🔴 | 2022-01-25 | hitleransomware.cf |
+| [aGl0bGVyCg](https://rwtracker.level-4.net/docs/#/profiles?id=aGl0bGVyCg) |  | 🔴 | 2021-05-01 | hitleransomware.cf |
 | [rook](https://rwtracker.level-4.net/docs/#/profiles?id=rook) | We Are Rook!!! | 🟢 |  | gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |
 | [unknown](https://rwtracker.level-4.net/docs/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion |
 | [unknown](https://rwtracker.level-4.net/docs/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |
