@@ -108,7 +108,7 @@ _parsing : `enabled`_
 
 ## lv
 
-_parsing : `disabled`_
+_parsing : `enabled`_
 
 _`parser needs to be built`_
 
@@ -734,9 +734,11 @@ _parsing : `enabled`_
 | `urbandevelop.co...` | 24/01/2022 |
 | `plainviewmn.com ` | 25/01/2022 |
 
-## hive
+## hiveleak
 
 _parsing : `enabled`_
+
+_`aka hive`_
 
 > fetching this site requires a headless browser for javascript processing
 
@@ -753,6 +755,61 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
+| `Raveco` | 18/12/2021 |
+| `GryphTech` | 18/12/2021 |
+| `MediaMarkt` | 18/12/2021 |
+| `Grupo5` | 18/12/2021 |
+| `APR Supply` | 18/12/2021 |
+| `XacBank` | 18/12/2021 |
+| `WAMGROUP` | 18/12/2021 |
+| `Aria Systems` | 18/12/2021 |
+| `EMCO` | 18/12/2021 |
+| `KBM UK` | 18/12/2021 |
+| `GK.NO` | 18/12/2021 |
+| `Ospray Video` | 18/12/2021 |
+| `W.H. Stovall` | 18/12/2021 |
+| `Net Ninjas` | 18/12/2021 |
+| `GURTEEN` | 18/12/2021 |
+| `SS Design` | 18/12/2021 |
+| `IBC24 News` | 18/12/2021 |
+| `HI FLY` | 18/12/2021 |
+| `Mega Vision` | 18/12/2021 |
+| `Altus Group` | 18/12/2021 |
+| `Madix Inc` | 20/12/2021 |
+| `WOLSEY` | 20/12/2021 |
+| `Metro.Us` | 28/12/2021 |
+| `Ezz Steel` | 09/01/2022 |
+| `RIVADIS` | 20/01/2022 |
+| `UNICRED` | 20/01/2022 |
+| `ANTHONY CATALFANO INTERIORS` | 25/01/2022 |
+| `Advanced Geosciences` | 25/01/2022 |
+| `Bohlke International Airways` | 25/01/2022 |
+| `Brakke Asbestsanering BV` | 25/01/2022 |
+| `Brinkman Turkey Farms` | 25/01/2022 |
+| `Claro Colombia` | 25/01/2022 |
+| `ConForm Automotive` | 25/01/2022 |
+| `Creative Liquid Coatings INC` | 25/01/2022 |
+| `Erik Buell Racing` | 25/01/2022 |
+| `Family Christian Health Center` | 25/01/2022 |
+| `Florida Sugar Cane League` | 25/01/2022 |
+| `Greenway Health` | 25/01/2022 |
+| `Haselden Construction` | 25/01/2022 |
+| `Johnson Memorial Health` | 25/01/2022 |
+| `Macquarie Health Corporation` | 25/01/2022 |
+| `Marten Transport` | 25/01/2022 |
+| `Mele Printing` | 25/01/2022 |
+| `Montour School District` | 25/01/2022 |
+| `Northern Financial Services` | 25/01/2022 |
+| `Powell Transportation` | 25/01/2022 |
+| `Résidence Les Chtaigniers` | 25/01/2022 |
+| `Ryan Companies` | 25/01/2022 |
+| `Sadbhav Engineering Limited` | 25/01/2022 |
+| `Sardinha Family Trust` | 25/01/2022 |
+| `Schuldnerberatung Ostfriesland e. V.` | 25/01/2022 |
+| `Sutterfield Financial Group` | 25/01/2022 |
+| `The British Columbia Institute Of Technology` | 25/01/2022 |
+| `Unita Locale Socio` | 25/01/2022 |
+| `Vermeer Southeast` | 25/01/2022 |
 
 ## arvinclub
 
@@ -3469,7 +3526,7 @@ _parsing : `disabled`_
 
 ## sabbath
 
-_parsing : `disabled`_
+_parsing : `enabled`_
 
 - https://www.mandiant.com/resources/sabbath-ransomware-affiliate
 
@@ -3499,7 +3556,7 @@ _parsing : `disabled`_
 
 ## quantum
 
-_parsing : `disabled`_
+_parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
@@ -3655,7 +3712,7 @@ _parsing : `enabled`_
 |---|---|
 | `Besson Seguros` | 06/12/2021 |
 
-## moses
+## mosesstaff
 
 _parsing : `enabled`_
 
@@ -3678,6 +3735,22 @@ _`not a ransomware group`_
 
 | post | date |
 |---|---|
+| `This is just the beginning` | 18/12/2021 |
+| `3D imagery of israel` | 18/12/2021 |
+| `Unit 8200` | 18/12/2021 |
+| `MATITIAHU BRUCHIM Law office` | 18/12/2021 |
+| `V-ON` | 18/12/2021 |
+| `AHEC Tax Solutions` | 18/12/2021 |
+| `H.G.M Engineering` | 18/12/2021 |
+| `David Engineers` | 18/12/2021 |
+| `Ehud Leviathan Engineering` | 18/12/2021 |
+| `First part of Epsilor data leaked` | 18/12/2021 |
+| `Israel MOD and Benny Gantz` | 18/12/2021 |
+| `First part of Israel Post data leaked` | 18/12/2021 |
+| `Epsilor Company` | 18/12/2021 |
+| `DOSIK Technology` | 18/12/2021 |
+| `Meshulam` | 18/12/2021 |
+| `Electron Csillag` | 18/12/2021 |
 
 ## cooming
 
@@ -3871,7 +3944,7 @@ _parsing : `disabled`_
 
 ## nightsky
 
-_parsing : `disabled`_
+_parsing : `enabled`_
 
 - https://t.me/arvin_club/5081
 

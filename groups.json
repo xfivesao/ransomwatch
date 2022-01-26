@@ -119,7 +119,7 @@
     {
         "name": "lv",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": true,
         "meta": "parser needs to be built",
@@ -295,12 +295,12 @@
         ]
     },
     {
-        "name": "hive",
+        "name": "hiveleak",
         "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": true,
-        "meta": null,
+        "meta": "aka hive",
         "locations": [
             {
                 "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
@@ -1827,7 +1827,7 @@
     {
         "name": "sabbath",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
@@ -1858,7 +1858,7 @@
     {
         "name": "quantum",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
@@ -1993,7 +1993,7 @@
         ]
     },
     {
-        "name": "moses",
+        "name": "mosesstaff",
         "captcha": false,
         "parser": true,
         "geckodriver": false,
@@ -2286,7 +2286,7 @@
     {
         "name": "nightsky",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
