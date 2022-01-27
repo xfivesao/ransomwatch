@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-27 | `optimissa.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-26 | `JCWHITE.COM FILES PART11 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-26 | `SLIMSTOCK.COM FILES PART18 - 10.40.10.227, 10.40.11.34, 10.40.11.66, 10.40.12.98 PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-26 | `MTMRECOGNITION.COM FILES PART14 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-01-01 | `empireins.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-01 | `aulss6.veneto.i... ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-01 | `CED Group` | [alphav](https://rwtracker.level-4.net/docs/#/profiles?id=alphav) |
-| 2022-01-01 | `summit-christia...` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
