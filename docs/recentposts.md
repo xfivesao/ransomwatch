@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-27 | `Mab Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-01-27 | `elmonterv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `Optionis` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-27 | `Florida lawyer&#8217;s data leaked` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-27 | `estpm.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-01-19 | `ENPRECIS.COM FILES PART11 - 10.50.21.9\FTPSites\Hyundai\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-19 | `AFG Canada` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-19 | `harrisshelton.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-19 | `izo.es ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-18 | `bannerbuzz.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
