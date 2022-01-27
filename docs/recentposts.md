@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-27 | `owenscarolina.c...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `optimissa.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-26 | `JCWHITE.COM FILES PART11 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-26 | `SLIMSTOCK.COM FILES PART18 - 10.40.10.227, 10.40.11.34, 10.40.11.66, 10.40.12.98 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-26 | `MTMRECOGNITION.COM FILES PART14 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-01-16 | `Redbadge` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-01-15 | `JALEEL TRADERS LLC` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-01-15 | `PLACON` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-01-15 | `khattarlaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-15 | `fairnessforall.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
