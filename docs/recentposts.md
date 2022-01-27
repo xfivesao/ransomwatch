@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-27 | `Florida lawyer&#8217;s data leaked` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-01-27 | `estpm.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `girlguidinglase... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `justice.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-19 | `izo.es ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-18 | `bannerbuzz.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-18 | `Vehicle Service Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-01-18 | `Hall Cross Academy` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
