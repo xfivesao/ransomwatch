@@ -4,6 +4,16 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-27 | `estpm.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `girlguidinglase... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `justice.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `heubeck.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `saintcloud.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `joda.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `ambau-team.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `laponte.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `vbhlaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-01-27 | `isnardi.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `owenscarolina.c...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `optimissa.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-26 | `JCWHITE.COM FILES PART11 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -94,13 +104,3 @@ _last `100` posts_
 | 2022-01-18 | `bannerbuzz.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-18 | `Vehicle Service Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-18 | `Hall Cross Academy` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-01-18 | `Brookson Group - brooksonone.co.uk` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-18 | `huntsville4rent... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-18 | `crossroadshealth lake` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2022-01-17 | `Moncler` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-16 | `Private Company` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-01-16 | `centralbankfl.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-16 | `Partnership` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-01-16 | `Redbadge` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
-| 2022-01-15 | `JALEEL TRADERS LLC` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2022-01-15 | `PLACON` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
