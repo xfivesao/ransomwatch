@@ -5,14 +5,14 @@
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) |  | 🔴 | 2021-05-01 | marketojbwagqnwx.onion |
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) |  | 🔴 | 2021-05-01 | g5sbltooh2okkcb2.onion |
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | 404 Not Found | 🔴 | 2021-10-04 | fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |
-| [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | Marketo | 🔴 | 2022-01-28 | jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion |
+| [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | Marketo | 🟢 |  | jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion |
 | [marketo](https://rwtracker.level-4.net/docs/#/profiles?id=marketo) | Marketo | 🟢 |  | marketo.cloud |
 | [synack](https://rwtracker.level-4.net/docs/#/profiles?id=synack) | end of game | 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
 | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) | News | 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |  | 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | LV Blog | 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | Start-maximized.com | 🔴 | 2021-12-02 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) | Lorenz | 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) | Lorenz | 🔴 | 2022-01-28 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LOCKFILE | 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
@@ -49,7 +49,7 @@
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
-| [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continews.click |
+| [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🔴 | 2022-01-28 | continews.click |
 | [pysa](https://rwtracker.level-4.net/docs/#/profiles?id=pysa) | Pysa's Partners | 🟢 |  | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | [nefilim](https://rwtracker.level-4.net/docs/#/profiles?id=nefilim) |  | 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | [maze](https://rwtracker.level-4.net/docs/#/profiles?id=maze) |  | 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
@@ -112,7 +112,7 @@
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🟢 |  | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://rwtracker.level-4.net/docs/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
 | [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
-| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) | WordPress › Error | 🟢 |  | moses-staff.se |
+| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) | CoomingProject announcement | 🔴 | 2021-12-24 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | [aGl0bGVyCg](https://rwtracker.level-4.net/docs/#/profiles?id=aGl0bGVyCg) |  | 🔴 | 2021-05-01 | hitleransomware.cf |
