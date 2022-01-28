@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-28 | `CIG de la Grande Couronne` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-01-27 | `Mab Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-01-27 | `elmonterv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `Optionis` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-19 | `SWIRESPO.COM FILES PART13 - 172.16.10.166\H$\Files\Data\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-19 | `ENPRECIS.COM FILES PART11 - 10.50.21.9\FTPSites\Hyundai\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-19 | `AFG Canada` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-01-19 | `harrisshelton.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
