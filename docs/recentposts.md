@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-28 | `KCA Deutag` | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-01-28 | `morganskenderia...` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-28 | `CIG de la Grande Couronne` | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
 | 2022-01-27 | `Mab Group` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-01-05 | `SWIRESPO.COM FILES PART9 - 172.16.10.166\H$\Files\Accounts\A01_FD Team\Russian JV\Server B` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-05 | `ENPRECIS.COM FILES PART7 - COMMON, VWM, VWUSA PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-05 | `dusa.com.ve` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-01-05 | `bennetts.com.au` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
