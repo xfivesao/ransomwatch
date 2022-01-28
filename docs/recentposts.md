@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-28 | `CIG de la Grande Couronne` | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
 | 2022-01-27 | `Mab Group` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-01-27 | `elmonterv.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-27 | `Optionis` | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-01-05 | `dusa.com.ve` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-05 | `bennetts.com.au` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-01-05 | `snapmga.com ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-01-05 | `bricofer.it ` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
