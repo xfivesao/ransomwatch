@@ -15,7 +15,7 @@
 | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) | Lorenz | 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LOCKFILE | 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
-| [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
+| [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit Anti-DDos protection | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
 | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |
 | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |
 | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |
@@ -61,7 +61,7 @@
 | [pay2key](https://ransomwatch.telemetry.ltd/#/profiles?id=pay2key) | Pay2Key Leak Directory! | 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | [aztroteam](https://ransomwatch.telemetry.ltd/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://ransomwatch.telemetry.ltd/#/profiles?id=lockdata) | LockData Auction | 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| [blacktor](https://ransomwatch.telemetry.ltd/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 2022-01-29 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | [haron](https://ransomwatch.telemetry.ltd/#/profiles?id=haron) | Clients page | 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://ransomwatch.telemetry.ltd/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
@@ -112,7 +112,7 @@
 | [entropy](https://ransomwatch.telemetry.ltd/#/profiles?id=entropy) | Entropy hall of fall | 🟢 |  | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://ransomwatch.telemetry.ltd/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
 | [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
-| [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🔴 | 2022-01-29 | moses-staff.se |
+| [mosesstaff](https://ransomwatch.telemetry.ltd/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
 | [cooming](https://ransomwatch.telemetry.ltd/#/profiles?id=cooming) | CoomingProject announcement | 🔴 | 2021-12-24 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](https://ransomwatch.telemetry.ltd/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | [aGl0bGVyCg](https://ransomwatch.telemetry.ltd/#/profiles?id=aGl0bGVyCg) |  | 🔴 | 2021-05-01 | hitleransomware.cf |
