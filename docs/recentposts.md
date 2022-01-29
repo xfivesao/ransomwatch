@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-29 | `lhotellerie-restauration.fr` | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) |
 | 2022-01-29 | `JCWHITE.COM FILES PART12 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-29 | `SLIMSTOCK.COM FILES PART19 - 10.40.10.99, 10.40.10.130, 10.40.10.162 PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-01-29 | `MTMRECOGNITION.COM FILES PART15 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-01-06 | `DURA - Innovation Driven by Inspiration` | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-01-05 | `Premium Transportation Group` | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-01-05 | `JCWHITE.COM FILES PART5 - alyssa.jones@jcwhite.com\PROJECTS\ PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
-| 2022-01-05 | `SLIMSTOCK.COM FILES PART12 - 10.40.13.98, 10.40.13.66, 10.40.12.34 PUBLISHED` | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
