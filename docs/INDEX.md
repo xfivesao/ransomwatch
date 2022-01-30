@@ -50,7 +50,7 @@
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
 | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) | CONTI.News | 🟢 |  | continews.click |
-| [pysa](https://rwtracker.level-4.net/docs/#/profiles?id=pysa) | Pysa's Partners | 🟢 |  | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
+| [pysa](https://rwtracker.level-4.net/docs/#/profiles?id=pysa) | Pysa's Partners | 🔴 | 2022-01-30 | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | [nefilim](https://rwtracker.level-4.net/docs/#/profiles?id=nefilim) |  | 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | [maze](https://rwtracker.level-4.net/docs/#/profiles?id=maze) |  | 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | [mount-locker](https://rwtracker.level-4.net/docs/#/profiles?id=mount-locker) |  | 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
