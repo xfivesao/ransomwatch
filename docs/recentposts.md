@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-01-31 | `Maple Lodge Farms` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-01-31 | `yazaki-group.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-31 | `iveqi.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-31 | `gunninglafazia....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-31 | `heubeck.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-01-30 | `abcp.org.br                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-30 | `nrpa.org                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-30 | `51talk.com                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-30 | `drsdoors.com                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-30 | `noone.com.au                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
