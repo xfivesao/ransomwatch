@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-01 | `SVA Jean Rozé - sva-jeanroze.fr` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-02-01 | `51talk.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `iibg.ca` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `maisonlaprise` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-30 | `remedios.lawyer                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-30 | `hpe-konstanz.de                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-30 | `cheadlelaw.com                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-01-30 | `tesa46.com                        ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
