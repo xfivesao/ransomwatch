@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-02 | `Altoona Area School District` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-02-02 | `CGT S.p.A. - cgt.it` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-02-02 | `JCWHITE.COM FILES PART13 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `SLIMSTOCK.COM FILES PART20 - 10.30.12.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `hybuilding.com....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `cobabebrothers....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `riversidetwp.or...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `hoffsuemmer.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
