@@ -4,6 +4,16 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-02 | `JCWHITE.COM FILES PART13 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `SLIMSTOCK.COM FILES PART20 - 10.30.12.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `MTMRECOGNITION.COM FILES PART16 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `SSMSJUSTICE.COM FILES PART21 - 192.168.1.248\D\SHARES\CLOSED CASES\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `MCH-GROUP.COM FILES PART18 - 172.16.60.11\DATA\LMS\EXP\EFF\Allgemein Daten\IT\Marketing_ol` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `EDAN.COM FILES PART17 - 192.168.2.12\D$\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `DUTTONFIRM.COM FILES PART13 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `BOLTONUSA.COM FILES PART22 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Baltimore Cou` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `SWIRESPO.COM FILES PART17 - 172.16.10.166\H$\Files\HR\HR Delivery\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-02 | `ENPRECIS.COM FILES PART15 - 10.50.21.10\DataExchange\outgoing PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `Overseas Travel Agency` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-02 | `wolfbergal` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `ci.hercules.ca....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -94,13 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `riversidetwp.or...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `hoffsuemmer.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `hitrac-engineer...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `uvisionuav.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `wataniaind.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `alwatania.sa` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `uslogic.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `ferrolabella.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `zgoda.net` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `thefoxhillclub....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `peabodyproperti...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `bataviacontaine...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `madejwrobel.pl` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
