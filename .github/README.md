@@ -43,6 +43,18 @@ curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
 
+## contributions 
+
+#### forks
+
+- [xfivesao/ransomwatch](https://github.com/xfivesao/ransomwatch)
+- [kOr3s/ransomwatch](https://github.com/kOr3s/ransomwatch)
+- [JMousqueton/ransomwatch](https://github.com/JMousqueton/ransomwatch)
+
+#### visualisers
+
+- [JDL-84/RansomWatchViewer](https://github.com/JDL-84/RansomWatchViewer)
+
 ## technicals
 
 [torproxy](https://github.com/thetanz/gotham) from the [**thetanz/gotham** registry](https://github.com/thetanz/gotham/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/thetanz/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
