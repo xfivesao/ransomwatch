@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-04 | `shoesforcrews` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-02-04 | `edgo` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-02-04 | `cmmcpas` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-02-04 | `Ourense do Bras...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-04 | `siamdial.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `nfcaa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `fivestarproduct...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `udmercy.edu` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -99,8 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `riviana.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `barreaudecharle...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `hoistcrane.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `jaykaltrading.c...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `atsgruppo.eu` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `generalplumbing...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `isvo.it` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `kacyumara.com.b...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
