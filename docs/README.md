@@ -8,7 +8,7 @@ currently tracking `88` groups across `128` relays & mirrors - _`51` currently o
 
 🦈 there have been `322` posts within the `month of february`
 
-🪐 there have been `1607` posts within the `last 90 days`
+🪐 there have been `1606` posts within the `last 90 days`
 
 🏚 there have been `924` posts within the `year of 2022`
 
