@@ -3,6 +3,7 @@
 '''
 screenshot up hosts using selenium w/firefox webdriver
 '''
+import os
 import requests
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
@@ -70,6 +71,8 @@ def main():
                 screenshotpng = screenshot(webpage['slug'])
                 if screenshotpng:
                     outfile = 'source/screenshots/' + webpage['fqdn'].replace('.', '-') + '.png'
+                    if not os.path.exists(os.path.dirname(outfile)):
+                        os.makedirs(os.path.dirname(outfile))
                     with open(outfile, 'wb') as f:
                         f.write(screenshotpng)
                 else:

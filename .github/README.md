@@ -30,7 +30,7 @@
   </a>
 </p>
 
-an onionsite scraping framework with the primary intent of tracking ransomware groups.
+an onionsite scraping framework with the primary intent of tracking ransomware groups
 
 running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
 
@@ -42,6 +42,18 @@ missing a group ? try the [_issue template_](https://github.com/thetanz/ransomwa
 curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
+
+## contributions
+
+#### forks
+
+- [xfivesao/ransomwatch](https://github.com/xfivesao/ransomwatch)
+- [kOr3s/ransomwatch](https://github.com/kOr3s/ransomwatch)
+- [JMousqueton/ransomwatch](https://github.com/JMousqueton/ransomwatch)
+
+#### visualisers
+
+- [JDL-84/RansomWatchViewer](https://github.com/JDL-84/RansomWatchViewer)
 
 ## technicals
 
