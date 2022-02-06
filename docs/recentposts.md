@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-06 | `sapulpaps.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `se.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `JCWHITE.COM FILES PART14 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `SLIMSTOCK.COM FILES PART21 - 10.30.10.29\D$\Userdir\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `barolit.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `soenen-golfkart...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `remedios.lawyer` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `hpe-konstanz.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
