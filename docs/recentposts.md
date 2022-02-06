@@ -4,6 +4,16 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-06 | `JCWHITE.COM FILES PART14 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `SLIMSTOCK.COM FILES PART21 - 10.30.10.29\D$\Userdir\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `MTMRECOGNITION.COM FILES PART17 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `SSMSJUSTICE.COM FILES PART22 - 192.168.1.248\D\SHARES\CLOSED CASES\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `MCH-GROUP.COM FILES PART19 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Hong` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `EDAN.COM FILES PART18 - 192.168.2.12\D$\超声产品室\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `DUTTONFIRM.COM FILES PART14 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `BOLTONUSA.COM FILES PART23 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Baltimore Cou` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `SWIRESPO.COM FILES PART18 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-06 | `ENPRECIS.COM FILES PART16 - 10.50.32.4\FTP\CO-FTP.VITALINSIGHTS.COM\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `watermark` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `maketherightcall.com hk-callcentre` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
 | 2022-02-05 | `Consumers Supply Distributing LLC` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
@@ -94,13 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `remedios.lawyer` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `hpe-konstanz.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `tesa46.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `comebi.mx` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `suenco.co.th` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `royalporcelain....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `novohamburgo.rs...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `mitchellsternla...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `coldwellbankerh...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `novotech.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `abcp.org.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `drsdoors.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `noone.com.au` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
