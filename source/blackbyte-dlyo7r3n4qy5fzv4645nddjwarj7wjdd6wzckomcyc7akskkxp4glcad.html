@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1644268712" rel="stylesheet">
+    <link href="/blog.css?v=1644272299" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1644268712"></script>
+    <script src="/script.js?v=1644272299"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,186 @@
 
         <script>
 
+            var proof_img_block6 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof6(){
+                if(showed6 === 0){
+                    showed6 = 1;
+                    $("#target_6 .proof_block").html(proof_img_block6).slideDown(400);
+                }else{
+                    showed6 = 0;
+                    $("#target_6 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons6(){
+                if(showed_d_buttons6 === 0){
+                    showed_d_buttons6 = 1;
+                    $("#target_6 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons6 = 0;
+                    $("#target_6 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed6 = 0;
+            var showed_d_buttons6 = 0;
+            var HAPPYSEC6 = 1777301;
+            var t_sec6 = HAPPYSEC6;
+
+            var time6;
+            var intervalId6=0;
+
+
+            $(document).ready(function () {
+
+                intervalId6 = setInterval(function (){
+                    timerDecrement6();
+                }, 1000);
+            });
+
+
+            function timerDecrement6() {
+                time6 = $('#target_6 span.timer');
+
+                if(t_sec6 < 1){
+                    t_sec6 = 0;
+                    newTime = t_sec6 ;
+                }else{
+                    newTime = t_sec6 - 1;
+                }
+
+
+                t_sec6 = newTime;
+
+                var t_min = t_sec6 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec6 % 60)+ '</b> ';
+
+                time6.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC6 > 0 || newTime < 1){
+
+                    time6.html('');
+                    $("#target_6 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_6 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_6 .btn2").addClass("redbg");
+                    $("#target_6 .arrow-8").addClass("r8");
+                    $("#target_6 .perc").html("100%");
+
+                    clearInterval(intervalId6);
+                    GetDownloadLink(6,$("#target_6 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_6">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Prince Jewellery & Watch Co., Ltd.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Prince Jewellery & Watch was founded in 1984 by Dr. Tang Kui Ming, JP, Chairman and Chief Executive Officer of the Group. It has been standing in Hong Kong for more than 30 years and now has 18 retail stores in Hong Kong.
+
+Prince Jewellery & Watch Headquarters is located at Choi Sing Centre, Nathan Road, Tsim Sha Tsui. The stores are decorated with elegance and grandeur, and represent more than 50 top brand watches from all over the world, 
+including Piaget, Cartier, FRANCK MULLER, Vacheron Constantin, Chopard, Omega, Breguet, Jaeger-LeCoultre, Longines, Bucherer, IWC, etc.
+
+In addition to acting as an agent for the world's top brand watches and clocks, 
+Prince Jewellery and Watches also has a special jewellery counter, 
+with diamonds and gemstones inlaid with jewellery series, 
+which are novel in style, noble and elegant, and full of luxury. In 2012, 
+Leo Schachter Diamonds, the world's leading diamond supplier, jointly developed the Peony 88 Petal Cut with Prince Jewellery and Watch Company, 
+and established the Peonia Diamond brand. . Peonia Diamond carefully selects the highest quality diamonds, adopts the exclusive peony flower 88-petal cutting method technology, 
+and uses a combination of carefully designed cutting surfaces to increase the brightness, fire and sparkle of the diamond, perfectly presenting the flower of the royal family The magnificent form of peony. 
+Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affiliated companies in Hong Kong, China, Macau and Taiwan.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">?</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.princejewellerywatch.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ ? </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>?</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple  " onclick="ShowDButtons6()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/X6ud17G1x9/Acc_Purchase_zip" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                461.07MB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block5 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +346,7 @@
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = 1435288;
+            var HAPPYSEC5 = 1431701;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -338,7 +518,7 @@ all of which are located in North America.                </p>
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -1081112;
+            var HAPPYSEC4 = -1084699;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -517,7 +697,7 @@ all of which are located in North America.                </p>
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -206312;
+            var HAPPYSEC3 = -209899;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -687,7 +867,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -292712;
+            var HAPPYSEC2 = -296299;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -855,7 +1035,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -292712;
+            var HAPPYSEC1 = -296299;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
