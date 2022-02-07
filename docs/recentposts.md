@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-07 | `NZ UNIFORMS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-07 | `Athens Distributing Company` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-07 | `KP SNACKS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-07 | `MSH Steuerberatungsgesellschaft` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-06 | `sapulpaps.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `se.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `JCWHITE.COM FILES PART14 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `nutrix.co.th` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `yakimacoop.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `riscossa.it` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `ch13bham.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `barolit.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `soenen-golfkart...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `remedios.lawyer` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
