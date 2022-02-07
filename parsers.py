@@ -595,18 +595,18 @@ def mosesstaff():
     for post in posts:
         appender(post, 'mosesstaff')
 
-def alphav():
-    stdlog('parser: ' + 'alphav')
-    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
+def alphv():
+    stdlog('parser: ' + 'alphv')
+    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
     parser = '''
-    jq -r '.items[].title' source/alphav-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    jq -r '.items[].title' source/alphv-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('alphav: ' + 'parsing fail')
+        errlog('alphv: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'alphav')
+        appender(post, 'alphv')
 
 def nightsky():
     stdlog('parser: ' + 'nightsky')

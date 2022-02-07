@@ -2179,7 +2179,7 @@
         ]
     },
     {
-        "name": "alphav",
+        "name": "alphv",
         "captcha": false,
         "parser": true,
         "geckodriver": false,
