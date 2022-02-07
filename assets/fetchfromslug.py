@@ -42,10 +42,10 @@ for group in groups:
                 print(host['slug'] + str(args.slug))
             else:
                 logging.debug('{} {}'.format(host['title'], r.status_code))
-        except requests.exceptions.RequestException as e:
-            logging.error('{} {}'.format(host['title'], 'request exception'))
         except requests.exceptions.ConnectionError:
             logging.error('{} {}'.format(host['title'], 'connection error'))
+        except requests.exceptions.RequestException as e:
+            logging.error('{} {}'.format(host['title'], 'request exception'))
         except requests.exceptions.Timeout:
             logging.error('{} {}'.format(host['title'], 'timeout'))
         except TypeError:
