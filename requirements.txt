@@ -4,4 +4,8 @@ selenium==4.0.0
 tldextract==3.1.2
 matplotlib==3.5.0
 requests[socks]==2.26.0
+<<<<<<< HEAD
 BeautifulSoup4==4.7.1
+=======
+BeautifulSoup4==4.7.1
+>>>>>>> thetanz

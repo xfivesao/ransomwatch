@@ -264,7 +264,7 @@ if args.mode == 'parse':
     parsers.hive()
     parsers.blackshadow()
     parsers.mosesstaff()
-    parsers.alphav()
+    parsers.alphv()
     parsers.nightsky()
     parsers.vicesociety()
     stdlog('ransomwatch: ' + 'parse run complete')

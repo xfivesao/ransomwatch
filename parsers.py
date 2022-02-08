@@ -112,7 +112,7 @@ def suncrypt():
 def lorenz():
     stdlog('parser: ' + 'lorenz')
     parser = '''
-    grep 'h3' source/lorenz-*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1 | sed -e 's/^ *//g' -e '/^$/d'
+    grep 'h3' source/lorenz-*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -192,7 +192,7 @@ def avaddon():
 def xinglocker():
     stdlog('parser: ' + 'xinglocker')
     parser = '''
-    grep "h3" -A1 source/xinglocker-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
+    grep "h3" -A1 source/xinglocker-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -221,7 +221,7 @@ def ragnarlocker():
 def clop():
     stdlog('parser: ' + 'clop')
     parser = '''
-    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"//
+    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -288,7 +288,7 @@ def nefilim():
 def mountlocker():
     stdlog('parser: ' + 'mountlocker')
     parser = '''
-    grep '<h3><a href=' source/mount-locker-*.html --no-filename | cut -d '>' -f5 | sed -e s/'<\/a'// | sed 's/^ *//g'
+    grep '<h3><a href=' source/mount-locker-*.html --no-filename | cut -d '>' -f5 | sed -e s/'<\/a'// -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -310,7 +310,7 @@ def babuklocker():
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')
     parser = '''
-    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'//
+    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'// -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -378,7 +378,7 @@ def blacktor():
 def darkleakmarket():
     stdlog('parser: ' + 'darkleakmarket')
     parser = '''
-    grep 'page.php' source/darkleakmarket-*.html --no-filename | sed -e 's/^[ \t]*//' | cut -d '>' -f3 | sed '/^</d' | cut -d '<' -f1
+    grep 'page.php' source/darkleakmarket-*.html --no-filename | sed -e 's/^[ \t]*//' | cut -d '>' -f3 | sed '/^</d' | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -444,7 +444,7 @@ def karma():
 def blackbyte():
     stdlog('parser: ' + 'blackbyte')
     parser = '''
-    grep "h1" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
+    grep "h1" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -595,18 +595,18 @@ def mosesstaff():
     for post in posts:
         appender(post, 'mosesstaff')
 
-def alphav():
-    stdlog('parser: ' + 'alphav')
-    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
+def alphv():
+    stdlog('parser: ' + 'alphv')
+    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
     parser = '''
-    jq -r '.items[].title' source/alphav-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    jq -r '.items[].title' source/alphv-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('alphav: ' + 'parsing fail')
+        errlog('alphv: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'alphav')
+        appender(post, 'alphv')
 
 def nightsky():
     stdlog('parser: ' + 'nightsky')
@@ -622,7 +622,7 @@ def nightsky():
 def vicesociety():
     stdlog('parser: ' + 'vicesociety')
     parser = '''
-    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed '/ato District Health Boa/d'
+    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
