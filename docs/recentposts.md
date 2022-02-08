@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-08 | `ibasis.com - Pa...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-08 | `aludesign.ro` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-08 | `skandia.com.mx` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-08 | `SEA-invest` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-27 | `elmonterv.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-01-27 | `Optionis` | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-01-27 | `Florida lawyer&#8217;s data leaked` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-01-27 | `estpm.fr` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
