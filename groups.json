@@ -2328,5 +2328,27 @@
             "https://t.me/arvin_club/5075",
             "https://twitter.com/i/web/status/1476488238521065476"
         ]
+    },
+    {
+        "name": "adminlocker",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": "extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin",
+        "locations": [
+            {
+                "fqdn": "adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": [
+            "http://t.me/dotADMINbot"
+        ]
     }
 ]
