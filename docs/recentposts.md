@@ -4,6 +4,10 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-08 | `tntorello.com` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
+| 2022-02-08 | `tntorello.com -...` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
+| 2022-02-08 | `Heartland Alliance` | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |
+| 2022-02-08 | `Community Health Center - Valle del Sol` | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |
 | 2022-02-08 | `SEA-invest` | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-07 | `Prince Jewellery & Watch Co., Ltd.    ` | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
 | 2022-02-07 | `bayer.co.at` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -250,7 +254,3 @@ _last `250` posts_
 | 2022-02-05 | `ytlcement.com` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-05 | `hp.icon-institu...` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-05 | `fr.shop-orchest...` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-05 | `comark.ca` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-05 | `se.com` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-05 | `volkswind.de` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-05 | `ducab.com` | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
