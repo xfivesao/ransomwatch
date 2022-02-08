@@ -4,7 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
-| 2022-02-07 | `Prince Jewellery & Watch Co., Ltd.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-07 | `Prince Jewellery & Watch Co., Ltd.` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-07 | `bayer.co.at` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-07 | `Zamil Industrial` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-07 | `NZ UNIFORMS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -24,24 +24,24 @@ _last `100` posts_
 | 2022-02-06 | `SWIRESPO.COM FILES PART18 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `ENPRECIS.COM FILES PART16 - 10.50.32.4\FTP\CO-FTP.VITALINSIGHTS.COM\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `watermark` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-06 | `maketherightcall.com hk-callcentre` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2022-02-06 | `maketherightcall.com hk-callcentre` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | `Consumers Supply Distributing LLC` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-05 | `tyresolesdobras...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | `kainz-haustechn...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-05 | `Albany Bank and Trust Company - albanybank.com` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2022-02-05 | `Albany Bank and Trust Company - albanybank.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | `aisc-airbus.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | `dap.gov.tr` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-05 | `Bud Griffin and Associates    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | `Petrolimex    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | `Rector Hayden Realtors    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | `Taylor and Martin    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | `Argonaut Gold    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-05 | `Bud Griffin and Associates` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-05 | `Petrolimex` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-05 | `Rector Hayden Realtors` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-05 | `Taylor and Martin` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-02-05 | `Argonaut Gold` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-04 | `botafogo.ind.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `prefimetal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `COFRAP ESPAÑOLA...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `progereal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `castro-urdiales...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `Royal Laser` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2022-02-04 | `Royal Laser` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-04 | `cometgroup` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `hotelcedres.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `maisonlaprise.c.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -59,10 +59,10 @@ _last `100` posts_
 | 2022-02-04 | `nfcaa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `fivestarproduct...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `udmercy.edu` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `mainland.com.hk` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2022-02-04 | `mainland.com.hk` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-03 | `paybito.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-02 | `Altoona Area School District` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-02-02 | `CGT S.p.A. - cgt.it` | [alphav](https://ransomwatch.telemetry.ltd/#/profiles?id=alphav) |
+| 2022-02-02 | `CGT S.p.A. - cgt.it` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-02 | `JCWHITE.COM FILES PART13 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `SLIMSTOCK.COM FILES PART20 - 10.30.12.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `MTMRECOGNITION.COM FILES PART16 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
