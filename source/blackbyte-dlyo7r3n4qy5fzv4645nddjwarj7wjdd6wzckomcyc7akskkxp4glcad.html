@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1644348028" rel="stylesheet">
+    <link href="/blog.css?v=1644351380" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1644348028"></script>
+    <script src="/script.js?v=1644351380"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,356 @@
 
         <script>
 
+            var proof_img_block8 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof8(){
+                if(showed8 === 0){
+                    showed8 = 1;
+                    $("#target_8 .proof_block").html(proof_img_block8).slideDown(400);
+                }else{
+                    showed8 = 0;
+                    $("#target_8 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons8(){
+                if(showed_d_buttons8 === 0){
+                    showed_d_buttons8 = 1;
+                    $("#target_8 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons8 = 0;
+                    $("#target_8 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed8 = 0;
+            var showed_d_buttons8 = 0;
+            var HAPPYSEC8 = 1698220;
+            var t_sec8 = HAPPYSEC8;
+
+            var time8;
+            var intervalId8=0;
+
+
+            $(document).ready(function () {
+
+                intervalId8 = setInterval(function (){
+                    timerDecrement8();
+                }, 1000);
+            });
+
+
+            function timerDecrement8() {
+                time8 = $('#target_8 span.timer');
+
+                if(t_sec8 < 1){
+                    t_sec8 = 0;
+                    newTime = t_sec8 ;
+                }else{
+                    newTime = t_sec8 - 1;
+                }
+
+
+                t_sec8 = newTime;
+
+                var t_min = t_sec8 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec8 % 60)+ '</b> ';
+
+                time8.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC8 > 0 || newTime < 1){
+
+                    time8.html('');
+                    $("#target_8 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_8 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_8 .btn2").addClass("redbg");
+                    $("#target_8 .arrow-8").addClass("r8");
+                    $("#target_8 .perc").html("100%");
+
+                    clearInterval(intervalId8);
+                    GetDownloadLink(8,$("#target_8 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_8">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Venture Machine & Tool, Inc.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Venture Machine & Tool, inc, has the capacity to handle jobs of all sizes and complexities in an efficient manner, including:
+
+    Large Complex Tooling Projects including Automation and Assembly
+    Progressive Dies / Auto Transfer Tools /  Hand Transfer / In Tool Automation
+    Engineering Services
+    High or Low Volume Production
+    Laser Cutting 3D Shapes and Flat Sheet
+    Transfer Presses
+    Robotic Weld Cells
+    Large Drawn Shells
+    Cosmetic Automotive and Appliance Parts                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">62</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('www.vmtooling.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 12 </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(608) 783-8114</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple  " onclick="ShowDButtons8()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/FcBfH9Gbx9/Amy_s_Archived_Documents_110715_zip" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                30.35MB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block7 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof7(){
+                if(showed7 === 0){
+                    showed7 = 1;
+                    $("#target_7 .proof_block").html(proof_img_block7).slideDown(400);
+                }else{
+                    showed7 = 0;
+                    $("#target_7 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons7(){
+                if(showed_d_buttons7 === 0){
+                    showed_d_buttons7 = 1;
+                    $("#target_7 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons7 = 0;
+                    $("#target_7 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed7 = 0;
+            var showed_d_buttons7 = 0;
+            var HAPPYSEC7 = 1698220;
+            var t_sec7 = HAPPYSEC7;
+
+            var time7;
+            var intervalId7=0;
+
+
+            $(document).ready(function () {
+
+                intervalId7 = setInterval(function (){
+                    timerDecrement7();
+                }, 1000);
+            });
+
+
+            function timerDecrement7() {
+                time7 = $('#target_7 span.timer');
+
+                if(t_sec7 < 1){
+                    t_sec7 = 0;
+                    newTime = t_sec7 ;
+                }else{
+                    newTime = t_sec7 - 1;
+                }
+
+
+                t_sec7 = newTime;
+
+                var t_min = t_sec7 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec7 % 60)+ '</b> ';
+
+                time7.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC7 > 0 || newTime < 1){
+
+                    time7.html('');
+                    $("#target_7 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_7 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_7 .btn2").addClass("redbg");
+                    $("#target_7 .arrow-8").addClass("r8");
+                    $("#target_7 .perc").html("100%");
+
+                    clearInterval(intervalId7);
+                    GetDownloadLink(7,$("#target_7 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_7">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Aeronamic    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Being the best is not about doing everything yourself. It’s about choosing what you dedicate your time and energy to. That’s why we state: achieve more by doing less. Realize your true maximum potential.
+
+At Aeronamic, we choose to dedicate ourselves to high-speed rotating components and precision parts you need. Developing, producing, assembling, testing and servicing them thoroughly, according to all standards. Saving you both time and money.
+
+Your challenges are our playing field. We had the advantage of starting big, being part of former mother company URENCO, which invented the world’s first ultra-centrifuge for uranium enrichment. That historic step set the bar for all of our achievements. We kept pushing on in order to reach higher ground. Now it’s your turn to take off, powered by our success.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">135</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('https://aeronamic.com/')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 54.49 </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+31-546545570</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple  " onclick="ShowDButtons7()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                140.86MB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block6 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +516,7 @@
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = 1701572;
+            var HAPPYSEC6 = 1698220;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -346,7 +696,7 @@ Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affi
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = 1355972;
+            var HAPPYSEC5 = 1352620;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -518,7 +868,7 @@ all of which are located in North America.                </p>
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -1160428;
+            var HAPPYSEC4 = -1163780;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -697,7 +1047,7 @@ all of which are located in North America.                </p>
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -285628;
+            var HAPPYSEC3 = -288980;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -867,7 +1217,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -372028;
+            var HAPPYSEC2 = -375380;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -1035,7 +1385,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -372028;
+            var HAPPYSEC1 = -375380;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
