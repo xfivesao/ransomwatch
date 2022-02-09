@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-09 | `cilent` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-09 | `JCWHITE.COM FILES PART15 - jenna.leibowitz@jcwhite.com\jenna.leibowitz\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-09 | `SLIMSTOCK.COM FILES PART22 - 10.30.10.29\D$\Userdir\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-09 | `MTMRECOGNITION.COM FILES PART18 - 10.0.1.18\OKC Departments\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `ci.hercules.ca....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `Keuerleber` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-01-29 | `lhotellerie-restauration.fr` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-01-29 | `JCWHITE.COM FILES PART12 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
