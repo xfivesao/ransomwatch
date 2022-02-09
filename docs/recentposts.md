@@ -4,6 +4,16 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-09 | `JCWHITE.COM FILES PART15 - jenna.leibowitz@jcwhite.com\jenna.leibowitz\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `SLIMSTOCK.COM FILES PART22 - 10.30.10.29\D$\Userdir\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `MTMRECOGNITION.COM FILES PART18 - 10.0.1.18\OKC Departments\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `SSMSJUSTICE.COM FILES PART23 - 192.168.1.248\D\SHARES\CLOSED CASES\2020 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `MCH-GROUP.COM FILES PART20 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Hong` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `EDAN.COM FILES PART19 - 192.168.2.12\D$\超声产品室\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `DUTTONFIRM.COM FILES ART15 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `BOLTONUSA.COM FILES PART24 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Gottesdiener ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `SWIRESPO.COM FILES PART19 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-09 | `ENPRECIS.COM FILES PART17 - 10.50.32.4\FTP\CO-FTP.VITALINSIGHTS.COM\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-09 | `Jazeera Airways` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-02-09 | `The Lovett Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-08 | `bishopeye.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -94,13 +104,3 @@ _last `100` posts_
 | 2022-02-01 | `Keuerleber` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-01-29 | `lhotellerie-restauration.fr` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-01-29 | `JCWHITE.COM FILES PART12 - jen.shafe@jcwhite.com\Active Projects\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `SLIMSTOCK.COM FILES PART19 - 10.40.10.99, 10.40.10.130, 10.40.10.162 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `MTMRECOGNITION.COM FILES PART15 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `SSMSJUSTICE.COM FILES PART20 - 192.168.1.177\C$\Users\SLF\OneDrive - Clickable IT, Inc\Pho` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `MCH-GROUP.COM FILES PART17 - 172.16.60.11\DATA\LMS\EXP\EFF\Allgemein Daten\IT\Marketing_ol` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `EDAN.COM FILES PART16 - 192.168.2.12\D$\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `DUTTONFIRM.COM FILES PART12 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `BOLTONUSA.COM FILES PART21 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `SWIRESPO.COM FILES PART16 - 172.16.10.166\H$\Files\HR\HR Delivery\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `ENPRECIS.COM FILES PART14 - 10.50.21.10\DataExchange\incoming\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-01-29 | `themisautomation.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
