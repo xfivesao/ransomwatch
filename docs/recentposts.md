@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-09 | `PetroVietnam` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-09 | `Weir &amp; Partners LLP` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-09 | `cilent` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-09 | `JCWHITE.COM FILES PART15 - jenna.leibowitz@jcwhite.com\jenna.leibowitz\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-02 | `Overseas Travel Agency` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-02 | `wolfbergal` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-01 | `ci.hercules.ca....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `Keuerleber` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
