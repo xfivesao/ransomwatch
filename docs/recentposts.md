@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-09 | `The Lovett Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-08 | `bishopeye.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-08 | `Aeronamic` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-08 | `Venture Machine & Tool, Inc.` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-01-29 | `ENPRECIS.COM FILES PART14 - 10.50.21.10\DataExchange\incoming\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-01-29 | `themisautomation.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-01-28 | `KCA Deutag` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-01-28 | `CIG de la Grande Couronne` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
