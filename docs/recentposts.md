@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-10 | `Rheinland-Pfalz Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-09 | `PetroVietnam` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-09 | `Weir &amp; Partners LLP` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-09 | `cilent` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-02 | `ENPRECIS.COM FILES PART15 - 10.50.21.10\DataExchange\outgoing PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `Overseas Travel Agency` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-02 | `wolfbergal` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-01 | `ci.hercules.ca....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
