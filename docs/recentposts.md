@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-11 | `Aareon Nederland B.V.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-11 | `HelmsBriscoe` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-11 | `New World Development Company Limited (NWD)` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-11 | `Vrancor Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-10 | `Rheinland-Pfalz Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-09 | `PetroVietnam` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-09 | `Weir &amp; Partners LLP` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-02-02 | `EDAN.COM FILES PART17 - 192.168.2.12\D$\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `DUTTONFIRM.COM FILES PART13 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `BOLTONUSA.COM FILES PART22 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Baltimore Cou` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-02 | `SWIRESPO.COM FILES PART17 - 172.16.10.166\H$\Files\HR\HR Delivery\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-02 | `ENPRECIS.COM FILES PART15 - 10.50.21.10\DataExchange\outgoing PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-02 | `Overseas Travel Agency` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-02-02 | `wolfbergal` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
