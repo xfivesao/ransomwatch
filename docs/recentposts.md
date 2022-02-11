@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-11 | `ibasis.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-11 | `ufa.com.lb` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-11 | `Aareon Nederland B.V.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-11 | `HelmsBriscoe` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-02 | `SSMSJUSTICE.COM FILES PART21 - 192.168.1.248\D\SHARES\CLOSED CASES\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `MCH-GROUP.COM FILES PART18 - 172.16.60.11\DATA\LMS\EXP\EFF\Allgemein Daten\IT\Marketing_ol` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `EDAN.COM FILES PART17 - 192.168.2.12\D$\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-02 | `DUTTONFIRM.COM FILES PART13 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
