@@ -4,6 +4,16 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-12 | `JCWHITE.COM FILES PART16 - jenna.leibowitz@jcwhite.com\jenna.leibowitz\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `SLIMSTOCK.COM FILES PART23 - 10.30.10.29\D$\Userdir\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `MTMRECOGNITION.COM FILES PART19 - 10.0.1.18\OKC Departments\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `SSMSJUSTICE.COM FILES PART24 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `MCH-GROUP.COM FILES PART21 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `EDAN.COM FILES PART20 - 192.168.2.25 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `DUTTONFIRM.COM FILES PART16 - E\Data\SHARED\Lit\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `BOLTONUSA.COM FILES PART25 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Gottesdiener ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `SWIRESPO.COM FILES PART20 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-12 | `ENPRECIS.COM FILES PART18 - 10.50.32.4\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-12 | `gruges.com.mx` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-12 | `idm-srl.it` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-12 | `San Francisco 49ers` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -94,13 +104,3 @@ _last `100` posts_
 | 2022-02-04 | `rabba` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `shoesforcrews` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-02-04 | `edgo` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-02-04 | `cmmcpas` | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-02-04 | `Ourense do Bras...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `siamdial.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `nfcaa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `fivestarproduct...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `udmercy.edu` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `mainland.com.hk` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-03 | `paybito.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-02 | `Altoona Area School District` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-02-02 | `CGT S.p.A. - cgt.it` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
