@@ -57,8 +57,7 @@
             "https://www.digitalshadows.com/blog-and-research/marketo-a-return-to-simple-extortion",
             "https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html",
             "https://t.me/marketo_leaks",
-            "https://t.me/marketocloud",
-            "https://marketo.cloud"
+            "https://t.me/marketocloud"
         ]
     },
     {
@@ -933,7 +932,8 @@
         "profile": [
             "https://research.checkpoint.com/2020/ransomware-alert-pay2key",
             "https://www.twitter.com/p2ktwtacc",
-            "https://keybase.io/pay2key"
+            "https://keybase.io/pay2key",
+            "pay2key@tuta.io"
         ]
     },
     {
@@ -2022,6 +2022,7 @@
         "profile": [
             "https://twitter.com/moses_staff_se",
             "https://t.me/moses_staff_links",
+            "https://t.me/moses_staff_se_8",
             "https://www.zdnet.com/article/mosesstaff-attackers-deploy-ransomware-on-your-systems-no-payment-no-decryption-possible/",
             "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/"
         ]
@@ -2175,7 +2176,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "aka blackcat",
+        "meta": "aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2wrbyd.onion`",
         "locations": [
             {
                 "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
