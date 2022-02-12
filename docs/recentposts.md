@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-12 | `San Francisco 49ers` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-12 | `Ebix Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-12 | `New-New2` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-02-12 | `J` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-02 | `CGT S.p.A. - cgt.it` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-02 | `JCWHITE.COM FILES PART13 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-02 | `SLIMSTOCK.COM FILES PART20 - 10.30.12.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-02 | `MTMRECOGNITION.COM FILES PART16 - 10.0.1.18\mtmShare\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |

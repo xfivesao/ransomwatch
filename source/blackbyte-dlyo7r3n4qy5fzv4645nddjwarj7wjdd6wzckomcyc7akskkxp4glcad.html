@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1644686028" rel="stylesheet">
+    <link href="/blog.css?v=1644689745" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1644686028"></script>
+    <script src="/script.js?v=1644689745"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,182 @@
 
         <script>
 
+            var proof_img_block9 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof9(){
+                if(showed9 === 0){
+                    showed9 = 1;
+                    $("#target_9 .proof_block").html(proof_img_block9).slideDown(400);
+                }else{
+                    showed9 = 0;
+                    $("#target_9 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons9(){
+                if(showed_d_buttons9 === 0){
+                    showed_d_buttons9 = 1;
+                    $("#target_9 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons9 = 0;
+                    $("#target_9 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed9 = 0;
+            var showed_d_buttons9 = 0;
+            var HAPPYSEC9 = 1791855;
+            var t_sec9 = HAPPYSEC9;
+
+            var time9;
+            var intervalId9=0;
+
+
+            $(document).ready(function () {
+
+                intervalId9 = setInterval(function (){
+                    timerDecrement9();
+                }, 1000);
+            });
+
+
+            function timerDecrement9() {
+                time9 = $('#target_9 span.timer');
+
+                if(t_sec9 < 1){
+                    t_sec9 = 0;
+                    newTime = t_sec9 ;
+                }else{
+                    newTime = t_sec9 - 1;
+                }
+
+
+                t_sec9 = newTime;
+
+                var t_min = t_sec9 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec9 % 60)+ '</b> ';
+
+                time9.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC9 > 0 || newTime < 1){
+
+                    time9.html('');
+                    $("#target_9 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_9 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_9 .btn2").addClass("redbg");
+                    $("#target_9 .arrow-8").addClass("r8");
+                    $("#target_9 .perc").html("100%");
+
+                    clearInterval(intervalId9);
+                    GetDownloadLink(9,$("#target_9 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_9">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">San Francisco 49ers    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >The San Francisco 49ers are a professional American football team based in the San Francisco Bay Area. 
+The 49ers compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) West division, 
+and play their home games at Levi's Stadium in Santa Clara, California, located 38 miles (61 km) southeast of San Francisco. 
+The team is named after the prospectors who arrived in Northern California in the 1849 Gold Rush.
+
+The team was founded in 1946 as a charter member of the All-America Football Conference (AAFC), 
+and joined the NFL in 1949 when the leagues merged. 
+The 49ers were the first major league professional sports franchise based in San Francisco, and are the 10th oldest franchise in the NFL. 
+The team began play at Kezar Stadium in San Francisco before moving to Candlestick Park in 1971, and then to Levi's Stadium in 2014. Since 1988, the 49ers have been headquartered in Santa Clara.                 </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">846</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.49ers.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 530 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(408) 562-4949</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple  " onclick="ShowDButtons9()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/LaD443H7x6/2020_Invoices_rar" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                292.72MB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block8 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +342,7 @@
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = 1363572;
+            var HAPPYSEC8 = 1359855;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -344,7 +520,7 @@
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = 1363572;
+            var HAPPYSEC7 = 1359855;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -516,7 +692,7 @@ Your challenges are our playing field. We had the advantage of starting big, bei
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = 1363572;
+            var HAPPYSEC6 = 1359855;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -696,7 +872,7 @@ Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affi
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = 1017972;
+            var HAPPYSEC5 = 1014255;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -868,7 +1044,7 @@ all of which are located in North America.                </p>
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -1498428;
+            var HAPPYSEC4 = -1502145;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -1057,7 +1233,7 @@ all of which are located in North America.                </p>
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -623628;
+            var HAPPYSEC3 = -627345;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -1257,7 +1433,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -710028;
+            var HAPPYSEC2 = -713745;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -1475,7 +1651,7 @@ https://anonfiles.com/R3MdsfB5xe/rhr.com_zip" class="btn btn3 legitRipple
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -710028;
+            var HAPPYSEC1 = -713745;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
