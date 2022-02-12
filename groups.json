@@ -2350,5 +2350,51 @@
         "profile": [
             "http://t.me/dotADMINbot"
         ]
+    },
+    {
+        "name": "sugar",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": [
+            "https://tria.ge/211112-lbfz1adab7",
+            "https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb",
+            "https://www.bleepingcomputer.com/news/security/a-look-at-the-new-sugar-ransomware-demanding-low-ransoms/"
+        ]
+    },
+    {
+        "name": "zeon",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion/chat",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": [
+            "https://id-ransomware.blogspot.com/2022/02/"
+        ]
     }
 ]
