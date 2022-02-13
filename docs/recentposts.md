@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-13 | `Medical Staff - medicalstaff.com.au` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-13 | `Scherr Legate - scherrlegate.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-13 | `NorthEast Coverages - northeastcoverages.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-13 | `Quantel Medical - quantel-medical.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-13 | `wingsoft.it` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-13 | `cclint.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-13 | `rbhltd.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-13 | `New3` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -99,8 +104,3 @@ _last `100` posts_
 | 2022-02-04 | `progereal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `castro-urdiales...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `Royal Laser` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-04 | `cometgroup` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `hotelcedres.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `maisonlaprise.c.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `bar2.co.uk` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `ametisfacilitie...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
