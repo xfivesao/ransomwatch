@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-14 | `ecostampa.it` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | `Medical Staff - medicalstaff.com.au` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | `Scherr Legate - scherrlegate.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | `NorthEast Coverages - northeastcoverages.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-04 | `COFRAP ESPAÑOLA...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `progereal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | `castro-urdiales...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `Royal Laser` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
