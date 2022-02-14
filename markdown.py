@@ -218,10 +218,7 @@ def profilepage():
             writeline(profilepage, '_`' + group['meta'] + '`_')
             writeline(profilepage, '')
         if group['javascript_render'] is True:
-            writeline(profilepage, '> fetching this site requires a headless browser for javascript processing')
-            writeline(profilepage, '')
-        if group['geckodriver'] is True:
-            writeline(profilepage, '> fetching this site uses geckodriver/selenium')
+            writeline(profilepage, '> fetching this site requires a headless browser')
             writeline(profilepage, '')
         if group['profile'] is not None:
             for profile in group['profile']:

@@ -79,7 +79,6 @@ def creategroup(name, location):
         'name': name,
         'captcha': bool(),
         'parser': bool(),
-        'geckodriver': bool(),
         'javascript_render': bool(),
         'meta': None,
         'locations': [
@@ -125,10 +124,7 @@ def scraper():
             https://support.torproject.org/onionservices/v2-deprecation/
             '''
             if host['version'] == 3 or host['version'] == 0:
-                if group['geckodriver'] is True:
-                    stdlog('ransomwatch: ' + 'using geckodriver')
-                    response = geckodrive.main(host['slug'])
-                elif group['javascript_render'] is True:
+                if group['javascript_render'] is True:
                     stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
                     response = geckodrive.main(host['slug'])
                 else:
@@ -199,10 +195,8 @@ def lister():
             print(group['name'] + ' - ' + host['slug'])
 
 if args.mode == 'scrape':
-    # ensure socks proxy available
     if not checktcp(sockshost, socksport):
         honk("socks proxy not available and required for scraping!")
-    # ensure geckodriver in $PATH
     if checkgeckodriver() is False:
         honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
     scraper()
