@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-14 | `www.tikg.co.jp` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-02-14 | `sienaliteracy.o...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-14 | `meeuwesen.nl` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-14 | `trustinnews.pt` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | `ecostampa.it` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | `Medical Staff - medicalstaff.com.au` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | `Scherr Legate - scherrlegate.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-02-05 | `Taylor and Martin` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-05 | `Argonaut Gold` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-04 | `botafogo.ind.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `prefimetal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `COFRAP ESPAÑOLA...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `progereal.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | `castro-urdiales...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
