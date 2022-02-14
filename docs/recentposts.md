@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-14 | `hifly.aero` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | `Vehicle Service Group (VSG)` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2022-02-14 | `Muehlhan` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-14 | `pwma.org.hk` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-05 | `Albany Bank and Trust Company - albanybank.com` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | `aisc-airbus.` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | `dap.gov.tr` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-05 | `Bud Griffin and Associates` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
