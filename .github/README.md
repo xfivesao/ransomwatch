@@ -45,16 +45,9 @@ curl -sL ransomwhat.telemetry.ltd/groups | jq
 
 ## contributions 
 
-#### forks
-
-- [xfivesao/ransomwatch](https://github.com/xfivesao/ransomwatch)
-- [kOr3s/ransomwatch](https://github.com/kOr3s/ransomwatch)
-- [JMousqueton/ransomwatch](https://github.com/JMousqueton/ransomwatch)
-
-#### visualisers
-
+- [ransomwatch/network/members](https://github.com/thetanz/ransomwatch/network/members)
 - [JDL-84/RansomWatchViewer](https://github.com/JDL-84/RansomWatchViewer)
-- [xfivesao/RansomWatchViewer](https://github.com/xfivesao/RansomWatchViewer)
+- [github.com/search?q=ransomwatch](https://github.com/search?o=desc&q=ransomwatch&s=updated&type=Repositories)
 
 ## technicals
 
