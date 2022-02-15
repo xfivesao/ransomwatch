@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-15 | `beautyindustryg...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-15 | `KVK Tech - Specialty Brands and Generics` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-15 | `GEE GROUP INC.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-15 | `Swissport` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-06 | `watermark` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | `maketherightcall.com hk-callcentre` | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | `Consumers Supply Distributing LLC` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-02-05 | `tyresolesdobras...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
