@@ -21,7 +21,7 @@ from sharedutils import mounthlypostcount
 #from sharedutils import headlesscount
 #from sharedutils import countcaptchahosts
 from sharedutils import stdlog, dbglog, errlog, honk
-from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group
+from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -139,6 +139,8 @@ def statspage():
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
     writeline(statspage, '_timestamp association commenced october 21"_')
+    writeline(statspage, '')
+    writeline(statspage, '![](graphs/postsbygroup7days.png)')
     writeline(statspage, '')
     writeline(statspage, '![](graphs/postsbyday.png)')
     writeline(statspage, '')
@@ -271,5 +273,6 @@ def main():
         trend_posts_per_day()
         plot_posts_by_group()
         pie_posts_by_group()
+        plot_posts_by_group_past_7_days()
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
