@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-16 | `gruporoveri.com.br` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-15 | `POP TV` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-02-15 | `codisel.com.mx` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-15 | `beautyindustryg...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-06 | `BOLTONUSA.COM FILES PART23 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Baltimore Cou` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `SWIRESPO.COM FILES PART18 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | `ENPRECIS.COM FILES PART16 - 10.50.32.4\FTP\CO-FTP.VITALINSIGHTS.COM\ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-06 | `watermark` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
