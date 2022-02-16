@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-16 | [`JBINSTANTLAWN.NET FILES PART1 - Anne-Marie PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART1+-+Anne-Marie+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-16 | [`CAPCARPET.COM FILES PART1 - 10.1.2.7, 10.1.2.11, 10.1.3.1, 10.1.8.43, 10.1.15.1, 10.1.15.1`](https://google.com/search?q=CAPCARPET.COM+FILES+PART1+-+10.1.2.7%2C+10.1.2.11%2C+10.1.3.1%2C+10.1.8.43%2C+10.1.15.1%2C+10.1.15.1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-02-16 | [`ALEXIM.COM FILES PART1 - 192.168.1.167\C$\Users\sgarnica\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART1+-+192.168.1.167%5CC%24%5CUsers%5Csgarnica%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`JCWHITE.COM FILES PART17 - katie.oliver@jcwhite.com\D Drive Backup\ PUBLISHED`](https://google.com/search?q=JCWHITE.COM+FILES+PART17+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`SLIMSTOCK.COM FILES PART24 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART24+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`MTMRECOGNITION.COM FILES PART20 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART20+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-02-07 | [`bayer.co.at`](https://google.com/search?q=bayer.co.at) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-07 | [`Zamil Industrial`](https://google.com/search?q=Zamil+Industrial) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-07 | [`NZ UNIFORMS`](https://google.com/search?q=NZ+UNIFORMS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-07 | [`Athens Distributing Company`](https://google.com/search?q=Athens+Distributing+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-07 | [`KP SNACKS`](https://google.com/search?q=KP+SNACKS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-07 | [`MSH Steuerberatungsgesellschaft`](https://google.com/search?q=MSH+Steuerberatungsgesellschaft) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
