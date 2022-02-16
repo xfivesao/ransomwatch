@@ -10,8 +10,8 @@ from sys import platform
 from datetime import datetime
 
 from sharedutils import openjson
-from sharedutils import todiscord
 from sharedutils import runshellcmd
+from sharedutils import todiscord, totwitter
 from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -67,9 +67,11 @@ def appender(post_title, group_name):
             '''
             dbglog('writing changes to posts.json')
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
-        # if DISCORD_WEBHOOK is set, post to discord
+        # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
             todiscord(newpost['post_title'], newpost['group_name'])
+        #if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
+        #    totwitter(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run

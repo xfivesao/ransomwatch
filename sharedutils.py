@@ -9,6 +9,7 @@ import json
 import socket
 import codecs
 import random
+import tweepy
 import logging
 from datetime import datetime
 from datetime import timedelta
@@ -396,6 +397,22 @@ def countcaptchahosts():
         if group['captcha'] is True:
             captcha_count += 1
     return captcha_count
+
+def totwitter(post_title, group):
+    dbglog('sharedutils: ' + 'posting to twitter')
+    try:
+        client = tweepy.Client(
+            consumer_key=os.environ.get('TWITTER_CONSUMER_KEY'),
+            consumer_secret=os.environ.get('TWITTER_CONSUMER_SECRET'),
+            access_token=os.environ.get('TWITTER_ACCESS_TOKEN'),
+            access_token_secret=os.environ.get('TWITTER_ACCESS_TOKEN_SECRET')
+            )
+        status = str(group) + ' : ' + str(post_title) + ' https://ransomwatch.telemetry.ltd/#/recentposts'
+        client.create_tweet(text=status)
+    except TypeError as te:
+        honk('sharedutils: ' + 'twitter tweepy unsatisfied: ' + str(te))
+    except Exception as e:
+        honk('sharedutils: ' + 'twitter unknown message release error: ' + str(e))
 
 def todiscord(post_title, group):
     '''
