@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import time
+import urllib.parse
 from datetime import datetime as dt
 
 from sharedutils import gcount
@@ -184,8 +185,9 @@ def recentpage():
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
+        urlencodedtitle = urllib.parse.quote_plus(title)
         grouplink = '[' + group + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group + ')'
-        line = '| ' + date + ' | `' + title + '` | ' + grouplink + ' |'
+        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
 
