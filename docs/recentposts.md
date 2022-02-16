@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-16 | [`Southwark Metal Manufacturing Co.  -   southwarkmetal.com`](https://google.com/search?q=Southwark+Metal+Manufacturing+Co.++-+++southwarkmetal.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-16 | [`HyLife`](https://google.com/search?q=HyLife) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-16 | [`gruporoveri.com.br`](https://google.com/search?q=gruporoveri.com.br) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-15 | [`POP TV`](https://google.com/search?q=POP+TV) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-06 | [`EDAN.COM FILES PART18 - 192.168.2.12\D$\超声产品室\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART18+-+192.168.2.12%5CD%24%5C%E8%B6%85%E5%A3%B0%E4%BA%A7%E5%93%81%E5%AE%A4%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`DUTTONFIRM.COM FILES PART14 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART14+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`BOLTONUSA.COM FILES PART23 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Baltimore Cou`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART23+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CBaltimore+Cou) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-06 | [`SWIRESPO.COM FILES PART18 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART18+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
