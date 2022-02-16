@@ -140,13 +140,10 @@ def statspage():
     writeline(statspage, '')
     writeline(statspage, '_timestamp association commenced october 21"_')
     writeline(statspage, '')
-    writeline(statspage, '![](graphs/postsbygroup7days.png)')
+    writeline(statspage, '| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |')
+    writeline(statspage, '|---|---|')
+    writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
     writeline(statspage, '')
-    writeline(statspage, '![](graphs/postsbyday.png)')
-    writeline(statspage, '')
-    writeline(statspage, '![](graphs/postsbygroup.png)')
-    writeline(statspage, '')
-    writeline(statspage, '![](graphs/grouppie.png)')
     stdlog('stats page generated')
 
 def recentposts(top):
