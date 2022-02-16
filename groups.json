@@ -117,7 +117,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": true,
-        "meta": "parser needs to be built",
+        "meta": null,
         "locations": [
             {
                 "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
