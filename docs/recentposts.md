@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-18 | [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-18 | [`Doherty Cella Keane - dcklaw.com`](https://google.com/search?q=Doherty+Cella+Keane+-+dcklaw.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-18 | [`enit.it`](https://google.com/search?q=enit.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-16 | [`JBINSTANTLAWN.NET FILES PART1 - Anne-Marie PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART1+-+Anne-Marie+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`CAPCARPET.COM FILES PART1 - 10.1.2.7, 10.1.2.11, 10.1.3.1, 10.1.8.43, 10.1.15.1, 10.1.15.1`](https://google.com/search?q=CAPCARPET.COM+FILES+PART1+-+10.1.2.7%2C+10.1.2.11%2C+10.1.3.1%2C+10.1.8.43%2C+10.1.15.1%2C+10.1.15.1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`ALEXIM.COM FILES PART1 - 192.168.1.167\C$\Users\sgarnica\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART1+-+192.168.1.167%5CC%24%5CUsers%5Csgarnica%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-02-08 | [`tntorello.com`](https://google.com/search?q=tntorello.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-08 | [`tntorello.com -...`](https://google.com/search?q=tntorello.com+-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-07 | [`Prince Jewellery & Watch Co., Ltd.`](https://google.com/search?q=Prince+Jewellery+%26+Watch+Co.%2C+Ltd.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-07 | [`bayer.co.at`](https://google.com/search?q=bayer.co.at) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-07 | [`Zamil Industrial`](https://google.com/search?q=Zamil+Industrial) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-07 | [`NZ UNIFORMS`](https://google.com/search?q=NZ+UNIFORMS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
