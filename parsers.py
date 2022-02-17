@@ -501,7 +501,7 @@ def lv():
 def five4bb47h():
     stdlog('parser: ' + 'sabbath')
     parser = '''
-    %s "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' -e '/Off Canvas Menu/d' -e '/Close drawer/d' -e '/Close search modal/d' -e '/Header Menu/d' | tr "..." ' ' | grep "\S"
+    %s "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' -e '/Off Canvas Menu/d' -e '/Close drawer/d' -e '/Close search modal/d' -e '/Header Menu/d' | tr "..." ' ' | grep "\S" | cat
     ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
