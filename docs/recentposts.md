@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-18 | [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-18 | [`muntons`](https://google.com/search?q=muntons) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-02-18 | [`heritage-encon`](https://google.com/search?q=heritage-encon) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-02-18 | [`CSI Laboratories`](https://google.com/search?q=CSI+Laboratories) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-18 | [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`Doherty Cella Keane - dcklaw.com`](https://google.com/search?q=Doherty+Cella+Keane+-+dcklaw.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-02-08 | [`SEA-invest`](https://google.com/search?q=SEA-invest) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-08 | [`Dassault Falcon Jet`](https://google.com/search?q=Dassault+Falcon+Jet) | [mountlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=mountlocker) |
 | 2022-02-08 | [`Heartland Alliance`](https://google.com/search?q=Heartland+Alliance) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-02-08 | [`Community Health Center - Valle del Sol`](https://google.com/search?q=Community+Health+Center+-+Valle+del+Sol) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-02-08 | [`tntorello.com`](https://google.com/search?q=tntorello.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-08 | [`tntorello.com -...`](https://google.com/search?q=tntorello.com+-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
