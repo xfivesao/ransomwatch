@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-18 | [`CSI Laboratories`](https://google.com/search?q=CSI+Laboratories) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-18 | [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`Doherty Cella Keane - dcklaw.com`](https://google.com/search?q=Doherty+Cella+Keane+-+dcklaw.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`enit.it`](https://google.com/search?q=enit.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-08 | [`Community Health Center - Valle del Sol`](https://google.com/search?q=Community+Health+Center+-+Valle+del+Sol) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-08 | [`tntorello.com`](https://google.com/search?q=tntorello.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-08 | [`tntorello.com -...`](https://google.com/search?q=tntorello.com+-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-07 | [`Prince Jewellery & Watch Co., Ltd.`](https://google.com/search?q=Prince+Jewellery+%26+Watch+Co.%2C+Ltd.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
