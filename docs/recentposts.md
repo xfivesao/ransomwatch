@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-19 | [`oceantextile.dk`](https://google.com/search?q=oceantextile.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`Various accesses on sale`](https://google.com/search?q=Various+accesses+on+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-19 | [`brookledge.com`](https://google.com/search?q=brookledge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`centralia.edu`](https://google.com/search?q=centralia.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-09 | [`SWIRESPO.COM FILES PART19 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART19+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-09 | [`ENPRECIS.COM FILES PART17 - 10.50.32.4\FTP\CO-FTP.VITALINSIGHTS.COM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART17+-+10.50.32.4%5CFTP%5CCO-FTP.VITALINSIGHTS.COM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-09 | [`Jazeera Airways`](https://google.com/search?q=Jazeera+Airways) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-02-09 | [`The Lovett Group`](https://google.com/search?q=The+Lovett+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
