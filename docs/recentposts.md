@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-19 | [`pertusipastore....`](https://google.com/search?q=pertusipastore....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`kokuyocamlin.co...`](https://google.com/search?q=kokuyocamlin.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`sanvitale.ra.it`](https://google.com/search?q=sanvitale.ra.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`botswanatourism...`](https://google.com/search?q=botswanatourism...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-18 | [`threesixtysourcing.com`](https://google.com/search?q=threesixtysourcing.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`OPS omniplussystem.com`](https://google.com/search?q=OPS+omniplussystem.com) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-18 | [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-02-08 | [`Aeronamic`](https://google.com/search?q=Aeronamic) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-08 | [`Venture Machine & Tool, Inc.`](https://google.com/search?q=Venture+Machine+%26+Tool%2C+Inc.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-08 | [`chemtech.net`](https://google.com/search?q=chemtech.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-08 | [`ibasis.com - Pa...`](https://google.com/search?q=ibasis.com+-+Pa...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-08 | [`aludesign.ro`](https://google.com/search?q=aludesign.ro) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-08 | [`skandia.com.mx`](https://google.com/search?q=skandia.com.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-08 | [`SEA-invest`](https://google.com/search?q=SEA-invest) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
