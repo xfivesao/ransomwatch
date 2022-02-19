@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-19 | [`Mack Defense, LLC`](https://google.com/search?q=Mack+Defense%2C+LLC) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-19 | [`kokuyocamlin.co...`](https://google.com/search?q=kokuyocamlin.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`sanvitale.ra.it`](https://google.com/search?q=sanvitale.ra.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`botswanatourism...`](https://google.com/search?q=botswanatourism...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-09 | [`The Lovett Group`](https://google.com/search?q=The+Lovett+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-08 | [`bishopeye.com`](https://google.com/search?q=bishopeye.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-08 | [`Aeronamic`](https://google.com/search?q=Aeronamic) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-08 | [`Venture Machine & Tool, Inc.`](https://google.com/search?q=Venture+Machine+%26+Tool%2C+Inc.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
