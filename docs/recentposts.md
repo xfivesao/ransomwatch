@@ -4,6 +4,13 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-19 | [`partners.pia.be`](https://google.com/search?q=partners.pia.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`strix.com`](https://google.com/search?q=strix.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`plane.biz`](https://google.com/search?q=plane.biz) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`centrictel.com`](https://google.com/search?q=centrictel.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`asgcourtage.com`](https://google.com/search?q=asgcourtage.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-19 | [`taylorswindows....`](https://google.com/search?q=taylorswindows....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`JCWHITE.COM FILES PART18 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART18+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`SLIMSTOCK.COM FILES PART25 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART25+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`MTMRECOGNITION.COM FILES PART21 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART21+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -97,10 +104,3 @@ _last `100` posts_
 | 2022-02-12 | [`New-New2`](https://google.com/search?q=New-New2) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-02-12 | [`J`](https://google.com/search?q=J) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-02-11 | [`ibasis.com`](https://google.com/search?q=ibasis.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-11 | [`ufa.com.lb`](https://google.com/search?q=ufa.com.lb) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-02-11 | [`Aareon Nederland B.V.`](https://google.com/search?q=Aareon+Nederland+B.V.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-11 | [`HelmsBriscoe`](https://google.com/search?q=HelmsBriscoe) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-11 | [`New World Development Company Limited (NWD)`](https://google.com/search?q=New+World+Development+Company+Limited+%28NWD%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-11 | [`Vrancor Group`](https://google.com/search?q=Vrancor+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-10 | [`Rheinland-Pfalz Bank`](https://google.com/search?q=Rheinland-Pfalz+Bank) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-09 | [`PetroVietnam`](https://google.com/search?q=PetroVietnam) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
