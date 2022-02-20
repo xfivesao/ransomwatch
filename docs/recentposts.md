@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-20 | [`bynx.com`](https://google.com/search?q=bynx.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`CIELD`](https://google.com/search?q=CIELD) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-19 | [`PFEIFER Drako`](https://google.com/search?q=PFEIFER+Drako) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-19 | [`www.pccua.edu`](https://google.com/search?q=www.pccua.edu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-12 | [`gruges.com.mx`](https://google.com/search?q=gruges.com.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-12 | [`idm-srl.it`](https://google.com/search?q=idm-srl.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-12 | [`San Francisco 49ers`](https://google.com/search?q=San+Francisco+49ers) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-12 | [`Ebix Inc.`](https://google.com/search?q=Ebix+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
