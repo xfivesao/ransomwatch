@@ -1,6 +1,6 @@
 
 ## summary
-_february 19th, 2022_
+_february 20th, 2022_
 
 currently tracking `91` groups across `130` relays & mirrors - _`56` currently online_
 
