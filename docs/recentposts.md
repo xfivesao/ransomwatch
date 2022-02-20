@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-20 | [`Signum`](https://google.com/search?q=Signum) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-20 | [`bynx.com`](https://google.com/search?q=bynx.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`CIELD`](https://google.com/search?q=CIELD) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-19 | [`PFEIFER Drako`](https://google.com/search?q=PFEIFER+Drako) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-12 | [`SWIRESPO.COM FILES PART20 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART20+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-12 | [`ENPRECIS.COM FILES PART18 - 10.50.32.4\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART18+-+10.50.32.4%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-12 | [`gruges.com.mx`](https://google.com/search?q=gruges.com.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-12 | [`idm-srl.it`](https://google.com/search?q=idm-srl.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
