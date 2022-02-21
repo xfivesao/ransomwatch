@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-21 | [`CENTRAL BAPTIST COLLEGE`](https://google.com/search?q=CENTRAL+BAPTIST+COLLEGE) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-21 | [`groupe-sobotram...`](https://google.com/search?q=groupe-sobotram...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-21 | [`gpvivienda.com`](https://google.com/search?q=gpvivienda.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-20 | [`Signum`](https://google.com/search?q=Signum) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-12 | [`EDAN.COM FILES PART20 - 192.168.2.25 PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART20+-+192.168.2.25+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-12 | [`DUTTONFIRM.COM FILES PART16 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART16+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-12 | [`BOLTONUSA.COM FILES PART25 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Gottesdiener `](https://google.com/search?q=BOLTONUSA.COM+FILES+PART25+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CGottesdiener+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-12 | [`SWIRESPO.COM FILES PART20 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART20+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
