@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-23 | [`dtstechnical.c`](https://google.com/search?q=dtstechnical.c) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-02-23 | [`baa.`](https://google.com/search?q=baa.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`blueocean.consu...`](https://google.com/search?q=blueocean.consu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`trauma.lbg.ac.a...`](https://google.com/search?q=trauma.lbg.ac.a...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`komeg.de`](https://google.com/search?q=komeg.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-02-13 | [`Quantel Medical - quantel-medical.com`](https://google.com/search?q=Quantel+Medical+-+quantel-medical.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | [`wingsoft.it`](https://google.com/search?q=wingsoft.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-13 | [`cclint.com`](https://google.com/search?q=cclint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-13 | [`rbhltd.com`](https://google.com/search?q=rbhltd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-13 | [`New3`](https://google.com/search?q=New3) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
