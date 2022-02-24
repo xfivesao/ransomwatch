@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-24 | [`Apollo`](https://google.com/search?q=Apollo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-24 | [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-23 | [`lipinsk`](https://google.com/search?q=lipinsk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`stetsonexpo.`](https://google.com/search?q=stetsonexpo.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`blueocean.consu...`](https://google.com/search?q=blueocean.consu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-02-13 | [`NorthEast Coverages - northeastcoverages.com`](https://google.com/search?q=NorthEast+Coverages+-+northeastcoverages.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | [`Quantel Medical - quantel-medical.com`](https://google.com/search?q=Quantel+Medical+-+quantel-medical.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | [`wingsoft.it`](https://google.com/search?q=wingsoft.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-13 | [`cclint.com`](https://google.com/search?q=cclint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-13 | [`rbhltd.com`](https://google.com/search?q=rbhltd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
