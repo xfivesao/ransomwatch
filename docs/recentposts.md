@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-24 | [`rive`](https://google.com/search?q=rive) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`novohambur`](https://google.com/search?q=novohambur) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`Apollo`](https://google.com/search?q=Apollo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-24 | [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-14 | [`ecostampa.it`](https://google.com/search?q=ecostampa.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | [`Medical Staff - medicalstaff.com.au`](https://google.com/search?q=Medical+Staff+-+medicalstaff.com.au) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-13 | [`Scherr Legate - scherrlegate.com`](https://google.com/search?q=Scherr+Legate+-+scherrlegate.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-13 | [`NorthEast Coverages - northeastcoverages.com`](https://google.com/search?q=NorthEast+Coverages+-+northeastcoverages.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
