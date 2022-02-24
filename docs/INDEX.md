@@ -76,7 +76,7 @@
 | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) | BlackByte BLOG | 🟢 |  | dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion |
 | [lolnek](https://ransomwatch.telemetry.ltd/#/profiles?id=lolnek) | Support | 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |  | 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
-| [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) | Yespringtime - Home | 🟢 |  | blackshadow.cc |
+| [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) | blackshadow.cc - 522: Connection timed out | 🟢 |  | blackshadow.cc |
 | [bonacigroup](https://ransomwatch.telemetry.ltd/#/profiles?id=bonacigroup) | 502 Bad Gateway | 🔴 | 2021-12-28 | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | [crylock](https://ransomwatch.telemetry.ltd/#/profiles?id=crylock) |  | 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
 | [ech0raix](https://ransomwatch.telemetry.ltd/#/profiles?id=ech0raix) |  | 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
@@ -93,7 +93,7 @@
 | [nemty](https://ransomwatch.telemetry.ltd/#/profiles?id=nemty) |  | 🔴 | 2021-05-01 | zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |
 | [onepercent](https://ransomwatch.telemetry.ltd/#/profiles?id=onepercent) |  | 🔴 | 2021-05-01 | 5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |
 | [prolock](https://ransomwatch.telemetry.ltd/#/profiles?id=prolock) |  | 🔴 | 2021-05-01 | msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |
-| [qlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=qlocker) |  | 🔴 | 2022-02-24 | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
+| [qlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=qlocker) |  | 🟢 |  | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
 | [ranzy](https://ransomwatch.telemetry.ltd/#/profiles?id=ranzy) |  | 🔴 | 2021-05-01 | 37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |
 | [vfokx](https://ransomwatch.telemetry.ltd/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | [vfokx](https://ransomwatch.telemetry.ltd/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
@@ -125,7 +125,7 @@
 | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
 | [dread](https://ransomwatch.telemetry.ltd/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
-| [againstthewest](https://ransomwatch.telemetry.ltd/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🔴 | 2022-02-24 | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
+| [againstthewest](https://ransomwatch.telemetry.ltd/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🟢 |  | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
 | [holyghost](https://ransomwatch.telemetry.ltd/#/profiles?id=holyghost) | HolyGhost | 🟢 |  | matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |
 | [nightsky](https://ransomwatch.telemetry.ltd/#/profiles?id=nightsky) | Night Sky | 🔴 | 2022-01-25 | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |
 | [ransomcartel](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🟢 |  | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
