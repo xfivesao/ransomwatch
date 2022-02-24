@@ -4,7 +4,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": "marketplace - not a ransomware group",
+        "meta": "marketplace - not a ransomware group, previous clearnet marketo.cloud",
         "locations": [
             {
                 "fqdn": "marketojbwagqnwx.onion",
@@ -41,15 +41,6 @@
                 "available": false,
                 "updated": "2022-02-24 18:02:15.978563",
                 "lastscrape": "2022-02-24 18:02:15.978541"
-            },
-            {
-                "fqdn": "marketo.cloud",
-                "title": "marketo.cloud",
-                "version": 0,
-                "slug": "http://marketo.cloud",
-                "available": true,
-                "updated": "2022-02-24 22:02:34.409194",
-                "lastscrape": "2022-02-24 22:02:34.409176"
             }
         ],
         "profile": [
