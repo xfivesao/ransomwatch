@@ -1226,7 +1226,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": true,
-        "meta": null,
+        "meta": "previous clearnet domain blackshadow.cc",
         "locations": [
             {
                 "fqdn": "544corkfh5hwhtn4.onion",
@@ -1236,15 +1236,6 @@
                 "available": false,
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000"
-            },
-            {
-                "fqdn": "blackshadow.cc",
-                "title": "Yespringtime - Home",
-                "version": 0,
-                "slug": "http://blackshadow.cc",
-                "available": true,
-                "updated": "2022-02-24 22:14:25.967184",
-                "lastscrape": "2022-02-24 22:14:25.967162"
             }
         ],
         "profile": []
