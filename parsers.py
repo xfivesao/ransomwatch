@@ -156,11 +156,11 @@ def arvinclub():
     for post in posts:
         appender(post, 'arvinclub')
 
-def hive():
+def hiveleak():
     stdlog('parser: ' + 'hiveleak')
     # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     parser = '''
-    egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hive-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hive-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
+    egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
