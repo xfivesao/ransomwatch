@@ -273,7 +273,7 @@
         "name": "hiveleak",
         "captcha": false,
         "parser": true,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": "aka hive",
         "locations": [
             {
