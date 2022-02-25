@@ -407,7 +407,7 @@ def totwitter(post_title, group):
             access_token=os.environ.get('TWITTER_ACCESS_TOKEN'),
             access_token_secret=os.environ.get('TWITTER_ACCESS_TOKEN_SECRET')
             )
-        status = str(group) + ' : ' + str(post_title) + ' https://ransomwatch.telemetry.ltd/#/recentposts'
+        status = str(group) + ' : ' + str(post_title) + ' https://ransomwatch.telemetry.ltd/#/profiles?id=' + str(group)
         client.create_tweet(text=status)
     except TypeError as te:
         honk('sharedutils: ' + 'twitter tweepy unsatisfied: ' + str(te))
