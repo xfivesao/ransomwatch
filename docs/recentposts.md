@@ -4,6 +4,19 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-25 | [`Rodonaves Transportes E Encomendas Ltda`](https://google.com/search?q=Rodonaves+Transportes+E+Encomendas+Ltda) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Eurocoin Interactive B.V.`](https://google.com/search?q=Eurocoin+Interactive+B.V.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Emil Frey`](https://google.com/search?q=Emil+Frey) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Friedrich`](https://google.com/search?q=Friedrich) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Powerhouse1`](https://google.com/search?q=Powerhouse1) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`ITS InfoCom`](https://google.com/search?q=ITS+InfoCom) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`Midas Pharma GmbH`](https://google.com/search?q=Midas+Pharma+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-24 | [`dtstechnical.c`](https://google.com/search?q=dtstechnical.c) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`m`](https://google.com/search?q=m) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`verisilicon.co`](https://google.com/search?q=verisilicon.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -91,16 +104,3 @@ _last `100` posts_
 | 2022-02-15 | [`GEE GROUP INC.`](https://google.com/search?q=GEE+GROUP+INC.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-15 | [`Swissport`](https://google.com/search?q=Swissport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-15 | [`Ciam SPA`](https://google.com/search?q=Ciam+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-14 | [`hifly.aero`](https://google.com/search?q=hifly.aero) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`Vehicle Service Group (VSG)`](https://google.com/search?q=Vehicle+Service+Group+%28VSG%29) | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2022-02-14 | [`Muehlhan`](https://google.com/search?q=Muehlhan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-14 | [`pwma.org.hk`](https://google.com/search?q=pwma.org.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`ackmo.be`](https://google.com/search?q=ackmo.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`o2fit.cl`](https://google.com/search?q=o2fit.cl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`www.tikg.co.jp`](https://google.com/search?q=www.tikg.co.jp) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-02-14 | [`sienaliteracy.o...`](https://google.com/search?q=sienaliteracy.o...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`meeuwesen.nl`](https://google.com/search?q=meeuwesen.nl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`trustinnews.pt`](https://google.com/search?q=trustinnews.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`ecostampa.it`](https://google.com/search?q=ecostampa.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-13 | [`Medical Staff - medicalstaff.com.au`](https://google.com/search?q=Medical+Staff+-+medicalstaff.com.au) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-13 | [`Scherr Legate - scherrlegate.com`](https://google.com/search?q=Scherr+Legate+-+scherrlegate.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
