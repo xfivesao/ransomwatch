@@ -28,6 +28,8 @@ _last `100` posts_
 | 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`ITS InfoCom`](https://google.com/search?q=ITS+InfoCom) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`The Spine Diagnostic`](https://google.com/search?q=The+Spine+Diagnostic) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`fehrs.com`](https://google.com/search?q=fehrs.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-25 | [`JinkoSolar.com (NYSE: JKS)`](https://google.com/search?q=JinkoSolar.com+%28NYSE%3A+JKS%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-02-16 | [`CAPCARPET.COM FILES PART1 - 10.1.2.7, 10.1.2.11, 10.1.3.1, 10.1.8.43, 10.1.15.1, 10.1.15.1`](https://google.com/search?q=CAPCARPET.COM+FILES+PART1+-+10.1.2.7%2C+10.1.2.11%2C+10.1.3.1%2C+10.1.8.43%2C+10.1.15.1%2C+10.1.15.1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`ALEXIM.COM FILES PART1 - 192.168.1.167\C$\Users\sgarnica\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART1+-+192.168.1.167%5CC%24%5CUsers%5Csgarnica%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`JCWHITE.COM FILES PART17 - katie.oliver@jcwhite.com\D Drive Backup\ PUBLISHED`](https://google.com/search?q=JCWHITE.COM+FILES+PART17+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-16 | [`SLIMSTOCK.COM FILES PART24 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART24+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-16 | [`MTMRECOGNITION.COM FILES PART20 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART20+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
