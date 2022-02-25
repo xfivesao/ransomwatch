@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-25 | [`GEMS Education - gemseducation.com`](https://google.com/search?q=GEMS+Education+-+gemseducation.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-25 | [`McDonald&#039;s`](https://google.com/search?q=McDonald%26%23039%3Bs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-02-25 | [`summit-chr`](https://google.com/search?q=summit-chr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-25 | [`ids97`](https://google.com/search?q=ids97) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-02-25 | [`GEMS Education`](https://google.com/search?q=GEMS+Education) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`WARNING`](https://google.com/search?q=WARNING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-02-15 | [`KVK Tech - Specialty Brands and Generics`](https://google.com/search?q=KVK+Tech+-+Specialty+Brands+and+Generics) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-15 | [`GEE GROUP INC.`](https://google.com/search?q=GEE+GROUP+INC.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-15 | [`Swissport`](https://google.com/search?q=Swissport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-15 | [`Ciam SPA`](https://google.com/search?q=Ciam+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-14 | [`hifly.aero`](https://google.com/search?q=hifly.aero) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`Vehicle Service Group (VSG)`](https://google.com/search?q=Vehicle+Service+Group+%28VSG%29) | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
