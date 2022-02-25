@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-25 | [`JinkoSolar.com (NYSE: JKS)`](https://google.com/search?q=JinkoSolar.com+%28NYSE%3A+JKS%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-14 | [`ackmo.be`](https://google.com/search?q=ackmo.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | [`o2fit.cl`](https://google.com/search?q=o2fit.cl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | [`www.tikg.co.jp`](https://google.com/search?q=www.tikg.co.jp) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-02-14 | [`sienaliteracy.o...`](https://google.com/search?q=sienaliteracy.o...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
