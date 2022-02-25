@@ -28,6 +28,7 @@ _last `100` posts_
 | 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`ITS InfoCom`](https://google.com/search?q=ITS+InfoCom) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-02-25 | [`JinkoSolar.com (NYSE: JKS)`](https://google.com/search?q=JinkoSolar.com+%28NYSE%3A+JKS%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-16 | [`JCWHITE.COM FILES PART17 - katie.oliver@jcwhite.com\D Drive Backup\ PUBLISHED`](https://google.com/search?q=JCWHITE.COM+FILES+PART17+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`SLIMSTOCK.COM FILES PART24 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART24+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-16 | [`MTMRECOGNITION.COM FILES PART20 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART20+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-16 | [`SSMSJUSTICE.COM FILES PART25 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART25+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2020%5CKendrick%5CCase+Agai) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
