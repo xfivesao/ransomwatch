@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-25 | [`GEMS Education`](https://google.com/search?q=GEMS+Education) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-25 | [`WARNING`](https://google.com/search?q=WARNING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`The Spine Diagnostic`](https://google.com/search?q=The+Spine+Diagnostic) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`fehrs.com`](https://google.com/search?q=fehrs.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-25 | [`JinkoSolar.com (NYSE: JKS)`](https://google.com/search?q=JinkoSolar.com+%28NYSE%3A+JKS%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-02-14 | [`hifly.aero`](https://google.com/search?q=hifly.aero) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | [`Vehicle Service Group (VSG)`](https://google.com/search?q=Vehicle+Service+Group+%28VSG%29) | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2022-02-14 | [`Muehlhan`](https://google.com/search?q=Muehlhan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-14 | [`pwma.org.hk`](https://google.com/search?q=pwma.org.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`ackmo.be`](https://google.com/search?q=ackmo.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
