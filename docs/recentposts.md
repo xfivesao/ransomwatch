@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-25 | [`Midas Pharma GmbH`](https://google.com/search?q=Midas+Pharma+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-24 | [`rive`](https://google.com/search?q=rive) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`novohambur`](https://google.com/search?q=novohambur) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`Apollo`](https://google.com/search?q=Apollo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -99,8 +104,3 @@ _last `100` posts_
 | 2022-02-14 | [`o2fit.cl`](https://google.com/search?q=o2fit.cl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-14 | [`www.tikg.co.jp`](https://google.com/search?q=www.tikg.co.jp) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-14 | [`sienaliteracy.o...`](https://google.com/search?q=sienaliteracy.o...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`meeuwesen.nl`](https://google.com/search?q=meeuwesen.nl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`trustinnews.pt`](https://google.com/search?q=trustinnews.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-14 | [`ecostampa.it`](https://google.com/search?q=ecostampa.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-13 | [`Medical Staff - medicalstaff.com.au`](https://google.com/search?q=Medical+Staff+-+medicalstaff.com.au) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-13 | [`Scherr Legate - scherrlegate.com`](https://google.com/search?q=Scherr+Legate+-+scherrlegate.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
