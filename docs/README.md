@@ -2,13 +2,13 @@
 ## summary
 _february 25th, 2022_
 
-currently tracking `92` groups across `130` relays & mirrors - _`49` currently online_
+currently tracking `92` groups across `130` relays & mirrors - _`53` currently online_
 
-⏲ there have been `31` posts within the `last 24 hours`
+⏲ there have been `32` posts within the `last 24 hours`
 
 🦈 there have been `264` posts within the `month of february`
 
-🪐 there have been `952` posts within the `last 90 days`
+🪐 there have been `953` posts within the `last 90 days`
 
 🏚 there have been `525` posts within the `year of 2022`
 
