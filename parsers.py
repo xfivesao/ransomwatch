@@ -567,7 +567,7 @@ def rook():
 def cryp70n1c0d3():
     stdlog('parser: ' + 'cryp70n1c0d3')
     parser = '''
-    grep 'class="selection">' source/cryp70n1c0d3-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/\$/d' -e '/OPEN/d' -e '/BID/d' -e '/CLOSED/d' -e '/SALE/d'
+    grep '<td class="selection"' source/cryp70n1c0d3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
