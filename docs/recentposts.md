@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-26 | [`chip`](https://google.com/search?q=chip) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`giovana`](https://google.com/search?q=giovana) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`MADRID CALLE 30 SA ( https://www.mc30.es/ )`](https://google.com/search?q=MADRID+CALLE+30+SA+%28+https%3A%2F%2Fwww.mc30.es%2F+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-26 | [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`kokuyocamlin.co...`](https://google.com/search?q=kokuyocamlin.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`sanvitale.ra.it`](https://google.com/search?q=sanvitale.ra.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`botswanatourism...`](https://google.com/search?q=botswanatourism...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-18 | [`threesixtysourcing.com`](https://google.com/search?q=threesixtysourcing.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
