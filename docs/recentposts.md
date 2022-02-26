@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-26 | [`HF Group`](https://google.com/search?q=HF+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-02-26 | [`Research Partnership`](https://google.com/search?q=Research+Partnership) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`GEMS Education - gemseducation.com`](https://google.com/search?q=GEMS+Education+-+gemseducation.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`McDonald&#039;s`](https://google.com/search?q=McDonald%26%23039%3Bs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-25 | [`ids97`](https://google.com/search?q=ids97) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-02-18 | [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`muntons`](https://google.com/search?q=muntons) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-02-18 | [`heritage-encon`](https://google.com/search?q=heritage-encon) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-02-18 | [`CSI Laboratories`](https://google.com/search?q=CSI+Laboratories) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-18 | [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-18 | [`Doherty Cella Keane - dcklaw.com`](https://google.com/search?q=Doherty+Cella+Keane+-+dcklaw.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
