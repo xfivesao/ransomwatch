@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-26 | [`giovana`](https://google.com/search?q=giovana) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`MADRID CALLE 30 SA ( https://www.mc30.es/ )`](https://google.com/search?q=MADRID+CALLE+30+SA+%28+https%3A%2F%2Fwww.mc30.es%2F+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-26 | [`giovanard`](https://google.com/search?q=giovanard) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-04 | [`ukrl.co.uk`](https://google.com/search?q=ukrl.co.uk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`dectro.com`](https://google.com/search?q=dectro.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`savonia.fi`](https://google.com/search?q=savonia.fi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | [`rabba`](https://google.com/search?q=rabba) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
