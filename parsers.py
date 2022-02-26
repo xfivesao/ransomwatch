@@ -124,6 +124,7 @@ def lorenz():
 
 def lockbit2():
     stdlog('parser: ' + 'lockbit2')
+    # egrep -h -A1 'class="post-title"' source/lockbit2-* | grep -v 'class="post-title"' | grep -v '\--' | cut -d'<' -f1 | tr -d ' '
     parser = '''
     awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
@@ -156,11 +157,13 @@ def arvinclub():
     for post in posts:
         appender(post, 'arvinclub')
 
-def hive():
+def hiveleak():
     stdlog('parser: ' + 'hiveleak')
     # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
+    # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     parser = '''
-    egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hive-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hive-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
+    jq -r '.[].title' source/hiveleak-hiveapi*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
