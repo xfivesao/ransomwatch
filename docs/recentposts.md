@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-26 | [`giovanard`](https://google.com/search?q=giovanard) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`HF Group`](https://google.com/search?q=HF+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`Research Partnership`](https://google.com/search?q=Research+Partnership) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-18 | [`OPS omniplussystem.com`](https://google.com/search?q=OPS+omniplussystem.com) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-02-18 | [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`muntons`](https://google.com/search?q=muntons) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-02-18 | [`heritage-encon`](https://google.com/search?q=heritage-encon) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
