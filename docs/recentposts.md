@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-26 | [`MADRID CALLE 30 SA ( https://www.mc30.es/ )`](https://google.com/search?q=MADRID+CALLE+30+SA+%28+https%3A%2F%2Fwww.mc30.es%2F+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-02-26 | [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`giovanard`](https://google.com/search?q=giovanard) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`HF Group`](https://google.com/search?q=HF+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`botswanatourism...`](https://google.com/search?q=botswanatourism...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-18 | [`threesixtysourcing.com`](https://google.com/search?q=threesixtysourcing.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-18 | [`OPS omniplussystem.com`](https://google.com/search?q=OPS+omniplussystem.com) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-02-18 | [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-18 | [`muntons`](https://google.com/search?q=muntons) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
