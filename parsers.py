@@ -70,8 +70,8 @@ def appender(post_title, group_name):
         # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
             todiscord(newpost['post_title'], newpost['group_name'])
-        #if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
-        #    totwitter(newpost['post_title'], newpost['group_name'])
+        if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
+            totwitter(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
