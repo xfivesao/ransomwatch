@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-27 | [`WARNING`](https://google.com/search?q=WARNING) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`ffnm.org`](https://google.com/search?q=ffnm.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`chip`](https://google.com/search?q=chip) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`centralia.edu`](https://google.com/search?q=centralia.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`Mack Defense, LLC`](https://google.com/search?q=Mack+Defense%2C+LLC) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-19 | [`pertusipastore....`](https://google.com/search?q=pertusipastore....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`kokuyocamlin.co...`](https://google.com/search?q=kokuyocamlin.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
