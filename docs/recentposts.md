@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-27 | [`us.jll.com`](https://google.com/search?q=us.jll.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`ugcorp.com`](https://google.com/search?q=ugcorp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`WARNING`](https://google.com/search?q=WARNING) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`Various accesses on sale`](https://google.com/search?q=Various+accesses+on+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-19 | [`brookledge.com`](https://google.com/search?q=brookledge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`centralia.edu`](https://google.com/search?q=centralia.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`Mack Defense, LLC`](https://google.com/search?q=Mack+Defense%2C+LLC) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
