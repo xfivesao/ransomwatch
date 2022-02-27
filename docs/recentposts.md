@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`ffnm.org`](https://google.com/search?q=ffnm.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`giovana`](https://google.com/search?q=giovana) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-04 | [`bar2.co.uk`](https://google.com/search?q=bar2.co.uk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`ametisfacilitie...`](https://google.com/search?q=ametisfacilitie...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`ukrl.co.uk`](https://google.com/search?q=ukrl.co.uk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | [`dectro.com`](https://google.com/search?q=dectro.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
