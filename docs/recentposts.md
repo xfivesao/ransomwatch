@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-27 | [`us.jll.com`](https://google.com/search?q=us.jll.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`WARNING`](https://google.com/search?q=WARNING) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`s`](https://google.com/search?q=s) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-04 | [`cometgroup`](https://google.com/search?q=cometgroup) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`hotelcedres.com`](https://google.com/search?q=hotelcedres.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`maisonlaprise.c.`](https://google.com/search?q=maisonlaprise.c.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | [`bar2.co.uk`](https://google.com/search?q=bar2.co.uk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
