@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-28 | [`jamailsmith.com`](https://google.com/search?q=jamailsmith.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`lakeview.com`](https://google.com/search?q=lakeview.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`richmondmonroe....`](https://google.com/search?q=richmondmonroe....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`us.jll.com`](https://google.com/search?q=us.jll.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`SWIRESPO.COM FILES PART22 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART22+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`ENPRECIS.COM FILES PART20 - 10.50.32.5\DATA_FILES\AHM\AHM\2019\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART20+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C2019%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`oceantextile.dk`](https://google.com/search?q=oceantextile.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`Various accesses on sale`](https://google.com/search?q=Various+accesses+on+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
