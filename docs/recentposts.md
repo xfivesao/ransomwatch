@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-28 | [`idline.f`](https://google.com/search?q=idline.f) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`lakeview.com`](https://google.com/search?q=lakeview.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`richmondmonroe....`](https://google.com/search?q=richmondmonroe....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`ugcorp.com`](https://google.com/search?q=ugcorp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-04 | [`COFRAP ESPAÑOLA...`](https://google.com/search?q=COFRAP+ESPA%C3%91OLA...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`progereal.com`](https://google.com/search?q=progereal.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-04 | [`castro-urdiales...`](https://google.com/search?q=castro-urdiales...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | [`Royal Laser`](https://google.com/search?q=Royal+Laser) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
