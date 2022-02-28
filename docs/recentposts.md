@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-28 | [`InfoTek Consulting Services`](https://google.com/search?q=InfoTek+Consulting+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-02-28 | [`ccli`](https://google.com/search?q=ccli) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-28 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-02-28 | [`GHI Hornos Industriales  first batch of Data (0,1%)`](https://google.com/search?q=GHI+Hornos+Industriales++first+batch+of+Data+%280%2C1%25%29) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`ALEXIM.COM FILES PART2 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART2+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`MCH-GROUP.COM FILES PART23 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART23+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`EDAN.COM FILES PART22 - 192.168.2.120\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART22+-+192.168.2.120%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-19 | [`DUTTONFIRM.COM FILES PART18 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART18+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
