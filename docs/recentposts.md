@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-02-28 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-02-28 | [`GHI Hornos Industriales  first batch of Data (0,1%)`](https://google.com/search?q=GHI+Hornos+Industriales++first+batch+of+Data+%280%2C1%25%29) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-02-28 | [`safed.in`](https://google.com/search?q=safed.in) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-28 | [`jamailsmith.com`](https://google.com/search?q=jamailsmith.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-05 | [`Taylor and Martin`](https://google.com/search?q=Taylor+and+Martin) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-05 | [`Argonaut Gold`](https://google.com/search?q=Argonaut+Gold) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-04 | [`botafogo.ind.br`](https://google.com/search?q=botafogo.ind.br) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-04 | [`prefimetal.com`](https://google.com/search?q=prefimetal.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
