@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-01 | [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`Long Fence - Fence Company Since 1945 - longfence.com`](https://google.com/search?q=Long+Fence+-+Fence+Company+Since+1945+-+longfence.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`InfoTek Consulting Services`](https://google.com/search?q=InfoTek+Consulting+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-02-28 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-05 | [`Bud Griffin and Associates`](https://google.com/search?q=Bud+Griffin+and+Associates) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-05 | [`Petrolimex`](https://google.com/search?q=Petrolimex) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-02-05 | [`Rector Hayden Realtors`](https://google.com/search?q=Rector+Hayden+Realtors) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | [`Taylor and Martin`](https://google.com/search?q=Taylor+and+Martin) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
