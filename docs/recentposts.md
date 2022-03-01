@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-01 | [`wp`](https://google.com/search?q=wp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART23+-+172.16.10.166%5CH%24%5CFiles%5CSPOSIN%5CSSD%5CSFE-SBS%5CFinance%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`ENPRECIS.COM FILES PART21 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART21+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`JCWHITE.COM FILES PART18 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART18+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`SLIMSTOCK.COM FILES PART25 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART25+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`MTMRECOGNITION.COM FILES PART21 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART21+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-19 | [`SSMSJUSTICE.COM FILES PART26 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART26+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2020%5CKendrick%5CCase+Agai) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
