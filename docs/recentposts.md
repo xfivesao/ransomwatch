@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`Long Fence - Fence Company Since 1945 - longfence.com`](https://google.com/search?q=Long+Fence+-+Fence+Company+Since+1945+-+longfence.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`InfoTek Consulting Services`](https://google.com/search?q=InfoTek+Consulting+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`SSMSJUSTICE.COM FILES PART26 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART26+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2020%5CKendrick%5CCase+Agai) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`JBINSTANTLAWN.NET FILES PART2 - JB-RDS PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART2+-+JB-RDS+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-19 | [`CAPCARPET.COM FILES PART2 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART2+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-19 | [`ALEXIM.COM FILES PART2 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART2+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
