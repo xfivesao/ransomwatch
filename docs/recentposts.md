@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-01 | [`wpdn.n`](https://google.com/search?q=wpdn.n) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`Long Fence - Fence Company Since 1945 - longfence.com`](https://google.com/search?q=Long+Fence+-+Fence+Company+Since+1945+-+longfence.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-05 | [`aisc-airbus.`](https://google.com/search?q=aisc-airbus.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | [`dap.gov.tr`](https://google.com/search?q=dap.gov.tr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | [`Bud Griffin and Associates`](https://google.com/search?q=Bud+Griffin+and+Associates) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-02-05 | [`Petrolimex`](https://google.com/search?q=Petrolimex) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
