@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-01 | [`ENPRECIS.COM FILES PART21 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART21+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`nowi`](https://google.com/search?q=nowi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`wpdn.n`](https://google.com/search?q=wpdn.n) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-05 | [`kainz-haustechn...`](https://google.com/search?q=kainz-haustechn...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-05 | [`Albany Bank and Trust Company - albanybank.com`](https://google.com/search?q=Albany+Bank+and+Trust+Company+-+albanybank.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | [`aisc-airbus.`](https://google.com/search?q=aisc-airbus.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-05 | [`dap.gov.tr`](https://google.com/search?q=dap.gov.tr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
