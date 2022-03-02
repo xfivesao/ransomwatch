@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`DUTTONFIRM.COM FILES PART19 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART19+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`BOLTONUSA.COM FILES PART28 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART28+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`wp`](https://google.com/search?q=wp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART23+-+172.16.10.166%5CH%24%5CFiles%5CSPOSIN%5CSSD%5CSFE-SBS%5CFinance%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`asgcourtage.com`](https://google.com/search?q=asgcourtage.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`taylorswindows....`](https://google.com/search?q=taylorswindows....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`JCWHITE.COM FILES PART18 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART18+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-19 | [`SLIMSTOCK.COM FILES PART25 - 10.30.10.98\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART25+-+10.30.10.98%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
