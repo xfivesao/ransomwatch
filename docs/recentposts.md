@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`Buhck Gruppe`](https://google.com/search?q=Buhck+Gruppe) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-02 | [`tccm.com`](https://google.com/search?q=tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`wimmog.ch`](https://google.com/search?q=wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`haeny.com`](https://google.com/search?q=haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-07 | [`Zamil Industrial`](https://google.com/search?q=Zamil+Industrial) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-07 | [`NZ UNIFORMS`](https://google.com/search?q=NZ+UNIFORMS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-07 | [`Athens Distributing Company`](https://google.com/search?q=Athens+Distributing+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-07 | [`KP SNACKS`](https://google.com/search?q=KP+SNACKS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
