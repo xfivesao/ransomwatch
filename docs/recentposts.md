@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`ALEXIM.COM FILES PART3 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART3+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`MCH-GROUP.COM FILES PART24 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART24+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`HOL-MAC Corp.`](https://google.com/search?q=HOL-MAC+Corp.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-02 | [`EDAN.COM FILES PART23 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART23+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`strix.com`](https://google.com/search?q=strix.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-19 | [`plane.biz`](https://google.com/search?q=plane.biz) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`centrictel.com`](https://google.com/search?q=centrictel.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
