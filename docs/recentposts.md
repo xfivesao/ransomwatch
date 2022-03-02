@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`BOLTONUSA.COM FILES PART28 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART28+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`anasia.`](https://google.com/search?q=anasia.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`wp`](https://google.com/search?q=wp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART23+-+172.16.10.166%5CH%24%5CFiles%5CSPOSIN%5CSSD%5CSFE-SBS%5CFinance%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-06 | [`watermark`](https://google.com/search?q=watermark) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-06 | [`maketherightcall.com hk-callcentre`](https://google.com/search?q=maketherightcall.com+hk-callcentre) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-05 | [`Consumers Supply Distributing LLC`](https://google.com/search?q=Consumers+Supply+Distributing+LLC) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-02-05 | [`tyresolesdobras...`](https://google.com/search?q=tyresolesdobras...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
