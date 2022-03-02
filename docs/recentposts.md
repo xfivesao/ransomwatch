@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`SSMSJUSTICE.COM FILES PART27 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART27+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2020%5CKendrick%5CCase+Agai) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`www.tccm.com`](https://google.com/search?q=www.tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.haeny.com`](https://google.com/search?q=www.haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-20 | [`Signum`](https://google.com/search?q=Signum) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-02-20 | [`weye`](https://google.com/search?q=weye) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-20 | [`bynx.com`](https://google.com/search?q=bynx.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`CIELD`](https://google.com/search?q=CIELD) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
