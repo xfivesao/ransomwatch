@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`CAPCARPET.COM FILES PART3 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART3+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`www.tccm.com`](https://google.com/search?q=www.tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-06 | [`JCWHITE.COM FILES PART14 - jen.shafe@jcwhite.com\Active Projects\Johnson Controls (JCI)\ P`](https://google.com/search?q=JCWHITE.COM+FILES+PART14+-+jen.shafe%40jcwhite.com%5CActive+Projects%5CJohnson+Controls+%28JCI%29%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`SLIMSTOCK.COM FILES PART21 - 10.30.10.29\D$\Userdir\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART21+-+10.30.10.29%5CD%24%5CUserdir%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`MTMRECOGNITION.COM FILES PART17 - 10.0.1.18\mtmShare\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART17+-+10.0.1.18%5CmtmShare%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-06 | [`SSMSJUSTICE.COM FILES PART22 - 192.168.1.248\D\SHARES\CLOSED CASES\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART22+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
