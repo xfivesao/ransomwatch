@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`JCWHITE.COM FILES PART19 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART19+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`tccm.com`](https://google.com/search?q=tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`wimmog.ch`](https://google.com/search?q=wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`haeny.com`](https://google.com/search?q=haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-23 | [`Tudi Mechanical Systems (TMS)`](https://google.com/search?q=Tudi+Mechanical+Systems+%28TMS%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-23 | [`RAMSAUER`](https://google.com/search?q=RAMSAUER) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-22 | [`SOUTHWARK METAL MANUFACTURING`](https://google.com/search?q=SOUTHWARK+METAL+MANUFACTURING) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2022-02-21 | [`Royal Smilde`](https://google.com/search?q=Royal+Smilde) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
