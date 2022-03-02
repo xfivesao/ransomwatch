@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.haeny.com`](https://google.com/search?q=www.haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`ALEXIM.COM FILES PART3 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART3+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-06 | [`MTMRECOGNITION.COM FILES PART17 - 10.0.1.18\mtmShare\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART17+-+10.0.1.18%5CmtmShare%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`SSMSJUSTICE.COM FILES PART22 - 192.168.1.248\D\SHARES\CLOSED CASES\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART22+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-02-06 | [`MCH-GROUP.COM FILES PART19 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Hong`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART19+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Hong) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-02-06 | [`EDAN.COM FILES PART18 - 192.168.2.12\D$\超声产品室\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART18+-+192.168.2.12%5CD%24%5C%E8%B6%85%E5%A3%B0%E4%BA%A7%E5%93%81%E5%AE%A4%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
