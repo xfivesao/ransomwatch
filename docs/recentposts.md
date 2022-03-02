@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`haeny.com`](https://google.com/search?q=haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`elitecorp.com`](https://google.com/search?q=elitecorp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`SLIMSTOCK.COM FILES PART26 - 10.30.11.131\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART26+-+10.30.11.131%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`MTMRECOGNITION.COM FILES PART22 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART22+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-21 | [`Royal Smilde`](https://google.com/search?q=Royal+Smilde) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-21 | [`CENTRAL BAPTIST COLLEGE`](https://google.com/search?q=CENTRAL+BAPTIST+COLLEGE) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-02-21 | [`groupe-sobotram...`](https://google.com/search?q=groupe-sobotram...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-21 | [`gpvivienda.com`](https://google.com/search?q=gpvivienda.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
