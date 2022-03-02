@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`SLIMSTOCK.COM FILES PART26 - 10.30.11.131\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART26+-+10.30.11.131%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`MTMRECOGNITION.COM FILES PART22 - 10.0.1.186\Accounting\ PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART22+-+10.0.1.186%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`SSMSJUSTICE.COM FILES PART27 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART27+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2020%5CKendrick%5CCase+Agai) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`www.tccm.com`](https://google.com/search?q=www.tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-21 | [`groupe-sobotram...`](https://google.com/search?q=groupe-sobotram...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-21 | [`gpvivienda.com`](https://google.com/search?q=gpvivienda.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-20 | [`Signum`](https://google.com/search?q=Signum) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-02-20 | [`weye`](https://google.com/search?q=weye) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
