@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`JBINSTANTLAWN.NET FILES PART3 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART3+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`CAPCARPET.COM FILES PART3 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART3+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`ALEXIM.COM FILES PART3 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART3+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-19 | [`PFEIFER Drako`](https://google.com/search?q=PFEIFER+Drako) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-02-19 | [`www.pccua.edu`](https://google.com/search?q=www.pccua.edu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-19 | [`partners.pia.be`](https://google.com/search?q=partners.pia.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-19 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
