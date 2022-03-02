@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-02 | [`tccm.com`](https://google.com/search?q=tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`wimmog.ch`](https://google.com/search?q=wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`haeny.com`](https://google.com/search?q=haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`elitecorp.com`](https://google.com/search?q=elitecorp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-23 | [`RAMSAUER`](https://google.com/search?q=RAMSAUER) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-22 | [`SOUTHWARK METAL MANUFACTURING`](https://google.com/search?q=SOUTHWARK+METAL+MANUFACTURING) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-02-21 | [`Royal Smilde`](https://google.com/search?q=Royal+Smilde) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-02-21 | [`CENTRAL BAPTIST COLLEGE`](https://google.com/search?q=CENTRAL+BAPTIST+COLLEGE) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
