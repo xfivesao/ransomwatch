@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-03 | [`GRUPPO ANGELANTONI`](https://google.com/search?q=GRUPPO+ANGELANTONI) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-03 | [`Buhck Gruppe`](https://google.com/search?q=Buhck+Gruppe) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-02 | [`JCWHITE.COM FILES PART19 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART19+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`tccm.com`](https://google.com/search?q=tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-23 | [`S`](https://google.com/search?q=S) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-02-23 | [`Phyllis Browning Company - phyllisbrowning.com`](https://google.com/search?q=Phyllis+Browning+Company+-+phyllisbrowning.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-23 | [`Tudi Mechanical Systems (TMS)`](https://google.com/search?q=Tudi+Mechanical+Systems+%28TMS%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-23 | [`RAMSAUER`](https://google.com/search?q=RAMSAUER) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
