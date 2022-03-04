@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-04 | [`Prima Power`](https://google.com/search?q=Prima+Power) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`Gleason Corporation`](https://google.com/search?q=Gleason+Corporation) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`Caledonian`](https://google.com/search?q=Caledonian) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`United McGill Corporation`](https://google.com/search?q=United+McGill+Corporation) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-24 | [`verisilicon.co`](https://google.com/search?q=verisilicon.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`Apollo`](https://google.com/search?q=Apollo) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-24 | [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-23 | [`lipinsk`](https://google.com/search?q=lipinsk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
