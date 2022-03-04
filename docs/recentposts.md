@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-04 | [`Prima Power`](https://google.com/search?q=Prima+Power) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-04 | [`Caledonian`](https://google.com/search?q=Caledonian) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-04 | [`United McGill Corporation`](https://google.com/search?q=United+McGill+Corporation) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-04 | [`Get Fresh Company`](https://google.com/search?q=Get+Fresh+Company) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-08 | [`chemtech.net`](https://google.com/search?q=chemtech.net) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-02-08 | [`ibasis.com - Pa...`](https://google.com/search?q=ibasis.com+-+Pa...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-08 | [`aludesign.ro`](https://google.com/search?q=aludesign.ro) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-08 | [`skandia.com.mx`](https://google.com/search?q=skandia.com.mx) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
