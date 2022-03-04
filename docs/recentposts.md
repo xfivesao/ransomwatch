@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-04 | [`Caledonian`](https://google.com/search?q=Caledonian) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`United McGill Corporation`](https://google.com/search?q=United+McGill+Corporation) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`Get Fresh Company`](https://google.com/search?q=Get+Fresh+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-03 | [`Private company #2`](https://google.com/search?q=Private+company+%232) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-24 | [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-23 | [`lipinsk`](https://google.com/search?q=lipinsk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`stetsonexpo.`](https://google.com/search?q=stetsonexpo.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-23 | [`blueocean.consu...`](https://google.com/search?q=blueocean.consu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
