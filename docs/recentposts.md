@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-04 | [`GHI Hornos Industriales Fully Leaked`](https://google.com/search?q=GHI+Hornos+Industriales+Fully+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-03-04 | [`Lifetech Resources`](https://google.com/search?q=Lifetech+Resources) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`PAN AMERICAN ENERGY S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=PAN+AMERICAN+ENERGY+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-04 | [`freedomfarmspa....`](https://google.com/search?q=freedomfarmspa....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-25 | [`Midas Pharma GmbH`](https://google.com/search?q=Midas+Pharma+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
