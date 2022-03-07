@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-12 | [`Ebix Inc.`](https://google.com/search?q=Ebix+Inc.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-12 | [`New-New2`](https://google.com/search?q=New-New2) | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
 | 2022-02-12 | [`J`](https://google.com/search?q=J) | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
-| 2022-02-11 | [`ibasis.com`](https://google.com/search?q=ibasis.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
