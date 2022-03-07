@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Gershon Biegeleisen &#038; Co`](https://google.com/search?q=Gershon+Biegeleisen+%26%23038%3B+Co) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Backus, Meyer &#038; Branch, LLP`](https://google.com/search?q=Backus%2C+Meyer+%26%23038%3B+Branch%2C+LLP) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`brownsville-pub...`](https://google.com/search?q=brownsville-pub...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`Greenberg &#038; Stein New York City Personal Injury Lawyers`](https://google.com/search?q=Greenberg+%26%23038%3B+Stein+New+York+City+Personal+Injury+Lawyers) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)`](https://google.com/search?q=Hyundai+Samho+Heavy+Industries+Co.%2CLtd.+%28South+Korea%29) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Rodonaves Transportes E Encomendas Ltda`](https://google.com/search?q=Rodonaves+Transportes+E+Encomendas+Ltda) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Eurocoin Interactive B.V.`](https://google.com/search?q=Eurocoin+Interactive+B.V.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Emil Frey`](https://google.com/search?q=Emil+Frey) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
