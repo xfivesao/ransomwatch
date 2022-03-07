@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Law Offices of Brandon Sua &#038; Associates`](https://google.com/search?q=Law+Offices+of+Brandon+Sua+%26%23038%3B+Associates) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Campbell Sales and Service, Inc`](https://google.com/search?q=Campbell+Sales+and+Service%2C+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Federal land inc.`](https://google.com/search?q=Federal+land+inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`luzeirosfortale.`](https://google.com/search?q=luzeirosfortale.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Friedrich`](https://google.com/search?q=Friedrich) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Powerhouse1`](https://google.com/search?q=Powerhouse1) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
