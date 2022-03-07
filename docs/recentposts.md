@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Federal land inc.`](https://google.com/search?q=Federal+land+inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`luzeirosfortale.`](https://google.com/search?q=luzeirosfortale.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`Centro Hospitalar de Setúbal`](https://google.com/search?q=Centro+Hospitalar+de+Set%C3%BAbal) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`BAUCENTER   -   ujhazbudapest.hu`](https://google.com/search?q=BAUCENTER+++-+++ujhazbudapest.hu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`ITS InfoCom`](https://google.com/search?q=ITS+InfoCom) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`The Spine Diagnostic`](https://google.com/search?q=The+Spine+Diagnostic) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
