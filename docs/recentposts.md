@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-07 | [`IDFC FIRST Bank`](https://google.com/search?q=IDFC+FIRST+Bank) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Ledcor`](https://google.com/search?q=Ledcor) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`stanthonys.slou...`](https://google.com/search?q=stanthonys.slou...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Tite - Live Belgique`](https://google.com/search?q=Tite+-+Live+Belgique) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Shanghai Huizhong Automotive Manufacturing Co., Ltd.`](https://google.com/search?q=Shanghai+Huizhong+Automotive+Manufacturing+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Supernus Pharmaceuticals, NASDAQ: SUPN`](https://google.com/search?q=Supernus+Pharmaceuticals%2C+NASDAQ%3A+SUPN) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Drake &amp; Scull International PJSC`](https://google.com/search?q=Drake+%26amp%3B+Scull+International+PJSC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
