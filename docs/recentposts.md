@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`stanthonys.slou...`](https://google.com/search?q=stanthonys.slou...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`jrichard-paysag...`](https://google.com/search?q=jrichard-paysag...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`BEAUTYWEST, INC.`](https://google.com/search?q=BEAUTYWEST%2C+INC.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Gershon Biegeleisen &#038; Co`](https://google.com/search?q=Gershon+Biegeleisen+%26%23038%3B+Co) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Drake &amp; Scull International PJSC`](https://google.com/search?q=Drake+%26amp%3B+Scull+International+PJSC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Institute For Systems And Robotics (Isr-Lisboa`](https://google.com/search?q=Institute+For+Systems+And+Robotics+%28Isr-Lisboa) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Centre D'Odontologia Integrada Miret-Puig`](https://google.com/search?q=Centre+D%27Odontologia+Integrada+Miret-Puig) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)`](https://google.com/search?q=Hyundai+Samho+Heavy+Industries+Co.%2CLtd.+%28South+Korea%29) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
