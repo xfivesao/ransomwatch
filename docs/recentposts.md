@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-07 | [`Turner Construction Company`](https://google.com/search?q=Turner+Construction+Company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`MAS & Coronis Health`](https://google.com/search?q=MAS+%26+Coronis+Health) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`BERMAN SOBIN GROSS & DARBY`](https://google.com/search?q=BERMAN+SOBIN+GROSS+%26+DARBY) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Rocky's Ace Hardware`](https://google.com/search?q=Rocky%27s+Ace+Hardware) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Guts Superpols Co., Ltd.`](https://google.com/search?q=Guts+Superpols+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
