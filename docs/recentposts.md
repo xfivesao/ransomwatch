@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-07 | [`Turner Construction Company`](https://google.com/search?q=Turner+Construction+Company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Rocky's Ace Hardware`](https://google.com/search?q=Rocky%27s+Ace+Hardware) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Guts Superpols Co., Ltd.`](https://google.com/search?q=Guts+Superpols+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Ningbo Dechang Electric Machinery Manufacturing Co., Ltd.`](https://google.com/search?q=Ningbo+Dechang+Electric+Machinery+Manufacturing+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Tite - Live Belgique`](https://google.com/search?q=Tite+-+Live+Belgique) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
