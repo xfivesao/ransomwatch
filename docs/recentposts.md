@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-08 | [`XEFI`](https://google.com/search?q=XEFI) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-08 | [`Carpenter & Zuckerman - cz.law`](https://google.com/search?q=Carpenter+%26+Zuckerman+-+cz.law) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-03-08 | [`Xtera`](https://google.com/search?q=Xtera) | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-03-08 | [`strix`](https://google.com/search?q=strix) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-12 | [`BOLTONUSA.COM FILES PART25 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\Gottesdiener `](https://google.com/search?q=BOLTONUSA.COM+FILES+PART25+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CGottesdiener+) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-02-12 | [`SWIRESPO.COM FILES PART20 - 172.16.10.166\H$\Files\SPM\Documents\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART20+-+172.16.10.166%5CH%24%5CFiles%5CSPM%5CDocuments%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-02-12 | [`ENPRECIS.COM FILES PART18 - 10.50.32.4\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART18+-+10.50.32.4%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
-| 2022-02-12 | [`gruges.com.mx`](https://google.com/search?q=gruges.com.mx) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
