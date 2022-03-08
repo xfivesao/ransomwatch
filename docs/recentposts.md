@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-03-08 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-12 | [`idm-srl.it`](https://google.com/search?q=idm-srl.it) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-12 | [`San Francisco 49ers`](https://google.com/search?q=San+Francisco+49ers) | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
 | 2022-02-12 | [`Ebix Inc.`](https://google.com/search?q=Ebix+Inc.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-02-12 | [`New-New2`](https://google.com/search?q=New-New2) | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
