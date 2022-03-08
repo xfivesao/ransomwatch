@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-08 | [`Xtera`](https://google.com/search?q=Xtera) | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-03-08 | [`strix`](https://google.com/search?q=strix) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-03-08 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-12 | [`ENPRECIS.COM FILES PART18 - 10.50.32.4\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART18+-+10.50.32.4%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-02-12 | [`gruges.com.mx`](https://google.com/search?q=gruges.com.mx) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-12 | [`idm-srl.it`](https://google.com/search?q=idm-srl.it) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-12 | [`San Francisco 49ers`](https://google.com/search?q=San+Francisco+49ers) | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
