@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-08 | [`Carpenter & Zuckerman - cz.law`](https://google.com/search?q=Carpenter+%26+Zuckerman+-+cz.law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-08 | [`Xtera`](https://google.com/search?q=Xtera) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-03-07 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`Steven L. Sugarman & Associates`](https://google.com/search?q=Steven+L.+Sugarman+%26+Associates) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Palacios & Asociados`](https://google.com/search?q=Palacios+%26+Asociados) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Sit'N Sleep`](https://google.com/search?q=Sit%27N+Sleep) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`MAS & Coronis Health`](https://google.com/search?q=MAS+%26+Coronis+Health) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
