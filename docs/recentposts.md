@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-08 | [`hamm`](https://google.com/search?q=hamm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-08 | [`Myron Corp.`](https://google.com/search?q=Myron+Corp.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-08 | [`XEFI`](https://google.com/search?q=XEFI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-08 | [`Carpenter & Zuckerman - cz.law`](https://google.com/search?q=Carpenter+%26+Zuckerman+-+cz.law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`GEMS Education`](https://google.com/search?q=GEMS+Education) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`WARNING`](https://google.com/search?q=WARNING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`Drake & Scull International PJSC`](https://google.com/search?q=Drake+%26+Scull+International+PJSC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Steven L. Sugarman & Associates`](https://google.com/search?q=Steven+L.+Sugarman+%26+Associates) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
