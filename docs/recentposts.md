@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-09 | [`TST Logistics`](https://google.com/search?q=TST+Logistics) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-08 | [`hamm`](https://google.com/search?q=hamm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-08 | [`Myron Corp.`](https://google.com/search?q=Myron+Corp.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-08 | [`XEFI`](https://google.com/search?q=XEFI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-25 | [`ids97`](https://google.com/search?q=ids97) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-02-25 | [`GEMS Education`](https://google.com/search?q=GEMS+Education) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-25 | [`WARNING`](https://google.com/search?q=WARNING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-25 | [`Drake & Scull International PJSC`](https://google.com/search?q=Drake+%26+Scull+International+PJSC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
