@@ -260,7 +260,7 @@ def conti():
     stdlog('parser: ' + 'conti')
     # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
+    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r  || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
