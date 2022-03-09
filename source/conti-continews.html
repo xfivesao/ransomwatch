@@ -1,90 +1,32 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
-    <title>CONTI.News</title>
-    <style>
-      body {
-        padding-bottom: 15px;
-        color: #525f7f;
-        background: linear-gradient(-45deg, #23a6d5, #23d5ab, #23a6d5);
-        background-attachment: fixed;
-        font-family: Manrope, arial, sans-serif;
-        font-size: 1rem;
-        font-weight: 400;
-        line-height: 1;
-        padding: 0;
-        padding-bottom: 0px;
-        margin: 0;
-      }
-      .wrap {
-        margin: 30vh auto auto auto;
-        width: 350px;
-      }
-      .message {
-        color: #525f7f;
-        cursor: pointer;
-        background-color: #fff;
-        border-radius: 8px;
-        text-align: center;
-        box-shadow: 6px 5px 10px 0px rgba(0, 0, 0, 0);
-        padding: 2rem;
-        width: 300px;
-      }
-      a {
-        color: #23a6d5;
-        margin-top: 1rem;
-        display: block;
-      }
-      .logo a {
-        text-decoration: none;
-      }
-      .logo {
-        min-width: 350px;
-        min-height: 350px;
-        width: 350px;
-        display: inline-block;
-        height: 350px;
-        text-align: center;
-      }
-      .logo svg {
-        transition: transform 1s ease;
-      }
-      .logo:hover svg {
-        transform: rotate(300deg);
-      }
+<html lang="en">
 
-      .logo div {
-        width: 350px;
-        text-align: center;
-        font-size: 4rem;
-        color: #fff;
-        padding-top: 2rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="wrap">
-      <div class="logo">
-        <a href="/"
-          ><svg
-            version="1.1"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px"
-            y="0px"
-            width="100px"
-            height="100px"
-            viewBox="0 0 530.973 530.973"
-            enable-background="new 0 0 530.973 530.973"
-            xml:space="preserve"
-          >
-            <path
-              fill="#fff"
-              d="M320.622,16.038c-48.13-10.56-96.075-6.789-139.409,8.433l205.646,142.285L363.887,29.585
+<head>
+  <meta charset="UTF-8" />
+  <title>CONTI.News</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="/css/all.min.css" rel="stylesheet" />
+  <link href="/css/style_jze7wr2zaha7p23m.css" rel="stylesheet" />
+  <script src="/js/script_xs3q239pwx6qryya.js"></script>
+</head>
+
+<body class="b">
+  <div class="news">
+    <div class="times" onclick="hideNews()">
+      <i class="fas fa-times"></i>
+    </div>
+    <div>
+      <div class="br">
+      </div>
+      <div id="news">
+      </div>
+      <div class="br">
+      </div>
+    </div>
+  </div>
+  <div class="spin">
+    <svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 530.973 530.973" enable-background="new 0 0 530.973 530.973" xml:space="preserve">
+      <path fill="#fff" d="M320.622,16.038c-48.13-10.56-96.075-6.789-139.409,8.433l205.646,142.285L363.887,29.585
 	C350.117,23.897,335.676,19.34,320.622,16.038z M381.61,37.721l41.565,244.095l79.798-112.224
 	C480.031,113.27,437.342,65.91,381.61,37.721z M164.624,30.954C107.809,55.459,60.469,100.197,33.57,158.183l248.56-46.176
 	L164.624,30.954z M508.526,184.605L367.76,388.57l135.075-25.795c5.425-13.334,9.788-27.293,12.978-41.823l1.161-5.589
@@ -92,16 +34,94 @@
 	C5.067,259.717,8.992,308.02,24.5,351.609L165.219,149.9z M107.782,257.134L31.555,369.377
 	c24.248,54.834,67.436,100.631,123.173,127.418L107.782,257.134z M496.049,377.989l-242.225,46.989l111.375,76.992
 	C421.459,478.19,468.575,434.608,496.049,377.989z M146.782,370.741l23.439,132.869c12.988,5.211,26.556,9.434,40.676,12.53
-	c47.857,10.5,95.541,6.83,138.681-8.18L146.782,370.741z"
-            />
-          </svg>
-          <div>CONTI<br />NEWS</div>
-        </a>
+	c47.857,10.5,95.541,6.83,138.681-8.18L146.782,370.741z" />
+    </svg>
+  </div>
+  <div class="cards">
+    <div class="logo">
+      <a href="/"><svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 530.973 530.973" enable-background="new 0 0 530.973 530.973" xml:space="preserve">
+          <path fill="#fff" d="M320.622,16.038c-48.13-10.56-96.075-6.789-139.409,8.433l205.646,142.285L363.887,29.585
+	C350.117,23.897,335.676,19.34,320.622,16.038z M381.61,37.721l41.565,244.095l79.798-112.224
+	C480.031,113.27,437.342,65.91,381.61,37.721z M164.624,30.954C107.809,55.459,60.469,100.197,33.57,158.183l248.56-46.176
+	L164.624,30.954z M508.526,184.605L367.76,388.57l135.075-25.795c5.425-13.334,9.788-27.293,12.978-41.823l1.161-5.589
+	C525.838,270.157,522.227,225.371,508.526,184.605z M165.219,149.9L26.793,174.226c-4.543,11.86-8.283,24.22-11.088,37.004
+	C5.067,259.717,8.992,308.02,24.5,351.609L165.219,149.9z M107.782,257.134L31.555,369.377
+	c24.248,54.834,67.436,100.631,123.173,127.418L107.782,257.134z M496.049,377.989l-242.225,46.989l111.375,76.992
+	C421.459,478.19,468.575,434.608,496.049,377.989z M146.782,370.741l23.439,132.869c12.988,5.211,26.556,9.434,40.676,12.53
+	c47.857,10.5,95.541,6.83,138.681-8.18L146.782,370.741z" />
+        </svg>
+        <div>CONTI<br />NEWS</div>
+      </a>
+    </div>
+    <div class="welcome">
+      <div class="text">
+        If you are a client who declined the deal and did not find your data
+        on cartel's website or did not find valuable files, this does not mean
+        that we forgot about you, it only means that data was sold and only
+        therefore it did not publish in free access!
       </div>
-      <div class="message">
-        <span>Server overload, please use TOR version</span>
-        <a href="http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/">TOR Link</a>
+      <div class="search">
+        <form action="/search" class="search" method="POST"><input type="hidden" name="captcha" value="84eefe0d6ba4b6a98095436d8c20ee2a">
+          <input name="search" type="text" placeholder="Search" /><button>
+            <i class="fas fa-search"></i>
+          </button>
+        </form>
+        <a href="123" ref="noopener noreferrer nofollow">Web
+          mirror</a><a href="123" ref="noopener noreferrer nofollow">Tor
+          mirror</a>
       </div>
     </div>
-  </body>
+    <script>
+        newsList([{"code":"y5xD3kXi","view":401,"highlights":0,"published":20,"links":"https:\/\/www.alouette.com","title":"Aluminerie Alouette","address":"400 ch de la Pointe-Noire Sept-Iles, \nQC, G4R 5M9 \nCanada \nTel: (418) 964-7000","about":"The mission\n\u201cAluminerie Alouette, as an independent operating company, shall optimize its operations by applying world-class business principles conducive to continuous improvement of its processes and assets. As a company committed to sustainability, Alouette will maintain high safety and environmental standards, in order to be recognized as a responsible employer and corporate citizen.\u201d\n \nValues\nFrom the very start, Alouette has been committed to building a better future by becoming the best in its field. In the area of employee relations, the Company emphasizes equal opportunities, a feeling of belonging, empowerment, personal development and, above all, respect.\nOur leading corporate values are communication, teamwork, versatility, a progressive attitude and professionalism. Our management approach encourages the sharing of ideas and employee participation in decision-making.\nEmployee participation and commitment are all the more important given Alouette\u2019s emphasis on health and safety, continuous improvement, environmental protection and social responsibility \u2014 crucial prerequisites for sustainable economic growth.","url":"\/y5xD3kXi_Aluminerie_Alouette","date":1646808195},{"code":"R5fadKFP","view":13463,"highlights":0,"published":30,"links":"https:\/\/unine.ch\/","title":"University of Neuch\u00e2tel","address":"University of Neuch\u00e2tel\n\u200b Avenue du 1er-Mars 26\n2000 Neuch\u00e2tel\nTel.: +41 32 718 10 00\ncontact@unine.ch","about":"The UniNE in a few figures\nYear 2020-2021\nNumber of students: 4'403\n\nYear 2019-2020\nNumber of students: 4,180\n\nBachelor: 2'072\nMasters: 1'296\nDoctorate: 627\nOthers: 185\nNumber of titles and diplomas issued: 927\nAs of 31.12.2020, the UniNE has 1089 employees (765.5 full-time jobs).","url":"\/R5fadKFP_University_of_Neuchtel","date":1646802536},{"code":"nGrMytpm","view":9688,"highlights":0,"published":12,"links":"https:\/\/www.vrancor.com","title":"Vrancor Group","address":"366 King St West, Hamilton, Ontario, L8P1B3, Canada","about":"Vrancor Group, headquartered in Hamilton, Ontario, manages and operates businesses such as hotels and commercial\/residential","url":"\/nGrMytpm_Vrancor_Group","date":1646769616},{"code":"8r9sx5I4","view":374,"highlights":0,"published":7,"links":"https:\/\/tst-logistics.com","title":"TST Logistics","address":"TST GmbH\nAm Guten Brunnen 1\n67547 Worms\nDeutschland\nTel. : +49 6242 91508-0 \nE-Mail : info@trans-service-team.com","about":"1990 mit nur einem LKW gestartet, verl\u00e4uft die Erfolgsgeschichte von TST rasant.\nHeute stehen \u00fcber 3.000 Mitarbeiter an mehr als 75 Standorten f\u00fcr die Herzblut-Logistik des mittelst\u00e4ndischen Familienunternehmens.\nWir machen Logistik einfach &amp; machen einfach!","url":"\/8r9sx5I4_TST_Logistics","date":1646717685},{"code":"KED91FfQ","view":435,"highlights":0,"published":10,"links":"https:\/\/www.myron.com","title":"Myron Corp.","address":"205 Maywood Avenue \nMaywood, NJ 07607 \n1-877-807-6699","about":"Myron founders Mike and Elaine Adler believed gift giving should \u201cevoke emotion and convey true thoughtfulness.\u201d It's a philosophy shared to this day by James Adler, the firm's CEO and son of the founders, who has moved the company forward from its roots as one of the early mail order companies in North America into a global marketer of personalized business gifts serving North America, Europe, Scandinavia, Australia, and the Middle East.\nFor over 70 years we\u2019ve helped companies like yours pull ahead of the competition. We offer you a personalized shopping experience to ensure you always find the perfect promotional products for your needs. Our team of over 200 knowledgeable account managers are ready to provide solutions, from product selection to messaging to delivery, ensuring your order is accurate, on \u2013time and exceeds your expectations.","url":"\/KED91FfQ_Myron_Corp","date":1646717669},{"code":"dVoJqLGI","view":365,"highlights":0,"published":20,"links":"https:\/\/www.greathealthworks.com","title":"Great HealthWorks","address":"4150 S.W. 28th Way,\nFort Lauderdale, FL 33312\n(800) 609-1656\nsupport@greathealthworks.com","about":"As one of the largest vertically integrated direct-to-consumer companies in the United States, Great HealthWorks is dedicated to delivering quality health and wellness products.\nSince 2003, the company\u2019s cornerstone product, OmegaXL\u00ae, has improved the lives of millions of consumers. Supported by 30 years of clinical research, OmegaXL\u2019s powerful and proven benefits have transformed the lives of athletes, celebrities and dedicated daily users. \nWith corporate headquarters and a state-of-the-art packaging and distribution center in Fort Lauderdale, Florida, Great HealthWorks\u2019 \u201cUnder One Roof\u201d vertically integrated approach is a proven success. Through the company\u2019s unique capability to seamlessly innovate, launch and ship products direct-to-consumers, Great HealthWorks is set to win today and tomorrow.\nOur mission is to make meaningful differences in people\u2019s lives by improving their health. We aim to offer a portfolio of exceptional, science-based health and wellness brands, through our world class direct-to-consumer enterprise. We are committed to becoming a leader in the self-care industry.","url":"\/dVoJqLGI_Great_HealthWorks","date":1646717645},{"code":"7n58Rkr2","view":1356,"highlights":0,"published":25,"links":"https:\/\/lm-treuhand.ch\nhttps:\/\/coopera.ch\/","title":"Loepthien Maeder Treuhand AG","address":"Loepthien Maeder Treuhand AG\nTalweg 17, Postfach\n3063 Ittigen","about":"","url":"\/7n58Rkr2_Loepthien_Maeder_Treuhand_AG","date":1646669266},{"code":"KQBMwELj","view":845,"highlights":0,"published":0,"links":"https:\/\/www.europa-group.co.uk\/","title":"EUROPA GROUP","address":"Europa House, Midland Way, Thornbury, Bristol, BS35 2JX.","about":"Europa Group has evolved over a 20-year period to become a leading solutions based provider of insurance services, with specialisms in the motor manufacturer and motorcycle markets. Having initially developed products for motorcycle dealers and manufacturers, the Group has expanded over the years to provide solutions for other insurance brokers, insurance companies and affinity brands.","url":"\/KQBMwELj_EUROPA_GROUP","date":1646645718},{"code":"bcCdTEAW","view":671,"highlights":0,"published":10,"links":"https:\/\/fuchsna.com","title":"Fuchs North America","address":"3800 Hampstead Mexico Rd,\nHampstead, MD 21074\n410-363-1700\n1-800-365-3229","about":"Sharing isn\u2019t just for social media \u2014 we create flavors your customers will love to pass around. Fuchs North America is your partner in developing delicious food products, driven by consumer trend insights and delivered with the confidence of a 75-year industry leader.\nIn a competitive food market, you need to offer something unique, but you also need to get it to market quickly and reliably. Our innovative seasoning solutions, quick response times, deep expertise and customer-centric process are the perfect blend to bring to life your next share-worthy creation.","url":"\/bcCdTEAW_Fuchs_North_America","date":1646593917}]);
+      </script>
+        </div>
+
+  <ul class="pages"><li><a class="active" href="/page/1">1</a></li><li><a href="/page/2">2</a></li><li><a href="/page/3">3</a></li><li><a href="/page/4">4</a></li><li><a href="/page/5">5</a></li><li><a href="/page/6">6</a></li><li><a href="/page/7">7</a></li><li><a href="/page/8">8</a></li><li><a href="/page/9">9</a></li><li><a href="/page/2"> &rsaquo; </a></li><li><a href="/page/79"> &rsaquo;&rsaquo; </a></li></ul>    <div class="contact" onclick="showForm()">
+      <i class="far fa-comment"></i>
+    </div>
+
+
+    <div class="contactForm" id="contactForm">
+      <div class="times" onclick="hideForm()">
+        <i class="fas fa-times"></i>
+      </div>
+      <form id="form" method="post">
+        <span class="title">CONTI.Contact form</span>
+        <div class="error"></div>
+        <div>
+          <input name="name" type="text" placeholder=" " />
+          <div class="place"></div>
+          <label>Your name</label>
+        </div>
+        <div>
+          <input name="mail" type="text" placeholder=" " />
+          <div class="place"></div>
+          <label>Your mail</label>
+        </div>
+        <div>
+          <textarea placeholder=" " id="qmess" name="message"></textarea>
+          <div class="place xlarge"></div>
+          <label>Your Question (Only english)</label>
+        </div>
+        <div class="captchaBlock">
+          <input name="captcha" type="text" placeholder=" " style="text-transform: uppercase;" />
+          <div class="place"></div>
+          <label>Captcha</label>
+        </div>
+        <div class="captchaBlock"><img id="captchaImg" src="" /></div>
+        <div class="buttons">
+          <button id="fsubmit" class="submit" type="button" onclick="return submitContactForm(event)">
+            Submit
+          </button>
+          <button type="button" class="close" onclick="return hideForm()">
+            Close
+          </button>
+        </div>
+      </form>
+    </div>
+    <script>
+    if (document.querySelector("#qmess")) filter(document.querySelector("#qmess"));
+  </script>
+</body>
+
 </html>
