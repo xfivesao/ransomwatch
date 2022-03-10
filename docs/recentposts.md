@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-10 | [`fer`](https://google.com/search?q=fer) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-09 | [`bridgestoneamer...`](https://google.com/search?q=bridgestoneamer...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-09 | [`Aluminerie Alouette`](https://google.com/search?q=Aluminerie+Alouette) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-09 | [`Great HealthWorks`](https://google.com/search?q=Great+HealthWorks) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`Research Partnership`](https://google.com/search?q=Research+Partnership) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-25 | [`GEMS Education - gemseducation.com`](https://google.com/search?q=GEMS+Education+-+gemseducation.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-25 | [`McDonald&#039;s`](https://google.com/search?q=McDonald%26%23039%3Bs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
