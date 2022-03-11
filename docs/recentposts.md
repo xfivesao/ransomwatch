@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-11 | [`sysmac.com.sg`](https://google.com/search?q=sysmac.com.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`weber-betonpump..`](https://google.com/search?q=weber-betonpump..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`tingtong.com.cn`](https://google.com/search?q=tingtong.com.cn) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-10 | [`bioskin.sg`](https://google.com/search?q=bioskin.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-26 | [`MADRID CALLE 30 SA ( https://www.mc30.es/ )`](https://google.com/search?q=MADRID+CALLE+30+SA+%28+https%3A%2F%2Fwww.mc30.es%2F+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-26 | [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`giovanard`](https://google.com/search?q=giovanard) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-26 | [`HF Group`](https://google.com/search?q=HF+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
