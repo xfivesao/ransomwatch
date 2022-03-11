@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-11 | [`tingtong.com.cn`](https://google.com/search?q=tingtong.com.cn) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-10 | [`bioskin.sg`](https://google.com/search?q=bioskin.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-10 | [`fer`](https://google.com/search?q=fer) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-09 | [`bridgestoneamer...`](https://google.com/search?q=bridgestoneamer...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-26 | [`giovanard`](https://google.com/search?q=giovanard) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-26 | [`HF Group`](https://google.com/search?q=HF+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-02-26 | [`Research Partnership`](https://google.com/search?q=Research+Partnership) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
