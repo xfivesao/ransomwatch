@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-11 | [`SPERONI SpA`](https://google.com/search?q=SPERONI+SpA) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-11 | [`sysmac.com.sg`](https://google.com/search?q=sysmac.com.sg) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`club`](https://google.com/search?q=club) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`tingtong.com.cn`](https://google.com/search?q=tingtong.com.cn) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-13 | [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-13 | [`i`](https://google.com/search?q=i) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-13 | [`iTCo Solutions Ltd`](https://google.com/search?q=iTCo+Solutions+Ltd) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-02-12 | [`JCWHITE.COM FILES PART16 - jenna.leibowitz@jcwhite.com\jenna.leibowitz\ PUBLISHED`](https://google.com/search?q=JCWHITE.COM+FILES+PART16+-+jenna.leibowitz%40jcwhite.com%5Cjenna.leibowitz%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
