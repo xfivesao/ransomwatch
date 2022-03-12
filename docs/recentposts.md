@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-12 | [`XEFI / Neocyber`](https://google.com/search?q=XEFI+%2F+Neocyber) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-12 | [`inibsa.com - inibsadental.com - inibsa.net`](https://google.com/search?q=inibsa.com+-+inibsadental.com+-+inibsa.net) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-03-12 | [`snteseccion30sa...`](https://google.com/search?q=snteseccion30sa...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`etg.digital`](https://google.com/search?q=etg.digital) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-13 | [`Scherr Legate - scherrlegate.com`](https://google.com/search?q=Scherr+Legate+-+scherrlegate.com) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-02-13 | [`NorthEast Coverages - northeastcoverages.com`](https://google.com/search?q=NorthEast+Coverages+-+northeastcoverages.com) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-02-13 | [`Quantel Medical - quantel-medical.com`](https://google.com/search?q=Quantel+Medical+-+quantel-medical.com) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
-| 2022-02-13 | [`wingsoft.it`](https://google.com/search?q=wingsoft.it) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
