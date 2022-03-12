@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-12 | [`cachibi.co`](https://google.com/search?q=cachibi.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`orientalaromati...`](https://google.com/search?q=orientalaromati...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`bedfordshire.police.uk`](https://google.com/search?q=bedfordshire.police.uk) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-03-12 | [`ymcad`](https://google.com/search?q=ymcad) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-27 | [`WARNING`](https://google.com/search?q=WARNING) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`ffnm.org`](https://google.com/search?q=ffnm.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-26 | [`chip`](https://google.com/search?q=chip) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
