@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-13 | [`ambujaneotia.co...`](https://google.com/search?q=ambujaneotia.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`ikk-group.com`](https://google.com/search?q=ikk-group.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`scanvogn.com`](https://google.com/search?q=scanvogn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`SENADO Argentina`](https://google.com/search?q=SENADO+Argentina) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-28 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2022-02-28 | [`GHI Hornos Industriales  first batch of Data (0,1%)`](https://google.com/search?q=GHI+Hornos+Industriales++first+batch+of+Data+%280%2C1%25%29) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-02-28 | [`safed.in`](https://google.com/search?q=safed.in) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-28 | [`jamailsmith.com`](https://google.com/search?q=jamailsmith.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
