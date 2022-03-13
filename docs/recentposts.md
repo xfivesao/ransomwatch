@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-13 | [`scanvogn.com`](https://google.com/search?q=scanvogn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`SENADO Argentina`](https://google.com/search?q=SENADO+Argentina) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-12 | [`XEFI / Neocyber`](https://google.com/search?q=XEFI+%2F+Neocyber) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-12 | [`snteseccion30sa...`](https://google.com/search?q=snteseccion30sa...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-28 | [`safed.in`](https://google.com/search?q=safed.in) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-28 | [`jamailsmith.com`](https://google.com/search?q=jamailsmith.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`lakeview.com`](https://google.com/search?q=lakeview.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-27 | [`richmondmonroe....`](https://google.com/search?q=richmondmonroe....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
