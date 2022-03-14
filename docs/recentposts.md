@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-14 | [`inibsa.net`](https://google.com/search?q=inibsa.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-14 | [`snteseccion30sa..`](https://google.com/search?q=snteseccion30sa..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Smith Transport Full Leak`](https://google.com/search?q=Smith+Transport+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-03-14 | [`UK GOV`](https://google.com/search?q=UK+GOV) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-01 | [`SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART23+-+172.16.10.166%5CH%24%5CFiles%5CSPOSIN%5CSSD%5CSFE-SBS%5CFinance%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`ENPRECIS.COM FILES PART21 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART21+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-01 | [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
