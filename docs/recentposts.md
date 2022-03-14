@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-14 | [`News`](https://google.com/search?q=News) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-13 | [`etrps.de`](https://google.com/search?q=etrps.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`danubiushotels....`](https://google.com/search?q=danubiushotels....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`ambujaneotia.co...`](https://google.com/search?q=ambujaneotia.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-02-28 | [`Long Fence - Fence Company Since 1945 - longfence.com`](https://google.com/search?q=Long+Fence+-+Fence+Company+Since+1945+-+longfence.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-02-28 | [`InfoTek Consulting Services`](https://google.com/search?q=InfoTek+Consulting+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-02-28 | [`ccli`](https://google.com/search?q=ccli) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-02-28 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
