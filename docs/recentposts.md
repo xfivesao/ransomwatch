@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-14 | [`snteseccion30sa..`](https://google.com/search?q=snteseccion30sa..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Smith Transport Full Leak`](https://google.com/search?q=Smith+Transport+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-03-14 | [`UK GOV`](https://google.com/search?q=UK+GOV) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-14 | [`News`](https://google.com/search?q=News) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-01 | [`ENPRECIS.COM FILES PART21 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART21+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-01 | [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-02-28 | [`Long Fence - Fence Company Since 1945 - longfence.com`](https://google.com/search?q=Long+Fence+-+Fence+Company+Since+1945+-+longfence.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
