@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-15 | [`f`](https://google.com/search?q=f) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Viva Air`](https://google.com/search?q=Viva+Air) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-03-14 | [`Monteleone & McCrory LLP`](https://google.com/search?q=Monteleone+%26+McCrory+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-14 | [`inibsa.net`](https://google.com/search?q=inibsa.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-02 | [`DUTTONFIRM.COM FILES PART19 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART19+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`BOLTONUSA.COM FILES PART28 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART28+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-01 | [`wp`](https://google.com/search?q=wp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-01 | [`SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART23+-+172.16.10.166%5CH%24%5CFiles%5CSPOSIN%5CSSD%5CSFE-SBS%5CFinance%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
