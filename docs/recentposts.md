@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-15 | [`VadaTech`](https://google.com/search?q=VadaTech) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-03-15 | [`Ward Hadaway`](https://google.com/search?q=Ward+Hadaway) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-03-15 | [`f`](https://google.com/search?q=f) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Viva Air`](https://google.com/search?q=Viva+Air) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-02 | [`HOL-MAC Corp.`](https://google.com/search?q=HOL-MAC+Corp.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-02 | [`EDAN.COM FILES PART23 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART23+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`DUTTONFIRM.COM FILES PART19 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART19+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-02 | [`BOLTONUSA.COM FILES PART28 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART28+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
