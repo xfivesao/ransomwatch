@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-15 | [`VadaTech`](https://google.com/search?q=VadaTech) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-03-15 | [`Ward Hadaway`](https://google.com/search?q=Ward+Hadaway) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-03-14 | [`Viva Air`](https://google.com/search?q=Viva+Air) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-03-14 | [`Monteleone & McCrory LLP`](https://google.com/search?q=Monteleone+%26+McCrory+LLP) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-15 | [`GEE GROUP INC.`](https://google.com/search?q=GEE+GROUP+INC.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-15 | [`Swissport`](https://google.com/search?q=Swissport) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-02-15 | [`Ciam SPA`](https://google.com/search?q=Ciam+SPA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-02-14 | [`hifly.aero`](https://google.com/search?q=hifly.aero) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
