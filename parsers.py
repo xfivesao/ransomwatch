@@ -634,3 +634,14 @@ def vicesociety():
         errlog('vicesociety: ' + 'parsing fail')
     for post in posts:
         appender(post, 'vicesociety')
+
+def pandora():
+    stdlog('parser: ' + 'pandora')
+    parser = '''
+    grep '<span class="post-title gt-c-content-color-first">' source/pandora-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('pandora: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'pandora')
