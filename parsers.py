@@ -171,18 +171,6 @@ def hiveleak():
     for post in posts:
         appender(post, 'hiveleak')
 
-def avoslocker():
-    stdlog('parser: ' + 'avoslocker')
-    # sed -n -e 's/^.*aria-hidden="true"><\/i> //p' source/avoslocker-*.html | cut -d "<" -f1
-    parser = '''
-    egrep -o 'title="([[:alnum:]]| |\.)+"' source/avoslocker-*.html | cut -d '"' -f2
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('avoslocker: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'avoslocker')
-
 def avaddon():
     stdlog('parser: ' + 'avaddon')
     parser = '''
@@ -245,22 +233,11 @@ def revil():
     for post in posts:
         appender(post, 'revil')
 
-def ragnarok():
-    stdlog('parser: ' + 'ragnarok')
-    parser = '''
-    grep 'var post_links =' source/ragnarok-*.html --no-filename | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('ragnarok: ' + 'parsing fail')    
-    for post in posts:
-        appender(post, 'ragnarok')
-
 def conti():
     stdlog('parser: ' + 'conti')
     # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r  || true
+    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/        newsList(//g' -e 's/);//g' | jq '.[].title' -r  || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -534,17 +511,6 @@ def snatch():
     for post in posts:
         appender(post, 'snatch')
 
-def robinhood():
-    stdlog('parser: ' + 'robinhood')
-    parser = '''
-    grep '<h2 class="title"' source/robinhood-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('robinhood: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'robinhood')
-
 def marketo():
     stdlog('parser: ' + 'marketo')
     parser = '''
@@ -577,17 +543,6 @@ def cryp70n1c0d3():
         errlog('cryp70n1c0d3: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cryp70n1c0d3')
-
-def blackshadow():
-    stdlog('parser: ' + 'blackshadow')
-    parser = '''
-    egrep -o '_self">([[:alnum:]]| |\.)+</a>'  source/blackshadow-blackshadow.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Donate/d' -e '/Home/d' -e '/Contact US/d' -e '/Telegram channel/d' | sort -u
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('blackshadow: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'blackshadow')
 
 def mosesstaff():
     stdlog('parser: ' + 'mosesstaff')
