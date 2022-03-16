@@ -11,7 +11,7 @@
 | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |  | 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | LV Blog | 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) | Start-maximized.com | 🔴 | 2021-12-02 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) | Lorenz | 🔴 | 2022-03-16 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) | Lorenz | 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LOCKFILE | 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
@@ -23,8 +23,8 @@
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | Start-maximized.com | 🔴 | 2022-03-15 | lockbitapt.uz |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |
-| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🔴 | 2022-03-16 | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🔴 | 2022-03-16 | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
 | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |  | 🔴 | 2022-03-16 | hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion |
 | [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
@@ -60,7 +60,7 @@
 | [pay2key](https://rwtracker.level-4.net/docs/#/profiles?id=pay2key) | Pay2Key Leak Directory! | 🔴 | 2022-03-15 | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | [aztroteam](https://rwtracker.level-4.net/docs/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://rwtracker.level-4.net/docs/#/profiles?id=lockdata) | LockData Auction | 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| [blacktor](https://rwtracker.level-4.net/docs/#/profiles?id=blacktor) | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 2022-03-16 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | [haron](https://rwtracker.level-4.net/docs/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-31 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://rwtracker.level-4.net/docs/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://rwtracker.level-4.net/docs/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
@@ -92,7 +92,7 @@
 | [nemty](https://rwtracker.level-4.net/docs/#/profiles?id=nemty) |  | 🔴 | 2021-05-01 | zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |
 | [onepercent](https://rwtracker.level-4.net/docs/#/profiles?id=onepercent) |  | 🔴 | 2021-05-01 | 5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |
 | [prolock](https://rwtracker.level-4.net/docs/#/profiles?id=prolock) |  | 🔴 | 2021-05-01 | msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |
-| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🔴 | 2022-03-16 | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
+| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🟢 |  | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
 | [ranzy](https://rwtracker.level-4.net/docs/#/profiles?id=ranzy) |  | 🔴 | 2021-05-01 | 37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
@@ -103,9 +103,9 @@
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | BLOG | 🔴 | 2021-11-13 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | Error 404 (Not Found)!!1 | 🟢 |  | 54bb47h.blog |
-| [quantum](https://rwtracker.level-4.net/docs/#/profiles?id=quantum) | Quantum Blog | 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
+| [quantum](https://rwtracker.level-4.net/docs/#/profiles?id=quantum) | Quantum Blog | 🔴 | 2022-03-16 | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
 | [medusa](https://rwtracker.level-4.net/docs/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
-| [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🔴 | 2022-03-16 | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
+| [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | Apache2 Debian Default Page: It works | 🟢 |  | snatch.press |
 | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) | Info | 🟢 |  | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
