@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-16 | [`vbsharma.ca`](https://google.com/search?q=vbsharma.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`medinadairy.co....`](https://google.com/search?q=medinadairy.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`Migros`](https://google.com/search?q=Migros) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-03-15 | [`mfi`](https://google.com/search?q=mfi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-02 | [`www.haeny.com`](https://google.com/search?q=www.haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`JBINSTANTLAWN.NET FILES PART3 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART3+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
