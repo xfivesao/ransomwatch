@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-16 | [`Migros`](https://google.com/search?q=Migros) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-03-15 | [`mfi`](https://google.com/search?q=mfi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-15 | [`Grcouceiro`](https://google.com/search?q=Grcouceiro) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-03-15 | [`Instituto Nacional de Tecnología Agropecuaria`](https://google.com/search?q=Instituto+Nacional+de+Tecnolog%C3%ADa+Agropecuaria) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`JBINSTANTLAWN.NET FILES PART3 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART3+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-02 | [`CAPCARPET.COM FILES PART3 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART3+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-02 | [`ALEXIM.COM FILES PART3 - 192.168.1.140\C$\Users\rbustamante\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART3+-+192.168.1.140%5CC%24%5CUsers%5Crbustamante%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
