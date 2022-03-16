@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-16 | [`Migros`](https://google.com/search?q=Migros) | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |
 | 2022-03-15 | [`mtradeasia`](https://google.com/search?q=mtradeasia) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-15 | [`Grcouceiro`](https://google.com/search?q=Grcouceiro) | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
 | 2022-03-15 | [`Instituto Nacional de Tecnología Agropecuaria`](https://google.com/search?q=Instituto+Nacional+de+Tecnolog%C3%ADa+Agropecuaria) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-16 | [`gruporoveri.com.br`](https://google.com/search?q=gruporoveri.com.br) | [lv](https://rwtracker.level-4.net/docs/#/profiles?id=lv) |
 | 2022-02-15 | [`POP TV`](https://google.com/search?q=POP+TV) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-02-15 | [`codisel.com.mx`](https://google.com/search?q=codisel.com.mx) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-15 | [`beautyindustryg...`](https://google.com/search?q=beautyindustryg...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
