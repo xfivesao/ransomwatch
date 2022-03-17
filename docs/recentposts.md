@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-17 | [`ihg.com`](https://google.com/search?q=ihg.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`rosslare.com.hk`](https://google.com/search?q=rosslare.com.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`AllOffice`](https://google.com/search?q=AllOffice) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-17 | [`Managed Business Solutions`](https://google.com/search?q=Managed+Business+Solutions) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-04 | [`freedomfarmspa....`](https://google.com/search?q=freedomfarmspa....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-04 | [`tovogom`](https://google.com/search?q=tovogom) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-04 | [`A.J. Rose`](https://google.com/search?q=A.J.+Rose) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-04 | [`Prima Power`](https://google.com/search?q=Prima+Power) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
