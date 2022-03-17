@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-17 | [`aetnabridge.com`](https://google.com/search?q=aetnabridge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`specialinc.com`](https://google.com/search?q=specialinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`FitFlop Ltd.`](https://google.com/search?q=FitFlop+Ltd.) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-03-17 | [`lawsdn.com`](https://google.com/search?q=lawsdn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-05 | [`Assimoco Group - assimoco.it`](https://google.com/search?q=Assimoco+Group+-+assimoco.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-04 | [`GHI Hornos Industriales Fully Leaked`](https://google.com/search?q=GHI+Hornos+Industriales+Fully+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-03-04 | [`Lifetech Resources`](https://google.com/search?q=Lifetech+Resources) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-04 | [`PAN AMERICAN ENERGY S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=PAN+AMERICAN+ENERGY+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
