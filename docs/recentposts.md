@@ -4,6 +4,18 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-17 | [`AllOffice`](https://google.com/search?q=AllOffice) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-03-17 | [`Managed Business Solutions`](https://google.com/search?q=Managed+Business+Solutions) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-03-17 | [`IMT GROUP`](https://google.com/search?q=IMT+GROUP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-03-17 | [`Empire Electronics Inc.`](https://google.com/search?q=Empire+Electronics+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-03-17 | [`Milan Institute`](https://google.com/search?q=Milan+Institute) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-03-17 | [`Jaffe Raitt Heuer &amp; Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26amp%3B+Weiss%2C+P.C.) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
+| 2022-03-17 | [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
+| 2022-03-17 | [`Rosewd`](https://google.com/search?q=Rosewd) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
+| 2022-03-17 | [`sbctanzania.co....`](https://google.com/search?q=sbctanzania.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-03-17 | [`vvrmc.org - Par...`](https://google.com/search?q=vvrmc.org+-+Par...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-03-17 | [`www.onedoc.ch/f...`](https://google.com/search?q=www.onedoc.ch%2Ff...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-03-17 | [`comune.villafra...`](https://google.com/search?q=comune.villafra...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`drory.com.cn`](https://google.com/search?q=drory.com.cn) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`taguefamilyprac...`](https://google.com/search?q=taguefamilyprac...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`www.comune.vill...`](https://google.com/search?q=www.comune.vill...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -92,15 +104,3 @@ _last `100` posts_
 | 2022-03-04 | [`Caledonian`](https://google.com/search?q=Caledonian) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`United McGill Corporation`](https://google.com/search?q=United+McGill+Corporation) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-04 | [`Get Fresh Company`](https://google.com/search?q=Get+Fresh+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-03 | [`Private company #2`](https://google.com/search?q=Private+company+%232) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-03-03 | [`simatelex.com.h...`](https://google.com/search?q=simatelex.com.h...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-03 | [`sapulpaps.org`](https://google.com/search?q=sapulpaps.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-03 | [`Sport Vision`](https://google.com/search?q=Sport+Vision) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-03 | [`GRUPPO ANGELANTONI`](https://google.com/search?q=GRUPPO+ANGELANTONI) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-03 | [`Buhck Gruppe`](https://google.com/search?q=Buhck+Gruppe) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-02 | [`JCWHITE.COM FILES PART19 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\`](https://google.com/search?q=JCWHITE.COM+FILES+PART19+-+katie.oliver%40jcwhite.com%5CD+Drive+Backup%5Ckatie.oliver--PROJECTS%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-02 | [`tccm.com`](https://google.com/search?q=tccm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`wimmog.ch`](https://google.com/search?q=wimmog.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`haeny.com`](https://google.com/search?q=haeny.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`elitecorp.com`](https://google.com/search?q=elitecorp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`SLIMSTOCK.COM FILES PART26 - 10.30.11.131\D$\ PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART26+-+10.30.11.131%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
