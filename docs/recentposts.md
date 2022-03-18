@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`dgordonlcswr.co...`](https://google.com/search?q=dgordonlcswr.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`kbkbcpa.com`](https://google.com/search?q=kbkbcpa.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`centralaccident...`](https://google.com/search?q=centralaccident...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`megaproductos.c...`](https://google.com/search?q=megaproductos.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-07 | [`IDFC FIRST Bank`](https://google.com/search?q=IDFC+FIRST+Bank) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Ledcor`](https://google.com/search?q=Ledcor) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-03-07 | [`stanthonys.slou...`](https://google.com/search?q=stanthonys.slou...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
