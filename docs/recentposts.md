@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`TIG`](https://google.com/search?q=TIG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-18 | [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`thionvillenola....`](https://google.com/search?q=thionvillenola....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`Campbell Sales and Service, Inc`](https://google.com/search?q=Campbell+Sales+and+Service%2C+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`Federal land inc.`](https://google.com/search?q=Federal+land+inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`luzeirosfortale.`](https://google.com/search?q=luzeirosfortale.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-07 | [`Centro Hospitalar de Setúbal`](https://google.com/search?q=Centro+Hospitalar+de+Set%C3%BAbal) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
