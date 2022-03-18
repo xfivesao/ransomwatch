@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`draftex.de`](https://google.com/search?q=draftex.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`www.centralacci...`](https://google.com/search?q=www.centralacci...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`gezairi.com`](https://google.com/search?q=gezairi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`Noble Oil - nobleoil.com`](https://google.com/search?q=Noble+Oil+-+nobleoil.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`Backus, Meyer &#038; Branch, LLP`](https://google.com/search?q=Backus%2C+Meyer+%26%23038%3B+Branch%2C+LLP) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`brownsville-pub...`](https://google.com/search?q=brownsville-pub...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`Greenberg &#038; Stein New York City Personal Injury Lawyers`](https://google.com/search?q=Greenberg+%26%23038%3B+Stein+New+York+City+Personal+Injury+Lawyers) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-03-07 | [`Law Offices of Brandon Sua &#038; Associates`](https://google.com/search?q=Law+Offices+of+Brandon+Sua+%26%23038%3B+Associates) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
