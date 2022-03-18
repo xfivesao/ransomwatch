@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`centralaccident...`](https://google.com/search?q=centralaccident...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`megaproductos.c...`](https://google.com/search?q=megaproductos.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`solvi.com`](https://google.com/search?q=solvi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`kbkbcpa.com/`](https://google.com/search?q=kbkbcpa.com%2F) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`Ledcor`](https://google.com/search?q=Ledcor) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`stanthonys.slou...`](https://google.com/search?q=stanthonys.slou...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-07 | [`jrichard-paysag...`](https://google.com/search?q=jrichard-paysag...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-07 | [`BEAUTYWEST, INC.`](https://google.com/search?q=BEAUTYWEST%2C+INC.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
