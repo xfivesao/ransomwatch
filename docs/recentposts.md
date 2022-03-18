@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`NSM Insurance Group`](https://google.com/search?q=NSM+Insurance+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-18 | [`vri.maniberia.net`](https://google.com/search?q=vri.maniberia.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-18 | [`1`](https://google.com/search?q=1) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-03-18 | [`dgordonlcswr.co...`](https://google.com/search?q=dgordonlcswr.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-07 | [`Turner Construction Company`](https://google.com/search?q=Turner+Construction+Company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-07 | [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
