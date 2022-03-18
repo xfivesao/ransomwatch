@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-18 | [`montanarisrl.ne...`](https://google.com/search?q=montanarisrl.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`finances.gouv.c...`](https://google.com/search?q=finances.gouv.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`hilltopconstruc...`](https://google.com/search?q=hilltopconstruc...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`aetnabridge.com`](https://google.com/search?q=aetnabridge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-07 | [`BAUCENTER   -   ujhazbudapest.hu`](https://google.com/search?q=BAUCENTER+++-+++ujhazbudapest.hu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-06 | [`Cummins-Wagner`](https://google.com/search?q=Cummins-Wagner) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-05 | [`abcp.or`](https://google.com/search?q=abcp.or) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-05 | [`Assimoco Group - assimoco.it`](https://google.com/search?q=Assimoco+Group+-+assimoco.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
