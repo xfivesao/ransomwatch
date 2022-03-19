@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-19 | [`Normandeau Associates, Inc.`](https://google.com/search?q=Normandeau+Associates%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-19 | [`bChannels Ltd.`](https://google.com/search?q=bChannels+Ltd.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-19 | [`BDX`](https://google.com/search?q=BDX) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-08 | [`XEFI`](https://google.com/search?q=XEFI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-08 | [`Carpenter & Zuckerman - cz.law`](https://google.com/search?q=Carpenter+%26+Zuckerman+-+cz.law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-08 | [`Xtera`](https://google.com/search?q=Xtera) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
