@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-19 | [`BAUKING`](https://google.com/search?q=BAUKING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-19 | [`pla-pumpen`](https://google.com/search?q=pla-pumpen) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-19 | [`denro.ca`](https://google.com/search?q=denro.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-19 | [`jewelry.org.hk`](https://google.com/search?q=jewelry.org.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-09 | [`Great HealthWorks`](https://google.com/search?q=Great+HealthWorks) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-09 | [`TST Logistics`](https://google.com/search?q=TST+Logistics) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-08 | [`hamm`](https://google.com/search?q=hamm) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-08 | [`Myron Corp.`](https://google.com/search?q=Myron+Corp.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
