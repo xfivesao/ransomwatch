@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-19 | [`BDX`](https://google.com/search?q=BDX) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`unapen.internal`](https://google.com/search?q=unapen.internal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-08 | [`Xtera`](https://google.com/search?q=Xtera) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-03-07 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
