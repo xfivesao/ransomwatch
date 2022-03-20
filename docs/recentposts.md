@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-20 | [`bbst-clp.de`](https://google.com/search?q=bbst-clp.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`museum-dingolfi...`](https://google.com/search?q=museum-dingolfi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`stormous`](https://google.com/search?q=stormous) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-03-20 | [`meritresources`](https://google.com/search?q=meritresources) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-12 | [`ymcad`](https://google.com/search?q=ymcad) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`SPERONI SpA`](https://google.com/search?q=SPERONI+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-11 | [`sysmac.com.sg`](https://google.com/search?q=sysmac.com.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-11 | [`weber-betonpump..`](https://google.com/search?q=weber-betonpump..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
