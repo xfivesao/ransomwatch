@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-20 | [`connectcec.com`](https://google.com/search?q=connectcec.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`FitFlop Ltd.`](https://google.com/search?q=FitFlop+Ltd.) | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |
 | 2022-03-17 | [`AllOffice`](https://google.com/search?q=AllOffice) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-17 | [`Managed Business Solutions`](https://google.com/search?q=Managed+Business+Solutions) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-18 | [`muntons`](https://google.com/search?q=muntons) | [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) |
 | 2022-02-18 | [`heritage-encon`](https://google.com/search?q=heritage-encon) | [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) |
 | 2022-02-18 | [`CSI Laboratories`](https://google.com/search?q=CSI+Laboratories) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-02-18 | [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
