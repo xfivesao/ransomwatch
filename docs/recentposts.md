@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-20 | [`meritresources`](https://google.com/search?q=meritresources) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`Scottish Association for Mental Health`](https://google.com/search?q=Scottish+Association+for+Mental+Health) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-03-20 | [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`connectcec.com`](https://google.com/search?q=connectcec.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-11 | [`weber-betonpump..`](https://google.com/search?q=weber-betonpump..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-11 | [`tingtong.com.cn`](https://google.com/search?q=tingtong.com.cn) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-10 | [`bioskin.sg`](https://google.com/search?q=bioskin.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-10 | [`fer`](https://google.com/search?q=fer) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
