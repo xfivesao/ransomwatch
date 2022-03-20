@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-20 | [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`connectcec.com`](https://google.com/search?q=connectcec.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`MJH Life Sciences`](https://google.com/search?q=MJH+Life+Sciences) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-20 | [`PFC USA`](https://google.com/search?q=PFC+USA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-10 | [`bioskin.sg`](https://google.com/search?q=bioskin.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-10 | [`fer`](https://google.com/search?q=fer) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-09 | [`bridgestoneamer...`](https://google.com/search?q=bridgestoneamer...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-09 | [`Aluminerie Alouette`](https://google.com/search?q=Aluminerie+Alouette) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
