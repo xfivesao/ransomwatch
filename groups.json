@@ -335,7 +335,7 @@
     {
         "name": "avoslocker",
         "captcha": true,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": "captcha prevents indexing",
         "locations": [
@@ -351,7 +351,9 @@
         ],
         "profile": [
             "https://blog.cyble.com/2021/07/23/deep-dive-analysis-avoslocker-ransomware",
-            "https://blog.malwarebytes.com/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners"
+            "https://blog.malwarebytes.com/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners",
+            "previous parser: c2VkIC1uIC1lICdzL14uKmFyaWEtaGlkZGVuPSJ0cnVlIj48XC9pPiAvL3AnIHNvdXJjZS9hdm9zbG9ja2VyLSouaHRtbCB8IGN1dCAtZCAiPCIgLWYx",
+            "previous parser: ZWdyZXAgLW8gJ3RpdGxlPSIoW1s6YWxudW06XV18IHxcLikrIicgc291cmNlL2F2b3Nsb2NrZXItKi5odG1sIHwgY3V0IC1kICciJyAtZjI="
         ]
     },
     {
@@ -656,7 +658,7 @@
     {
         "name": "ragnarok",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": "shut down & offering a decryptor",
         "locations": [
@@ -682,7 +684,8 @@
         "profile": [
             "https://techcrunch.com/2021/08/30/ragnarok-ransomware-gang-shuts-down-and-releases-its-decryption-key",
             "https://www.cpomagazine.com/cyber-security/ragnarok-ransomware-gang-closes-up-shop-leaves-master-decryptor-key-behind",
-            "https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack"
+            "https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack",
+            "previous parser: Z3JlcCAndmFyIHBvc3RfbGlua3MgPScgc291cmNlL3JhZ25hcm9rLSouaHRtbCAtLW5vLWZpbGVuYW1lIHwgY3V0IC1kICc9JyAtZiAyIHwgc2VkICdzL14gKi8vZycgfCBzZWQgLWUgJ3MvLiQvLycgLWUgJ3MvLiQvLycgIC1lICdzLy4kLy8nIHwgIGpxIC1yICcuW10udGl0bGUn"
         ]
     },
     {
@@ -1233,7 +1236,7 @@
     {
         "name": "blackshadow",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": true,
         "meta": "previous clearnet domain blackshadow.cc",
         "locations": [
@@ -1247,7 +1250,9 @@
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
-        "profile": []
+        "profile": [
+            "previous parser: ZWdyZXAgLW8gJ19zZWxmIj4oW1s6YWxudW06XV18IHxcLikrPC9hPicgIHNvdXJjZS9ibGFja3NoYWRvdy1ibGFja3NoYWRvdy5odG1sIHwgY3V0IC1kICc+JyAtZiAyIHwgY3V0IC1kICc8JyAtZiAxIHwgc2VkIC1lICcvRG9uYXRlL2QnIC1lICcvSG9tZS9kJyAtZSAnL0NvbnRhY3QgVVMvZCcgLWUgJy9UZWxlZ3JhbSBjaGFubmVsL2QnIHwgc29ydCAtdQ=="
+        ]
     },
     {
         "name": "bonacigroup",
@@ -1890,7 +1895,7 @@
     {
         "name": "robinhood",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -1906,7 +1911,8 @@
         ],
         "profile": [
             "https://www.sentinelone.com/labs/robinhood-ransomware-coolmaker-functions-not-so-cool/",
-            "https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/"
+            "https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/",
+            "previous parser: Z3JlcCAnPGgyIGNsYXNzPSJ0aXRsZSInIHNvdXJjZS9yb2Jpbmhvb2QtKi5odG1sIC0tbm8tZmlsZW5hbWUgfCBjdXQgLWQgJz4nIC1mIDMgfCBjdXQgLWQgJzwnIC1mIDE="
         ]
     },
     {
