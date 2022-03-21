@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-21 | [`OCA Global`](https://google.com/search?q=OCA+Global) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-21 | [`sete.co.u`](https://google.com/search?q=sete.co.u) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`BERITASATUMEDIA.COM`](https://google.com/search?q=BERITASATUMEDIA.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`Abrams & Bayliss LLP`](https://google.com/search?q=Abrams+%26+Bayliss+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-14 | [`News`](https://google.com/search?q=News) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-13 | [`etrps.de`](https://google.com/search?q=etrps.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`danubiushotels....`](https://google.com/search?q=danubiushotels....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-13 | [`ambujaneotia.co...`](https://google.com/search?q=ambujaneotia.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
