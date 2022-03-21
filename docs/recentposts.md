@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-21 | [`STUDIO PEREGO S...`](https://google.com/search?q=STUDIO+PEREGO+S...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`rh-europe.com`](https://google.com/search?q=rh-europe.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`onglesdor.com`](https://google.com/search?q=onglesdor.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`besp-oak.com`](https://google.com/search?q=besp-oak.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-12 | [`etg.digital`](https://google.com/search?q=etg.digital) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`cachibi.co`](https://google.com/search?q=cachibi.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`orientalaromati...`](https://google.com/search?q=orientalaromati...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-12 | [`bedfordshire.police.uk`](https://google.com/search?q=bedfordshire.police.uk) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
