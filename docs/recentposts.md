@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-21 | [`chicagosteelgro...`](https://google.com/search?q=chicagosteelgro...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`zabel-group.de`](https://google.com/search?q=zabel-group.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`STUDIO PEREGO S...`](https://google.com/search?q=STUDIO+PEREGO+S...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`rh-europe.com`](https://google.com/search?q=rh-europe.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-12 | [`snteseccion30sa...`](https://google.com/search?q=snteseccion30sa...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-12 | [`inibsa.com - inibsadental.com - inibsa.net`](https://google.com/search?q=inibsa.com+-+inibsadental.com+-+inibsa.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-12 | [`etg.digital`](https://google.com/search?q=etg.digital) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-12 | [`cachibi.co`](https://google.com/search?q=cachibi.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
