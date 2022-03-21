@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-21 | [`HAVI Logistic - havilog.com - PART 1`](https://google.com/search?q=HAVI+Logistic+-+havilog.com+-+PART+1) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`Bigmtransport`](https://google.com/search?q=Bigmtransport) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-03-21 | [`ismea.it`](https://google.com/search?q=ismea.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`tomlinsonelectr...`](https://google.com/search?q=tomlinsonelectr...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-13 | [`ikk-group.com`](https://google.com/search?q=ikk-group.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`scanvogn.com`](https://google.com/search?q=scanvogn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`SENADO Argentina`](https://google.com/search?q=SENADO+Argentina) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-03-12 | [`XEFI / Neocyber`](https://google.com/search?q=XEFI+%2F+Neocyber) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
