@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-21 | [`BERITASATUMEDIA.COM`](https://google.com/search?q=BERITASATUMEDIA.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`Abrams & Bayliss LLP`](https://google.com/search?q=Abrams+%26+Bayliss+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`HAVI Logistic - havilog.com - PART 1`](https://google.com/search?q=HAVI+Logistic+-+havilog.com+-+PART+1) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`Bigmtransport`](https://google.com/search?q=Bigmtransport) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-13 | [`danubiushotels....`](https://google.com/search?q=danubiushotels....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`ambujaneotia.co...`](https://google.com/search?q=ambujaneotia.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-13 | [`ikk-group.com`](https://google.com/search?q=ikk-group.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-13 | [`scanvogn.com`](https://google.com/search?q=scanvogn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
