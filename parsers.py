@@ -600,3 +600,14 @@ def pandora():
         errlog('pandora: ' + 'parsing fail')
     for post in posts:
         appender(post, 'pandora')
+
+def stormous():
+    stdlog('parser: ' + 'stormous')
+    parser = '''
+    grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('stormous: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'stormous')
