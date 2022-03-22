@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`BAUKING`](https://google.com/search?q=BAUKING) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-22 | [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-25 | [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-25 | [`Midas Pharma GmbH`](https://google.com/search?q=Midas+Pharma+GmbH) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-24 | [`dtstechnical.c`](https://google.com/search?q=dtstechnical.c) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-24 | [`m`](https://google.com/search?q=m) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
