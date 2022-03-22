@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`GomeA`](https://google.com/search?q=GomeA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Ministry For Foreign Affairs Of The Republic Of Indonesia`](https://google.com/search?q=Ministry+For+Foreign+Affairs+Of+The+Republic+Of+Indonesia) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`UCSI University`](https://google.com/search?q=UCSI+University) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-16 | [`Migros`](https://google.com/search?q=Migros) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-03-15 | [`mfi`](https://google.com/search?q=mfi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-15 | [`Grcouceiro`](https://google.com/search?q=Grcouceiro) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2022-03-15 | [`Instituto Nacional de Tecnología Agropecuaria`](https://google.com/search?q=Instituto+Nacional+de+Tecnolog%C3%ADa+Agropecuaria) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
