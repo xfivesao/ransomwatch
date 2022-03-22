@@ -7,6 +7,7 @@ _last `100` posts_
 | 2022-03-22 | [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-22 | [`Core Design`](https://google.com/search?q=Core+Design) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-22 | [`Company ENOS PROPERTIES`](https://google.com/search?q=Company+ENOS+PROPERTIES) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-03-22 | [`apec-capital.co...`](https://google.com/search?q=apec-capital.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`OCA Global`](https://google.com/search?q=OCA+Global) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-21 | [`sete.co.u`](https://google.com/search?q=sete.co.u) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`BERITASATUMEDIA.COM`](https://google.com/search?q=BERITASATUMEDIA.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-14 | [`inibsa.net`](https://google.com/search?q=inibsa.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-14 | [`snteseccion30sa..`](https://google.com/search?q=snteseccion30sa..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Smith Transport Full Leak`](https://google.com/search?q=Smith+Transport+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-03-14 | [`UK GOV`](https://google.com/search?q=UK+GOV) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
