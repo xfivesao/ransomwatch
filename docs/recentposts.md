@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Anac`](https://google.com/search?q=Anac) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`ca.daiyafoods.c...`](https://google.com/search?q=ca.daiyafoods.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-16 | [`matteolisrl.it`](https://google.com/search?q=matteolisrl.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`vbsharma.ca`](https://google.com/search?q=vbsharma.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`medinadairy.co....`](https://google.com/search?q=medinadairy.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-16 | [`Migros`](https://google.com/search?q=Migros) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
