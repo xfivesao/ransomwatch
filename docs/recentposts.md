@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`bChannels Ltd.`](https://google.com/search?q=bChannels+Ltd.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`BDX`](https://google.com/search?q=BDX) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-25 | [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-25 | [`JOB AG`](https://google.com/search?q=JOB+AG) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-25 | [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-02-25 | [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
