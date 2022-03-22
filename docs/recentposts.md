@@ -7,6 +7,7 @@ _last `250` posts_
 | 2022-03-22 | [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
 | 2022-03-22 | [`Core Design`](https://google.com/search?q=Core+Design) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
 | 2022-03-22 | [`Company ENOS PROPERTIES`](https://google.com/search?q=Company+ENOS+PROPERTIES) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
+| 2022-03-22 | [`comune.villafra...`](https://google.com/search?q=comune.villafra...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`apec-capital.co...`](https://google.com/search?q=apec-capital.co...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`thionvillenola....`](https://google.com/search?q=thionvillenola....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-24 | [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-02-23 | [`lipinsk`](https://google.com/search?q=lipinsk) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-23 | [`stetsonexpo.`](https://google.com/search?q=stetsonexpo.) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-23 | [`blueocean.consu...`](https://google.com/search?q=blueocean.consu...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
