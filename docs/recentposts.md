@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`School District Of Janesville`](https://google.com/search?q=School+District+Of+Janesville) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Rotoplas`](https://google.com/search?q=Rotoplas) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Centurion Stone`](https://google.com/search?q=Centurion+Stone) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Dayton T. Brown, Inc`](https://google.com/search?q=Dayton+T.+Brown%2C+Inc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-15 | [`Fuji America Corporation`](https://google.com/search?q=Fuji+America+Corporation) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-03-15 | [`VadaTech`](https://google.com/search?q=VadaTech) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-03-15 | [`Ward Hadaway`](https://google.com/search?q=Ward+Hadaway) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-03-15 | [`f`](https://google.com/search?q=f) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
