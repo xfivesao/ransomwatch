@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-22 | [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
 | 2022-03-22 | [`Core Design`](https://google.com/search?q=Core+Design) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-24 | [`dtstechnical.c`](https://google.com/search?q=dtstechnical.c) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`m`](https://google.com/search?q=m) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-24 | [`verisilicon.co`](https://google.com/search?q=verisilicon.co) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-24 | [`Apollo`](https://google.com/search?q=Apollo) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
