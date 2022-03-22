@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Anac`](https://google.com/search?q=Anac) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`ca.daiyafoods.c...`](https://google.com/search?q=ca.daiyafoods.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-16 | [`Bullfrog International - bullfrogspas.com`](https://google.com/search?q=Bullfrog+International+-+bullfrogspas.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-16 | [`matteolisrl.it`](https://google.com/search?q=matteolisrl.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`vbsharma.ca`](https://google.com/search?q=vbsharma.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-16 | [`medinadairy.co....`](https://google.com/search?q=medinadairy.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
