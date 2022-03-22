@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-22 | [`Dayton T. Brown, Inc`](https://google.com/search?q=Dayton+T.+Brown%2C+Inc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Centerline Communication Llc`](https://google.com/search?q=Centerline+Communication+Llc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-22 | [`Core Design`](https://google.com/search?q=Core+Design) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-15 | [`f`](https://google.com/search?q=f) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-14 | [`Viva Air`](https://google.com/search?q=Viva+Air) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-03-14 | [`Monteleone & McCrory LLP`](https://google.com/search?q=Monteleone+%26+McCrory+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-14 | [`inibsa.net`](https://google.com/search?q=inibsa.net) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
