@@ -99,7 +99,7 @@
 | [xinof](https://rwtracker.level-4.net/docs/#/profiles?id=xinof) |  | 🔴 | 2021-05-01 | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
 | [spook](https://rwtracker.level-4.net/docs/#/profiles?id=spook) | Spook | 🔴 | 2021-10-26 | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
-| [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) | Log in - RAMP | 🔴 | 2022-03-23 | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
+| [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) | Log in - RAMP | 🟢 |  | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | BLOG | 🔴 | 2021-11-13 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | Error 404 (Not Found)!!1 | 🟢 |  | 54bb47h.blog |
@@ -120,7 +120,7 @@
 | [unknown](https://rwtracker.level-4.net/docs/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |
 | [rransom](https://rwtracker.level-4.net/docs/#/profiles?id=rransom) |  | 🟢 |  | t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion |
 | [babyduck](https://rwtracker.level-4.net/docs/#/profiles?id=babyduck) |  | 🔴 | 2021-05-01 | babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion |
-| [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
+| [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |  | 🔴 | 2022-03-23 | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
 | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [cryp70n1c0d3](https://rwtracker.level-4.net/docs/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
 | [dread](https://rwtracker.level-4.net/docs/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
@@ -130,7 +130,7 @@
 | [ransomcartel](https://rwtracker.level-4.net/docs/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
 | [adminlocker](https://rwtracker.level-4.net/docs/#/profiles?id=adminlocker) | Admin Locker | 🟢 |  | adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |
 | [sugar](https://rwtracker.level-4.net/docs/#/profiles?id=sugar) |  | 🟢 |  | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
-| [zeon](https://rwtracker.level-4.net/docs/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
+| [zeon](https://rwtracker.level-4.net/docs/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🔴 | 2022-03-23 | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
 | [freecivilian](https://rwtracker.level-4.net/docs/#/profiles?id=freecivilian) | Free Civilian | 🔴 | 2022-03-07 | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://rwtracker.level-4.net/docs/#/profiles?id=pandora) | Pandora Data Leak | 🟢 |  | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://rwtracker.level-4.net/docs/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
