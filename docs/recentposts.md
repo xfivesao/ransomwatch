@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`Instituto De Gesto Estratégica De Sade Do Distrito Federal`](https://google.com/search?q=Instituto+De+Gesto+Estrat%C3%A9gica+De+Sade+Do+Distrito+Federal) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`avidoc.fr`](https://google.com/search?q=avidoc.fr) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Dayton T. Brown, Inc`](https://google.com/search?q=Dayton+T.+Brown%2C+Inc) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-25 | [`Guts Superpols Co., Ltd.`](https://google.com/search?q=Guts+Superpols+Co.%2C+Ltd.) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Ningbo Dechang Electric Machinery Manufacturing Co., Ltd.`](https://google.com/search?q=Ningbo+Dechang+Electric+Machinery+Manufacturing+Co.%2C+Ltd.) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Tite - Live Belgique`](https://google.com/search?q=Tite+-+Live+Belgique) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Shanghai Huizhong Automotive Manufacturing Co., Ltd.`](https://google.com/search?q=Shanghai+Huizhong+Automotive+Manufacturing+Co.%2C+Ltd.) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
