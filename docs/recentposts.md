@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`crich.it`](https://google.com/search?q=crich.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Instituto De Gesto Estratégica De Sade Do Distrito Federal`](https://google.com/search?q=Instituto+De+Gesto+Estrat%C3%A9gica+De+Sade+Do+Distrito+Federal) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`Wibag Bau Ag`](https://google.com/search?q=Wibag+Bau+Ag) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`avidoc.fr`](https://google.com/search?q=avidoc.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`Jaffe Raitt Heuer &amp; Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26amp%3B+Weiss%2C+P.C.) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-17 | [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-17 | [`Rosewd`](https://google.com/search?q=Rosewd) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
-| 2022-03-17 | [`sbctanzania.co....`](https://google.com/search?q=sbctanzania.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
