@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`WELCOME HOTELS`](https://google.com/search?q=WELCOME+HOTELS) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Anac`](https://google.com/search?q=Anac) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-25 | [`Friedrich`](https://google.com/search?q=Friedrich) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Powerhouse1`](https://google.com/search?q=Powerhouse1) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Doner`](https://google.com/search?q=Doner) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`EBM`](https://google.com/search?q=EBM) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
