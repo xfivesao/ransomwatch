@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`Wibag Bau Ag`](https://google.com/search?q=Wibag+Bau+Ag) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`avidoc.fr`](https://google.com/search?q=avidoc.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`KELLY,REMMEL&ZIMMERMAN first part`](https://google.com/search?q=KELLY%2CREMMEL%26ZIMMERMAN+first+part) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`Maintainco Inc. - maintainco.com - starlift.com`](https://google.com/search?q=Maintainco+Inc.+-+maintainco.com+-+starlift.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`Rosewd`](https://google.com/search?q=Rosewd) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-17 | [`sbctanzania.co....`](https://google.com/search?q=sbctanzania.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`vvrmc.org - Par...`](https://google.com/search?q=vvrmc.org+-+Par...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-17 | [`www.onedoc.ch/f...`](https://google.com/search?q=www.onedoc.ch%2Ff...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
