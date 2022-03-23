@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`Maintainco Inc. - maintainco.com - starlift.com`](https://google.com/search?q=Maintainco+Inc.+-+maintainco.com+-+starlift.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`powertech`](https://google.com/search?q=powertech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-23 | [`inibsa.com - inibsadental.com - inibsa.net 2TB FULL DATA`](https://google.com/search?q=inibsa.com+-+inibsadental.com+-+inibsa.net+2TB+FULL+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`lazpiur.com`](https://google.com/search?q=lazpiur.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`www.onedoc.ch/f...`](https://google.com/search?q=www.onedoc.ch%2Ff...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`M.T.B.`](https://google.com/search?q=M.T.B.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-17 | [`rebuildingtoget...`](https://google.com/search?q=rebuildingtoget...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-17 | [`onedoc.ch/fr/ca...`](https://google.com/search?q=onedoc.ch%2Ffr%2Fca...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
