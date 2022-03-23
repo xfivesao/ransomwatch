@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`Satz Kontor GmbH data`](https://google.com/search?q=Satz+Kontor+GmbH+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-23 | [`Sav-Rx Prescription Services`](https://google.com/search?q=Sav-Rx+Prescription+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-23 | [`WELCOME HOTELS`](https://google.com/search?q=WELCOME+HOTELS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-16 | [`taguefamilyprac...`](https://google.com/search?q=taguefamilyprac...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`www.comune.vill...`](https://google.com/search?q=www.comune.vill...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`www.rebuildingt...`](https://google.com/search?q=www.rebuildingt...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-16 | [`Bullfrog International - bullfrogspas.com`](https://google.com/search?q=Bullfrog+International+-+bullfrogspas.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
