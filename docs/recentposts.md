@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`Ministry For Foreign Affairs Of The Republic Of Indonesia`](https://google.com/search?q=Ministry+For+Foreign+Affairs+Of+The+Republic+Of+Indonesia) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`Centerline Communication Llc`](https://google.com/search?q=Centerline+Communication+Llc) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`ro`](https://google.com/search?q=ro) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`UCSI University`](https://google.com/search?q=UCSI+University) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-25 | [`Centre D'Odontologia Integrada Miret-Puig`](https://google.com/search?q=Centre+D%27Odontologia+Integrada+Miret-Puig) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)`](https://google.com/search?q=Hyundai+Samho+Heavy+Industries+Co.%2CLtd.+%28South+Korea%29) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-02-25 | [`Rodonaves Transportes E Encomendas Ltda`](https://google.com/search?q=Rodonaves+Transportes+E+Encomendas+Ltda) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
-| 2022-02-25 | [`Eurocoin Interactive B.V.`](https://google.com/search?q=Eurocoin+Interactive+B.V.) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
