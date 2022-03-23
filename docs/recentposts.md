@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`NetCompany`](https://google.com/search?q=NetCompany) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-03-23 | [`Ministry of Economy and Finance of Peru`](https://google.com/search?q=Ministry+of+Economy+and+Finance+of+Peru) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-23 | [`haltonhills`](https://google.com/search?q=haltonhills) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-23 | [`confindustriaca...`](https://google.com/search?q=confindustriaca...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`Managed Business Solutions`](https://google.com/search?q=Managed+Business+Solutions) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-17 | [`IMT GROUP`](https://google.com/search?q=IMT+GROUP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-17 | [`Empire Electronics Inc.`](https://google.com/search?q=Empire+Electronics+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-17 | [`Milan Institute`](https://google.com/search?q=Milan+Institute) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
