@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-23 | [`lazpiur.com`](https://google.com/search?q=lazpiur.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`ICEHOTEL`](https://google.com/search?q=ICEHOTEL) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-23 | [`Griggsville-Perry High School`](https://google.com/search?q=Griggsville-Perry+High+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-23 | [`Satz Kontor GmbH data`](https://google.com/search?q=Satz+Kontor+GmbH+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`onedoc.ch/fr/ca...`](https://google.com/search?q=onedoc.ch%2Ffr%2Fca...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`comune.villafra...`](https://google.com/search?q=comune.villafra...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-16 | [`drory.com.cn`](https://google.com/search?q=drory.com.cn) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-16 | [`taguefamilyprac...`](https://google.com/search?q=taguefamilyprac...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
