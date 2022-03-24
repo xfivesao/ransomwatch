@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`Shapiro and Duncan`](https://google.com/search?q=Shapiro+and+Duncan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-24 | [`LW Group`](https://google.com/search?q=LW+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`ignitarium.com`](https://google.com/search?q=ignitarium.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`redgwick.com`](https://google.com/search?q=redgwick.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`hilltopconstruc...`](https://google.com/search?q=hilltopconstruc...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`aetnabridge.com`](https://google.com/search?q=aetnabridge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`specialinc.com`](https://google.com/search?q=specialinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-17 | [`FitFlop Ltd.`](https://google.com/search?q=FitFlop+Ltd.) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
