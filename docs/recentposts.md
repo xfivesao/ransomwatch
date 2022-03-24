@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`North View Escrow Corp`](https://google.com/search?q=North+View+Escrow+Corp) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`buffingtonl`](https://google.com/search?q=buffingtonl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`Davis Law Group, P.C. - dlgva.com`](https://google.com/search?q=Davis+Law+Group%2C+P.C.+-+dlgva.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`Passero Associates`](https://google.com/search?q=Passero+Associates) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`solvi.com`](https://google.com/search?q=solvi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`kbkbcpa.com/`](https://google.com/search?q=kbkbcpa.com%2F) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`genesis.ky`](https://google.com/search?q=genesis.ky) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-18 | [`draftex.de`](https://google.com/search?q=draftex.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
