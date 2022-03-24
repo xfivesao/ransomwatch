@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`guazzini.it`](https://google.com/search?q=guazzini.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`japoauto.com`](https://google.com/search?q=japoauto.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`serilization-se...`](https://google.com/search?q=serilization-se...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=KONECTA+SERVICIOS+ADMINISTRATIVOS+Y+TECNOLOGICOS+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`Noble Oil - nobleoil.com`](https://google.com/search?q=Noble+Oil+-+nobleoil.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-18 | [`TIG`](https://google.com/search?q=TIG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-03-18 | [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
