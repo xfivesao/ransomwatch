@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`stt-logistique....`](https://google.com/search?q=stt-logistique....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`guazzini.it`](https://google.com/search?q=guazzini.it) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`japoauto.com`](https://google.com/search?q=japoauto.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`serilization-se...`](https://google.com/search?q=serilization-se...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-02-27 | [`us.jll.com`](https://google.com/search?q=us.jll.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`WARNING`](https://google.com/search?q=WARNING) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-02-27 | [`s`](https://google.com/search?q=s) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-02-27 | [`cgm`](https://google.com/search?q=cgm) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
