@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`Establishment of the Agency for the Environmental Protection of the Marche Region`](https://google.com/search?q=Establishment+of+the+Agency+for+the+Environmental+Protection+of+the+Marche+Region) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-24 | [`Bradsby Group - bradsbygroup.com`](https://google.com/search?q=Bradsby+Group+-+bradsbygroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`Shapiro and Duncan`](https://google.com/search?q=Shapiro+and+Duncan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-24 | [`LW Group`](https://google.com/search?q=LW+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`montanarisrl.ne...`](https://google.com/search?q=montanarisrl.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`finances.gouv.c...`](https://google.com/search?q=finances.gouv.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`hilltopconstruc...`](https://google.com/search?q=hilltopconstruc...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-17 | [`aetnabridge.com`](https://google.com/search?q=aetnabridge.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
