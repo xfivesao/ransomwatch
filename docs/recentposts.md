@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`intouchgroup.ne...`](https://google.com/search?q=intouchgroup.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`credenceid.com`](https://google.com/search?q=credenceid.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Banco Caribe`](https://google.com/search?q=Banco+Caribe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`Asphalion`](https://google.com/search?q=Asphalion) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-17 | [`lawsdn.com`](https://google.com/search?q=lawsdn.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`ihg.com`](https://google.com/search?q=ihg.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-17 | [`rosslare.com.hk`](https://google.com/search?q=rosslare.com.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-17 | [`AllOffice`](https://google.com/search?q=AllOffice) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
