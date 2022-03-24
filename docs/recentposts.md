@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-24 | [`japoauto.com`](https://google.com/search?q=japoauto.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`serilization-se...`](https://google.com/search?q=serilization-se...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=KONECTA+SERVICIOS+ADMINISTRATIVOS+Y+TECNOLOGICOS+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-24 | [`3S Standard Sharing Software`](https://google.com/search?q=3S+Standard+Sharing+Software) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`TIG`](https://google.com/search?q=TIG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-03-18 | [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-18 | [`thionvillenola....`](https://google.com/search?q=thionvillenola....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
