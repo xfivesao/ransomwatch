@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-25 | [`standard-furnit...`](https://google.com/search?q=standard-furnit...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-25 | [`alaliengineerin...`](https://google.com/search?q=alaliengineerin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`North View Escrow Corp`](https://google.com/search?q=North+View+Escrow+Corp) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`buffingtonl`](https://google.com/search?q=buffingtonl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`centralaccident...`](https://google.com/search?q=centralaccident...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`megaproductos.c...`](https://google.com/search?q=megaproductos.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-18 | [`solvi.com`](https://google.com/search?q=solvi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-18 | [`kbkbcpa.com/`](https://google.com/search?q=kbkbcpa.com%2F) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
