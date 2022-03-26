@@ -36,7 +36,7 @@
 | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) | 星Team News | 🔴 | 2022-01-24 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | [darkside](https://ransomwatch.telemetry.ltd/#/profiles?id=darkside) |  | 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | rgleak7op734elep.onion |
-| [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
+| [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🔴 | 2022-03-26 | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
 | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
@@ -78,7 +78,7 @@
 | [blackshadow](https://ransomwatch.telemetry.ltd/#/profiles?id=blackshadow) |  | 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
 | [bonacigroup](https://ransomwatch.telemetry.ltd/#/profiles?id=bonacigroup) | 502 Bad Gateway | 🔴 | 2021-12-28 | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | [crylock](https://ransomwatch.telemetry.ltd/#/profiles?id=crylock) |  | 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
-| [ech0raix](https://ransomwatch.telemetry.ltd/#/profiles?id=ech0raix) |  | 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
+| [ech0raix](https://ransomwatch.telemetry.ltd/#/profiles?id=ech0raix) |  | 🔴 | 2022-03-26 | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
 | [ep918](https://ransomwatch.telemetry.ltd/#/profiles?id=ep918) |  | 🔴 | 2021-05-01 | dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |
 | [exorcist](https://ransomwatch.telemetry.ltd/#/profiles?id=exorcist) |  | 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | [hades](https://ransomwatch.telemetry.ltd/#/profiles?id=hades) |  | 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
@@ -130,7 +130,7 @@
 | [ransomcartel](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
 | [adminlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=adminlocker) | Admin Locker | 🟢 |  | adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |
 | [sugar](https://ransomwatch.telemetry.ltd/#/profiles?id=sugar) |  | 🟢 |  | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
-| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
+| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | 502 Bad Gateway | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
 | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) | Free Civilian | 🔴 | 2022-03-25 | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) | Pandora Data Leak | 🟢 |  | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
