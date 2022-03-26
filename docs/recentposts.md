@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-26 | [`microflex-servi...`](https://google.com/search?q=microflex-servi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`Konradin Mediengruppe GmbH`](https://google.com/search?q=Konradin+Mediengruppe+GmbH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-25 | [`centuryaluminum...`](https://google.com/search?q=centuryaluminum...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-25 | [`Relationships Australia`](https://google.com/search?q=Relationships+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-18 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`unapen.internal`](https://google.com/search?q=unapen.internal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-18 | [`NSM Insurance Group`](https://google.com/search?q=NSM+Insurance+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
