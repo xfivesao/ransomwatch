@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-26 | [`aquazzura.`](https://google.com/search?q=aquazzura.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`aquazzura.co`](https://google.com/search?q=aquazzura.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`microflex-servi...`](https://google.com/search?q=microflex-servi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`Konradin Mediengruppe GmbH`](https://google.com/search?q=Konradin+Mediengruppe+GmbH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-19 | [`bChannels Ltd.`](https://google.com/search?q=bChannels+Ltd.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-19 | [`BDX`](https://google.com/search?q=BDX) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-18 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-18 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
