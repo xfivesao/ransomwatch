@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-26 | [`aquazzura.co`](https://google.com/search?q=aquazzura.co) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`microflex-servi...`](https://google.com/search?q=microflex-servi...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-26 | [`Konradin Mediengruppe GmbH`](https://google.com/search?q=Konradin+Mediengruppe+GmbH) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-25 | [`mitchellsternla..`](https://google.com/search?q=mitchellsternla..) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-02 | [`CAPCARPET.COM FILES PART3 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART3+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-03-02 | [`www.tccm.com`](https://google.com/search?q=www.tccm.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-02 | [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-03-02 | [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
