@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-27 | [`CAPCARPET.COM FILES PART4 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART4+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`ALEXIM.COM FILES PART4 - 192.168.3.5\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART4+-+192.168.3.5%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`MCH-GROUP.COM FILES PART25 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART25+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`EDAN.COM FILES PART24 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART24+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-20 | [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`connectcec.com`](https://google.com/search?q=connectcec.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`MJH Life Sciences`](https://google.com/search?q=MJH+Life+Sciences) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-20 | [`PFC USA`](https://google.com/search?q=PFC+USA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
