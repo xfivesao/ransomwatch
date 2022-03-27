@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-27 | [`ALTERNATIVETECHS.COM FILES PART1 - C\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART1+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`JBINSTANTLAWN.NET FILES PART4 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART4+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`CAPCARPET.COM FILES PART4 - 10.1.2.5\accounting\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART4+-+10.1.2.5%5Caccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`ALEXIM.COM FILES PART4 - 192.168.3.5\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART4+-+192.168.3.5%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-20 | [`meritresources`](https://google.com/search?q=meritresources) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`Scottish Association for Mental Health`](https://google.com/search?q=Scottish+Association+for+Mental+Health) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-03-20 | [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-20 | [`connectcec.com`](https://google.com/search?q=connectcec.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
