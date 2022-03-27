@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-27 | [`DUTTONFIRM.COM FILES PART20 - E\Data\SHARED\Lit\ PUBLISHED`](https://google.com/search?q=DUTTONFIRM.COM+FILES+PART20+-+E%5CData%5CSHARED%5CLit%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`Hochschild Mining`](https://google.com/search?q=Hochschild+Mining) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-27 | [`BOLTONUSA.COM FILES PART29 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART29+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`SWIRESPO.COM FILES PART24 - 172.16.10.166\H$\Files\Users\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART24+-+172.16.10.166%5CH%24%5CFiles%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-19 | [`BAUKING`](https://google.com/search?q=BAUKING) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-19 | [`pla-pumpen`](https://google.com/search?q=pla-pumpen) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-19 | [`denro.ca`](https://google.com/search?q=denro.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-19 | [`jewelry.org.hk`](https://google.com/search?q=jewelry.org.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
