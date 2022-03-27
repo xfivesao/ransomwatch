@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-27 | [`girlguidingl`](https://google.com/search?q=girlguidingl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`comune.g`](https://google.com/search?q=comune.g) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`DRC-LAW.COM FILES PART1 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART1+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`ALTERNATIVETECHS.COM FILES PART1 - C\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART1+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-20 | [`bbst-clp.de`](https://google.com/search?q=bbst-clp.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`museum-dingolfi...`](https://google.com/search?q=museum-dingolfi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-20 | [`stormous`](https://google.com/search?q=stormous) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2022-03-20 | [`meritresources`](https://google.com/search?q=meritresources) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
