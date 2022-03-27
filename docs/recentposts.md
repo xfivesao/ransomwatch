@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-27 | [`pirsonholland.c...`](https://google.com/search?q=pirsonholland.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`Diamond Pet Foods`](https://google.com/search?q=Diamond+Pet+Foods) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-27 | [`h1{`](https://google.com/search?q=h1%7B) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-27 | [`https://pirsonh...`](https://google.com/search?q=https%3A%2F%2Fpirsonh...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-21 | [`tomlinsonelectr...`](https://google.com/search?q=tomlinsonelectr...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`chicagosteelgro...`](https://google.com/search?q=chicagosteelgro...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`zabel-group.de`](https://google.com/search?q=zabel-group.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-21 | [`STUDIO PEREGO S...`](https://google.com/search?q=STUDIO+PEREGO+S...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
