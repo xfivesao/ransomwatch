@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`Jammal Trust Bank`](https://google.com/search?q=Jammal+Trust+Bank) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-28 | [`MIGROS`](https://google.com/search?q=MIGROS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-28 | [`MTMRECOGNITION.COM FILES PART23 - 10.0.12.140, 10.0.6.2 PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART23+-+10.0.12.140%2C+10.0.6.2+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`SSMSJUSTICE.COM FILES PART28 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART28+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`Core Design`](https://google.com/search?q=Core+Design) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-22 | [`Company ENOS PROPERTIES`](https://google.com/search?q=Company+ENOS+PROPERTIES) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-22 | [`Polynt Group`](https://google.com/search?q=Polynt+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-22 | [`apec-capital.co...`](https://google.com/search?q=apec-capital.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
