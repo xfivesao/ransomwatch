@@ -2,13 +2,13 @@
 ## summary
 _march 28th, 2022_
 
-currently tracking `94` groups across `133` relays & mirrors - _`50` currently online_
+currently tracking `94` groups across `133` relays & mirrors - _`49` currently online_
 
 ⏲ there have been `24` posts within the `last 24 hours`
 
 🦈 there have been `304` posts within the `month of march`
 
-🪐 there have been `913` posts within the `last 90 days`
+🪐 there have been `900` posts within the `last 90 days`
 
 🏚 there have been `859` posts within the `year of 2022`
 
