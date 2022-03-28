@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`SSMSJUSTICE.COM FILES PART28 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART28+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`DC Solutions FR&Switzerland (dcsolution.ch)`](https://google.com/search?q=DC+Solutions+FR%26Switzerland+%28dcsolution.ch%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-28 | [`UNITEK Contracting Group`](https://google.com/search?q=UNITEK+Contracting+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`THENOC.NET FILES PART1 - C\ProgramData\ PUBLISHED`](https://google.com/search?q=THENOC.NET+FILES+PART1+-+C%5CProgramData%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`apec-capital.co...`](https://google.com/search?q=apec-capital.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-21 | [`OCA Global`](https://google.com/search?q=OCA+Global) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-21 | [`sete.co.u`](https://google.com/search?q=sete.co.u) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-21 | [`BERITASATUMEDIA.COM`](https://google.com/search?q=BERITASATUMEDIA.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
