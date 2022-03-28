@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`OSSEG Obra Social del Seguro`](https://google.com/search?q=OSSEG+Obra+Social+del+Seguro) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-28 | [`Allied Eagle Supply`](https://google.com/search?q=Allied+Eagle+Supply) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`SLIMSTOCK.COM FILES PART27 - 10.30.15.34, 10.30.1.130 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART27+-+10.30.15.34%2C+10.30.1.130+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`SA1SOLUTIONS.COM  FILES FILES PART1 - 192.168.10.36, 192.168.10.53 192.168.10.145, 192.168`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+FILES+PART1+-+192.168.10.36%2C+192.168.10.53+192.168.10.145%2C+192.168) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`Ministry For Foreign Affairs Of The Republic Of Indonesia`](https://google.com/search?q=Ministry+For+Foreign+Affairs+Of+The+Republic+Of+Indonesia) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`UCSI University`](https://google.com/search?q=UCSI+University) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`School District Of Janesville`](https://google.com/search?q=School+District+Of+Janesville) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-22 | [`Rotoplas`](https://google.com/search?q=Rotoplas) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
