@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`progettoedilesr...`](https://google.com/search?q=progettoedilesr...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-28 | [`bro`](https://google.com/search?q=bro) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-28 | [`ZISSERFAMILYLAW.COM FILES PART1 - 192.168.145.167 PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART1+-+192.168.145.167+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`its.ws`](https://google.com/search?q=its.ws) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`Centurion Stone`](https://google.com/search?q=Centurion+Stone) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Dayton T. Brown, Inc`](https://google.com/search?q=Dayton+T.+Brown%2C+Inc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`Centerline Communication Llc`](https://google.com/search?q=Centerline+Communication+Llc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-22 | [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
