@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`ONCALL Language Services`](https://google.com/search?q=ONCALL+Language+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`Neschen Coating GmbH`](https://google.com/search?q=Neschen+Coating+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`Smith Transport company`](https://google.com/search?q=Smith+Transport+company) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-28 | [`OSSEG Obra Social del Seguro`](https://google.com/search?q=OSSEG+Obra+Social+del+Seguro) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`ca.daiyafoods.c...`](https://google.com/search?q=ca.daiyafoods.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-22 | [`GomeA`](https://google.com/search?q=GomeA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-22 | [`Ministry For Foreign Affairs Of The Republic Of Indonesia`](https://google.com/search?q=Ministry+For+Foreign+Affairs+Of+The+Republic+Of+Indonesia) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
