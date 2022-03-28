@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-28 | [`Oklahoma City Indian Clinic`](https://google.com/search?q=Oklahoma+City+Indian+Clinic) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-03-28 | [`qarch.nl`](https://google.com/search?q=qarch.nl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-28 | [`zentrum-dreilin...`](https://google.com/search?q=zentrum-dreilin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`pirsonholland.c...`](https://google.com/search?q=pirsonholland.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-21 | [`HAVI Logistic - havilog.com - PART 1`](https://google.com/search?q=HAVI+Logistic+-+havilog.com+-+PART+1) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-21 | [`Bigmtransport`](https://google.com/search?q=Bigmtransport) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-03-21 | [`ismea.it`](https://google.com/search?q=ismea.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-21 | [`tomlinsonelectr...`](https://google.com/search?q=tomlinsonelectr...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
