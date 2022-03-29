@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
+| 2022-03-29 | [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
+| 2022-03-29 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Rudsak Inc - rudsak.com`](https://google.com/search?q=Rudsak+Inc+-+rudsak.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`Griggsville-Perry High School`](https://google.com/search?q=Griggsville-Perry+High+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-23 | [`Satz Kontor GmbH data`](https://google.com/search?q=Satz+Kontor+GmbH+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-23 | [`Sav-Rx Prescription Services`](https://google.com/search?q=Sav-Rx+Prescription+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-23 | [`WELCOME HOTELS`](https://google.com/search?q=WELCOME+HOTELS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-22 | [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
