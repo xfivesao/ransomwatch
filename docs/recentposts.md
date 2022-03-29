@@ -7,6 +7,7 @@ _last `100` posts_
 | 2022-03-29 | [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
 | 2022-03-29 | [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
 | 2022-03-29 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-03-29 | [`GRS Group`](https://google.com/search?q=GRS+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`axessa.ch`](https://google.com/search?q=axessa.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`lazpiur.com`](https://google.com/search?q=lazpiur.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`ICEHOTEL`](https://google.com/search?q=ICEHOTEL) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-23 | [`Griggsville-Perry High School`](https://google.com/search?q=Griggsville-Perry+High+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-03-23 | [`Satz Kontor GmbH data`](https://google.com/search?q=Satz+Kontor+GmbH+data) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
