@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
 | 2022-03-28 | [`AB Karl Hedin`](https://google.com/search?q=AB+Karl+Hedin) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-28 | [`ONCALL Language Services`](https://google.com/search?q=ONCALL+Language+Services) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
 | 2022-03-07 | [`Turner Construction Company`](https://google.com/search?q=Turner+Construction+Company) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-03-07 | [`IDFC FIRST Bank`](https://google.com/search?q=IDFC+FIRST+Bank) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
-| 2022-03-07 | [`Ledcor`](https://google.com/search?q=Ledcor) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
