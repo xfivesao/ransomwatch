@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Rudsak Inc - rudsak.com`](https://google.com/search?q=Rudsak+Inc+-+rudsak.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-28 | [`AB Karl Hedin`](https://google.com/search?q=AB+Karl+Hedin) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`WELCOME HOTELS`](https://google.com/search?q=WELCOME+HOTELS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-22 | [`Anac`](https://google.com/search?q=Anac) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
