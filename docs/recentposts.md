@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`Royal Brunei Airlines Sdn Bhd`](https://google.com/search?q=Royal+Brunei+Airlines+Sdn+Bhd) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
 | 2022-03-29 | [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
 | 2022-03-29 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`Maintainco Inc. - maintainco.com - starlift.com`](https://google.com/search?q=Maintainco+Inc.+-+maintainco.com+-+starlift.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`powertech`](https://google.com/search?q=powertech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-23 | [`inibsa.com - inibsadental.com - inibsa.net 2TB FULL DATA`](https://google.com/search?q=inibsa.com+-+inibsadental.com+-+inibsa.net+2TB+FULL+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-23 | [`lazpiur.com`](https://google.com/search?q=lazpiur.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
