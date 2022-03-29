@@ -259,6 +259,7 @@ if args.mode == 'parse':
     parsers.vicesociety()
     parsers.pandora()
     parsers.stormous()
+    parsers.leaktheanalyst()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
