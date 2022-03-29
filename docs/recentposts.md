@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`OSSEG Obra Social de Seguros`](https://google.com/search?q=OSSEG+Obra+Social+de+Seguros) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Universidade Federal de Sao Paulo`](https://google.com/search?q=Universidade+Federal+de+Sao+Paulo) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-07 | [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-03-07 | [`INVIMA`](https://google.com/search?q=INVIMA) | [blackbyte](https://rwtracker.level-4.net/docs/#/profiles?id=blackbyte) |
