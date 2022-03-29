@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`Rudsak Inc - rudsak.com`](https://google.com/search?q=Rudsak+Inc+-+rudsak.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-28 | [`AB Karl Hedin`](https://google.com/search?q=AB+Karl+Hedin) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`ONCALL Language Services`](https://google.com/search?q=ONCALL+Language+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`Neschen Coating GmbH`](https://google.com/search?q=Neschen+Coating+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-22 | [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-22 | [`Anac`](https://google.com/search?q=Anac) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-22 | [`ca.daiyafoods.c...`](https://google.com/search?q=ca.daiyafoods.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-22 | [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
