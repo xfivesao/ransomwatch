@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`Biz Retek`](https://google.com/search?q=Biz+Retek) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-03-29 | [`GRS Group`](https://google.com/search?q=GRS+Group) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-29 | [`axessa.ch`](https://google.com/search?q=axessa.ch) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`OSSEG Obra Social de Seguros`](https://google.com/search?q=OSSEG+Obra+Social+de+Seguros) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-08 | [`strix`](https://google.com/search?q=strix) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-08 | [`Warren Resources`](https://google.com/search?q=Warren+Resources) | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) |
 | 2022-03-08 | [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-03-07 | [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
