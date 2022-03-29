@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`Automobil Holding AS`](https://google.com/search?q=Automobil+Holding+AS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`Royal Brunei Airlines Sdn Bhd`](https://google.com/search?q=Royal+Brunei+Airlines+Sdn+Bhd) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
 | 2022-03-29 | [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | [leaktheanalyst](https://ransomwatch.telemetry.ltd/#/profiles?id=leaktheanalyst) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`KELLY,REMMEL&ZIMMERMAN first part`](https://google.com/search?q=KELLY%2CREMMEL%26ZIMMERMAN+first+part) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`Maintainco Inc. - maintainco.com - starlift.com`](https://google.com/search?q=Maintainco+Inc.+-+maintainco.com+-+starlift.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-23 | [`powertech`](https://google.com/search?q=powertech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-03-23 | [`inibsa.com - inibsadental.com - inibsa.net 2TB FULL DATA`](https://google.com/search?q=inibsa.com+-+inibsadental.com+-+inibsa.net+2TB+FULL+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
