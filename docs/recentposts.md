@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-29 | [`Stago`](https://google.com/search?q=Stago) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-03-29 | [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-29 | [`cepi`](https://google.com/search?q=cepi) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`Azimut Benetti Group`](https://google.com/search?q=Azimut+Benetti+Group) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-09 | [`Aluminerie Alouette`](https://google.com/search?q=Aluminerie+Alouette) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-09 | [`Great HealthWorks`](https://google.com/search?q=Great+HealthWorks) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-09 | [`TST Logistics`](https://google.com/search?q=TST+Logistics) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-03-08 | [`Myron Corp.`](https://google.com/search?q=Myron+Corp.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
