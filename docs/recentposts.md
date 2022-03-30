@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-30 | [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`MZ Architects`](https://google.com/search?q=MZ+Architects) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`GEBE`](https://google.com/search?q=GEBE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-24 | [`Shapiro and Duncan`](https://google.com/search?q=Shapiro+and+Duncan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-24 | [`LW Group`](https://google.com/search?q=LW+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`ignitarium.com`](https://google.com/search?q=ignitarium.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-24 | [`redgwick.com`](https://google.com/search?q=redgwick.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
