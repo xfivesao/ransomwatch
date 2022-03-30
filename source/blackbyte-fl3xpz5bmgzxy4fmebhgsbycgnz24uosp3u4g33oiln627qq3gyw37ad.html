@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1648639023" rel="stylesheet">
+    <link href="/blog.css?v=1648642760" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1648639023"></script>
+    <script src="/script.js?v=1648642760"></script>
     <style>
 
 
@@ -529,7 +529,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 2552277;
+            var HAPPYSEC13 = 2548540;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -696,207 +696,6 @@
         
         <script>
 
-            var proof_img_block12 = '<img src="" alt="" class="proof">';
-
-
-            function ShowProof12(){
-                if(showed12 === 0){
-                    showed12 = 1;
-                    $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
-                }else{
-                    showed12 = 0;
-                    $("#target_12 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons12(){
-                if(showed_d_buttons12 === 0){
-                    showed_d_buttons12 = 1;
-                    $("#target_12 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons12 = 0;
-                    $("#target_12 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed12 = 0;
-            var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 2551377;
-            var t_sec12 = HAPPYSEC12;
-
-            var time12;
-            var intervalId12=0;
-
-
-            $(document).ready(function () {
-                $("#target_12 .d_buttons a.btn3").addClass("red_button");
-                intervalId12 = setInterval(function (){
-                    timerDecrement12();
-                }, 1000);
-            });
-
-
-            function timerDecrement12() {
-                time12 = $('#target_12 span.timer');
-
-                if(t_sec12 < 1){
-                    t_sec12 = 0;
-                    newTime = t_sec12 ;
-                }else{
-                    newTime = t_sec12 - 1;
-                }
-
-
-                t_sec12 = newTime;
-
-                var t_min = t_sec12 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec12 % 60)+ '</b> ';
-
-                time12.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC12 > 0 || newTime < 1){
-
-                    time12.html('');
-                    $("#target_12 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_12 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_12 .btn2").addClass("redbg");
-                    $("#target_12 .arrow-8").addClass("r8");
-                    $("#target_12 .perc").html("100%");
-
-                    clearInterval(intervalId12);
-                    GetDownloadLink(12,$("#target_12 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_12').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Credit Risk Management Canada</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_12" tabindex="-1"  id="target_12" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >Credit Risk Management Canada Ltd. was founded in 1970 and has steadily grown to a well respected and trusted national provider of Accounts Receivable and Debt Recovery solutions. 
-In the past decade alone, our team has grown by 300% and this has been the direct result of our concentration on client service, 
-while remaining on the cutting edge of new technology and creating a culture that earned us a nomination to the list of Canada’s 10 Most Admired Cultures in 2012. 
-We have offices located in Stratford, Milton and Montreal. We’re an agile, forward thinking, 
-medium-sized business with over 75 professional staff providing solutions across Canada in multiple languages. 
-100% Canadian Owned and Operated. Find out why our clients have consistently and confidently referred to us as “The SURPRISE in the Industry”                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">73</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.crmcanada.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 16 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(519) 271-6211</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons12()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/55UbN1Rdx7/crmcanada.ca_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        4.63GB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
             var proof_img_block11 = '<img src="" alt="" class="proof">';
 
 
@@ -926,7 +725,7 @@ medium-sized business with over 75 professional staff providing solutions across
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 2547777;
+            var HAPPYSEC11 = 2544040;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1126,7 +925,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 2374977;
+            var HAPPYSEC10 = 2371240;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1323,7 +1122,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -1599423;
+            var HAPPYSEC9 = -1603160;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1530,7 +1329,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -2416623;
+            var HAPPYSEC8 = -2420360;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1745,7 +1544,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -2675823;
+            var HAPPYSEC7 = -2679560;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -1940,7 +1739,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -2675823;
+            var HAPPYSEC6 = -2679560;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -2135,7 +1934,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -2675823;
+            var HAPPYSEC5 = -2679560;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -2330,7 +2129,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -2935023;
+            var HAPPYSEC4 = -2938760;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -2545,7 +2344,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -7773423;
+            var HAPPYSEC3 = -7777160;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -2760,7 +2559,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -7773423;
+            var HAPPYSEC2 = -7777160;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -2985,7 +2784,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -7773423;
+            var HAPPYSEC1 = -7777160;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
@@ -3231,7 +3030,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed0 = 0;
             var showed_d_buttons0 = 0;
-            var HAPPYSEC0 = -7773423;
+            var HAPPYSEC0 = -7777160;
             var t_sec0 = HAPPYSEC0;
 
             var time0;
