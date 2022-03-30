@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-30 | [`Hearst`](https://google.com/search?q=Hearst) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-30 | [`United Cumberland`](https://google.com/search?q=United+Cumberland) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-30 | [`London College of Beauty Therapy`](https://google.com/search?q=London+College+of+Beauty+Therapy) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-24 | [`3S Standard Sharing Software`](https://google.com/search?q=3S+Standard+Sharing+Software) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-24 | [`Establishment of the Agency for the Environmental Protection of the Marche Region`](https://google.com/search?q=Establishment+of+the+Agency+for+the+Environmental+Protection+of+the+Marche+Region) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-24 | [`Bradsby Group - bradsbygroup.com`](https://google.com/search?q=Bradsby+Group+-+bradsbygroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-24 | [`Shapiro and Duncan`](https://google.com/search?q=Shapiro+and+Duncan) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
