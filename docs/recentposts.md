@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-30 | [`avcimmedia.com`](https://google.com/search?q=avcimmedia.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-30 | [`grupodeincendio...`](https://google.com/search?q=grupodeincendio...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-30 | [`Scott Manufacturing, LLC`](https://google.com/search?q=Scott+Manufacturing%2C+LLC) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-30 | [`jlmsolicitors.c...`](https://google.com/search?q=jlmsolicitors.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-24 | [`guazzini.it`](https://google.com/search?q=guazzini.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`japoauto.com`](https://google.com/search?q=japoauto.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`serilization-se...`](https://google.com/search?q=serilization-se...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-24 | [`KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=KONECTA+SERVICIOS+ADMINISTRATIVOS+Y+TECNOLOGICOS+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
