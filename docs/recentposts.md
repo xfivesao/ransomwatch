@@ -7,6 +7,7 @@ _last `100` posts_
 | 2022-03-30 | [`MZ Architects`](https://google.com/search?q=MZ+Architects) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`GEBE`](https://google.com/search?q=GEBE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-03-30 | [`bcintlgroup-com`](https://google.com/search?q=bcintlgroup-com) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-30 | [`bcad.org`](https://google.com/search?q=bcad.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-30 | [`trant-co-uk`](https://google.com/search?q=trant-co-uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-30 | [`BANQUE CENTRALE DE TUNISIE`](https://google.com/search?q=BANQUE+CENTRALE+DE+TUNISIE) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-24 | [`intouchgroup.ne...`](https://google.com/search?q=intouchgroup.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`credenceid.com`](https://google.com/search?q=credenceid.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Banco Caribe`](https://google.com/search?q=Banco+Caribe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-23 | [`Asphalion`](https://google.com/search?q=Asphalion) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
