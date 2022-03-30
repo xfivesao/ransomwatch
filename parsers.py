@@ -126,7 +126,7 @@ def lockbit2():
     stdlog('parser: ' + 'lockbit2')
     # egrep -h -A1 'class="post-title"' source/lockbit2-* | grep -v 'class="post-title"' | grep -v '\--' | cut -d'<' -f1 | tr -d ' '
     parser = '''
-    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -611,3 +611,14 @@ def stormous():
         errlog('stormous: ' + 'parsing fail')
     for post in posts:
         appender(post, 'stormous')
+
+def leaktheanalyst():
+    stdlog('parser: ' + 'leaktheanalyst')
+    parser = '''
+    grep '<label class="news-headers">' source/leaktheanalyst-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/Section //' -e 's/#//' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort -n | uniq
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('leaktheanalyst: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'leaktheanalyst')

@@ -2371,5 +2371,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "leaktheanalyst",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": "not a ransomware group",
+        "locations": [
+            {
+                "fqdn": "leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion",
+                "title": "#LeakTheAnalyst",
+                "version": 3,
+                "slug": "http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion/",
+                "available": true,
+                "updated": "2022-03-29 16:40:01.478327",
+                "lastscrape": "2022-03-29 16:40:01.478315"
+            }
+        ],
+        "profile": []
     }
 ]
