@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-30 | [`rebuildingt`](https://google.com/search?q=rebuildingt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`PHC`](https://google.com/search?q=PHC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-29 | [`Stago`](https://google.com/search?q=Stago) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-03-29 | [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`confindustriaca...`](https://google.com/search?q=confindustriaca...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`crich.it`](https://google.com/search?q=crich.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Instituto De Gesto Estratégica De Sade Do Distrito Federal`](https://google.com/search?q=Instituto+De+Gesto+Estrat%C3%A9gica+De+Sade+Do+Distrito+Federal) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-23 | [`Wibag Bau Ag`](https://google.com/search?q=Wibag+Bau+Ag) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
