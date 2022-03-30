@@ -7,6 +7,7 @@ _last `100` posts_
 | 2022-03-30 | [`MZ Architects`](https://google.com/search?q=MZ+Architects) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`GEBE`](https://google.com/search?q=GEBE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-03-30 | [`trant-co-uk`](https://google.com/search?q=trant-co-uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-30 | [`BANQUE CENTRALE DE TUNISIE`](https://google.com/search?q=BANQUE+CENTRALE+DE+TUNISIE) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-30 | [`rebuildingt`](https://google.com/search?q=rebuildingt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`PHC`](https://google.com/search?q=PHC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-23 | [`Banco Caribe`](https://google.com/search?q=Banco+Caribe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`Asphalion`](https://google.com/search?q=Asphalion) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-23 | [`NetCompany`](https://google.com/search?q=NetCompany) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2022-03-23 | [`Ministry of Economy and Finance of Peru`](https://google.com/search?q=Ministry+of+Economy+and+Finance+of+Peru) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
