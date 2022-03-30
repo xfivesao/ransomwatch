@@ -1202,8 +1202,22 @@
                 "version": 3,
                 "slug": "http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion/",
                 "available": false,
+<<<<<<< HEAD
                 "updated": "2022-03-28 11:28:38.449658",
                 "lastscrape": "2022-03-28 11:28:38.449643"
+=======
+                "updated": "2022-03-28 11:17:47.827370",
+                "lastscrape": "2022-03-28 11:17:47.827356"
+            },
+            {
+                "fqdn": "fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion",
+                "title": "BlackByte BLOG",
+                "version": 3,
+                "slug": "http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion",
+                "available": true,
+                "updated": "2022-03-30 15:50:15.717091",
+                "lastscrape": "2022-03-30 15:50:15.716575"
+>>>>>>> 09d1748... resolves #12
             }
         ],
         "profile": [
