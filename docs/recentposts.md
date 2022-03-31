@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-31 | [`keypoint.com`](https://google.com/search?q=keypoint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`yachtcharterfle...`](https://google.com/search?q=yachtcharterfle...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`bafokengholding...`](https://google.com/search?q=bafokengholding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`Zeeland Farm Services, Inc.`](https://google.com/search?q=Zeeland+Farm+Services%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-25 | [`alaliengineerin...`](https://google.com/search?q=alaliengineerin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`North View Escrow Corp`](https://google.com/search?q=North+View+Escrow+Corp) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`buffingtonl`](https://google.com/search?q=buffingtonl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-24 | [`Davis Law Group, P.C. - dlgva.com`](https://google.com/search?q=Davis+Law+Group%2C+P.C.+-+dlgva.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
