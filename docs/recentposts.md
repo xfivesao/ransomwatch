@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-31 | [`Rettenmeier Holding AG`](https://google.com/search?q=Rettenmeier+Holding+AG) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-31 | [`Parker Appliance Company`](https://google.com/search?q=Parker+Appliance+Company) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-31 | [`studiobrazzale....`](https://google.com/search?q=studiobrazzale....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`keypoint.com`](https://google.com/search?q=keypoint.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-15 | [`VadaTech`](https://google.com/search?q=VadaTech) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-03-15 | [`Ward Hadaway`](https://google.com/search?q=Ward+Hadaway) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-03-15 | [`f`](https://google.com/search?q=f) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-03-14 | [`Viva Air`](https://google.com/search?q=Viva+Air) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
