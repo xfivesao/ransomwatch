@@ -19,7 +19,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | none | False | 2 | 00:00 01/05/2021 | `marketojbwagqnwx.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `g5sbltooh2okkcb2.onion` |
 | 404 Not Found | False | 3 | 08:05 04/10/2021 | `fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion` |
-| 502 Bad Gateway | False | 3 | 17:19 13/03/2022 | `jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` |
+| 502 Bad Gateway | False | 3 | 05:12 14/03/2022 | `jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` |
 
 | post | date |
 |---|---|
@@ -83,7 +83,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 19:18 30/03/2022 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| News | True | 3 | 06:11 31/03/2022 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `nbzzb6sa6xuura2z.onion` |
 
 | post | date |
@@ -110,7 +110,7 @@ _parsing : `enabled`_
 | `CENTRAL BAPTIST COLLEGE` | 21/02/2022 |
 | `Royal Smilde` | 21/02/2022 |
 | `Migros` | 16/03/2022 |
-| `FitFlop Ltd.` | 20/03/2022 |
+| `FitFlop Ltd.` | 17/03/2022 |
 | `Oklahoma City Indian Clinic` | 28/03/2022 |
 
 ## lv
@@ -125,7 +125,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LV Blog | True | 3 | 19:18 30/03/2022 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
+| LV Blog | True | 3 | 06:11 31/03/2022 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
 | Start-maximized.com | False | 3 | 13:09 02/12/2021 | `4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
 
 | post | date |
@@ -165,7 +165,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Lorenz | True | 3 | 19:19 30/03/2022 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| Lorenz | True | 3 | 06:12 31/03/2022 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
 
 | post | date |
 |---|---|
@@ -209,17 +209,17 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit BLOG | True | 3 | 19:20 30/03/2022 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+| LockBit BLOG | True | 3 | 06:12 31/03/2022 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
 | LOCKFILE | False | 3 | 19:05 21/11/2021 | `zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` |
-| LockBit BLOG | True | 3 | 19:21 30/03/2022 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
-| LockBit BLOG | True | 3 | 19:21 30/03/2022 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
-| LockBit BLOG | True | 3 | 19:21 30/03/2022 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
-| LockBit BLOG | True | 3 | 19:21 30/03/2022 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
-| LockBit BLOG | True | 3 | 19:22 30/03/2022 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
-| LockBit BLOG | True | 3 | 19:23 30/03/2022 | `oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
-| LockBit BLOG | True | 3 | 19:23 30/03/2022 | `lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
-| Start-maximized.com | False | 0 | 08:30 15/03/2022 | `lockbitapt.uz` |
-| LockBit BLOG | True | 3 | 19:23 30/03/2022 | `lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion` |
+| LockBit BLOG | True | 3 | 06:12 31/03/2022 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
+| LockBit BLOG | True | 3 | 06:13 31/03/2022 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
+| LockBit BLOG | True | 3 | 06:13 31/03/2022 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
+| LockBit BLOG | True | 3 | 06:14 31/03/2022 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
+| LockBit BLOG | True | 3 | 06:14 31/03/2022 | `yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
+| LockBit BLOG | True | 3 | 06:14 31/03/2022 | `oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
+| LockBit BLOG | True | 3 | 06:14 31/03/2022 | `lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
+| Recreation Attendant Job in Williamsburg, VA - Mar | False | 0 | 04:12 21/03/2022 | `lockbitapt.uz` |
+| LockBit BLOG | True | 3 | 06:15 31/03/2022 | `lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion` |
 
 | post | date |
 |---|---|
@@ -785,25 +785,22 @@ _parsing : `enabled`_
 | `fehrs.com` | 25/02/2022 |
 | `giovanard` | 26/02/2022 |
 | `giovana` | 26/02/2022 |
+| `chip` | 26/02/2022 |
 | `ffnm.org` | 27/02/2022 |
 | `cgm` | 27/02/2022 |
-| `s` | 27/02/2022 |
 | `WARNING` | 27/02/2022 |
-| `us.jll.com` | 27/02/2022 |
 | `ugcorp.com` | 27/02/2022 |
+| `us.jll.com` | 27/02/2022 |
 | `richmondmonroe....` | 27/02/2022 |
 | `lakeview.com` | 27/02/2022 |
-| `idline.f` | 28/02/2022 |
 | `jamailsmith.com` | 28/02/2022 |
 | `safed.in` | 28/02/2022 |
+| `ccli` | 28/02/2022 |
 | `e-fmc.com.ar` | 01/03/2022 |
-| `wpdn.n` | 01/03/2022 |
-| `nowi` | 01/03/2022 |
-| `wp` | 02/03/2022 |
-| `anasia.` | 02/03/2022 |
-| `www.haeny.com` | 02/03/2022 |
-| `www.elitecorp.c...` | 02/03/2022 |
+| `wp` | 01/03/2022 |
 | `www.wimmog.ch` | 02/03/2022 |
+| `www.elitecorp.c...` | 02/03/2022 |
+| `www.haeny.com` | 02/03/2022 |
 | `www.tccm.com` | 02/03/2022 |
 | `elitecorp.com` | 02/03/2022 |
 | `haeny.com` | 02/03/2022 |
@@ -811,64 +808,71 @@ _parsing : `enabled`_
 | `tccm.com` | 02/03/2022 |
 | `sapulpaps.org` | 03/03/2022 |
 | `simatelex.com.h...` | 03/03/2022 |
+| `tovogom` | 04/03/2022 |
 | `freedomfarmspa....` | 04/03/2022 |
-| `tel` | 06/03/2022 |
+| `abcp.or` | 05/03/2022 |
+| `luzeirosfortale.` | 07/03/2022 |
 | `brownsville-pub...` | 07/03/2022 |
 | `jrichard-paysag...` | 07/03/2022 |
 | `stanthonys.slou...` | 07/03/2022 |
-| `strix` | 08/03/2022 |
+| `hamm` | 08/03/2022 |
 | `bridgestoneamer...` | 09/03/2022 |
+| `fer` | 10/03/2022 |
 | `bioskin.sg` | 10/03/2022 |
 | `tingtong.com.cn` | 11/03/2022 |
-| `club` | 11/03/2022 |
+| `weber-betonpump..` | 11/03/2022 |
 | `sysmac.com.sg` | 11/03/2022 |
+| `ymcad` | 12/03/2022 |
 | `orientalaromati...` | 12/03/2022 |
 | `cachibi.co` | 12/03/2022 |
 | `etg.digital` | 12/03/2022 |
 | `snteseccion30sa...` | 12/03/2022 |
-| `houstonestat` | 13/03/2022 |
 | `scanvogn.com` | 13/03/2022 |
 | `ikk-group.com` | 13/03/2022 |
-| `danubiushotels....` | 13/03/2022 |
 | `ambujaneotia.co...` | 13/03/2022 |
+| `danubiushotels....` | 13/03/2022 |
 | `etrps.de` | 13/03/2022 |
-| `mtradeasia` | 15/03/2022 |
+| `snteseccion30sa..` | 14/03/2022 |
+| `f` | 15/03/2022 |
+| `mfi` | 15/03/2022 |
 | `medinadairy.co....` | 16/03/2022 |
-| `matteolisrl.it` | 16/03/2022 |
 | `vbsharma.ca` | 16/03/2022 |
-| `https://www.one...` | 16/03/2022 |
-| `taguefamilyprac...` | 16/03/2022 |
+| `matteolisrl.it` | 16/03/2022 |
+| `www.rebuildingt...` | 16/03/2022 |
 | `www.comune.vill...` | 16/03/2022 |
+| `taguefamilyprac...` | 16/03/2022 |
 | `drory.com.cn` | 16/03/2022 |
 | `www.onedoc.ch/f...` | 17/03/2022 |
 | `vvrmc.org  Par...` | 17/03/2022 |
 | `sbctanzania.co....` | 17/03/2022 |
+| `comune.villafra...` | 17/03/2022 |
+| `onedoc.ch/fr/ca...` | 17/03/2022 |
+| `rebuildingtoget...` | 17/03/2022 |
+| `rosslare.com.hk` | 17/03/2022 |
+| `ihg.com` | 17/03/2022 |
+| `lawsdn.com` | 17/03/2022 |
+| `specialinc.com` | 17/03/2022 |
+| `aetnabridge.com` | 17/03/2022 |
+| `hilltopconstruc...` | 17/03/2022 |
+| `finances.gouv.c...` | 17/03/2022 |
+| `montanarisrl.ne...` | 18/03/2022 |
+| `thionvillenola....` | 18/03/2022 |
+| `ifis.com.sg` | 18/03/2022 |
+| `gezairi.com` | 18/03/2022 |
+| `www.centralacci...` | 18/03/2022 |
+| `draftex.de` | 18/03/2022 |
+| `genesis.ky` | 18/03/2022 |
+| `kbkbcpa.com/` | 18/03/2022 |
+| `solvi.com` | 18/03/2022 |
+| `megaproductos.c...` | 18/03/2022 |
+| `centralaccident...` | 18/03/2022 |
+| `kbkbcpa.com` | 18/03/2022 |
+| `dgordonlcswr.co...` | 18/03/2022 |
+| `jewelry.org.hk` | 19/03/2022 |
+| `denro.ca` | 19/03/2022 |
+| `pla-pumpen` | 19/03/2022 |
 | `connectcec.com` | 20/03/2022 |
-| `denro.ca` | 20/03/2022 |
-| `jewelry.org.hk` | 20/03/2022 |
-| `museum-dingolfi...` | 20/03/2022 |
-| `bbst-clp.de` | 20/03/2022 |
-| `besp-oak.com` | 21/03/2022 |
-| `onglesdor.com` | 21/03/2022 |
-| `rh-europe.com` | 21/03/2022 |
-| `ihg.com` | 21/03/2022 |
-| `STUDIO PEREGO S...` | 21/03/2022 |
-| `zabel-group.de` | 21/03/2022 |
-| `chicagosteelgro...` | 21/03/2022 |
-| `tomlinsonelectr...` | 21/03/2022 |
-| `ismea.it` | 21/03/2022 |
-| `megaproductos.c...` | 21/03/2022 |
-| `solvi.com` | 21/03/2022 |
-| `draftex.de` | 21/03/2022 |
-| `genesis.ky` | 21/03/2022 |
-| `centralaccident...` | 21/03/2022 |
-| `kbkbcpa.com` | 21/03/2022 |
-| `dgordonlcswr.co...` | 21/03/2022 |
-| `gezairi.com` | 21/03/2022 |
-| `rosslare.com.hk` | 21/03/2022 |
-| `lawsdn.com` | 21/03/2022 |
-| `specialinc.com` | 21/03/2022 |
-| `aetnabridge.com` | 20/03/2022 |
+| `danubius-exim.r...` | 20/03/2022 |
 | `meritresources` | 20/03/2022 |
 | `museum-dingolfi...` | 20/03/2022 |
 | `bbst-clp.de` | 20/03/2022 |
@@ -881,25 +885,15 @@ _parsing : `enabled`_
 | `tomlinsonelectr...` | 21/03/2022 |
 | `ismea.it` | 21/03/2022 |
 | `sete.co.u` | 21/03/2022 |
-| `hilltopconstruc...` | 21/03/2022 |
-| `finances.gouv.c...` | 22/03/2022 |
-| `montanarisrl.ne...` | 22/03/2022 |
-| `thionvillenola....` | 22/03/2022 |
-| `danubius-exim.r...` | 22/03/2022 |
 | `apec-capital.co...` | 22/03/2022 |
-| `comune.villafra...` | 22/03/2022 |
-| `onedoc.ch/fr/ca...` | 22/03/2022 |
-| `rebuildingtoget...` | 22/03/2022 |
-| `ifis.com.sg` | 22/03/2022 |
 | `ca.daiyafoods.c...` | 22/03/2022 |
 | `edukgroup.com` | 22/03/2022 |
-| `ro` | 23/03/2022 |
 | `lazpiur.com` | 23/03/2022 |
 | `avidoc.fr` | 23/03/2022 |
 | `crich.it` | 23/03/2022 |
 | `confindustriaca...` | 23/03/2022 |
-| `intouchgroup.ne...` | 23/03/2022 |
-| `credenceid.com` | 24/03/2022 |
+| `credenceid.com` | 23/03/2022 |
+| `intouchgroup.ne...` | 24/03/2022 |
 | `redgwick.com` | 24/03/2022 |
 | `ignitarium.com` | 24/03/2022 |
 | `serilization-se...` | 24/03/2022 |
@@ -907,31 +901,34 @@ _parsing : `enabled`_
 | `guazzini.it` | 24/03/2022 |
 | `stt-logistique....` | 24/03/2022 |
 | `onedoc.ch/fr/ce...` | 24/03/2022 |
-| `us` | 24/03/2022 |
-| `universalwindo` | 24/03/2022 |
+| `buffingtonl` | 24/03/2022 |
 | `alaliengineerin...` | 25/03/2022 |
 | `standard-furnit...` | 25/03/2022 |
-| `https://ctigas....` | 25/03/2022 |
-| `centuryaluminum...` | 25/03/2022 |
 | `https://century...` | 25/03/2022 |
 | `ctigas.com` | 25/03/2022 |
-| `mitchellsternla..` | 25/03/2022 |
+| `centuryaluminum...` | 25/03/2022 |
 | `microflex-servi...` | 26/03/2022 |
 | `aquazzura.co` | 26/03/2022 |
 | `aquazzura.` | 26/03/2022 |
+| `comune.g` | 27/03/2022 |
+| `girlguidingl` | 27/03/2022 |
 | `https://pirsonh...` | 27/03/2022 |
 | `pirsonholland.c...` | 27/03/2022 |
-| `zentrum-dreilin...` | 27/03/2022 |
+| `zentrum-dreilin...` | 28/03/2022 |
 | `qarch.nl` | 28/03/2022 |
 | `its.ws` | 28/03/2022 |
+| `bro` | 28/03/2022 |
 | `progettoedilesr...` | 28/03/2022 |
 | `axessa.ch` | 29/03/2022 |
-| `cepi` | 29/03/2022 |
+| `rebuildingt` | 30/03/2022 |
 | `bcad.org` | 30/03/2022 |
-| `ce` | 30/03/2022 |
+| `botswana` | 30/03/2022 |
 | `burlingtonsafet...` | 30/03/2022 |
-| `a` | 30/03/2022 |
+| `papierswhitebi` | 30/03/2022 |
 | `jlmsolicitors.c...` | 30/03/2022 |
+| `grupodeincendio...` | 30/03/2022 |
+| `avcimmedia.com` | 30/03/2022 |
+| `omalleytunstall...` | 31/03/2022 |
 
 ## hiveleak
 
@@ -947,9 +944,9 @@ _`aka hive`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Hive | False | 3 | 17:26 30/03/2022 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
-| Hive | False | 3 | 17:26 30/03/2022 | `hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` |
-| none | False | 3 | 17:26 30/03/2022 | `hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |
+| Hive | True | 3 | 06:15 31/03/2022 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
+| Hive | True | 3 | 06:15 31/03/2022 | `hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` |
+| none | True | 3 | 06:15 31/03/2022 | `hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |
 
 | post | date |
 |---|---|
@@ -1033,21 +1030,21 @@ _`aka hive`_
 | `Steven L. Sugarman & Associates` | 25/02/2022 |
 | `Drake & Scull International PJSC` | 25/02/2022 |
 | `PAN AMERICAN ENERGY S.L. SUCURSAL ARGENTINA` | 04/03/2022 |
+| `NSM Insurance Group` | 18/03/2022 |
 | `Polynt Group` | 22/03/2022 |
-| `NSM Insurance Group` | 22/03/2022 |
-| `UCSI University` | 23/03/2022 |
-| `Centerline Communication Llc` | 23/03/2022 |
-| `Ministry For Foreign Affairs Of The Republic Of Indonesia` | 23/03/2022 |
-| `GomeA` | 23/03/2022 |
-| `Otto Dörner GmbH & Co. KG` | 23/03/2022 |
-| `Dayton T. Brown, Inc` | 23/03/2022 |
-| `Instituto De Gesto Estratégica De Sade Do Distrito Federal` | 23/03/2022 |
+| `Centerline Communication Llc` | 22/03/2022 |
+| `Dayton T. Brown, Inc` | 22/03/2022 |
+| `Centurion Stone` | 22/03/2022 |
+| `Rotoplas` | 22/03/2022 |
+| `School District Of Janesville` | 22/03/2022 |
+| `UCSI University` | 22/03/2022 |
+| `Ministry For Foreign Affairs Of The Republic Of Indonesia` | 22/03/2022 |
+| `GomeA` | 22/03/2022 |
+| `Otto Dörner GmbH & Co. KG` | 22/03/2022 |
 | `Wibag Bau Ag` | 23/03/2022 |
-| `Centurion Stone` | 23/03/2022 |
+| `Instituto De Gesto Estratégica De Sade Do Distrito Federal` | 23/03/2022 |
 | `Asphalion` | 23/03/2022 |
-| `Rotoplas` | 24/03/2022 |
-| `School District Of Janesville` | 24/03/2022 |
-| `Banco Caribe` | 24/03/2022 |
+| `Banco Caribe` | 23/03/2022 |
 | `KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA` | 24/03/2022 |
 | `Passero Associates` | 24/03/2022 |
 | `Pollmann` | 25/03/2022 |
@@ -1064,7 +1061,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Arvin Club – آزادی برای اتصال | True | 3 | 19:24 30/03/2022 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
+| Arvin Club – آزادی برای اتصال | True | 3 | 06:15 31/03/2022 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
 
 | post | date |
 |---|---|
@@ -1105,7 +1102,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| AvosLocker Access Queue | True | 3 | 19:24 30/03/2022 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+| AvosLocker Access Queue | True | 3 | 06:15 31/03/2022 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
 
 | post | date |
 |---|---|
@@ -1146,7 +1143,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Grief list | True | 3 | 19:24 30/03/2022 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
+| Grief list | True | 3 | 06:16 31/03/2022 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
 
 | post | date |
 |---|---|
@@ -1325,8 +1322,8 @@ _`ecdmr42axxx.onion - fileserver`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `4hzyuotli6maqa4u.onion` |
-| Vice Society - Official Site | True | 3 | 19:25 30/03/2022 | `vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
-| there is nothing... | True | 3 | 19:25 30/03/2022 | `ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |
+| Vice Society - Official Site | True | 3 | 06:16 31/03/2022 | `vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
+| there is nothing... | True | 3 | 06:17 31/03/2022 | `ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |
 
 | post | date |
 |---|---|
@@ -1364,16 +1361,16 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Butler County Community College` | 14/01/2022 |
 | `Optionis` | 27/01/2022 |
 | `SENADO Argentina` | 13/03/2022 |
-| `Establishment of the Agency for the Environmental Protection of the Marche Region` | 25/03/2022 |
-| `Griggsville-Perry High School` | 25/03/2022 |
-| `ICEHOTEL` | 25/03/2022 |
-| `OSSEG Obra Social del Seguro` | 28/03/2022 |
+| `Griggsville-Perry High School` | 23/03/2022 |
+| `ICEHOTEL` | 23/03/2022 |
+| `Establishment of the Agency for the Environmental Protection of the Marche Region` | 24/03/2022 |
 | `Jammal Trust Bank` | 28/03/2022 |
+| `OSSEG Obra Social del Seguro` | 28/03/2022 |
 | `Ciments Guyanais` | 29/03/2022 |
 | `ASPIRO` | 29/03/2022 |
 | `APSM Systems` | 29/03/2022 |
-| `Universidade Federal de Sao Paulo` | 29/03/2022 |
-| `OSSEG Obra Social de Seguros` | 29/03/2022 |
+| `Universidade Federal de Sao Paulo` | 01/01/2022 |
+| `OSSEG Obra Social de Seguros` | 01/01/2022 |
 
 ## xinglocker
 
@@ -1441,7 +1438,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
-| Home Page of Ragnar_Locker Leaks site | True | 3 | 19:25 30/03/2022 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| Home Page of Ragnar_Locker Leaks site | True | 3 | 06:17 31/03/2022 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
 
 | post | date |
@@ -1515,7 +1512,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| HOME - CL0P^_- LEAKS | True | 3 | 19:25 30/03/2022 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| 502 Bad Gateway | True | 3 | 06:17 31/03/2022 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 
 | post | date |
 |---|---|
@@ -2210,7 +2207,7 @@ _parsing : `enabled`_
 | `SLIMSTOCK.COM FILES PART25 - 10.30.10.98\D$\ PUBLISHED` | 19/02/2022 |
 | `JCWHITE.COM FILES PART18 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\` | 19/02/2022 |
 | `ENPRECIS.COM FILES PART21 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED` | 01/03/2022 |
-| `SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED` | 02/03/2022 |
+| `SWIRESPO.COM FILES PART23 - 172.16.10.166\H$\Files\SPOSIN\SSD\SFE-SBS\Finance\ PUBLISHED` | 01/03/2022 |
 | `BOLTONUSA.COM FILES PART28 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\` | 02/03/2022 |
 | `DUTTONFIRM.COM FILES PART19 - E\Data\SHARED\Lit\ PUBLISHED` | 02/03/2022 |
 | `EDAN.COM FILES PART23 - 192.168.2.200\D$\ PUBLISHED` | 02/03/2022 |
@@ -2219,10 +2216,10 @@ _parsing : `enabled`_
 | `CAPCARPET.COM FILES PART3 - 10.1.2.5\accounting\ PUBLISHED` | 02/03/2022 |
 | `JBINSTANTLAWN.NET FILES PART3 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED` | 02/03/2022 |
 | `SSMSJUSTICE.COM FILES PART27 - 192.168.1.248\D\SHARES\CLOSED CASES\2020\Kendrick\Case Agai` | 02/03/2022 |
-| `MTMRECOGNITION.COM FILES PART22 - 10.0.1.186\Accounting\ PUBLISHED` | 03/03/2022 |
-| `SLIMSTOCK.COM FILES PART26 - 10.30.11.131\D$\ PUBLISHED` | 03/03/2022 |
-| `JCWHITE.COM FILES PART19 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\` | 03/03/2022 |
-| `ENPRECIS.COM FILES PART22 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED` | 26/03/2022 |
+| `MTMRECOGNITION.COM FILES PART22 - 10.0.1.186\Accounting\ PUBLISHED` | 02/03/2022 |
+| `SLIMSTOCK.COM FILES PART26 - 10.30.11.131\D$\ PUBLISHED` | 02/03/2022 |
+| `JCWHITE.COM FILES PART19 - katie.oliver@jcwhite.com\D Drive Backup\katie.oliver--PROJECTS\` | 02/03/2022 |
+| `ENPRECIS.COM FILES PART22 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED` | 27/03/2022 |
 | `SWIRESPO.COM FILES PART24 - 172.16.10.166\H$\Files\Users\ PUBLISHED` | 27/03/2022 |
 | `BOLTONUSA.COM FILES PART29 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\` | 27/03/2022 |
 | `DUTTONFIRM.COM FILES PART20 - E\Data\SHARED\Lit\ PUBLISHED` | 27/03/2022 |
@@ -2233,9 +2230,9 @@ _parsing : `enabled`_
 | `JBINSTANTLAWN.NET FILES PART4 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED` | 27/03/2022 |
 | `ALTERNATIVETECHS.COM FILES PART1 - C\ PUBLISHED` | 27/03/2022 |
 | `DRC-LAW.COM FILES PART1 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED` | 27/03/2022 |
-| `DRIVEANDSHINE.COM FILES PART1 - D\ PUBLISHED` | 28/03/2022 |
-| `FAIR-RITE.COM FILES PART1 - 172.16.10.6\dbs\ PUBLISHED` | 28/03/2022 |
-| `JDAVIDTAXLAW.COM FILES PART1 - C\Users\ PUBLISHED` | 28/03/2022 |
+| `DRIVEANDSHINE.COM FILES PART1 - D\ PUBLISHED` | 27/03/2022 |
+| `FAIR-RITE.COM FILES PART1 - 172.16.10.6\dbs\ PUBLISHED` | 27/03/2022 |
+| `JDAVIDTAXLAW.COM FILES PART1 - C\Users\ PUBLISHED` | 27/03/2022 |
 | `OAKDELL.COM FILES PART1 - 192.168.1.131, 192.168.10.160, 192.168.1.128 PUBLISHED` | 28/03/2022 |
 | `THENOC.NET FILES PART1 - C\ProgramData\ PUBLISHED` | 28/03/2022 |
 | `SSMSJUSTICE.COM FILES PART28 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\ PUBLISHED` | 28/03/2022 |
@@ -2292,8 +2289,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 404 Not Found | True | 3 | 19:26 30/03/2022 | `dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
-| 404 Not Found | True | 3 | 19:26 30/03/2022 | `aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
+| 404 Not Found | True | 3 | 06:18 31/03/2022 | `dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
+| 404 Not Found | True | 3 | 06:18 31/03/2022 | `aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
 
 | post | date |
 |---|---|
@@ -2334,7 +2331,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Everest ransom team | False | 3 | 16:35 30/03/2022 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+| Everest ransom team | True | 3 | 06:18 31/03/2022 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
 
 | post | date |
 |---|---|
@@ -2398,7 +2395,7 @@ _parsing : `enabled`_
 | `News` | 14/03/2022 |
 | `UK GOV` | 14/03/2022 |
 | `Instituto Nacional de Tecnología Agropecuaria` | 15/03/2022 |
-| `South Africa Electricity company` | 22/03/2022 |
+| `South Africa Electricity company` | 18/03/2022 |
 | `Ministry of Economy and Finance of Peru` | 23/03/2022 |
 
 ## ragnarok
@@ -2437,8 +2434,8 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CONTI.News | True | 3 | 19:27 30/03/2022 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
-| CONTI.News | True | 0 | 19:27 30/03/2022 | `continews.click` |
+| CONTI.News | True | 3 | 06:18 31/03/2022 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
+| CONTI.News | True | 0 | 06:18 31/03/2022 | `continews.click` |
 
 | post | date |
 |---|---|
@@ -2661,21 +2658,21 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `HF Group` | 26/02/2022 |
 | `University of Neuchâtel` | 26/02/2022 |
 | `HOL-MAC Corp.` | 02/03/2022 |
-| `Buhck Gruppe` | 02/03/2022 |
+| `Buhck Gruppe` | 03/03/2022 |
 | `GRUPPO ANGELANTONI` | 03/03/2022 |
 | `Sport Vision` | 03/03/2022 |
 | `Get Fresh Company` | 04/03/2022 |
 | `United McGill Corporation` | 04/03/2022 |
 | `Caledonian` | 04/03/2022 |
+| `Gleason Corporation` | 04/03/2022 |
 | `Prima Power` | 04/03/2022 |
 | `A.J. Rose` | 04/03/2022 |
-| `Gleason Corporation` | 04/03/2022 |
 | `Lifetech Resources` | 04/03/2022 |
 | `Cummins-Wagner` | 06/03/2022 |
 | `Loepthien Maeder Treuhand AG` | 07/03/2022 |
 | `EUROPA GROUP` | 07/03/2022 |
 | `Fujioka Eletro Imagem SA` | 07/03/2022 |
-| `Fuchs North America` | 08/03/2022 |
+| `Fuchs North America` | 07/03/2022 |
 | `Myron Corp.` | 08/03/2022 |
 | `TST Logistics` | 09/03/2022 |
 | `Great HealthWorks` | 09/03/2022 |
@@ -2685,12 +2682,16 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `IMT GROUP` | 17/03/2022 |
 | `Managed Business Solutions` | 17/03/2022 |
 | `AllOffice` | 17/03/2022 |
+| `TIG` | 18/03/2022 |
+| `NORDEX FOOD` | 18/03/2022 |
+| `Talent Logic Inc.` | 18/03/2022 |
+| `BDX` | 19/03/2022 |
+| `bChannels Ltd.` | 19/03/2022 |
+| `Normandeau Associates, Inc.` | 19/03/2022 |
+| `BAUKING` | 19/03/2022 |
+| `PFC USA` | 20/03/2022 |
+| `MJH Life Sciences` | 20/03/2022 |
 | `OCA Global` | 21/03/2022 |
-| `BAUKING` | 22/03/2022 |
-| `NORDEX FOOD` | 22/03/2022 |
-| `Talent Logic Inc.` | 22/03/2022 |
-| `BDX` | 22/03/2022 |
-| `bChannels Ltd.` | 22/03/2022 |
 | `Anac` | 22/03/2022 |
 | `Sanoh America Inc.` | 22/03/2022 |
 | `WELCOME HOTELS` | 23/03/2022 |
@@ -2703,14 +2704,13 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `ONCALL Language Services` | 28/03/2022 |
 | `AB Karl Hedin` | 28/03/2022 |
 | `GRS Group` | 29/03/2022 |
+| `Azimut Benetti Group` | 29/03/2022 |
 | `Royal Brunei Airlines Sdn Bhd` | 29/03/2022 |
 | `Automobil Holding AS` | 29/03/2022 |
 | `Critical Content` | 29/03/2022 |
-| `Azimut Benetti Group` | 29/03/2022 |
 | `ITECOR International SA` | 29/03/2022 |
 | `BANQUE CENTRALE DE TUNISIE` | 30/03/2022 |
-| `TIG` | 30/03/2022 |
-| `Zeeland Farm Services, Inc.` | 30/03/2022 |
+| `Scott Manufacturing, LLC` | 30/03/2022 |
 
 ## pysa
 
@@ -3103,7 +3103,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 19:27 30/03/2022 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| Babuk - Leaks site | True | 3 | 06:18 31/03/2022 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
 
 | post | date |
 |---|---|
@@ -3120,7 +3120,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| RANSOMEXX | True | 3 | 19:27 30/03/2022 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| RANSOMEXX | True | 3 | 06:18 31/03/2022 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
 
 | post | date |
 |---|---|
@@ -3172,7 +3172,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `cuba4mp6ximo2zlo.onion` |
-| Cuba | True | 3 | 19:28 30/03/2022 | `cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
+| Cuba | True | 3 | 06:19 31/03/2022 | `cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
 
 | post | date |
 |---|---|
@@ -3204,8 +3204,8 @@ _parsing : `enabled`_
 | `ids97` | 25/02/2022 |
 | `powertech` | 23/03/2022 |
 | `haltonhills` | 23/03/2022 |
-| `bcintlgroup-com` | 30/03/2022 |
 | `trant-co-uk` | 30/03/2022 |
+| `bcintlgroup-com` | 30/03/2022 |
 
 ## pay2key
 
@@ -3221,7 +3221,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pay2Key Leak Directory! | False | 3 | 21:24 15/03/2022 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
+| Pay2Key Leak Directory! | False | 3 | 21:12 15/03/2022 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
 
 | post | date |
 |---|---|
@@ -3255,7 +3255,7 @@ _`marketplace - not a ransomware group`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockData Auction | True | 3 | 19:28 30/03/2022 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
+| LockData Auction | True | 3 | 06:19 31/03/2022 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
 
 | post | date |
 |---|---|
@@ -3271,7 +3271,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 19:28 30/03/2022 | `bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 06:19 31/03/2022 | `bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
 
 | post | date |
 |---|---|
@@ -3544,7 +3544,8 @@ _parsing : `enabled`_
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion` |
 | BlackByte BLOG | False | 3 | 09:14 30/12/2021 | `f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion` |
-| BlackByte BLOG | False | 3 | 11:28 28/03/2022 | `dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |
+| BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |
+| BlackByte BLOG | True | 3 | 06:20 31/03/2022 | `fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` |
 
 | post | date |
 |---|---|
@@ -3597,6 +3598,11 @@ _parsing : `enabled`_
 | `INVIMA` | 07/03/2022 |
 | `h1{` | 27/03/2022 |
 | `Diamond Pet Foods` | 27/03/2022 |
+| `GEBE` | 30/03/2022 |
+| `Credit Risk Management Canada` | 30/03/2022 |
+| `MZ Architects` | 30/03/2022 |
+| `Autumn Transport` | 30/03/2022 |
+| `London College of Beauty Therapy` | 30/03/2022 |
 
 ## lolnek
 
@@ -3604,7 +3610,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Support | True | 3 | 19:30 30/03/2022 | `mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
+| Support | True | 3 | 06:20 31/03/2022 | `mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
 
 | post | date |
 |---|---|
@@ -3666,7 +3672,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 3 | 15:34 30/03/2022 | `veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` |
+| none | True | 3 | 06:21 31/03/2022 | `veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` |
 
 | post | date |
 |---|---|
@@ -3893,7 +3899,7 @@ _`login page, no posts`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 19:32 30/03/2022 | `gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` |
+| none | True | 3 | 06:22 31/03/2022 | `gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` |
 
 | post | date |
 |---|---|
@@ -4005,7 +4011,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Log in - RAMP | True | 3 | 19:33 30/03/2022 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
+| Log in - RAMP | True | 3 | 06:22 31/03/2022 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |
 
 | post | date |
@@ -4020,7 +4026,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | BLOG | False | 3 | 03:45 13/11/2021 | `54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion` |
-| Error Response Page | False | 0 | 13:41 30/03/2022 | `54bb47h.blog` |
+| Error 404 (Not Found)!!1 | False | 0 | 20:18 24/03/2022 | `54bb47h.blog` |
 
 | post | date |
 |---|---|
@@ -4048,7 +4054,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Quantum Blog | True | 3 | 19:33 30/03/2022 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
+| Quantum Blog | True | 3 | 06:23 31/03/2022 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
 
 | post | date |
 |---|---|
@@ -4094,8 +4100,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 19:33 30/03/2022 | `hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
-| News | False | 0 | 22:34 29/03/2022 | `snatch.press` |
+| News | True | 3 | 06:23 31/03/2022 | `hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
+| News | True | 0 | 06:23 31/03/2022 | `snatch.press` |
 
 | post | date |
 |---|---|
@@ -4141,6 +4147,7 @@ _parsing : `enabled`_
 | `Private company #2` | 03/03/2022 |
 | `Warren Resources` | 08/03/2022 |
 | `Xtera` | 08/03/2022 |
+| `Yip in Tsoi` | 31/03/2022 |
 
 ## midas
 
@@ -4148,7 +4155,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Info | True | 3 | 19:34 30/03/2022 | `midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` |
+| Info | True | 3 | 06:23 31/03/2022 | `midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` |
 
 | post | date |
 |---|---|
@@ -4189,8 +4196,8 @@ _parsing : `enabled`_
 | `SOUTHWARK METAL MANUFACTURING` | 22/02/2022 |
 | `S` | 23/02/2022 |
 | `Grcouceiro` | 15/03/2022 |
+| `1` | 18/03/2022 |
 | `Bigmtransport` | 21/03/2022 |
-| `1` | 22/03/2022 |
 | `NetCompany` | 23/03/2022 |
 
 ## entropy
@@ -4203,7 +4210,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Entropy hall of fall | False | 3 | 08:35 27/02/2022 | `leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` |
+| Entropy hall of fall | False | 3 | 08:16 27/02/2022 | `leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` |
 
 | post | date |
 |---|---|
@@ -4220,7 +4227,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Not found. | True | 0 | 19:34 30/03/2022 | `robinhoodleaks.tumblr.com` |
+| Not found. | True | 0 | 06:23 31/03/2022 | `robinhoodleaks.tumblr.com` |
 
 | post | date |
 |---|---|
@@ -4247,7 +4254,7 @@ _`not a ransomware group`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `mosesstaffm7hptp.onion` |
-| Activities – Moses Staff | True | 0 | 19:34 30/03/2022 | `moses-staff.se` |
+| Activities – Moses Staff | True | 0 | 06:23 31/03/2022 | `moses-staff.se` |
 
 | post | date |
 |---|---|
@@ -4288,7 +4295,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 0 | 00:00 01/05/2021 | `hitleransomware.cf` |
+| Error Response Page | False | 0 | 20:19 27/02/2022 | `hitleransomware.cf` |
 
 | post | date |
 |---|---|
@@ -4337,7 +4344,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 19:35 30/03/2022 | `t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
+| none | True | 3 | 06:24 31/03/2022 | `t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
 
 | post | date |
 |---|---|
@@ -4371,7 +4378,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 3 | 08:44 30/03/2022 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
+| none | True | 3 | 06:28 31/03/2022 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |
 
 | post | date |
@@ -4429,29 +4436,30 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Long Fence  Fence Company Since 1945  longfence.com` | 28/02/2022 |
 | `Waller Lansden Dortch & Davis, LLP` | 01/03/2022 |
 | `Assimoco Group  assimoco.it` | 05/03/2022 |
-| `BAUCENTER      ujhazbudapest.hu` | 06/03/2022 |
+| `BAUCENTER      ujhazbudapest.hu` | 07/03/2022 |
 | `Carpenter & Zuckerman  cz.law` | 08/03/2022 |
 | `inibsa.com  inibsadental.com  inibsa.net` | 12/03/2022 |
 | `inibsa.net` | 14/03/2022 |
 | `Monteleone & McCrory LLP` | 14/03/2022 |
 | `Bullfrog International  bullfrogspas.com` | 16/03/2022 |
+| `M.T.B.` | 17/03/2022 |
+| `Noble Oil  nobleoil.com` | 18/03/2022 |
+| `vri.maniberia.net` | 18/03/2022 |
+| `unapen.internal` | 18/03/2022 |
 | `HAVI Logistic  havilog.com  PART 1` | 21/03/2022 |
 | `Abrams & Bayliss LLP` | 21/03/2022 |
 | `BERITASATUMEDIA.COM` | 21/03/2022 |
+| `inibsa.com  inibsadental.com  inibsa.net 2TB FULL DATA` | 23/03/2022 |
+| `Maintainco Inc.  maintainco.com  starlift.com` | 23/03/2022 |
+| `KELLY,REMMEL&ZIMMERMAN first part` | 23/03/2022 |
 | `LW Group` | 24/03/2022 |
-| `inibsa.com  inibsadental.com  inibsa.net 2TB FULL DATA` | 24/03/2022 |
-| `Maintainco Inc.  maintainco.com  starlift.com` | 24/03/2022 |
-| `KELLY,REMMEL&ZIMMERMAN first part` | 24/03/2022 |
 | `Bradsby Group  bradsbygroup.com` | 24/03/2022 |
 | `Davis Law Group, P.C. - dlgva.com` | 24/03/2022 |
 | `North View Escrow Corp` | 24/03/2022 |
-| `unapen.internal` | 25/03/2022 |
-| `M.T.B.` | 25/03/2022 |
-| `Noble Oil  nobleoil.com` | 25/03/2022 |
 | `VOYAGER DISTRIBUTING COMPANY PTY. LTD.` | 25/03/2022 |
 | `Relationships Australia` | 25/03/2022 |
-| `DC Solutions FR&Switzerland (dcsolution.ch)` | 27/03/2022 |
-| `Rudsak Inc  rudsak.com` | 28/03/2022 |
+| `DC Solutions FR&Switzerland (dcsolution.ch)` | 28/03/2022 |
+| `Rudsak Inc  rudsak.com` | 29/03/2022 |
 
 ## cryp70n1c0d3
 
@@ -4461,7 +4469,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| -*- CRYP70N1C0D3 Team -*- | False | 3 | 05:34 30/03/2022 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
+| -*- CRYP70N1C0D3 Team -*- | False | 3 | 05:25 31/03/2022 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
 
 | post | date |
 |---|---|
@@ -4485,7 +4493,7 @@ _`marketplace - not a ransomware group`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Dread Access Queue | True | 3 | 19:36 30/03/2022 | `dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` |
+| Dread Access Queue | True | 3 | 06:29 31/03/2022 | `dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` |
 
 | post | date |
 |---|---|
@@ -4498,7 +4506,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Threat Actors - Onion Forums  - Internal Error | True | 3 | 19:36 30/03/2022 | `giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
+| Threat Actors - Onion Forums  - Internal Error | True | 3 | 06:29 31/03/2022 | `giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
 
 | post | date |
 |---|---|
@@ -4509,7 +4517,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| HolyGhost | True | 3 | 19:36 30/03/2022 | `matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion` |
+| HolyGhost | True | 3 | 06:29 31/03/2022 | `matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion` |
 
 | post | date |
 |---|---|
@@ -4541,7 +4549,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Ransomware - Control Panel | False | 3 | 19:31 03/03/2022 | `u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` |
+| Ransomware - Control Panel | False | 3 | 18:21 03/03/2022 | `u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` |
 
 | post | date |
 |---|---|
@@ -4556,7 +4564,7 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Admin Locker | True | 3 | 19:36 30/03/2022 | `adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion` |
+| Admin Locker | True | 3 | 06:29 31/03/2022 | `adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion` |
 
 | post | date |
 |---|---|
@@ -4573,7 +4581,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 19:36 30/03/2022 | `chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` |
+| none | True | 3 | 06:29 31/03/2022 | `chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` |
 
 | post | date |
 |---|---|
@@ -4586,7 +4594,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 502 Bad Gateway | True | 3 | 19:36 30/03/2022 | `zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |
+| 502 Bad Gateway | True | 3 | 06:29 31/03/2022 | `zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |
 
 | post | date |
 |---|---|
@@ -4597,7 +4605,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Free Civilian | True | 3 | 19:36 30/03/2022 | `gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` |
+| Free Civilian | True | 3 | 06:29 31/03/2022 | `gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` |
 
 | post | date |
 |---|---|
@@ -4610,7 +4618,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pandora Data Leak | True | 3 | 19:36 30/03/2022 | `vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion` |
+| Pandora Data Leak | True | 3 | 06:29 31/03/2022 | `vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion` |
 | none | False | 0 | 00:00 01/05/2021 | `pandoraxyz.xyz` |
 
 | post | date |
@@ -4619,6 +4627,7 @@ _parsing : `enabled`_
 | `GlobalWafers Japan` | 17/03/2022 |
 | `Jaffe Raitt Heuer &amp; Weiss, P.C.` | 17/03/2022 |
 | `United Cumberland` | 30/03/2022 |
+| `Hearst` | 30/03/2022 |
 
 ## stormous
 
@@ -4626,14 +4635,49 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Stormous-ransomware | True | 3 | 19:37 30/03/2022 | `3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion` |
+| Stormous-ransomware | False | 3 | 21:22 30/03/2022 | `3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion` |
 
 | post | date |
 |---|---|
 | `Company ENOS PROPERTIES` | 22/03/2022 |
 | `Core Design` | 22/03/2022 |
 | `Aurora hacked data` | 22/03/2022 |
-| `3S Standard Sharing Software` | 25/03/2022 |
-| `Satz Kontor GmbH data` | 25/03/2022 |
+| `Satz Kontor GmbH data` | 23/03/2022 |
+| `3S Standard Sharing Software` | 24/03/2022 |
+| `MIGROS` | 28/03/2022 |
 | `Smith Transport company` | 28/03/2022 |
+| `infotech ua` | 31/03/2022 |
+
+## leaktheanalyst
+
+_parsing : `enabled`_
+
+_`not a ransomware group`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| #LeakTheAnalyst | True | 3 | 06:30 31/03/2022 | `leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion` |
+
+| post | date |
+|---|---|
+| `1 Breaking News` | 01/01/2022 |
+| `2 Breaking News` | 01/01/2022 |
+| `3 Breaking News` | 01/01/2022 |
+| `4 Breaking News` | 01/01/2022 |
+| `5 Customer Leak and F5 destroying` | 01/01/2022 |
+| `6 Under Attack` | 01/01/2022 |
+| `7 Absurd Analysis` | 01/01/2022 |
+| `8 Breaking News` | 01/01/2022 |
+| `9 Cuz F5 has caused` | 01/01/2022 |
+| `10 Bearking News` | 01/01/2022 |
+| `11 you're awake!` | 01/01/2022 |
+| `12 Escape from the dark` | 01/01/2022 |
+| `13 We are kids !` | 01/01/2022 |
+| `14 Kids vs. Governments !` | 01/01/2022 |
+| `15 All we know` | 01/01/2022 |
+| `15.1 Supplementary` | 01/01/2022 |
+| `16 Nuclear leak` | 01/01/2022 |
+| `17 "Shoulders! How shocking!" Queen` | 01/01/2022 |
+| `18 Build your own drone` | 29/03/2022 |
+| `19 You Must Never Forget LeakTheAnalyst` | 29/03/2022 |
 
