@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-31 | [`Rettenmeier Holding AG`](https://google.com/search?q=Rettenmeier+Holding+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`Parker Appliance Company`](https://google.com/search?q=Parker+Appliance+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`studiobrazzale....`](https://google.com/search?q=studiobrazzale....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`CASTGROUP.COM.BR`](https://google.com/search?q=CASTGROUP.COM.BR) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-25 | [`ctigas.com`](https://google.com/search?q=ctigas.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-25 | [`https://century...`](https://google.com/search?q=https%3A%2F%2Fcentury...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-25 | [`Pollmann`](https://google.com/search?q=Pollmann) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-03-25 | [`standard-furnit...`](https://google.com/search?q=standard-furnit...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
