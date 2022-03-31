@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-03-31 | [`yachtcharterfle...`](https://google.com/search?q=yachtcharterfle...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`bafokengholding...`](https://google.com/search?q=bafokengholding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`Zeeland Farm Services, Inc.`](https://google.com/search?q=Zeeland+Farm+Services%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`infotech ua`](https://google.com/search?q=infotech+ua) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-24 | [`North View Escrow Corp`](https://google.com/search?q=North+View+Escrow+Corp) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-24 | [`buffingtonl`](https://google.com/search?q=buffingtonl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-24 | [`Davis Law Group, P.C. - dlgva.com`](https://google.com/search?q=Davis+Law+Group%2C+P.C.+-+dlgva.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-24 | [`Passero Associates`](https://google.com/search?q=Passero+Associates) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
