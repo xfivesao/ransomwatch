@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-01 | [`kssente`](https://google.com/search?q=kssente) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`Prima Sole Components Spa`](https://google.com/search?q=Prima+Sole+Components+Spa) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`Rettenmeier Holding AG`](https://google.com/search?q=Rettenmeier+Holding+AG) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`Parker Appliance Company`](https://google.com/search?q=Parker+Appliance+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-25 | [`Relationships Australia`](https://google.com/search?q=Relationships+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-25 | [`VOYAGER DISTRIBUTING COMPANY PTY. LTD.`](https://google.com/search?q=VOYAGER+DISTRIBUTING+COMPANY+PTY.+LTD.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-25 | [`ctigas.com`](https://google.com/search?q=ctigas.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-25 | [`https://century...`](https://google.com/search?q=https%3A%2F%2Fcentury...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
