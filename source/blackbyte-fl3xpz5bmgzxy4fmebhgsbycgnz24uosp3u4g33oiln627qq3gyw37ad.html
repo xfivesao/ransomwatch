@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1648855007" rel="stylesheet">
+    <link href="/blog.css?v=1648859109" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1648855007"></script>
+    <script src="/script.js?v=1648859109"></script>
     <style>
 
 
@@ -529,7 +529,7 @@
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = 2422693;
+            var HAPPYSEC15 = 2418591;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -696,203 +696,6 @@
         
         <script>
 
-            var proof_img_block14 = '<img src="proofs/14/proof.png" alt="" class="proof">';
-
-
-            function ShowProof14(){
-                if(showed14 === 0){
-                    showed14 = 1;
-                    $("#target_14 .proof_block").html(proof_img_block14).slideDown(400);
-                }else{
-                    showed14 = 0;
-                    $("#target_14 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons14(){
-                if(showed_d_buttons14 === 0){
-                    showed_d_buttons14 = 1;
-                    $("#target_14 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons14 = 0;
-                    $("#target_14 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed14 = 0;
-            var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = 2422693;
-            var t_sec14 = HAPPYSEC14;
-
-            var time14;
-            var intervalId14=0;
-
-
-            $(document).ready(function () {
-                $("#target_14 .d_buttons a.btn3").addClass("red_button");
-                intervalId14 = setInterval(function (){
-                    timerDecrement14();
-                }, 1000);
-            });
-
-
-            function timerDecrement14() {
-                time14 = $('#target_14 span.timer');
-
-                if(t_sec14 < 1){
-                    t_sec14 = 0;
-                    newTime = t_sec14 ;
-                }else{
-                    newTime = t_sec14 - 1;
-                }
-
-
-                t_sec14 = newTime;
-
-                var t_min = t_sec14 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec14 % 60)+ '</b> ';
-
-                time14.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC14 > 0 || newTime < 1){
-
-                    time14.html('');
-                    $("#target_14 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_14 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_14 .btn2").addClass("redbg");
-                    $("#target_14 .arrow-8").addClass("r8");
-                    $("#target_14 .perc").html("100%");
-
-                    clearInterval(intervalId14);
-                    GetDownloadLink(14,$("#target_14 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_14').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/14/proof.png" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">London College of Beauty Therapy</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_14" tabindex="-1"  id="target_14" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/14/proof.png" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >Founded by Eileen Cavalier OBE, the London College of Beauty Therapy (LCBT) has been established for over 23 years and is now one of the UK’s largest specialist, further education funded training colleges specialising in Beauty Therapy, Beauty Retail, Hair and Media Makeup, Hairdressing, Advanced Aesthetics, Advanced Epilation and Fitness courses.
-‘Courses for Careers' is at the heart of the LCBT’s mantra, training students through world-class teaching facilities and high quality teaching for sustainable jobs. Over the year LCBT has provided the opportunity for thousands of young people and adults, to obtain the qualifications, skills required and the confidence to embark on a lifetime careers in beauty, make-up, hairdressing and fitness, industries that are ever growing and thriving. LCBT work's closely with leading employers to ensure the courses and curriculum that are taught directly meets the skills and recruitment needs of the industry.                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">105</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('http://www.lcbt.co.uk/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 18 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>+44 20 7208 1300</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons14()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/Tbwc6bR4x0/FinanceTeam_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        509.43MB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
             var proof_img_block13 = '<img src="proofs/13/proof.png" alt="" class="proof">';
 
 
@@ -922,7 +725,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 2336293;
+            var HAPPYSEC13 = 2332191;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -1118,7 +921,7 @@
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 2331793;
+            var HAPPYSEC11 = 2327691;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1318,7 +1121,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 2158993;
+            var HAPPYSEC10 = 2154891;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1525,7 +1328,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -1815407;
+            var HAPPYSEC9 = -1819509;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1732,7 +1535,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -2632607;
+            var HAPPYSEC8 = -2636709;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1947,7 +1750,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -2891807;
+            var HAPPYSEC7 = -2895909;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -2142,7 +1945,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -2891807;
+            var HAPPYSEC6 = -2895909;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -2337,7 +2140,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -2891807;
+            var HAPPYSEC5 = -2895909;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -2532,7 +2335,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -3151007;
+            var HAPPYSEC4 = -3155109;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -2747,7 +2550,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -7989407;
+            var HAPPYSEC3 = -7993509;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -2962,7 +2765,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -7989407;
+            var HAPPYSEC2 = -7993509;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -3187,7 +2990,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -7989407;
+            var HAPPYSEC1 = -7993509;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
@@ -3433,7 +3236,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed0 = 0;
             var showed_d_buttons0 = 0;
-            var HAPPYSEC0 = -7989407;
+            var HAPPYSEC0 = -7993509;
             var t_sec0 = HAPPYSEC0;
 
             var time0;

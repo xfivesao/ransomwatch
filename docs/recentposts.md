@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-02 | [`MANUFAST`](https://google.com/search?q=MANUFAST) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-01 | [`GIBSON HomeWares`](https://google.com/search?q=GIBSON+HomeWares) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-01 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-01 | [`I-SEC International Security`](https://google.com/search?q=I-SEC+International+Security) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-27 | [`BOLTONUSA.COM FILES PART29 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\IAFF\Pension\`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART29+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CIAFF%5CPension%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`SWIRESPO.COM FILES PART24 - 172.16.10.166\H$\Files\Users\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART24+-+172.16.10.166%5CH%24%5CFiles%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`ENPRECIS.COM FILES PART22 - 10.50.32.5\DATA_FILES\AHM\AHM\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART22+-+10.50.32.5%5CDATA_FILES%5CAHM%5CAHM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-26 | [`aquazzura.`](https://google.com/search?q=aquazzura.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
