@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-03 | [`nowiny`](https://google.com/search?q=nowiny) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`oldenburgdeurbe...`](https://google.com/search?q=oldenburgdeurbe...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`centralban`](https://google.com/search?q=centralban) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`greenexperts.co...`](https://google.com/search?q=greenexperts.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-27 | [`h1{`](https://google.com/search?q=h1%7B) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-27 | [`https://pirsonh...`](https://google.com/search?q=https%3A%2F%2Fpirsonh...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`JDAVIDTAXLAW.COM FILES PART1 - C\Users\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART1+-+C%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-27 | [`FAIR-RITE.COM FILES PART1 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART1+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
