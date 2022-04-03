@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-03 | [`greenexperts.co...`](https://google.com/search?q=greenexperts.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`eksltd.com`](https://google.com/search?q=eksltd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`fec-corp.com`](https://google.com/search?q=fec-corp.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`bazzisrl.it`](https://google.com/search?q=bazzisrl.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-27 | [`FAIR-RITE.COM FILES PART1 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART1+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`DRIVEANDSHINE.COM FILES PART1 - D\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART1+-+D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-27 | [`girlguidingl`](https://google.com/search?q=girlguidingl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-27 | [`comune.g`](https://google.com/search?q=comune.g) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
