@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-03 | [`SLH`](https://google.com/search?q=SLH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-03 | [`Frey and Winkler GmbH`](https://google.com/search?q=Frey+and+Winkler+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-03 | [`CAPCARPET.COM FILES PART5 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART5+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-03 | [`ALEXIM.COM FILES PART5 - 192.168.3.5\Mail\djimenez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART5+-+192.168.3.5%5CMail%5Cdjimenez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`UNITEK Contracting Group`](https://google.com/search?q=UNITEK+Contracting+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`THENOC.NET FILES PART1 - C\ProgramData\ PUBLISHED`](https://google.com/search?q=THENOC.NET+FILES+PART1+-+C%5CProgramData%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`OAKDELL.COM FILES PART1 - 192.168.1.131, 192.168.10.160, 192.168.1.128 PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART1+-+192.168.1.131%2C+192.168.10.160%2C+192.168.1.128+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-03-28 | [`Oklahoma City Indian Clinic`](https://google.com/search?q=Oklahoma+City+Indian+Clinic) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
