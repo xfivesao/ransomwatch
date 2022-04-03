@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-03 | [`EDAN.COM FILES PART25 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART25+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-03 | [`wiegaarden.dk`](https://google.com/search?q=wiegaarden.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`remar.com.ec`](https://google.com/search?q=remar.com.ec) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`nowiny`](https://google.com/search?q=nowiny) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`zentrum-dreilin...`](https://google.com/search?q=zentrum-dreilin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`pirsonholland.c...`](https://google.com/search?q=pirsonholland.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-27 | [`Diamond Pet Foods`](https://google.com/search?q=Diamond+Pet+Foods) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-03-27 | [`h1{`](https://google.com/search?q=h1%7B) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
