@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-04 | [`FAIR-RITE.COM FILES PART2 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART2+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`A message to France`](https://google.com/search?q=A+message+to+France) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-04 | [`westminster.de`](https://google.com/search?q=westminster.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`sep2.com`](https://google.com/search?q=sep2.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`Smith Transport company`](https://google.com/search?q=Smith+Transport+company) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-03-28 | [`OSSEG Obra Social del Seguro`](https://google.com/search?q=OSSEG+Obra+Social+del+Seguro) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-28 | [`Allied Eagle Supply`](https://google.com/search?q=Allied+Eagle+Supply) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-28 | [`SLIMSTOCK.COM FILES PART27 - 10.30.15.34, 10.30.1.130 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART27+-+10.30.15.34%2C+10.30.1.130+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
