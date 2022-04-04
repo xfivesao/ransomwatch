@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-04 | [`noll-law.com`](https://google.com/search?q=noll-law.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`gva-atencia.es`](https://google.com/search?q=gva-atencia.es) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`ascotlloyd.co.u...`](https://google.com/search?q=ascotlloyd.co.u...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`a-r-s.com`](https://google.com/search?q=a-r-s.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`SA1SOLUTIONS.COM  FILES FILES PART1 - 192.168.10.36, 192.168.10.53 192.168.10.145, 192.168`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+FILES+PART1+-+192.168.10.36%2C+192.168.10.53+192.168.10.145%2C+192.168) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-03-28 | [`progettoedilesr...`](https://google.com/search?q=progettoedilesr...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-28 | [`bro`](https://google.com/search?q=bro) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-28 | [`ZISSERFAMILYLAW.COM FILES PART1 - 192.168.145.167 PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART1+-+192.168.145.167+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
