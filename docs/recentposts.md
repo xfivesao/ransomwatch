@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-04 | [`JDAVIDTAXLAW.COM FILES PART2 - D\Shares\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART2+-+D%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`Woningcorporatie ZAYAZ`](https://google.com/search?q=Woningcorporatie+ZAYAZ) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-04 | [`FAIR-RITE.COM FILES PART2 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART2+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`A message to France`](https://google.com/search?q=A+message+to+France) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`ONCALL Language Services`](https://google.com/search?q=ONCALL+Language+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`Neschen Coating GmbH`](https://google.com/search?q=Neschen+Coating+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-28 | [`Smith Transport company`](https://google.com/search?q=Smith+Transport+company) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-03-28 | [`OSSEG Obra Social del Seguro`](https://google.com/search?q=OSSEG+Obra+Social+del+Seguro) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
