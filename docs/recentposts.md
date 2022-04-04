@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-04 | [`n`](https://google.com/search?q=n) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`DRIVEANDSHINE.COM FILES PART2 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART2+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`DRC-LAW.COM FILES PART2 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART2+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`ALTERNATIVETECHS.COM FILES PART2 - C\ProgramData\test\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART2+-+C%5CProgramData%5Ctest%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-28 | [`its.ws`](https://google.com/search?q=its.ws) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-28 | [`Jammal Trust Bank`](https://google.com/search?q=Jammal+Trust+Bank) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-28 | [`MIGROS`](https://google.com/search?q=MIGROS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-03-28 | [`MTMRECOGNITION.COM FILES PART23 - 10.0.12.140, 10.0.6.2 PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART23+-+10.0.12.140%2C+10.0.6.2+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
