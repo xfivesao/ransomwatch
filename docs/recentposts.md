@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-05 | [`ZISSERFAMILYLAW.COM FILES PART2 - 192.168.145.151, 192.168.145.160, 192.168.145.178, С, F `](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART2+-+192.168.145.151%2C+192.168.145.160%2C+192.168.145.178%2C+%D0%A1%2C+F+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-05 | [`MTMRECOGNITION.COM FILES PART24 - 10.0.12.137 PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART24+-+10.0.12.137+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-05 | [`SSMSJUSTICE.COM FILES PART29 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\Yanez\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART29+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5CYanez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-05 | [`THENOC.NET FILES PART2 - C\Users\ PUBLISHED`](https://google.com/search?q=THENOC.NET+FILES+PART2+-+C%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-29 | [`axessa.ch`](https://google.com/search?q=axessa.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`ASPIRO`](https://google.com/search?q=ASPIRO) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-03-29 | [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-03-29 | [`Rudsak Inc - rudsak.com`](https://google.com/search?q=Rudsak+Inc+-+rudsak.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
