@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-05 | [`Sonae`](https://google.com/search?q=Sonae) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-04-05 | [`panasonic`](https://google.com/search?q=panasonic) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-04-05 | [`scoular.com`](https://google.com/search?q=scoular.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`Woningcorporatie ZAYAZ`](https://google.com/search?q=Woningcorporatie+ZAYAZ) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-18 | [`unapen.internal`](https://google.com/search?q=unapen.internal) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-03-18 | [`NSM Insurance Group`](https://google.com/search?q=NSM+Insurance+Group) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-18 | [`vri.maniberia.net`](https://google.com/search?q=vri.maniberia.net) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
-| 2022-03-18 | [`1`](https://google.com/search?q=1) | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) |
