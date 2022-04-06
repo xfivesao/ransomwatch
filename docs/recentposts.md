@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-06 | [`rnrinc.com`](https://google.com/search?q=rnrinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`www.wania.at`](https://google.com/search?q=www.wania.at) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`www.rnrinc.com`](https://google.com/search?q=www.rnrinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`vgoc.ca`](https://google.com/search?q=vgoc.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-30 | [`rebuildingt`](https://google.com/search?q=rebuildingt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-29 | [`PHC`](https://google.com/search?q=PHC) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-03-29 | [`Stago`](https://google.com/search?q=Stago) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-03-29 | [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
