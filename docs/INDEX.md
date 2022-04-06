@@ -36,7 +36,7 @@
 | [xinglocker](https://rwtracker.level-4.net/docs/#/profiles?id=xinglocker) | 星Team News | 🔴 | 2022-01-24 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | [darkside](https://rwtracker.level-4.net/docs/#/profiles?id=darkside) |  | 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | rgleak7op734elep.onion |
-| [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
+| [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🔴 | 2022-04-06 | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
 | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
@@ -100,7 +100,7 @@
 | [xinof](https://rwtracker.level-4.net/docs/#/profiles?id=xinof) |  | 🔴 | 2021-05-01 | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
 | [spook](https://rwtracker.level-4.net/docs/#/profiles?id=spook) | Spook | 🔴 | 2021-10-26 | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
-| [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) | Log in - RAMP | 🟢 |  | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
+| [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) | Log in - RAMP | 🔴 | 2022-04-06 | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
 | [RAMP](https://rwtracker.level-4.net/docs/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | BLOG | 🔴 | 2021-11-13 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) | Error 404 (Not Found)!!1 | 🔴 | 2022-03-24 | 54bb47h.blog |
@@ -108,7 +108,7 @@
 | [medusa](https://rwtracker.level-4.net/docs/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | snatch.press |
-| [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) | Info | 🟢 |  | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
+| [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) | Info | 🔴 | 2022-04-06 | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://rwtracker.level-4.net/docs/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
 | [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
