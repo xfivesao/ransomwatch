@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-06 | [`vgoc.ca`](https://google.com/search?q=vgoc.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`http://www.toot...`](https://google.com/search?q=http%3A%2F%2Fwww.toot...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`allcountysurvey...`](https://google.com/search?q=allcountysurvey...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`gordoncounty.or...`](https://google.com/search?q=gordoncounty.or...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-29 | [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`Critical Content`](https://google.com/search?q=Critical+Content) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-29 | [`Automobil Holding AS`](https://google.com/search?q=Automobil+Holding+AS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-29 | [`Royal Brunei Airlines Sdn Bhd`](https://google.com/search?q=Royal+Brunei+Airlines+Sdn+Bhd) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
