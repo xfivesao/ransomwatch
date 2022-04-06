@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-06 | [`vgoc.ca`](https://google.com/search?q=vgoc.ca) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`http://www.toot...`](https://google.com/search?q=http%3A%2F%2Fwww.toot...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`allcountysurvey...`](https://google.com/search?q=allcountysurvey...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`gordoncounty.or...`](https://google.com/search?q=gordoncounty.or...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-19 | [`bChannels Ltd.`](https://google.com/search?q=bChannels+Ltd.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-19 | [`BDX`](https://google.com/search?q=BDX) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-18 | [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-03-18 | [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
