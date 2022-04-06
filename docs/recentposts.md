@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-06 | [`Keicorp(ICPM)`](https://google.com/search?q=Keicorp%28ICPM%29) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-06 | [`wania.at`](https://google.com/search?q=wania.at) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`toothbuds.com`](https://google.com/search?q=toothbuds.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`rnrinc.com`](https://google.com/search?q=rnrinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-30 | [`bcad.org`](https://google.com/search?q=bcad.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-30 | [`trant-co-uk`](https://google.com/search?q=trant-co-uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-03-30 | [`BANQUE CENTRALE DE TUNISIE`](https://google.com/search?q=BANQUE+CENTRALE+DE+TUNISIE) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-03-30 | [`rebuildingt`](https://google.com/search?q=rebuildingt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
