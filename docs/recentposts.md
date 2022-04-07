@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-07 | [`feuerschutzbock...`](https://google.com/search?q=feuerschutzbock...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`get-entkernung....`](https://google.com/search?q=get-entkernung....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`FCCH`](https://google.com/search?q=FCCH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-06 | [`Barwick Bathroom Distribution LLP`](https://google.com/search?q=Barwick+Bathroom+Distribution+LLP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-30 | [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`GEBE`](https://google.com/search?q=GEBE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`papierswhitebi`](https://google.com/search?q=papierswhitebi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-30 | [`burlingtonsafet...`](https://google.com/search?q=burlingtonsafet...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
