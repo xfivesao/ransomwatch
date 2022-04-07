@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-07 | [`Jiangsu Kaili Carpet Co., Ltd.`](https://google.com/search?q=Jiangsu+Kaili+Carpet+Co.%2C+Ltd.) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-04-07 | [`unholz.ch`](https://google.com/search?q=unholz.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`feuerschutzbock...`](https://google.com/search?q=feuerschutzbock...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`get-entkernung....`](https://google.com/search?q=get-entkernung....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-30 | [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`MZ Architects`](https://google.com/search?q=MZ+Architects) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-03-30 | [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-03-30 | [`GEBE`](https://google.com/search?q=GEBE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
