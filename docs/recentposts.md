@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-08 | [`metagenics`](https://google.com/search?q=metagenics) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-07 | [`tnt`](https://google.com/search?q=tnt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`SUPREME SERVICES`](https://google.com/search?q=SUPREME+SERVICES) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-04-07 | [`Jiangsu Kaili Carpet Co., Ltd.`](https://google.com/search?q=Jiangsu+Kaili+Carpet+Co.%2C+Ltd.) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-30 | [`Hearst`](https://google.com/search?q=Hearst) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-30 | [`United Cumberland`](https://google.com/search?q=United+Cumberland) | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |
 | 2022-03-30 | [`London College of Beauty Therapy`](https://google.com/search?q=London+College+of+Beauty+Therapy) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-03-30 | [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
