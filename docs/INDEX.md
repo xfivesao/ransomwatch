@@ -93,7 +93,7 @@
 | [nemty](https://rwtracker.level-4.net/docs/#/profiles?id=nemty) |  | 🔴 | 2021-05-01 | zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |
 | [onepercent](https://rwtracker.level-4.net/docs/#/profiles?id=onepercent) |  | 🔴 | 2021-05-01 | 5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |
 | [prolock](https://rwtracker.level-4.net/docs/#/profiles?id=prolock) |  | 🔴 | 2021-05-01 | msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |
-| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🟢 |  | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
+| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🔴 | 2022-04-08 | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
 | [ranzy](https://rwtracker.level-4.net/docs/#/profiles?id=ranzy) |  | 🔴 | 2021-05-01 | 37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
@@ -135,5 +135,5 @@
 | [freecivilian](https://rwtracker.level-4.net/docs/#/profiles?id=freecivilian) | Free Civilian | 🟢 |  | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://rwtracker.level-4.net/docs/#/profiles?id=pandora) | Pandora Data Leak | 🟢 |  | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://rwtracker.level-4.net/docs/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
-| [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) | Stormous-ransomware | 🔴 | 2022-04-08 | 3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion |
+| [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) | Stormous-ransomware | 🟢 |  | 3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion |
 | [leaktheanalyst](https://rwtracker.level-4.net/docs/#/profiles?id=leaktheanalyst) | #LeakTheAnalyst | 🟢 |  | leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion |
