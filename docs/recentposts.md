@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-09 | [`anasia.co`](https://google.com/search?q=anasia.co) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-09 | [`ch1`](https://google.com/search?q=ch1) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-08 | [`Wocklum Group`](https://google.com/search?q=Wocklum+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-08 | [`ardeche.fr`](https://google.com/search?q=ardeche.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-31 | [`Yip in Tsoi`](https://google.com/search?q=Yip+in+Tsoi) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-03-31 | [`omalleytunstall...`](https://google.com/search?q=omalleytunstall...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-30 | [`avcimmedia.com`](https://google.com/search?q=avcimmedia.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-30 | [`grupodeincendio...`](https://google.com/search?q=grupodeincendio...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
