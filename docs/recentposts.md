@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-10 | [`DRC-LAW.COM FILES PART3 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART3+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ORBITELECTRIC.COM FILES PART1 - 192.168.10.102, 192.168.10.114, 192.168.10.192 PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART1+-+192.168.10.102%2C+192.168.10.114%2C+192.168.10.192+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`AFJCONSULTING.NET FILES PART1 - E\data\users\Adam\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART1+-+E%5Cdata%5Cusers%5CAdam%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ALTERNATIVETECHS.COM FILES PART3 - C\Shares\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART3+-+C%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-02 | [`Ackerman Plumbing`](https://google.com/search?q=Ackerman+Plumbing) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-02 | [`ledesma.com.ar`](https://google.com/search?q=ledesma.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-02 | [`FlipChip`](https://google.com/search?q=FlipChip) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-02 | [`liceu.barcelona`](https://google.com/search?q=liceu.barcelona) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |

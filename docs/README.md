@@ -2,17 +2,17 @@
 ## summary
 _april 10th, 2022_
 
-currently tracking `95` groups across `135` relays & mirrors - _`49` currently online_
+currently tracking `95` groups across `135` relays & mirrors - _`47` currently online_
 
 ⏲ there have been `20` posts within the `last 24 hours`
 
-🦈 there have been `117` posts within the `month of april`
+🦈 there have been `118` posts within the `month of april`
 
-🪐 there have been `922` posts within the `last 90 days`
+🪐 there have been `923` posts within the `last 90 days`
 
-🏚 there have been `1038` posts within the `year of 2022`
+🏚 there have been `1039` posts within the `year of 2022`
 
-🦕 there have been `3324` posts `since the dawn of ransomwatch`
+🦕 there have been `3325` posts `since the dawn of ransomwatch`
 
 there are `47` custom parsers indexing posts
 
