@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-10 | [`www.farmaciasta...`](https://google.com/search?q=www.farmaciasta...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`spirit-ord.com`](https://google.com/search?q=spirit-ord.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`l`](https://google.com/search?q=l) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`sadeco.fr`](https://google.com/search?q=sadeco.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-31 | [`Parker Appliance Company`](https://google.com/search?q=Parker+Appliance+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-03-31 | [`studiobrazzale....`](https://google.com/search?q=studiobrazzale....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`CASTGROUP.COM.BR`](https://google.com/search?q=CASTGROUP.COM.BR) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-03-31 | [`keypoint.com`](https://google.com/search?q=keypoint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
