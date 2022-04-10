@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-10 | [`l`](https://google.com/search?q=l) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`sadeco.fr`](https://google.com/search?q=sadeco.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`https://groupem...`](https://google.com/search?q=https%3A%2F%2Fgroupem...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-09 | [`clinique.cob-os...`](https://google.com/search?q=clinique.cob-os...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-03-31 | [`CASTGROUP.COM.BR`](https://google.com/search?q=CASTGROUP.COM.BR) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-03-31 | [`keypoint.com`](https://google.com/search?q=keypoint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`yachtcharterfle...`](https://google.com/search?q=yachtcharterfle...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-03-31 | [`bafokengholding...`](https://google.com/search?q=bafokengholding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
