@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-10 | [`farmaciastatuto...`](https://google.com/search?q=farmaciastatuto...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`JBINSTANTLAWN.NET FILES PART6 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART6+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`lerros.com`](https://google.com/search?q=lerros.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-01 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-01 | [`I-SEC International Security`](https://google.com/search?q=I-SEC+International+Security) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-01 | [`https://liceu.b...`](https://google.com/search?q=https%3A%2F%2Fliceu.b...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-01 | [`Dober`](https://google.com/search?q=Dober) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
