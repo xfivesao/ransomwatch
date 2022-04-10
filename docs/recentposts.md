@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-10 | [`lerros.com`](https://google.com/search?q=lerros.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-10 | [`CAPCARPET.COM FILES PART6 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART6+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ALEXIM.COM FILES PART6 - 192.168.3.5\Mail\djimenez\28-06\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART6+-+192.168.3.5%5CMail%5Cdjimenez%5C28-06%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-01 | [`https://liceu.b...`](https://google.com/search?q=https%3A%2F%2Fliceu.b...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-01 | [`Dober`](https://google.com/search?q=Dober) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-01 | [`SSW Consulting`](https://google.com/search?q=SSW+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-01 | [`Lowell`](https://google.com/search?q=Lowell) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
