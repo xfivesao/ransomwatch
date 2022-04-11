@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-11 | [`azcomputerlabs....`](https://google.com/search?q=azcomputerlabs....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`SLIMSTOCK.COM FILES PART29 - 10.31.1.131 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART29+-+10.31.1.131+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`SA1SOLUTIONS.COM FILES PART3 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\ PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM+FILES+PART3+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`CAE Services`](https://google.com/search?q=CAE+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-03 | [`EDAN.COM FILES PART25 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART25+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-03 | [`wiegaarden.dk`](https://google.com/search?q=wiegaarden.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`remar.com.ec`](https://google.com/search?q=remar.com.ec) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-03 | [`nowiny`](https://google.com/search?q=nowiny) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
