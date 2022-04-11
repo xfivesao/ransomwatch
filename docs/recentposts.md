@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-11 | [`Advizrs`](https://google.com/search?q=Advizrs) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-04-11 | [`azcomputerlabs....`](https://google.com/search?q=azcomputerlabs....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`SA1SOLUTIONS.COM FILES PART3 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\ PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM+FILES+PART3+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5C+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-04-11 | [`CAE Services`](https://google.com/search?q=CAE+Services) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-23 | [`confindustriaca...`](https://google.com/search?q=confindustriaca...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`crich.it`](https://google.com/search?q=crich.it) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-23 | [`Instituto De Gesto Estratégica De Sade Do Distrito Federal`](https://google.com/search?q=Instituto+De+Gesto+Estrat%C3%A9gica+De+Sade+Do+Distrito+Federal) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
-| 2022-03-23 | [`Wibag Bau Ag`](https://google.com/search?q=Wibag+Bau+Ag) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
