@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-11 | [`ZISSERFAMILYLAW.COM FILES PART3 - D\Shares\BEACHESDATA\Business Office\Degnan, Jim\STI 201`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART3+-+D%5CShares%5CBEACHESDATA%5CBusiness+Office%5CDegnan%2C+Jim%5CSTI+201) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`SSMSJUSTICE.COM FILES PART30 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\Yanez\ PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART30+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5CYanez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`tokyo-plant.co....`](https://google.com/search?q=tokyo-plant.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`ruthtaubman.com`](https://google.com/search?q=ruthtaubman.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-03 | [`oldenburgdeurbe...`](https://google.com/search?q=oldenburgdeurbe...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`centralban`](https://google.com/search?q=centralban) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-03 | [`greenexperts.co...`](https://google.com/search?q=greenexperts.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-03 | [`eksltd.com`](https://google.com/search?q=eksltd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
