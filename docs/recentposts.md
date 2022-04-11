@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-11 | [`Newlat Food SPA`](https://google.com/search?q=Newlat+Food+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-11 | [`Wolfe Industrial`](https://google.com/search?q=Wolfe+Industrial) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-11 | [`Advizrs`](https://google.com/search?q=Advizrs) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-11 | [`azcomputerlabs....`](https://google.com/search?q=azcomputerlabs....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-03 | [`CAPCARPET.COM FILES PART5 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART5+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-03 | [`ALEXIM.COM FILES PART5 - 192.168.3.5\Mail\djimenez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART5+-+192.168.3.5%5CMail%5Cdjimenez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-03 | [`MCH-GROUP.COM FILES PART26 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART26+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-03 | [`EDAN.COM FILES PART25 - 192.168.2.200\D$\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART25+-+192.168.2.200%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
