@@ -13,6 +13,7 @@ _last `100` posts_
 | 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-12 | [`DeeZee`](https://google.com/search?q=DeeZee) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-12 | [`tavistock`](https://google.com/search?q=tavistock) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-12 | [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`DC ADVISORY`](https://google.com/search?q=DC+ADVISORY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-04 | [`JDAVIDTAXLAW.COM FILES PART2 - D\Shares\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART2+-+D%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`Woningcorporatie ZAYAZ`](https://google.com/search?q=Woningcorporatie+ZAYAZ) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-04 | [`FAIR-RITE.COM FILES PART2 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART2+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-04 | [`A message to France`](https://google.com/search?q=A+message+to+France) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
