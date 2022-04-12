@@ -12,6 +12,7 @@ _last `100` posts_
 | 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-12 | [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`DC ADVISORY`](https://google.com/search?q=DC+ADVISORY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`Florida International University (www.fiu.edu)`](https://google.com/search?q=Florida+International+University+%28www.fiu.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`tgs.com.ar`](https://google.com/search?q=tgs.com.ar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-04 | [`A message to France`](https://google.com/search?q=A+message+to+France) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-04 | [`westminster.de`](https://google.com/search?q=westminster.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`sep2.com`](https://google.com/search?q=sep2.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-04 | [`noll-law.com`](https://google.com/search?q=noll-law.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
