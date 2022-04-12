@@ -4,6 +4,14 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-12 | [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-12 | [`National Rehabilitation Training Center`](https://google.com/search?q=National+Rehabilitation+Training+Center) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-12 | [`ALAM LMS`](https://google.com/search?q=ALAM+LMS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-12 | [`Delhi Heights School`](https://google.com/search?q=Delhi+Heights+School) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-12 | [`Success Neeti`](https://google.com/search?q=Success+Neeti) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-11 | [`Broadleaf`](https://google.com/search?q=Broadleaf) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-11 | [`lee-associate`](https://google.com/search?q=lee-associate) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`Newlat Food SPA`](https://google.com/search?q=Newlat+Food+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -96,11 +104,3 @@ _last `100` posts_
 | 2022-04-04 | [`ascotlloyd.co.u...`](https://google.com/search?q=ascotlloyd.co.u...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`a-r-s.com`](https://google.com/search?q=a-r-s.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-04 | [`n`](https://google.com/search?q=n) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-04 | [`DRIVEANDSHINE.COM FILES PART2 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART2+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-04 | [`DRC-LAW.COM FILES PART2 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART2+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-04 | [`ALTERNATIVETECHS.COM FILES PART2 - C\ProgramData\test\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART2+-+C%5CProgramData%5Ctest%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-04 | [`JBINSTANTLAWN.NET FILES PART5 - JB-SERVER\D$\ServerFolders\Company\Accounting\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART5+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-04 | [`TRUSTFORD`](https://google.com/search?q=TRUSTFORD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-03 | [`SLH`](https://google.com/search?q=SLH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-03 | [`Frey and Winkler GmbH`](https://google.com/search?q=Frey+and+Winkler+GmbH) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-03 | [`CAPCARPET.COM FILES PART5 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART5+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
