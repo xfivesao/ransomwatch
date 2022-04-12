@@ -5,6 +5,7 @@ _last `100` posts_
 | date | title | group |
 |---|---|---|
 | 2022-04-12 | [`bet9ja.com - goldbet.it`](https://google.com/search?q=bet9ja.com+-+goldbet.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-04-12 | [`breadtalk.com`](https://google.com/search?q=breadtalk.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-12 | [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-12 | [`National Rehabilitation Training Center`](https://google.com/search?q=National+Rehabilitation+Training+Center) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-12 | [`ALAM LMS`](https://google.com/search?q=ALAM+LMS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-05 | [`OAKDELL.COM FILES PART2 - 192.168.100.130\C$\Users\rwoodward\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART2+-+192.168.100.130%5CC%24%5CUsers%5Crwoodward%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`JDAVIDTAXLAW.COM FILES PART2 - D\Shares\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART2+-+D%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-04 | [`Woningcorporatie ZAYAZ`](https://google.com/search?q=Woningcorporatie+ZAYAZ) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-04 | [`FAIR-RITE.COM FILES PART2 - 172.16.10.6\dbs\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART2+-+172.16.10.6%5Cdbs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
