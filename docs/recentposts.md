@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-13 | [`Simply Placed`](https://google.com/search?q=Simply+Placed) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-13 | [`get-greenenergy...`](https://google.com/search?q=get-greenenergy...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`northstari`](https://google.com/search?q=northstari) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-12 | [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-05 | [`SA1SOLUTIONS.COM  FILES PART2 - 192.168.10.181, 192.168.10.124 PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART2+-+192.168.10.181%2C+192.168.10.124+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-05 | [`ferrolabella`](https://google.com/search?q=ferrolabella) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-05 | [`ZISSERFAMILYLAW.COM FILES PART2 - 192.168.145.151, 192.168.145.160, 192.168.145.178, С, F `](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART2+-+192.168.145.151%2C+192.168.145.160%2C+192.168.145.178%2C+%D0%A1%2C+F+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-05 | [`MTMRECOGNITION.COM FILES PART24 - 10.0.12.137 PUBLISHED`](https://google.com/search?q=MTMRECOGNITION.COM+FILES+PART24+-+10.0.12.137+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
