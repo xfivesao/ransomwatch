@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-13 | [`Simply Placed`](https://google.com/search?q=Simply+Placed) | [lorenz](https://rwtracker.level-4.net/docs/#/profiles?id=lorenz) |
 | 2022-04-13 | [`get-greenenergy...`](https://google.com/search?q=get-greenenergy...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) |
 | 2022-04-12 | [`TIC International Corporation`](https://google.com/search?q=TIC+International+Corporation) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-24 | [`KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=KONECTA+SERVICIOS+ADMINISTRATIVOS+Y+TECNOLOGICOS+S.L.+SUCURSAL+ARGENTINA) | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |
 | 2022-03-24 | [`3S Standard Sharing Software`](https://google.com/search?q=3S+Standard+Sharing+Software) | [stormous](https://rwtracker.level-4.net/docs/#/profiles?id=stormous) |
 | 2022-03-24 | [`Establishment of the Agency for the Environmental Protection of the Marche Region`](https://google.com/search?q=Establishment+of+the+Agency+for+the+Environmental+Protection+of+the+Marche+Region) | [vicesociety](https://rwtracker.level-4.net/docs/#/profiles?id=vicesociety) |
-| 2022-03-24 | [`Bradsby Group - bradsbygroup.com`](https://google.com/search?q=Bradsby+Group+-+bradsbygroup.com) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |

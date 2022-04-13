@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1649860599" rel="stylesheet">
+    <link href="/blog.css?v=1649863925" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1649860599"></script>
+    <script src="/script.js?v=1649863925"></script>
     <style>
 
 
@@ -500,202 +500,6 @@
 
         <script>
 
-            var proof_img_block15 = '<img src="proofs/15/proof.png" alt="" class="proof">';
-
-
-            function ShowProof15(){
-                if(showed15 === 0){
-                    showed15 = 1;
-                    $("#target_15 .proof_block").html(proof_img_block15).slideDown(400);
-                }else{
-                    showed15 = 0;
-                    $("#target_15 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons15(){
-                if(showed_d_buttons15 === 0){
-                    showed_d_buttons15 = 1;
-                    $("#target_15 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons15 = 0;
-                    $("#target_15 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed15 = 0;
-            var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = 1417101;
-            var t_sec15 = HAPPYSEC15;
-
-            var time15;
-            var intervalId15=0;
-
-
-            $(document).ready(function () {
-                $("#target_15 .d_buttons a.btn3").addClass("red_button");
-                intervalId15 = setInterval(function (){
-                    timerDecrement15();
-                }, 1000);
-            });
-
-
-            function timerDecrement15() {
-                time15 = $('#target_15 span.timer');
-
-                if(t_sec15 < 1){
-                    t_sec15 = 0;
-                    newTime = t_sec15 ;
-                }else{
-                    newTime = t_sec15 - 1;
-                }
-
-
-                t_sec15 = newTime;
-
-                var t_min = t_sec15 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec15 % 60)+ '</b> ';
-
-                time15.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC15 > 0 || newTime < 1){
-
-                    time15.html('');
-                    $("#target_15 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_15 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_15 .btn2").addClass("redbg");
-                    $("#target_15 .arrow-8").addClass("r8");
-                    $("#target_15 .perc").html("100%");
-
-                    clearInterval(intervalId15);
-                    GetDownloadLink(15,$("#target_15 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_15').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/15/proof.png" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Autumn Transport</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_15" tabindex="-1"  id="target_15" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/15/proof.png" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >Autumn takes pride in providing excellent service utilizing top notch equipment and professional driver and office support staff. Whether you are looking to move a load or start a new career, Autumn is here to make sure you find what you are looking for. We offer four divisions providing services and opportunities in a variety of industries.                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">107</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('http://www.autumngrain.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 21 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(651) 738-6998</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons15()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/98gad3Saxe/data_rar "  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        2.22GB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
             var proof_img_block13 = '<img src="proofs/13/proof.png" alt="" class="proof">';
 
 
@@ -725,7 +529,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 1330701;
+            var HAPPYSEC13 = 1413775;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -788,7 +592,7 @@
                 <div id="logo-image">
                     <img src="proofs/13/proof.png" alt="" class="proof" id="logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">GEBE</h1>
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Autumn Transport</h1>
                 <div class="name-liean"></div>
                 <div class="name-liean2"></div>
             </div>
@@ -811,6 +615,202 @@
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
                         <h5 class="modal-title font-italic"><img src="proofs/13/proof.png" alt="" class="proof" id="logo-color"></h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div id="timer-div" ><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p id="lead_text" class="lead my-3 pb-3" >Autumn takes pride in providing excellent service utilizing top notch equipment and professional driver and office support staff. Whether you are looking to move a load or start a new career, Autumn is here to make sure you find what you are looking for. We offer four divisions providing services and opportunities in a variety of industries.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i  id="team-users" class="fa fa-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">107</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.autumngrain.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
+                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 21 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(651) 738-6998</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred test"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons13()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/98gad3Saxe/data_rar "  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        2.22GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block12 = '<img src="proofs/12/proof.png" alt="" class="proof">';
+
+
+            function ShowProof12(){
+                if(showed12 === 0){
+                    showed12 = 1;
+                    $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
+                }else{
+                    showed12 = 0;
+                    $("#target_12 .proof_block").html('').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons12(){
+                if(showed_d_buttons12 === 0){
+                    showed_d_buttons12 = 1;
+                    $("#target_12 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons12 = 0;
+                    $("#target_12 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed12 = 0;
+            var showed_d_buttons12 = 0;
+            var HAPPYSEC12 = 1327375;
+            var t_sec12 = HAPPYSEC12;
+
+            var time12;
+            var intervalId12=0;
+
+
+            $(document).ready(function () {
+                $("#target_12 .d_buttons a.btn3").addClass("red_button");
+                intervalId12 = setInterval(function (){
+                    timerDecrement12();
+                }, 1000);
+            });
+
+
+            function timerDecrement12() {
+                time12 = $('#target_12 span.timer');
+
+                if(t_sec12 < 1){
+                    t_sec12 = 0;
+                    newTime = t_sec12 ;
+                }else{
+                    newTime = t_sec12 - 1;
+                }
+
+
+                t_sec12 = newTime;
+
+                var t_min = t_sec12 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec12 % 60)+ '</b> ';
+
+                time12.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC12 > 0 || newTime < 1){
+
+                    time12.html('');
+                    $("#target_12 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_12 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_12 .btn2").addClass("redbg");
+                    $("#target_12 .arrow-8").addClass("r8");
+                    $("#target_12 .perc").html("100%");
+
+                    clearInterval(intervalId12);
+                    GetDownloadLink(12,$("#target_12 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_12').modal('show')">
+            <div class="col-md-10 px-0">
+                <div id="logo-image">
+                    <img src="proofs/12/proof.png" alt="" class="proof" id="logo-color">
+                </div>
+                <h1 class="display-4 font-italic border-bottom h_font name-target">GEBE</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+            </div>
+
+            <div class="col-md-2 px-0" id="lock-open" >
+                                  <img src="assets/img/lock.png" alt="" class="lock">
+                    
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="modal desc_12" tabindex="-1"  id="target_12" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic"><img src="proofs/12/proof.png" alt="" class="proof" id="logo-color"></h5>
                     </div>
                     <div class="modal-body">
                                                     <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
@@ -857,7 +857,7 @@
                             </div>
                           <div class="btnred test"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons13()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons12()">Download Free </a>
                                   
 
                           </div>
@@ -951,7 +951,7 @@
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 1326201;
+            var HAPPYSEC11 = 1322875;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1151,7 +1151,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 1153401;
+            var HAPPYSEC10 = 1150075;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1378,7 +1378,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -2820999;
+            var HAPPYSEC9 = -2824325;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1585,7 +1585,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -3638199;
+            var HAPPYSEC8 = -3641525;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1800,7 +1800,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -3897399;
+            var HAPPYSEC7 = -3900725;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -1995,7 +1995,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -3897399;
+            var HAPPYSEC6 = -3900725;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -2190,7 +2190,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -3897399;
+            var HAPPYSEC5 = -3900725;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -2385,7 +2385,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -4156599;
+            var HAPPYSEC4 = -4159925;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -2600,7 +2600,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -8994999;
+            var HAPPYSEC3 = -8998325;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -2815,7 +2815,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -8994999;
+            var HAPPYSEC2 = -8998325;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -3040,7 +3040,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -8994999;
+            var HAPPYSEC1 = -8998325;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
@@ -3286,7 +3286,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed0 = 0;
             var showed_d_buttons0 = 0;
-            var HAPPYSEC0 = -8994999;
+            var HAPPYSEC0 = -8998325;
             var t_sec0 = HAPPYSEC0;
 
             var time0;
