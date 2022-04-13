@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-13 | [`heartlandhealth...`](https://google.com/search?q=heartlandhealth...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`applya.com`](https://google.com/search?q=applya.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`Standard Building Supplies Ltd`](https://google.com/search?q=Standard+Building+Supplies+Ltd) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-04-13 | [`Simply Placed`](https://google.com/search?q=Simply+Placed) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-05 | [`panasonic`](https://google.com/search?q=panasonic) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-05 | [`SLIMSTOCK.COM FILES PART28 - 10.31.1.136 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART28+-+10.31.1.136+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-05 | [`scoular.com`](https://google.com/search?q=scoular.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-05 | [`SA1SOLUTIONS.COM  FILES PART2 - 192.168.10.181, 192.168.10.124 PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART2+-+192.168.10.181%2C+192.168.10.124+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
