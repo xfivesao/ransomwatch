@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-14 | [`radmangroup.com`](https://google.com/search?q=radmangroup.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | [suncrypt](https://rwtracker.level-4.net/docs/#/profiles?id=suncrypt) |
 | 2022-04-14 | [`kpcg.com.hk`](https://google.com/search?q=kpcg.com.hk) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-25 | [`centuryaluminum...`](https://google.com/search?q=centuryaluminum...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-25 | [`Relationships Australia`](https://google.com/search?q=Relationships+Australia) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
 | 2022-03-25 | [`VOYAGER DISTRIBUTING COMPANY PTY. LTD.`](https://google.com/search?q=VOYAGER+DISTRIBUTING+COMPANY+PTY.+LTD.) | [alphv](https://rwtracker.level-4.net/docs/#/profiles?id=alphv) |
-| 2022-03-25 | [`ctigas.com`](https://google.com/search?q=ctigas.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
