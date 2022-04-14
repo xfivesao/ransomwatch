@@ -19,14 +19,14 @@
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |
-| [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
+| [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🔴 | 2022-04-14 | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | Recreation Attendant Job in Williamsburg, VA - Mar | 🔴 | 2022-03-21 | lockbitapt.uz |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |
 | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🔴 | 2022-04-14 | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
 | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |  | 🟢 |  | hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion |
-| [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
+| [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🔴 | 2022-04-14 | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | [grief](https://rwtracker.level-4.net/docs/#/profiles?id=grief) | Grief list | 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | [avaddon](https://rwtracker.level-4.net/docs/#/profiles?id=avaddon) |  | 🔴 | 2021-05-01 | avaddongun7rngel.onion |
@@ -39,7 +39,7 @@
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | [ragnarlocker](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🔴 | 2022-04-14 | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | HOME - CL0P^_- LEAKS | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | [netwalker](https://rwtracker.level-4.net/docs/#/profiles?id=netwalker) |  | 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | [doppelpaymer](https://rwtracker.level-4.net/docs/#/profiles?id=doppelpaymer) | Start-maximized.com | 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🔴 | 2022-04-11 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
@@ -112,7 +112,7 @@
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://rwtracker.level-4.net/docs/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
 | [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
-| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
+| [mosesstaff](https://rwtracker.level-4.net/docs/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🔴 | 2022-04-14 | moses-staff.se |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) | CoomingProject announcement | 🔴 | 2022-02-04 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](https://rwtracker.level-4.net/docs/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | [aGl0bGVyCg](https://rwtracker.level-4.net/docs/#/profiles?id=aGl0bGVyCg) | Error Response Page | 🔴 | 2022-04-05 | hitleransomware.cf |
