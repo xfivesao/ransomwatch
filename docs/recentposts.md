@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-14 | [`radmangroup.com`](https://google.com/search?q=radmangroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-04-14 | [`kpcg.com.hk`](https://google.com/search?q=kpcg.com.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-06 | [`Keicorp(ICPM)`](https://google.com/search?q=Keicorp%28ICPM%29) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-06 | [`wania.at`](https://google.com/search?q=wania.at) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`toothbuds.com`](https://google.com/search?q=toothbuds.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-06 | [`rnrinc.com`](https://google.com/search?q=rnrinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
