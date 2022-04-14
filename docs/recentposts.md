@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-14 | [`Elevate Services`](https://google.com/search?q=Elevate+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-14 | [`www.verifiedlab...`](https://google.com/search?q=www.verifiedlab...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`www.mpm.fr`](https://google.com/search?q=www.mpm.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`Atlas Copco`](https://google.com/search?q=Atlas+Copco) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-06 | [`www.rnrinc.com`](https://google.com/search?q=www.rnrinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`vgoc.ca`](https://google.com/search?q=vgoc.ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-06 | [`http://www.toot...`](https://google.com/search?q=http%3A%2F%2Fwww.toot...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-06 | [`allcountysurvey...`](https://google.com/search?q=allcountysurvey...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
