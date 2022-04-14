@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-14 | [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cassinobuilding...`](https://google.com/search?q=cassinobuilding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`mpm.fr`](https://google.com/search?q=mpm.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`Musco Sports Lighting`](https://google.com/search?q=Musco+Sports+Lighting) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-07 | [`get-entkernung....`](https://google.com/search?q=get-entkernung....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`FCCH`](https://google.com/search?q=FCCH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-06 | [`Barwick Bathroom Distribution LLP`](https://google.com/search?q=Barwick+Bathroom+Distribution+LLP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-06 | [`United States of America GOV`](https://google.com/search?q=United+States+of+America+GOV) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
