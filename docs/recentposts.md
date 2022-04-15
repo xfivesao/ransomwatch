@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-15 | [`Importador Ferretero Trujillo Cia. Ltda`](https://google.com/search?q=Importador+Ferretero+Trujillo+Cia.+Ltda) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-04-15 | [`http://inland-e...`](https://google.com/search?q=http%3A%2F%2Finland-e...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`enclosuresoluti...`](https://google.com/search?q=enclosuresoluti...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`CJ Pony Parts`](https://google.com/search?q=CJ+Pony+Parts) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-08 | [`rosagroup.com`](https://google.com/search?q=rosagroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-08 | [`genieroute.be`](https://google.com/search?q=genieroute.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-08 | [`metagenics`](https://google.com/search?q=metagenics) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-04-07 | [`tnt`](https://google.com/search?q=tnt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
