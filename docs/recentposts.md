@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-15 | [`eNoah it solutions`](https://google.com/search?q=eNoah+it+solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-14 | [`Basra Multipurposr Terminal`](https://google.com/search?q=Basra+Multipurposr+Terminal) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-04-14 | [`Big Horn Plastering of Colorado, Inc.`](https://google.com/search?q=Big+Horn+Plastering+of+Colorado%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-14 | [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-07 | [`Jiangsu Kaili Carpet Co., Ltd.`](https://google.com/search?q=Jiangsu+Kaili+Carpet+Co.%2C+Ltd.) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-04-07 | [`unholz.ch`](https://google.com/search?q=unholz.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-07 | [`feuerschutzbock...`](https://google.com/search?q=feuerschutzbock...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-07 | [`get-entkernung....`](https://google.com/search?q=get-entkernung....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
