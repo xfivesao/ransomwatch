@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-15 | [`ENPRECIS.COM FILES PART25 - 10.51.122.5\VI\AHM\packages\FromProduction_utility** PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART25+-+10.51.122.5%5CVI%5CAHM%5Cpackages%5CFromProduction_utility%2A%2A+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-15 | [`[IMPORTANT ANNOUNCEMENT!]`](https://google.com/search?q=%5BIMPORTANT+ANNOUNCEMENT%21%5D) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-15 | [`inland-engineer...`](https://google.com/search?q=inland-engineer...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`Importador Ferretero Trujillo Cia. Ltda`](https://google.com/search?q=Importador+Ferretero+Trujillo+Cia.+Ltda) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-09 | [`ch1`](https://google.com/search?q=ch1) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-08 | [`Wocklum Group`](https://google.com/search?q=Wocklum+Group) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-08 | [`ardeche.fr`](https://google.com/search?q=ardeche.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-08 | [`rosagroup.com`](https://google.com/search?q=rosagroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
