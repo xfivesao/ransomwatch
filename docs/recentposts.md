@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-16 | [`MCH-GROUP.COM FILES PART28 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART28+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`EDAN.COM FILES PART27 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\宁姐\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART27+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C%E5%AE%81%E5%A7%90%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`DJS associate`](https://google.com/search?q=DJS+associate) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-04-16 | [`BOLTONUSA.COM FILES *<em>PART32 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\PBGC-DIS`](https://google.com/search?q=BOLTONUSA.COM+FILES+%2A%3Cem%3EPART32+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CPBGC-DIS) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-10 | [`https://groupem...`](https://google.com/search?q=https%3A%2F%2Fgroupem...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-09 | [`clinique.cob-os...`](https://google.com/search?q=clinique.cob-os...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-09 | [`SWIRESPO.COM FILES PART26 - 172.16.10.166\H$\Files\Users\ETF\Training Matters\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART26+-+172.16.10.166%5CH%24%5CFiles%5CUsers%5CETF%5CTraining+Matters%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-09 | [`ENPRECIS.COM FILES PART24 - 10.51.122.5\VI\AHM\packages\FromProduction_utility\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART24+-+10.51.122.5%5CVI%5CAHM%5Cpackages%5CFromProduction_utility%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
