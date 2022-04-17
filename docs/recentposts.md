@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-17 | [`Ministerio de Hacienda - República de Costa Rica`](https://google.com/search?q=Ministerio+de+Hacienda+-+Rep%C3%BAblica+de+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-17 | [`Tucker Door &amp; Trim`](https://google.com/search?q=Tucker+Door+%26amp%3B+Trim) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-17 | [`SLIMSTOCK.COM FILES PART30 - 10.31.1.134 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART30+-+10.31.1.134+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-17 | [`SA1SOLUTIONS.COM  FILES PART4 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART4+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-10 | [`ORBITELECTRIC.COM FILES PART1 - 192.168.10.102, 192.168.10.114, 192.168.10.192 PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART1+-+192.168.10.102%2C+192.168.10.114%2C+192.168.10.192+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`AFJCONSULTING.NET FILES PART1 - E\data\users\Adam\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART1+-+E%5Cdata%5Cusers%5CAdam%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ALTERNATIVETECHS.COM FILES PART3 - C\Shares\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART3+-+C%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`lo`](https://google.com/search?q=lo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
