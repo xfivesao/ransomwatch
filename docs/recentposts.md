@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-17 | [`SSMSJUSTICE.COM FILES PART31 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\Yanez\Discovery\ P`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART31+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5CYanez%5CDiscovery%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`ORBITELECTRIC.COM FILES PART2 - 192.168.10.3\E$\USERS\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART2+-+192.168.10.3%5CE%24%5CUSERS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`OAKDELL.COM FILES PART4 - 192.168.100.130\C$\Users\rwoodward\Documents\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART4+-+192.168.100.130%5CC%24%5CUsers%5Crwoodward%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`JDAVIDTAXLAW.COM FILES PART4 - D\Shares\Data\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART4+-+D%5CShares%5CData%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-10 | [`farmaciastatuto...`](https://google.com/search?q=farmaciastatuto...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`JBINSTANTLAWN.NET FILES PART6 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART6+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`lerros.com`](https://google.com/search?q=lerros.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
