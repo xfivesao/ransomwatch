@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-18 | [`gruppoathesis.i...`](https://google.com/search?q=gruppoathesis.i...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-18 | [`kainz-haustechn.`](https://google.com/search?q=kainz-haustechn.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-18 | [`ville-sa`](https://google.com/search?q=ville-sa) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-17 | [`NuLife Med`](https://google.com/search?q=NuLife+Med) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-11 | [`MARTINELLI GINETTO`](https://google.com/search?q=MARTINELLI+GINETTO) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-11 | [`Eminox`](https://google.com/search?q=Eminox) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-11 | [`DRIVEANDSHINE.COM FILES PART3 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART3+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`DRC-LAW.COM FILES PART3 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART3+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
