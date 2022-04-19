@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-19 | [`ssi-steel.com`](https://google.com/search?q=ssi-steel.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-18 | [`Barakat Travel and Private Jet was Hacked`](https://google.com/search?q=Barakat+Travel+and+Private+Jet+was+Hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-18 | [`Centris`](https://google.com/search?q=Centris) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-18 | [`Nordex SE`](https://google.com/search?q=Nordex+SE) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-11 | [`tokyo-plant.co....`](https://google.com/search?q=tokyo-plant.co....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`ruthtaubman.com`](https://google.com/search?q=ruthtaubman.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`THENOC.NET FILES PART3 - C\Users\ PUBLISHED`](https://google.com/search?q=THENOC.NET+FILES+PART3+-+C%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-11 | [`OAKDELL.COM FILES PART3 - 192.168.100.130\C$\Users\rwoodward\Documents\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART3+-+192.168.100.130%5CC%24%5CUsers%5Crwoodward%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
