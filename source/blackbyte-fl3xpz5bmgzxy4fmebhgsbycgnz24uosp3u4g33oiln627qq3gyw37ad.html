@@ -15,59 +15,30 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1650039334" rel="stylesheet">
+    <link href="/blog.css?v=1650385058" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1650039334"></script>
+    <script src="/script.js?v=1650385058"></script>
     <style>
 
 
 
         .d_buttons{
             display: none;
+            left: -15px;
         }
-        .alert_block{
-            position: fixed;
-            width: 750px;
-            height: auto;
-            top: 133px;
-            margin: auto;
-            text-align: center;
-            color: #e57b7b;
-            border: 4px solid #2e2e2e;
-            margin-left: calc((100% - 750px) / 2);
-            background: black;
-            z-index: 9999;
-            padding: 8px;
-        }
-        .alert_close{
-            position: absolute;
-            right: 10px;
-            border: 1px solid #2e2e2e;
-            color: #9e9595;
-            padding: 0px 0px 0px 0px;
-            height: 22px;
-            width: 22px;
-            cursor: pointer;
-        }
-        .alert_close i{
-            font-size: 22px;
-            margin-bottom: 2px;
-        }
+
 
         a.lock{
             float:right !important;
             height: auto;
         }
-        .hidden{
-            display: none;
-        }
+
         .modal_content_custom{
             background: black;
-            border: 1px solid;
         }
 
 
@@ -87,8 +58,9 @@
             .modal-content {
                 height: auto;
                 min-height: 100%;
-                border: 1px solid silver;
+                border: 1px solid #c0c0c066;
                 border-radius: 3px;
+
 
 
             }
@@ -129,34 +101,18 @@
         }
 
         .col-md-6{
-            max-width: 46%;
+            max-width: 29%;
+
         }
 
         .bg-tar{
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: #0000008f;
             border: 1px solid #4f4a4a;
-           border-radius: 50%;
+            border-radius: 50%;
 
 
         }
 
-
-
-        @media screen AND (min-width: 320px) AND (max-width:440px){
-            .h_font{
-                font-size: 12px;
-            }
-        }
-        @media screen AND (min-width: 440px) AND (max-width:900px){
-            .h_font{
-                font-size: 16px;
-            }
-        }
-        @media screen AND (min-width:900px){
-            .h_font{
-                font-size: 32px;
-            }
-        }
 
 
         .modal-title{
@@ -168,41 +124,31 @@
         }
 
         .lead{
-            color: silver;
-
-        }
-
-        .free-btn{
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 20px;
-            border: 1px solid darkred;
-            background-color: transparent;
-            color: darkred;
-            border-radius: 10px;
-
-
+            color: #c0c0c096;
 
         }
 
 
-        #lead_text{
-            border: 1px solid #4f4a4a;
+
+        .lead_text{
+            border: 1px solid #c0c0c066;
             padding-left: 10px;
-            color: silver;
-	    border-radius: 5px;
+            color: #c0c0c066;
+            font-size: 19px;
+            overflow: auto;
+            height: 300px;
         }
 
         #modal_footer{
             width: 95%;
             margin: auto;
-            border-top: 1px solid silver;
+            border-top: 1px solid #c0c0c066;;
         }
 
         #modal_header{
             width: 95%;
             margin: auto;
-            border-bottom: 1px solid silver;
+            border-bottom: 1px solid #c0c0c066;
         }
 
         #lock-open{
@@ -220,10 +166,10 @@
 
 
 
-        #logo-color{
+        .logo-color{
             width: 60px;
             height: 60px;
-            border-radius: 20%;
+            border-radius: 50%;
             border: 1px solid #4f4a4a;
             padding: 3px;
             opacity: 0.8;
@@ -239,8 +185,7 @@
             padding: 15px;
             margin-top: -150px;
             margin-right: -30px;
-            color: #dcdcdc;
-            border: 1px  solid  #a9a9a9;
+            border: 1px solid #c0c0c066;
             transition: .3s;
             border-radius: 5px;
             text-transform: uppercase;
@@ -254,46 +199,36 @@
         .email-btn:hover{
             background-color: #000;
             color: #dcdcdc;
-            opacity: 0.4;
 
         }
 
-        #team-users{
+        .team-users{
             color:darkorange;
-            opacity: .6;
+            opacity: .3;
         }
 
-        #globe-users{
+        .globe-users{
             color: darkblue;
-            opacity: .6;
+            opacity: .5;
         }
 
-        #dollar-users{
+        .dollar-users{
             color: darkgreen;
-            opacity: .6;
+            opacity: .4;
         }
 
-        #phone-users{
+        .phone-users{
             color: darkred;
-            opacity: .6;
+            opacity: .4;
         }
 
         .name-liean{
             border-left: 1px solid #4f4a4a;
             position: absolute;
-            height: 80px;
-            margin-top: -63px;
+            height: 64px;
+            margin-top: -48px;
             margin-left: 60px;
 
-
-        }
-
-        .name-liean2{
-            border-left: 1px solid #4f4a4a;
-            position: absolute;
-            height: 80px;
-            margin-top: -63px;
-            margin-left: 620px;
 
         }
 
@@ -302,15 +237,17 @@
             top: -5px;
             opacity: 0.4;
             pointer-events: none;
+
         }
 
-        #lock-color{
+        .lock-color{
             margin-left: -15px;
             opacity: 1;
         }
 
         .h_font{
             opacity: 0.8;
+            font-size: 20px;
 
         }
 
@@ -319,11 +256,11 @@
 
         }
 
-        #logo-image{
+        .logo-image{
             width: 100%;
             height: 100%;
             position: absolute;
-            top: -7px;
+            top: -14px;
             left: -8px;
             pointer-events: none;
 
@@ -332,7 +269,7 @@
 
 
 
-        #timer-div{
+        .timer-div{
 
             color: darkred;
             border-radius: 5px;
@@ -342,6 +279,7 @@
             border: 1px solid darkred;
             padding: 5px;
             text-align: center;
+            opacity: 0.6;
 
             max-width: 250px;
             margin: auto;
@@ -349,8 +287,8 @@
 
 
 
-        .test{
-            margin-left: 275px;
+        .red-button{
+            margin-left: 55px;
         }
 
 
@@ -364,7 +302,7 @@
 
         }
 
-        #timer-success{
+        .timer-success{
             border-radius: 5px;
             text-transform: uppercase;
             font-size: 20px;
@@ -375,6 +313,7 @@
             color: darkgreen;
             max-width: 250px;
             margin: auto;
+            opacity: .6;
 
 
         }
@@ -413,10 +352,44 @@
             border: 1px solid darkgreen;
         }
 
-#copier{
-    width: 360px;
-    text-align: center;
-}
+         #copier{
+         width: 325px;
+         text-align: center;
+         color: #dcdcdc;
+        }
+
+
+
+        .web-color{
+            color: #c0c0c096; !important;
+        }
+
+        .ex10{
+            margin-top: 100px;
+            height: 100px;
+            color: gainsboro;
+            -moz-user-select: none;
+        }
+
+        .black-color{
+            text-shadow: 11px 7px 4px #000;
+            color: #6f6c6c;
+        }
+
+        @media screen and (min-width: 600px) and (max-width: 1700px){
+            .email-btn{
+                margin-right: 1px;
+                font-size: 10px;
+            }
+        }
+
+            @media screen and (min-width: 600px) and (max-width: 900px) {
+                .black-color{
+                    font-size: 27px;
+                }
+            }
+
+
 
 
 
@@ -425,31 +398,11 @@
     </style>
 </head>
 
-<body class="page_body">
-
-
-<!-- <a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a> -->
-<!--<script>-->
-<!--    $(function (){-->
-<!--        $(".alert_close").on("click",function (){-->
-<!--            $(".alert_block").fadeOut(400);-->
-<!--        })-->
-<!--    })-->
-<!---->
-<!--</script>-->
-<!---->
-<!--<div class="alert_block"><span class="alert_close"><i class="fa fa-close"></i></span>-->
-<!--    <br>-->
-<!--</div>-->
-
+<body class="page_body modal_font">
 
 
 
 <div class="container">
-
-    <div class="map_wrapper">
-        <div class="map"></div>
-    </div>
 
     <header class="blog-header py-3">
 
@@ -459,10 +412,11 @@
             </div>
             <div class="col-4 text-center">
 
-                <div class="ex10 text-white"><h1>BLACKBYTE</h1></div>
+                <div class="ex10"><h1 class="black-color">BlackByte</h1></div>
             </div>
+
             <div class="col-4 d-flex justify-content-end align-items-center">
-                <a href="#" class="email-btn" id="copier" >BlackByteSupp0rt@onionmail.org</a>
+                <div class=" email-btn"><a href="#"  id="copier" >BlackByteSupp0rt@onionmail.org</a></div>
             </div>
         </div>
     </header>
@@ -500,7 +454,200 @@
 
         <script>
 
-            var proof_img_block13 = '<img src="proofs/13/proof.png" alt="" class="proof">';
+            var proof_img_block14 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof14(){
+                if(showed14 === 0){
+                    showed14 = 1;
+                    $("#target_14 .proof_block").html(proof_img_block14).slideDown(400);
+                }else{
+                    showed14 = 0;
+                    $("#target_14 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons14(){
+                if(showed_d_buttons14 === 0){
+                    showed_d_buttons14 = 1;
+                    $("#target_14 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons14 = 0;
+                    $("#target_14 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed14 = 0;
+            var showed_d_buttons14 = 0;
+            var HAPPYSEC14 = 892644;
+            var t_sec14 = HAPPYSEC14;
+
+            var time14;
+            var intervalId14=0;
+
+
+            $(document).ready(function () {
+                $("#target_14 .d_buttons a.btn3").addClass("red_button");
+                intervalId14 = setInterval(function (){
+                    timerDecrement14();
+                }, 1000);
+            });
+
+
+            function timerDecrement14() {
+                time14 = $('#target_14 span.timer');
+
+                if(t_sec14 < 1){
+                    t_sec14 = 0;
+                    newTime = t_sec14 ;
+                }else{
+                    newTime = t_sec14 - 1;
+                }
+
+
+                t_sec14 = newTime;
+
+                var t_min = t_sec14 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec14 % 60)+ '</b> ';
+
+                time14.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC14 > 0 || newTime < 1){
+
+                    time14.html('');
+                    $("#target_14 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_14 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_14 .btn2").addClass("redbg");
+                    $("#target_14 .arrow-8").addClass("r8");
+                    $("#target_14 .perc").html("100%");
+
+                    clearInterval(intervalId14);
+                    GetDownloadLink(14,$("#target_14 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_14').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
+                </div>
+
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Autumn Transport</h1>
+                <div class="modal_font  name-liean"></div>
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+
+
+        <div class="modal desc_14" tabindex="-1"  id="target_14" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Autumn takes pride in providing excellent service utilizing top notch equipment and professional driver and office support staff. Whether you are looking to move a load or start a new career, Autumn is here to make sure you find what you are looking for. We offer four divisions providing services and opportunities in a variety of industries.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">107</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.autumngrain.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 21 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(651) 738-6998</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons14()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/98gad3Saxe/data_rar "  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        2.22GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block13 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof13(){
@@ -509,7 +656,7 @@
                     $("#target_13 .proof_block").html(proof_img_block13).slideDown(400);
                 }else{
                     showed13 = 0;
-                    $("#target_13 .proof_block").html('').slideUp(400);
+                    $("#target_13 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -529,7 +676,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 1238366;
+            var HAPPYSEC13 = 806244;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -587,26 +734,23 @@
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_13').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_13').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/13/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Autumn Transport</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">GEBE</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -614,11 +758,11 @@
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/13/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
                                                     <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
+                            <div class="timer-div"><span  class="timer"></span></div>
                             
 
 
@@ -628,223 +772,27 @@
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Autumn takes pride in providing excellent service utilizing top notch equipment and professional driver and office support staff. Whether you are looking to move a load or start a new career, Autumn is here to make sure you find what you are looking for. We offer four divisions providing services and opportunities in a variety of industries.                            </p>
+                            <p class="lead_text my-3 pb-3" >NV GEBE, or Gemeenshappelijk Elektriciteitsbedrijf Bovenwindse Eilanden, is the sole utility company producing and distributing electricity on St. Maarten”                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">107</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('http://www.autumngrain.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 21 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(651) 738-6998</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons13()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/98gad3Saxe/data_rar "  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        2.22GB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
-            var proof_img_block12 = '<img src="proofs/12/proof.png" alt="" class="proof">';
-
-
-            function ShowProof12(){
-                if(showed12 === 0){
-                    showed12 = 1;
-                    $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
-                }else{
-                    showed12 = 0;
-                    $("#target_12 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons12(){
-                if(showed_d_buttons12 === 0){
-                    showed_d_buttons12 = 1;
-                    $("#target_12 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons12 = 0;
-                    $("#target_12 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed12 = 0;
-            var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 1151966;
-            var t_sec12 = HAPPYSEC12;
-
-            var time12;
-            var intervalId12=0;
-
-
-            $(document).ready(function () {
-                $("#target_12 .d_buttons a.btn3").addClass("red_button");
-                intervalId12 = setInterval(function (){
-                    timerDecrement12();
-                }, 1000);
-            });
-
-
-            function timerDecrement12() {
-                time12 = $('#target_12 span.timer');
-
-                if(t_sec12 < 1){
-                    t_sec12 = 0;
-                    newTime = t_sec12 ;
-                }else{
-                    newTime = t_sec12 - 1;
-                }
-
-
-                t_sec12 = newTime;
-
-                var t_min = t_sec12 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec12 % 60)+ '</b> ';
-
-                time12.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC12 > 0 || newTime < 1){
-
-                    time12.html('');
-                    $("#target_12 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_12 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_12 .btn2").addClass("redbg");
-                    $("#target_12 .arrow-8").addClass("r8");
-                    $("#target_12 .perc").html("100%");
-
-                    clearInterval(intervalId12);
-                    GetDownloadLink(12,$("#target_12 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_12').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/12/proof.png" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">GEBE</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_12" tabindex="-1"  id="target_12" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/12/proof.png" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >NV GEBE, or Gemeenshappelijk Elektriciteitsbedrijf Bovenwindse Eilanden, is the sole utility company producing and distributing electricity on St. Maarten”                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
                                     <span class="">260</span>
                                 </p>
                             </div>
                             <div class="col-md-3 text-center" onclick="GO('http://www.nvgebe.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 52 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>?</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 52 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
 
                         </div>
 
@@ -855,9 +803,9 @@
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons12()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons13()">Download Free </a>
                                   
 
                           </div>
@@ -922,7 +870,204 @@
         
         <script>
 
-            var proof_img_block11 = '<img src="proofs/11/proof.png" alt="" class="proof">';
+            var proof_img_block12 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof12(){
+                if(showed12 === 0){
+                    showed12 = 1;
+                    $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
+                }else{
+                    showed12 = 0;
+                    $("#target_12 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons12(){
+                if(showed_d_buttons12 === 0){
+                    showed_d_buttons12 = 1;
+                    $("#target_12 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons12 = 0;
+                    $("#target_12 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed12 = 0;
+            var showed_d_buttons12 = 0;
+            var HAPPYSEC12 = 801744;
+            var t_sec12 = HAPPYSEC12;
+
+            var time12;
+            var intervalId12=0;
+
+
+            $(document).ready(function () {
+                $("#target_12 .d_buttons a.btn3").addClass("red_button");
+                intervalId12 = setInterval(function (){
+                    timerDecrement12();
+                }, 1000);
+            });
+
+
+            function timerDecrement12() {
+                time12 = $('#target_12 span.timer');
+
+                if(t_sec12 < 1){
+                    t_sec12 = 0;
+                    newTime = t_sec12 ;
+                }else{
+                    newTime = t_sec12 - 1;
+                }
+
+
+                t_sec12 = newTime;
+
+                var t_min = t_sec12 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec12 % 60)+ '</b> ';
+
+                time12.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC12 > 0 || newTime < 1){
+
+                    time12.html('');
+                    $("#target_12 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_12 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_12 .btn2").addClass("redbg");
+                    $("#target_12 .arrow-8").addClass("r8");
+                    $("#target_12 .perc").html("100%");
+
+                    clearInterval(intervalId12);
+                    GetDownloadLink(12,$("#target_12 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_12').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
+                </div>
+
+                <h1 class="display-4 font-italic border-bottom h_font name-target">MZ Architects</h1>
+                <div class="modal_font  name-liean"></div>
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+
+
+        <div class="modal desc_12" tabindex="-1"  id="target_12" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >MZ Architects is a multi-award winning architecture firm founded and led by Marwan Zgheib since 2002. Initially based in Qatar, the firm won several architectural competitions and had the opportunity to acquire extensive experience in designing and developing high-rise buildings in the midst of the construction boom in the country.
+
+Within few years, MZ Architects became one of the leading architecture and consultancy groups in Qatar and in the Gulf, and established in 2007 a regional office in Abu Dhabi upon the winning of an International Design competition for the ALDAR HQ. Also in 2007, MZ Architects have reassigned its headquarters in Lebanon as an architecture and urban planning firm providing services ranging from master planning projects, high-rise buildings, stadiums, cultural centers and educational and industrial buildings to hotels, individual houses and residential buildings. MZ have succeeded to spread their design mark across Lebanon, Qatar, the UAE, the Kingdom of Saudi Arabia and Nigeria and have built a strong relationship with their clients.
+
+Over the years, MZ Architects have generated many significant projects, all underlined by a commitment to sustainable systems and a modern aesthetic sense that embraces constantly the historical and cultural context of each project.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">104</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.mz-architects.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 19 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons12()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/n82061Rexa/mza_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        512.04MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block11 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof11(){
@@ -931,7 +1076,7 @@
                     $("#target_11 .proof_block").html(proof_img_block11).slideDown(400);
                 }else{
                     showed11 = 0;
-                    $("#target_11 .proof_block").html('').slideUp(400);
+                    $("#target_11 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -951,7 +1096,7 @@
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 1147466;
+            var HAPPYSEC11 = 628944;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1009,26 +1154,23 @@
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_11').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_11').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/11/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">MZ Architects</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Diamond Pet Foods</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -1036,11 +1178,11 @@
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/11/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
                                                     <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
+                            <div class="timer-div"><span  class="timer"></span></div>
                             
 
 
@@ -1050,207 +1192,7 @@
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >MZ Architects is a multi-award winning architecture firm founded and led by Marwan Zgheib since 2002. Initially based in Qatar, the firm won several architectural competitions and had the opportunity to acquire extensive experience in designing and developing high-rise buildings in the midst of the construction boom in the country.
-
-Within few years, MZ Architects became one of the leading architecture and consultancy groups in Qatar and in the Gulf, and established in 2007 a regional office in Abu Dhabi upon the winning of an International Design competition for the ALDAR HQ. Also in 2007, MZ Architects have reassigned its headquarters in Lebanon as an architecture and urban planning firm providing services ranging from master planning projects, high-rise buildings, stadiums, cultural centers and educational and industrial buildings to hotels, individual houses and residential buildings. MZ have succeeded to spread their design mark across Lebanon, Qatar, the UAE, the Kingdom of Saudi Arabia and Nigeria and have built a strong relationship with their clients.
-
-Over the years, MZ Architects have generated many significant projects, all underlined by a commitment to sustainable systems and a modern aesthetic sense that embraces constantly the historical and cultural context of each project.                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">104</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.mz-architects.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 19 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>?</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons11()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/n82061Rexa/mza_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        512.04MB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
-            var proof_img_block10 = '<img src="proofs/10/proof.png" alt="" class="proof">';
-
-
-            function ShowProof10(){
-                if(showed10 === 0){
-                    showed10 = 1;
-                    $("#target_10 .proof_block").html(proof_img_block10).slideDown(400);
-                }else{
-                    showed10 = 0;
-                    $("#target_10 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons10(){
-                if(showed_d_buttons10 === 0){
-                    showed_d_buttons10 = 1;
-                    $("#target_10 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons10 = 0;
-                    $("#target_10 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed10 = 0;
-            var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 974666;
-            var t_sec10 = HAPPYSEC10;
-
-            var time10;
-            var intervalId10=0;
-
-
-            $(document).ready(function () {
-                $("#target_10 .d_buttons a.btn3").addClass("red_button");
-                intervalId10 = setInterval(function (){
-                    timerDecrement10();
-                }, 1000);
-            });
-
-
-            function timerDecrement10() {
-                time10 = $('#target_10 span.timer');
-
-                if(t_sec10 < 1){
-                    t_sec10 = 0;
-                    newTime = t_sec10 ;
-                }else{
-                    newTime = t_sec10 - 1;
-                }
-
-
-                t_sec10 = newTime;
-
-                var t_min = t_sec10 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec10 % 60)+ '</b> ';
-
-                time10.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC10 > 0 || newTime < 1){
-
-                    time10.html('');
-                    $("#target_10 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_10 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_10 .btn2").addClass("redbg");
-                    $("#target_10 .arrow-8").addClass("r8");
-                    $("#target_10 .perc").html("100%");
-
-                    clearInterval(intervalId10);
-                    GetDownloadLink(10,$("#target_10 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_10').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/10/proof.png" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Diamond Pet Foods</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                  <img src="assets/img/lock.png" alt="" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_10" tabindex="-1"  id="target_10" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/10/proof.png" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
-                            <div id="timer-div" ><span  class="timer"></span></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >At Diamond Pet Foods, we believe every pet deserves the very best, and we know that's what you expect from the food you choose. As a family-owned company, we pay extra attention to providing you with ingredients your dog or cat will love — at a price and quality you can feel good about.
+                            <p class="lead_text my-3 pb-3" >At Diamond Pet Foods, we believe every pet deserves the very best, and we know that's what you expect from the food you choose. As a family-owned company, we pay extra attention to providing you with ingredients your dog or cat will love — at a price and quality you can feel good about.
 We only make food that we would be proud to feed our own pets, and we want to share it with yours. Learn more about what it takes to pass our test, and welcome to the Diamond family.                            </p>
                         </div>
 
@@ -1258,20 +1200,20 @@ We only make food that we would be proud to feed our own pets, and we want to sh
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
                                     <span class="">800</span>
                                 </p>
                             </div>
                             <div class="col-md-3 text-center" onclick="GO('https://www.diamondpet.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 1 Billion </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(573) 229-4203</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 1 Billion </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(573) 229-4203</p></div>
 
                         </div>
 
@@ -1282,9 +1224,9 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons10()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons11()">Download Free </a>
                                   
 
                           </div>
@@ -1349,7 +1291,211 @@ We only make food that we would be proud to feed our own pets, and we want to sh
         
         <script>
 
-            var proof_img_block9 = '<img src="proofs/9/proof.png" alt="" class="proof">';
+            var proof_img_block10 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof10(){
+                if(showed10 === 0){
+                    showed10 = 1;
+                    $("#target_10 .proof_block").html(proof_img_block10).slideDown(400);
+                }else{
+                    showed10 = 0;
+                    $("#target_10 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons10(){
+                if(showed_d_buttons10 === 0){
+                    showed_d_buttons10 = 1;
+                    $("#target_10 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons10 = 0;
+                    $("#target_10 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed10 = 0;
+            var showed_d_buttons10 = 0;
+            var HAPPYSEC10 = -3345456;
+            var t_sec10 = HAPPYSEC10;
+
+            var time10;
+            var intervalId10=0;
+
+
+            $(document).ready(function () {
+                $("#target_10 .d_buttons a.btn3").addClass("red_button");
+                intervalId10 = setInterval(function (){
+                    timerDecrement10();
+                }, 1000);
+            });
+
+
+            function timerDecrement10() {
+                time10 = $('#target_10 span.timer');
+
+                if(t_sec10 < 1){
+                    t_sec10 = 0;
+                    newTime = t_sec10 ;
+                }else{
+                    newTime = t_sec10 - 1;
+                }
+
+
+                t_sec10 = newTime;
+
+                var t_min = t_sec10 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec10 % 60)+ '</b> ';
+
+                time10.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC10 > 0 || newTime < 1){
+
+                    time10.html('');
+                    $("#target_10 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_10 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_10 .btn2").addClass("redbg");
+                    $("#target_10 .arrow-8").addClass("r8");
+                    $("#target_10 .perc").html("100%");
+
+                    clearInterval(intervalId10);
+                    GetDownloadLink(10,$("#target_10 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_10').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
+                </div>
+
+                <h1 class="display-4 font-italic border-bottom h_font name-target">INVIMA</h1>
+                <div class="modal_font  name-liean"></div>
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+
+
+        <div class="modal desc_10" tabindex="-1"  id="target_10" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >INVIMA is in charge of inspecting and supervising the marketing and manufacturing of health products, 
+identifying and evaluating the violation of health standards or procedures, 
+and implementing best practices and providing medical approval for the import and export of products.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.invima.gov.co')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons10()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/lbIe27Mexe/OFICINALES_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        3.97GB</a>
+                                                                        <a href="https://anonfiles.com/D547TeM4xa/Archivos_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        7.35GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block9 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof9(){
@@ -1358,7 +1504,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
                     $("#target_9 .proof_block").html(proof_img_block9).slideDown(400);
                 }else{
                     showed9 = 0;
-                    $("#target_9 .proof_block").html('').slideUp(400);
+                    $("#target_9 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -1378,7 +1524,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -2999734;
+            var HAPPYSEC9 = -4162656;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1436,26 +1582,23 @@ We only make food that we would be proud to feed our own pets, and we want to sh
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_9').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_9').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/9/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">INVIMA</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">San Francisco 49ers</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -1463,10 +1606,10 @@ We only make food that we would be proud to feed our own pets, and we want to sh
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/9/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -1476,29 +1619,27 @@ We only make food that we would be proud to feed our own pets, and we want to sh
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >INVIMA is in charge of inspecting and supervising the marketing and manufacturing of health products, 
-identifying and evaluating the violation of health standards or procedures, 
-and implementing best practices and providing medical approval for the import and export of products.                            </p>
+                            <p class="lead_text my-3 pb-3" >The San Francisco 49ers are a professional American football team based in the San Francisco Bay Area. The 49ers compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) West division, and play their home games at Levi's Stadium in Santa Clara, California, located 38 miles (61 km) southeast of San Francisco. The team is named after the prospectors who arrived in Northern California in the 1849 Gold Rush. The team was founded in 1946 as a charter member of the All-America Football Conference (AAFC), and joined the NFL in 1949 when the leagues merged. The 49ers were the first major league professional sports franchise based in San Francisco, and are the 10th oldest franchise in the NFL. The team began play at Kezar Stadium in San Francisco before moving to Candlestick Park in 1971, and then to Levi's Stadium in 2014. Since 1988, the 49ers have been headquartered in Santa Clara.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">?</span>
+                                    <span class="">846</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.invima.gov.co')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.49ers.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ ? </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>?</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 530 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(408) 562-4949</p></div>
 
                         </div>
 
@@ -1509,7 +1650,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons9()">Download Free </a>
                                   
@@ -1525,7 +1666,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/lbIe27Mexe/OFICINALES_rar"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/LaD443H7x6/2020_Invoices_rar"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -1534,8 +1675,8 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        3.97GB</a>
-                                                                        <a href="https://anonfiles.com/D547TeM4xa/Archivos_rar"  target="_blank"  class=" btn btn3 legitRipple
+                                        292.72MB</a>
+                                                                        <a href="https://anonfiles.com/D2papdNfxf/49ers.com_rar"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -1544,7 +1685,17 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        7.35GB</a>
+                                        3.26GB</a>
+                                                                        <a href="https://anonfiles.com/d2Map8N2x3/49ers.com2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        5.76GB</a>
                                                                 </div>
                             
                     </div>
@@ -1556,7 +1707,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block8 = '<img src="proofs/8/proof.png" alt="" class="proof">';
+            var proof_img_block8 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof8(){
@@ -1565,7 +1716,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_8 .proof_block").html(proof_img_block8).slideDown(400);
                 }else{
                     showed8 = 0;
-                    $("#target_8 .proof_block").html('').slideUp(400);
+                    $("#target_8 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -1585,7 +1736,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -3816934;
+            var HAPPYSEC8 = -4421856;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1643,26 +1794,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_8').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_8').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/8/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">San Francisco 49ers</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Venture Machine & Tool, Inc.</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -1670,10 +1818,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/8/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -1683,27 +1831,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >The San Francisco 49ers are a professional American football team based in the San Francisco Bay Area. The 49ers compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) West division, and play their home games at Levi's Stadium in Santa Clara, California, located 38 miles (61 km) southeast of San Francisco. The team is named after the prospectors who arrived in Northern California in the 1849 Gold Rush. The team was founded in 1946 as a charter member of the All-America Football Conference (AAFC), and joined the NFL in 1949 when the leagues merged. The 49ers were the first major league professional sports franchise based in San Francisco, and are the 10th oldest franchise in the NFL. The team began play at Kezar Stadium in San Francisco before moving to Candlestick Park in 1971, and then to Levi's Stadium in 2014. Since 1988, the 49ers have been headquartered in Santa Clara.                            </p>
+                            <p class="lead_text my-3 pb-3" >Venture Machine & Tool, inc, has the capacity to handle jobs of all sizes and complexities in an efficient manner, including: Large Complex Tooling Projects including Automation and Assembly Progressive Dies / Auto Transfer Tools / Hand Transfer / In Tool Automation Engineering Services High or Low Volume Production Laser Cutting 3D Shapes and Flat Sheet Transfer Presses Robotic Weld Cells Large Drawn Shells Cosmetic Automotive and Appliance Parts                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">846</span>
+                                    <span class="">62</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.49ers.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.vmtooling.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 530 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(408) 562-4949</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 12 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(608) 783-8114</p></div>
 
                         </div>
 
@@ -1714,7 +1862,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons8()">Download Free </a>
                                   
@@ -1730,7 +1878,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/LaD443H7x6/2020_Invoices_rar"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/FcBfH9Gbx9/Amy_s_Archived_Documents_110715_zip"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -1739,27 +1887,7 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        292.72MB</a>
-                                                                        <a href="https://anonfiles.com/D2papdNfxf/49ers.com_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        3.26GB</a>
-                                                                        <a href="https://anonfiles.com/d2Map8N2x3/49ers.com2_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        5.76GB</a>
+                                        30.35MB</a>
                                                                 </div>
                             
                     </div>
@@ -1771,7 +1899,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block7 = '<img src="proofs/7/proof.png" alt="" class="proof">';
+            var proof_img_block7 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof7(){
@@ -1780,7 +1908,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_7 .proof_block").html(proof_img_block7).slideDown(400);
                 }else{
                     showed7 = 0;
-                    $("#target_7 .proof_block").html('').slideUp(400);
+                    $("#target_7 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -1800,7 +1928,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -4076134;
+            var HAPPYSEC7 = -4421856;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -1858,26 +1986,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_7').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_7').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/7/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Venture Machine & Tool, Inc.</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Aeronamic</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -1885,10 +2010,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/7/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -1898,27 +2023,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Venture Machine & Tool, inc, has the capacity to handle jobs of all sizes and complexities in an efficient manner, including: Large Complex Tooling Projects including Automation and Assembly Progressive Dies / Auto Transfer Tools / Hand Transfer / In Tool Automation Engineering Services High or Low Volume Production Laser Cutting 3D Shapes and Flat Sheet Transfer Presses Robotic Weld Cells Large Drawn Shells Cosmetic Automotive and Appliance Parts                            </p>
+                            <p class="lead_text my-3 pb-3" >Being the best is not about doing everything yourself. Its about choosing what you dedicate your time and energy to. Thats why we state: achieve more by doing less. Realize your true maximum potential. At Aeronamic, we choose to dedicate ourselves to high-speed rotating components and precision parts you need. Developing, producing, assembling, testing and servicing them thoroughly, according to all standards. Saving you both time and money. Your challenges are our playing field. We had the advantage of starting big, being part of former mother company URENCO, which invented the worlds first ultra-centrifuge for uranium enrichment. That historic step set the bar for all of our achievements. We kept pushing on in order to reach higher ground. Now its your turn to take off, powered by our success.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">62</span>
+                                    <span class="">135</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.vmtooling.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://aeronamic.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 12 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(608) 783-8114</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 54.49 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+31-546545570</p></div>
 
                         </div>
 
@@ -1929,7 +2054,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons7()">Download Free </a>
                                   
@@ -1945,7 +2070,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/FcBfH9Gbx9/Amy_s_Archived_Documents_110715_zip"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/h83aF5Gfx4/AEROSECR_zip"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -1954,7 +2079,7 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        30.35MB</a>
+                                        140.86MB</a>
                                                                 </div>
                             
                     </div>
@@ -1966,7 +2091,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block6 = '<img src="proofs/6/proof.png" alt="" class="proof">';
+            var proof_img_block6 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof6(){
@@ -1975,7 +2100,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_6 .proof_block").html(proof_img_block6).slideDown(400);
                 }else{
                     showed6 = 0;
-                    $("#target_6 .proof_block").html('').slideUp(400);
+                    $("#target_6 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -1995,7 +2120,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -4076134;
+            var HAPPYSEC6 = -4421856;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -2053,26 +2178,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_6').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_6').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/6/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Aeronamic</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Prince Jewellery & Watch Co., Ltd.</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -2080,10 +2202,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/6/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -2093,27 +2215,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Being the best is not about doing everything yourself. Its about choosing what you dedicate your time and energy to. Thats why we state: achieve more by doing less. Realize your true maximum potential. At Aeronamic, we choose to dedicate ourselves to high-speed rotating components and precision parts you need. Developing, producing, assembling, testing and servicing them thoroughly, according to all standards. Saving you both time and money. Your challenges are our playing field. We had the advantage of starting big, being part of former mother company URENCO, which invented the worlds first ultra-centrifuge for uranium enrichment. That historic step set the bar for all of our achievements. We kept pushing on in order to reach higher ground. Now its your turn to take off, powered by our success.                            </p>
+                            <p class="lead_text my-3 pb-3" >Prince Jewellery & Watch was founded in 1984 by Dr. Tang Kui Ming, JP, Chairman and Chief Executive Officer of the Group. It has been standing in Hong Kong for more than 30 years and now has 18 retail stores in Hong Kong. Prince Jewellery & Watch Headquarters is located at Choi Sing Centre, Nathan Road, Tsim Sha Tsui. The stores are decorated with elegance and grandeur, and represent more than 50 top brand watches from all over the world, including Piaget, Cartier, FRANCK MULLER, Vacheron Constantin, Chopard, Omega, Breguet, Jaeger-LeCoultre, Longines, Bucherer, IWC, etc. In addition to acting as an agent for the world's top brand watches and clocks, Prince Jewellery and Watches also has a special jewellery counter, with diamonds and gemstones inlaid with jewellery series, which are novel in style, noble and elegant, and full of luxury. In 2012, Leo Schachter Diamonds, the world's leading diamond supplier, jointly developed the Peony 88 Petal Cut with Prince Jewellery and Watch Company, and established the Peonia Diamond brand. . Peonia Diamond carefully selects the highest quality diamonds, adopts the exclusive peony flower 88-petal cutting method technology, and uses a combination of carefully designed cutting surfaces to increase the brightness, fire and sparkle of the diamond, perfectly presenting the flower of the royal family The magnificent form of peony. Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affiliated companies in Hong Kong, China, Macau and Taiwan.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">135</span>
+                                    <span class="">?</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://aeronamic.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.princejewellerywatch.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 54.49 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>+31-546545570</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
 
                         </div>
 
@@ -2124,7 +2246,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons6()">Download Free </a>
                                   
@@ -2140,7 +2262,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/h83aF5Gfx4/AEROSECR_zip"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/X6ud17G1x9/Acc_Purchase_zip"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -2149,7 +2271,7 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        140.86MB</a>
+                                        461.07MB</a>
                                                                 </div>
                             
                     </div>
@@ -2161,7 +2283,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block5 = '<img src="proofs/5/proof.png" alt="" class="proof">';
+            var proof_img_block5 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof5(){
@@ -2170,7 +2292,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_5 .proof_block").html(proof_img_block5).slideDown(400);
                 }else{
                     showed5 = 0;
-                    $("#target_5 .proof_block").html('').slideUp(400);
+                    $("#target_5 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -2190,7 +2312,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -4076134;
+            var HAPPYSEC5 = -4681056;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -2248,26 +2370,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_5').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_5').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/5/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Prince Jewellery & Watch Co., Ltd.</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Argonaut Gold</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -2275,10 +2394,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/5/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -2288,27 +2407,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Prince Jewellery & Watch was founded in 1984 by Dr. Tang Kui Ming, JP, Chairman and Chief Executive Officer of the Group. It has been standing in Hong Kong for more than 30 years and now has 18 retail stores in Hong Kong. Prince Jewellery & Watch Headquarters is located at Choi Sing Centre, Nathan Road, Tsim Sha Tsui. The stores are decorated with elegance and grandeur, and represent more than 50 top brand watches from all over the world, including Piaget, Cartier, FRANCK MULLER, Vacheron Constantin, Chopard, Omega, Breguet, Jaeger-LeCoultre, Longines, Bucherer, IWC, etc. In addition to acting as an agent for the world's top brand watches and clocks, Prince Jewellery and Watches also has a special jewellery counter, with diamonds and gemstones inlaid with jewellery series, which are novel in style, noble and elegant, and full of luxury. In 2012, Leo Schachter Diamonds, the world's leading diamond supplier, jointly developed the Peony 88 Petal Cut with Prince Jewellery and Watch Company, and established the Peonia Diamond brand. . Peonia Diamond carefully selects the highest quality diamonds, adopts the exclusive peony flower 88-petal cutting method technology, and uses a combination of carefully designed cutting surfaces to increase the brightness, fire and sparkle of the diamond, perfectly presenting the flower of the royal family The magnificent form of peony. Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affiliated companies in Hong Kong, China, Macau and Taiwan.                            </p>
+                            <p class="lead_text my-3 pb-3" >Argonaut Gold is a Canadian gold company engaged in exploration, mine development and production. Its primary assets are the El Castillo mine and San Agustin mine, which together form the El Castillo Complex in Durango, Mexico, the La Colorada mine in Sonora, Mexico and the production stage Florida Canyon mine in Nevada, United States. Advanced exploration projects include the Cerro del Gallo project in Guanajuato, Mexico, the Magino project in Ontario, Canada and the Ana Paula project in Guerrero, Mexico. The Company continues to hold the San Antonio advanced exploration project in Baja California Sur, Mexico and several other exploration stage projects, all of which are located in North America.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">?</span>
+                                    <span class="">1.447</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.princejewellerywatch.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.argonautgold.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ ? </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>?</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 300 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(775) 284-4422</p></div>
 
                         </div>
 
@@ -2319,7 +2438,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons5()">Download Free </a>
                                   
@@ -2335,7 +2454,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/X6ud17G1x9/Acc_Purchase_zip"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/R4ef55F5x0/ARG_zip"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -2344,7 +2463,27 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        461.07MB</a>
+                                        226.34MB</a>
+                                                                        <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        19.55MB</a>
+                                                                        <a href="https://anonfiles.com/TaH5QbGex4/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        571.98GB</a>
                                                                 </div>
                             
                     </div>
@@ -2356,7 +2495,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block4 = '<img src="proofs/4/proof.png" alt="" class="proof">';
+            var proof_img_block4 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof4(){
@@ -2365,7 +2504,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_4 .proof_block").html(proof_img_block4).slideDown(400);
                 }else{
                     showed4 = 0;
-                    $("#target_4 .proof_block").html('').slideUp(400);
+                    $("#target_4 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -2385,7 +2524,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -4335334;
+            var HAPPYSEC4 = -9519456;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -2443,26 +2582,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_4').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_4').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/4/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Argonaut Gold</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Taylor and Martin</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -2470,10 +2606,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/4/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -2483,27 +2619,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Argonaut Gold is a Canadian gold company engaged in exploration, mine development and production. Its primary assets are the El Castillo mine and San Agustin mine, which together form the El Castillo Complex in Durango, Mexico, the La Colorada mine in Sonora, Mexico and the production stage Florida Canyon mine in Nevada, United States. Advanced exploration projects include the Cerro del Gallo project in Guanajuato, Mexico, the Magino project in Ontario, Canada and the Ana Paula project in Guerrero, Mexico. The Company continues to hold the San Antonio advanced exploration project in Baja California Sur, Mexico and several other exploration stage projects, all of which are located in North America.                            </p>
+                            <p class="lead_text my-3 pb-3" >Taylor & Martin is located in Fort Worth, TX, United States and is part of the Other Support Services Industry. Taylor & Martin has 73+ total employees across all of its locations and generates 14 Million+ in sales (USD). (Sales figure is modelled).                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
-                                    <span class="">1.447</span>
+                                    <span class="">73</span>
                                 </p>
                             </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.argonautgold.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.taylorandmartin.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 300 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(775) 284-4422</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 14 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(402) 721-4500</p></div>
 
                         </div>
 
@@ -2514,7 +2650,7 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
                                                                 <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons4()">Download Free </a>
                                   
@@ -2530,7 +2666,7 @@ and implementing best practices and providing medical approval for the import an
                     </div>
                     <div id="modal_footer" class="modal-footer">
                                                     <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/R4ef55F5x0/ARG_zip"  target="_blank"  class=" btn btn3 legitRipple
+                                                                    <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -2539,7 +2675,7 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        226.34MB</a>
+                                        129.2MB</a>
                                                                         <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
@@ -2550,7 +2686,7 @@ and implementing best practices and providing medical approval for the import an
 
 
                                         19.55MB</a>
-                                                                        <a href="https://anonfiles.com/TaH5QbGex4/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                                                                        <a href="https://anonfiles.com/h57522M4x0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
                             " style="margin-bottom: 3px">
 
 
@@ -2559,7 +2695,7 @@ and implementing best practices and providing medical approval for the import an
                                         download
 
 
-                                        571.98GB</a>
+                                        571.98MB</a>
                                                                 </div>
                             
                     </div>
@@ -2571,7 +2707,7 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block3 = '<img src="proofs/3/proof.png" alt="" class="proof">';
+            var proof_img_block3 = '<img src="" alt="" class="proof">';
 
 
             function ShowProof3(){
@@ -2580,7 +2716,7 @@ and implementing best practices and providing medical approval for the import an
                     $("#target_3 .proof_block").html(proof_img_block3).slideDown(400);
                 }else{
                     showed3 = 0;
-                    $("#target_3 .proof_block").html('').slideUp(400);
+                    $("#target_3 .proof_block").html(' ').slideUp(400);
                 }
 
             }
@@ -2600,7 +2736,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -9173734;
+            var HAPPYSEC3 = -9519456;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -2658,26 +2794,23 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_3').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_3').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/3/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Taylor and Martin</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
 
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <h1 class="display-4 font-italic border-bottom h_font name-target">Rector Hayden Realtors</h1>
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
-
-
 
 
 
@@ -2685,10 +2818,10 @@ and implementing best practices and providing medical approval for the import an
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/3/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -2698,242 +2831,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Taylor & Martin is located in Fort Worth, TX, United States and is part of the Other Support Services Industry. Taylor & Martin has 73+ total employees across all of its locations and generates 14 Million+ in sales (USD). (Sales figure is modelled).                            </p>
+                            <p class="lead_text my-3 pb-3" >As an experienced real estate company dedicated to making the home buying experience efficient and stress-free, Rector Hayden REALTORS strives to provide an unparalleled level of service to our customers every day. Our affiliation with HomeServices of America, and our Family of Services, ensure you have access to everything you need when it comes to your real estate journey.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">73</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.taylorandmartin.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 14 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(402) 721-4500</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons3()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        129.2MB</a>
-                                                                        <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        19.55MB</a>
-                                                                        <a href="https://anonfiles.com/h57522M4x0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        571.98MB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
-            var proof_img_block2 = '<img src="proofs/2/proof.png" alt="" class="proof">';
-
-
-            function ShowProof2(){
-                if(showed2 === 0){
-                    showed2 = 1;
-                    $("#target_2 .proof_block").html(proof_img_block2).slideDown(400);
-                }else{
-                    showed2 = 0;
-                    $("#target_2 .proof_block").html('').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons2(){
-                if(showed_d_buttons2 === 0){
-                    showed_d_buttons2 = 1;
-                    $("#target_2 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons2 = 0;
-                    $("#target_2 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed2 = 0;
-            var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -9173734;
-            var t_sec2 = HAPPYSEC2;
-
-            var time2;
-            var intervalId2=0;
-
-
-            $(document).ready(function () {
-                $("#target_2 .d_buttons a.btn3").addClass("red_button");
-                intervalId2 = setInterval(function (){
-                    timerDecrement2();
-                }, 1000);
-            });
-
-
-            function timerDecrement2() {
-                time2 = $('#target_2 span.timer');
-
-                if(t_sec2 < 1){
-                    t_sec2 = 0;
-                    newTime = t_sec2 ;
-                }else{
-                    newTime = t_sec2 - 1;
-                }
-
-
-                t_sec2 = newTime;
-
-                var t_min = t_sec2 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec2 % 60)+ '</b> ';
-
-                time2.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC2 > 0 || newTime < 1){
-
-                    time2.html('');
-                    $("#target_2 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_2 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_2 .btn2").addClass("redbg");
-                    $("#target_2 .arrow-8").addClass("r8");
-                    $("#target_2 .perc").html("100%");
-
-                    clearInterval(intervalId2);
-                    GetDownloadLink(2,$("#target_2 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_2').modal('show')">
-            <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/2/proof.png" alt="" class="proof" id="logo-color">
-                </div>
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Rector Hayden Realtors</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
-
-            </div>
-
-        </div>
-
-
-
-
-
-        <div class="modal desc_2" tabindex="-1"  id="target_2" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/2/proof.png" alt="" class="proof" id="logo-color"></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p id="lead_text" class="lead my-3 pb-3" >As an experienced real estate company dedicated to making the home buying experience efficient and stress-free, Rector Hayden REALTORS strives to provide an unparalleled level of service to our customers every day. Our affiliation with HomeServices of America, and our Family of Services, ensure you have access to everything you need when it comes to your real estate journey.                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
                                     <span class="">18.118</span>
                                 </p>
                             </div>
                             <div class="col-md-3 text-center" onclick="GO('https://www.rhr.com')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 86 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(859) 276-4811</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 86 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(859) 276-4811</p></div>
 
                         </div>
 
@@ -2944,9 +2862,9 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons2()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons3()">Download Free </a>
                                   
 
                           </div>
@@ -3011,86 +2929,86 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block1 = '<img src="proofs/1/proof.png" alt="" class="proof">';
+            var proof_img_block2 = '<img src="" alt="" class="proof">';
 
 
-            function ShowProof1(){
-                if(showed1 === 0){
-                    showed1 = 1;
-                    $("#target_1 .proof_block").html(proof_img_block1).slideDown(400);
+            function ShowProof2(){
+                if(showed2 === 0){
+                    showed2 = 1;
+                    $("#target_2 .proof_block").html(proof_img_block2).slideDown(400);
                 }else{
-                    showed1 = 0;
-                    $("#target_1 .proof_block").html('').slideUp(400);
+                    showed2 = 0;
+                    $("#target_2 .proof_block").html(' ').slideUp(400);
                 }
 
             }
 
 
-            function ShowDButtons1(){
-                if(showed_d_buttons1 === 0){
-                    showed_d_buttons1 = 1;
-                    $("#target_1 .d_buttons").slideDown(400);
+            function ShowDButtons2(){
+                if(showed_d_buttons2 === 0){
+                    showed_d_buttons2 = 1;
+                    $("#target_2 .d_buttons").slideDown(400);
                 }else{
-                    showed_d_buttons1 = 0;
-                    $("#target_1 .d_buttons").slideUp(400);
+                    showed_d_buttons2 = 0;
+                    $("#target_2 .d_buttons").slideUp(400);
                 }
 
             }
 
 
-            var showed1 = 0;
-            var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -9173734;
-            var t_sec1 = HAPPYSEC1;
+            var showed2 = 0;
+            var showed_d_buttons2 = 0;
+            var HAPPYSEC2 = -9519456;
+            var t_sec2 = HAPPYSEC2;
 
-            var time1;
-            var intervalId1=0;
+            var time2;
+            var intervalId2=0;
 
 
             $(document).ready(function () {
-                $("#target_1 .d_buttons a.btn3").addClass("red_button");
-                intervalId1 = setInterval(function (){
-                    timerDecrement1();
+                $("#target_2 .d_buttons a.btn3").addClass("red_button");
+                intervalId2 = setInterval(function (){
+                    timerDecrement2();
                 }, 1000);
             });
 
 
-            function timerDecrement1() {
-                time1 = $('#target_1 span.timer');
+            function timerDecrement2() {
+                time2 = $('#target_2 span.timer');
 
-                if(t_sec1 < 1){
-                    t_sec1 = 0;
-                    newTime = t_sec1 ;
+                if(t_sec2 < 1){
+                    t_sec2 = 0;
+                    newTime = t_sec2 ;
                 }else{
-                    newTime = t_sec1 - 1;
+                    newTime = t_sec2 - 1;
                 }
 
 
-                t_sec1 = newTime;
+                t_sec2 = newTime;
 
-                var t_min = t_sec1 / 60;
+                var t_min = t_sec2 / 60;
                 var t_hour = t_min / 60;
                 var t_day =
                     '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
                     '<b>' + Math.floor(t_hour % 24) +'</b>:' +
                     '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec1 % 60)+ '</b> ';
+                    '<b>' + Math.floor(t_sec2 % 60)+ '</b> ';
 
-                time1.html(t_day);
+                time2.html(t_day);
 
 
 
-                if(newTime === 0 && HAPPYSEC1 > 0 || newTime < 1){
+                if(newTime === 0 && HAPPYSEC2 > 0 || newTime < 1){
 
-                    time1.html('');
-                    $("#target_1 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_1 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_1 .btn2").addClass("redbg");
-                    $("#target_1 .arrow-8").addClass("r8");
-                    $("#target_1 .perc").html("100%");
+                    time2.html('');
+                    $("#target_2 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_2 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_2 .btn2").addClass("redbg");
+                    $("#target_2 .arrow-8").addClass("r8");
+                    $("#target_2 .perc").html("100%");
 
-                    clearInterval(intervalId1);
-                    GetDownloadLink(1,$("#target_1 .redbg"));
+                    clearInterval(intervalId2);
+                    GetDownloadLink(2,$("#target_2 .redbg"));
                 }
 
 
@@ -3098,37 +3016,34 @@ and implementing best practices and providing medical approval for the import an
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_1').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_2').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/1/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
+
                 <h1 class="display-4 font-italic border-bottom h_font name-target">Petrolimex</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
 
 
 
-
-
-        <div class="modal desc_1" tabindex="-1"  id="target_1" >
+        <div class="modal desc_2" tabindex="-1"  id="target_2" >
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/1/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -3138,27 +3053,27 @@ and implementing best practices and providing medical approval for the import an
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >The current Vietnam National Petroleum Group (Petrolimex) was established from the equitisation and restructure of Vietnam National Petroleum Corporation. Petrolimexs main operations are exporting, importing and trading petroleum, refining petrochemicals, investing in other enterprises to conduct business that Petrolimex is doing and other business as prescribed by law.                            </p>
+                            <p class="lead_text my-3 pb-3" >The current Vietnam National Petroleum Group (Petrolimex) was established from the equitisation and restructure of Vietnam National Petroleum Corporation. Petrolimexs main operations are exporting, importing and trading petroleum, refining petrochemicals, investing in other enterprises to conduct business that Petrolimex is doing and other business as prescribed by law.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
                                     <span class="">270</span>
                                 </p>
                             </div>
                             <div class="col-md-3 text-center" onclick="GO('https://www.petrolimex.com.vn/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 257 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>+84 24 3851 2603</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 257 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+84 24 3851 2603</p></div>
 
                         </div>
 
@@ -3169,9 +3084,9 @@ and implementing best practices and providing medical approval for the import an
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons1()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons2()">Download Free </a>
                                   
 
                           </div>
@@ -3257,86 +3172,86 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
         
         <script>
 
-            var proof_img_block0 = '<img src="proofs/0/proof.png" alt="" class="proof">';
+            var proof_img_block1 = '<img src="" alt="" class="proof">';
 
 
-            function ShowProof0(){
-                if(showed0 === 0){
-                    showed0 = 1;
-                    $("#target_0 .proof_block").html(proof_img_block0).slideDown(400);
+            function ShowProof1(){
+                if(showed1 === 0){
+                    showed1 = 1;
+                    $("#target_1 .proof_block").html(proof_img_block1).slideDown(400);
                 }else{
-                    showed0 = 0;
-                    $("#target_0 .proof_block").html('').slideUp(400);
+                    showed1 = 0;
+                    $("#target_1 .proof_block").html(' ').slideUp(400);
                 }
 
             }
 
 
-            function ShowDButtons0(){
-                if(showed_d_buttons0 === 0){
-                    showed_d_buttons0 = 1;
-                    $("#target_0 .d_buttons").slideDown(400);
+            function ShowDButtons1(){
+                if(showed_d_buttons1 === 0){
+                    showed_d_buttons1 = 1;
+                    $("#target_1 .d_buttons").slideDown(400);
                 }else{
-                    showed_d_buttons0 = 0;
-                    $("#target_0 .d_buttons").slideUp(400);
+                    showed_d_buttons1 = 0;
+                    $("#target_1 .d_buttons").slideUp(400);
                 }
 
             }
 
 
-            var showed0 = 0;
-            var showed_d_buttons0 = 0;
-            var HAPPYSEC0 = -9173734;
-            var t_sec0 = HAPPYSEC0;
+            var showed1 = 0;
+            var showed_d_buttons1 = 0;
+            var HAPPYSEC1 = -9519456;
+            var t_sec1 = HAPPYSEC1;
 
-            var time0;
-            var intervalId0=0;
+            var time1;
+            var intervalId1=0;
 
 
             $(document).ready(function () {
-                $("#target_0 .d_buttons a.btn3").addClass("red_button");
-                intervalId0 = setInterval(function (){
-                    timerDecrement0();
+                $("#target_1 .d_buttons a.btn3").addClass("red_button");
+                intervalId1 = setInterval(function (){
+                    timerDecrement1();
                 }, 1000);
             });
 
 
-            function timerDecrement0() {
-                time0 = $('#target_0 span.timer');
+            function timerDecrement1() {
+                time1 = $('#target_1 span.timer');
 
-                if(t_sec0 < 1){
-                    t_sec0 = 0;
-                    newTime = t_sec0 ;
+                if(t_sec1 < 1){
+                    t_sec1 = 0;
+                    newTime = t_sec1 ;
                 }else{
-                    newTime = t_sec0 - 1;
+                    newTime = t_sec1 - 1;
                 }
 
 
-                t_sec0 = newTime;
+                t_sec1 = newTime;
 
-                var t_min = t_sec0 / 60;
+                var t_min = t_sec1 / 60;
                 var t_hour = t_min / 60;
                 var t_day =
                     '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
                     '<b>' + Math.floor(t_hour % 24) +'</b>:' +
                     '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec0 % 60)+ '</b> ';
+                    '<b>' + Math.floor(t_sec1 % 60)+ '</b> ';
 
-                time0.html(t_day);
+                time1.html(t_day);
 
 
 
-                if(newTime === 0 && HAPPYSEC0 > 0 || newTime < 1){
+                if(newTime === 0 && HAPPYSEC1 > 0 || newTime < 1){
 
-                    time0.html('');
-                    $("#target_0 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_0 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_0 .btn2").addClass("redbg");
-                    $("#target_0 .arrow-8").addClass("r8");
-                    $("#target_0 .perc").html("100%");
+                    time1.html('');
+                    $("#target_1 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_1 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_1 .btn2").addClass("redbg");
+                    $("#target_1 .arrow-8").addClass("r8");
+                    $("#target_1 .perc").html("100%");
 
-                    clearInterval(intervalId0);
-                    GetDownloadLink(0,$("#target_0 .redbg"));
+                    clearInterval(intervalId1);
+                    GetDownloadLink(1,$("#target_1 .redbg"));
                 }
 
 
@@ -3344,37 +3259,34 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
         </script>
 
 
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar" style="cursor: pointer" onclick="$('.desc_0').modal('show')">
+        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_1').modal('show')">
             <div class="col-md-10 px-0">
-                <div id="logo-image">
-                    <img src="proofs/0/proof.png" alt="" class="proof" id="logo-color">
+                <div  class="logo-image">
+                    <img src="" alt="" class="proof logo-color">
                 </div>
+
                 <h1 class="display-4 font-italic border-bottom h_font name-target">Bud Griffin and Associates</h1>
-                <div class="name-liean"></div>
-                <div class="name-liean2"></div>
-            </div>
-
-            <div class="col-md-2 px-0" id="lock-open" >
-                                    <img src="assets/img/lockopen.png" alt=""   id="lock-color" class="lock">
-                    
-
+                <div class="modal_font  name-liean"></div>
 
             </div>
+
+
+
+
+
 
         </div>
 
 
 
-
-
-        <div class="modal desc_0" tabindex="-1"  id="target_0" >
+        <div class="modal desc_1" tabindex="-1"  id="target_1" >
             <div class="modal-dialog  ">
                 <div class="modal-content modal_content_custom">
                     <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="proofs/0/proof.png" alt="" class="proof" id="logo-color"></h5>
+                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
                     </div>
                     <div class="modal-body">
-                                                    <div id="timer-success">0 DAY I 00:00:00<div id="linear-timer"></div></div>
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
                             
 
 
@@ -3384,27 +3296,27 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
                             <div class="proof_block text-center"></div>
 
 
-                            <p id="lead_text" class="lead my-3 pb-3" >Seeking sales representation in Texas, Liebert Corporation, the world leader in computer support systems, placed an advertisement in a Houston newspaper and Bud and Lura responded. In 1972, already adept in mechanical contracting, Bud Griffin and Associates, Inc. became the exclusive sales representative for Liebert in Houston and South Texas and expanded its product line to include power support equipment for demanding computer solutions.                            </p>
+                            <p class="lead_text my-3 pb-3" >Seeking sales representation in Texas, Liebert Corporation, the world leader in computer support systems, placed an advertisement in a Houston newspaper and Bud and Lura responded. In 1972, already adept in mechanical contracting, Bud Griffin and Associates, Inc. became the exclusive sales representative for Liebert in Houston and South Texas and expanded its product line to include power support equipment for demanding computer solutions.                            </p>
                         </div>
 
                         <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
                             <div class="col-md-3 text-center ">
                                 <p class="lead mb-0 squ">
                     <span class="text-white font-weight-bold ">
-                        <i  id="team-users" class="fa fa-users" ></i>
+                        <i class="fa fa-users team-users" ></i>
                     </span>
                                     <br>
                                     <span class="">80</span>
                                 </p>
                             </div>
                             <div class="col-md-3 text-center" onclick="GO('https://www.bgasales.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i  id="globe-users" class="fa fa-globe"></i></span><br>
-                                    <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
                                 </p>
                             </div>
 
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i id="dollar-users" class="fa fa-dollar"></i></span> <br>$ 10 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i  id="phone-users" class="fa fa-phone"></i></span><br>(713) 664-5462</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 10 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(713) 664-5462</p></div>
 
                         </div>
 
@@ -3415,9 +3327,9 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
                                 </p>
                             </div>
-                          <div class="btnred test"><div class="arrow-8"></div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
 
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons0()">Download Free </a>
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons1()">Download Free </a>
                                   
 
                           </div>
