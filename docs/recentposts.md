@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-19 | [`keisei-const.jp`](https://google.com/search?q=keisei-const.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`jannone.it`](https://google.com/search?q=jannone.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`groupe-corbat.c...`](https://google.com/search?q=groupe-corbat.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`daumar.com`](https://google.com/search?q=daumar.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-11 | [`SLIMSTOCK.COM FILES PART29 - 10.31.1.131 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART29+-+10.31.1.131+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`SA1SOLUTIONS.COM FILES PART3 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\ PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM+FILES+PART3+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-11 | [`CAE Services`](https://google.com/search?q=CAE+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-11 | [`ZISSERFAMILYLAW.COM FILES PART3 - D\Shares\BEACHESDATA\Business Office\Degnan, Jim\STI 201`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART3+-+D%5CShares%5CBEACHESDATA%5CBusiness+Office%5CDegnan%2C+Jim%5CSTI+201) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
