@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-19 | [`Del Sol`](https://google.com/search?q=Del+Sol) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-19 | [`secova.com - Secova Inc`](https://google.com/search?q=secova.com+-+Secova+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-19 | [`compagniedephal...`](https://google.com/search?q=compagniedephal...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`For Costa Rica`](https://google.com/search?q=For+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-11 | [`Broadleaf`](https://google.com/search?q=Broadleaf) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-11 | [`lee-associate`](https://google.com/search?q=lee-associate) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-11 | [`Newlat Food SPA`](https://google.com/search?q=Newlat+Food+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-11 | [`Wolfe Industrial`](https://google.com/search?q=Wolfe+Industrial) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
