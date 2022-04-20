@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1650467740" rel="stylesheet">
+    <link href="/blog.css?v=1650471280" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1650467740"></script>
+    <script src="/script.js?v=1650471280"></script>
     <style>
 
 
@@ -483,7 +483,7 @@
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = 809962;
+            var HAPPYSEC14 = 806422;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -676,7 +676,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 723562;
+            var HAPPYSEC13 = 720022;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -899,7 +899,7 @@
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 719062;
+            var HAPPYSEC12 = 715522;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -1096,7 +1096,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 546262;
+            var HAPPYSEC11 = 542722;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1320,7 +1320,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = -3428138;
+            var HAPPYSEC10 = -3431678;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1524,7 +1524,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -4245338;
+            var HAPPYSEC9 = -4248878;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1707,198 +1707,6 @@ and implementing best practices and providing medical approval for the import an
         
         <script>
 
-            var proof_img_block15 = '<img src="" alt="" class="proof">';
-
-
-            function ShowProof15(){
-                if(showed15 === 0){
-                    showed15 = 1;
-                    $("#target_15 .proof_block").html(proof_img_block15).slideDown(400);
-                }else{
-                    showed15 = 0;
-                    $("#target_15 .proof_block").html(' ').slideUp(400);
-                }
-
-            }
-
-
-            function ShowDButtons15(){
-                if(showed_d_buttons15 === 0){
-                    showed_d_buttons15 = 1;
-                    $("#target_15 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons15 = 0;
-                    $("#target_15 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed15 = 0;
-            var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = -4504538;
-            var t_sec15 = HAPPYSEC15;
-
-            var time15;
-            var intervalId15=0;
-
-
-            $(document).ready(function () {
-                $("#target_15 .d_buttons a.btn3").addClass("red_button");
-                intervalId15 = setInterval(function (){
-                    timerDecrement15();
-                }, 1000);
-            });
-
-
-            function timerDecrement15() {
-                time15 = $('#target_15 span.timer');
-
-                if(t_sec15 < 1){
-                    t_sec15 = 0;
-                    newTime = t_sec15 ;
-                }else{
-                    newTime = t_sec15 - 1;
-                }
-
-
-                t_sec15 = newTime;
-
-                var t_min = t_sec15 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec15 % 60)+ '</b> ';
-
-                time15.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC15 > 0 || newTime < 1){
-
-                    time15.html('');
-                    $("#target_15 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_15 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_15 .btn2").addClass("redbg");
-                    $("#target_15 .arrow-8").addClass("r8");
-                    $("#target_15 .perc").html("100%");
-
-                    clearInterval(intervalId15);
-                    GetDownloadLink(15,$("#target_15 .redbg"));
-                }
-
-
-            }
-        </script>
-
-
-        <div  class="col-md-6 col-sm-12  jumbotron mypad  text-white rounded bg-tar  " style="cursor: pointer" onclick="$('.desc_15').modal('show')">
-            <div class="col-md-10 px-0">
-                <div  class="logo-image">
-                    <img src="" alt="" class="proof logo-color">
-                </div>
-
-                <h1 class="display-4 font-italic border-bottom h_font name-target">Venture Machine & Tool, Inc.</h1>
-                <div class="modal_font  name-liean"></div>
-
-            </div>
-
-
-
-
-
-
-        </div>
-
-
-
-        <div class="modal desc_15" tabindex="-1"  id="target_15" >
-            <div class="modal-dialog  ">
-                <div class="modal-content modal_content_custom">
-                    <div id="modal_header" class="modal-header">
-                        <h5 class="modal-title font-italic"><img src="" alt="" class="proof logo-color" ></h5>
-                    </div>
-                    <div class="modal-body">
-                                                    <div class="timer-success">0 DAY I 00:00:00</div>
-                            
-
-
-
-                        <div class="col-md-12 px-0">
-
-                            <div class="proof_block text-center"></div>
-
-
-                            <p class="lead_text my-3 pb-3" >Venture Machine & Tool, inc, has the capacity to handle jobs of all sizes and complexities in an efficient manner, including: Large Complex Tooling Projects including Automation and Assembly Progressive Dies / Auto Transfer Tools / Hand Transfer / In Tool Automation Engineering Services High or Low Volume Production Laser Cutting 3D Shapes and Flat Sheet Transfer Presses Robotic Weld Cells Large Drawn Shells Cosmetic Automotive and Appliance Parts                            </p>
-                        </div>
-
-                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                            <div class="col-md-3 text-center ">
-                                <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users team-users" ></i>
-                    </span>
-                                    <br>
-                                    <span class="">62</span>
-                                </p>
-                            </div>
-                            <div class="col-md-3 text-center" onclick="GO('https://www.vmtooling.com/')">
-                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
-                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
-                                </p>
-                            </div>
-
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 12 Million </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(608) 783-8114</p></div>
-
-                        </div>
-
-                        <div class="col-md-12 row px-0 mt-5">
-                            <div class="col-md-12 text-center"></div>
-                            <div class="col-md-6">
-                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-
-                                </p>
-                            </div>
-                          <div class="btnred red-button"><div class="arrow-8"></div>
-
-                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons15()">Download Free </a>
-                                  
-
-                          </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-                    <div id="modal_footer" class="modal-footer">
-                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                                    <a href="https://anonfiles.com/FcBfH9Gbx9/Amy_s_Archived_Documents_110715_zip"  target="_blank"  class=" btn btn3 legitRipple
-                            " style="margin-bottom: 3px">
-
-
-
-
-                                        download
-
-
-                                        30.35MB</a>
-                                                                </div>
-                            
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-        <script>
-
             var proof_img_block8 = '<img src="" alt="" class="proof">';
 
 
@@ -1928,7 +1736,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -4504538;
+            var HAPPYSEC8 = -4508078;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -2120,7 +1928,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -4504538;
+            var HAPPYSEC7 = -4508078;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -2312,7 +2120,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -4504538;
+            var HAPPYSEC6 = -4508078;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -2504,7 +2312,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -4763738;
+            var HAPPYSEC5 = -4767278;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -2716,7 +2524,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -9602138;
+            var HAPPYSEC4 = -9605678;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -2928,7 +2736,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -9602138;
+            var HAPPYSEC3 = -9605678;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -3150,7 +2958,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -9602138;
+            var HAPPYSEC2 = -9605678;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -3393,7 +3201,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -9602138;
+            var HAPPYSEC1 = -9605678;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
