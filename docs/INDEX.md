@@ -24,7 +24,7 @@
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | Recreation Attendant Job in Williamsburg, VA - Mar | 🔴 | 2022-03-21 | lockbitapt.uz |
 | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |
 | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🔴 | 2022-04-20 | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
+| [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) | Hive | 🟢 |  | hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion |
 | [hiveleak](https://rwtracker.level-4.net/docs/#/profiles?id=hiveleak) |  | 🟢 |  | hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion |
 | [arvinclub](https://rwtracker.level-4.net/docs/#/profiles?id=arvinclub) | Arvin Club – آزادی برای اتصال | 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | [avoslocker](https://rwtracker.level-4.net/docs/#/profiles?id=avoslocker) | AvosLocker Access Queue | 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
@@ -42,8 +42,8 @@
 | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) | 502 Bad Gateway | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | [netwalker](https://rwtracker.level-4.net/docs/#/profiles?id=netwalker) |  | 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | [doppelpaymer](https://rwtracker.level-4.net/docs/#/profiles?id=doppelpaymer) | Start-maximized.com | 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
-| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) |  | 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
-| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
+| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) | 404 Not Found | 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
+| [revil](https://rwtracker.level-4.net/docs/#/profiles?id=revil) |  | 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | [everest](https://rwtracker.level-4.net/docs/#/profiles?id=everest) | Everest ransom team | 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://rwtracker.level-4.net/docs/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
@@ -56,7 +56,7 @@
 | [babuk-locker](https://rwtracker.level-4.net/docs/#/profiles?id=babuk-locker) | Babuk - Leaks site | 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) | RANSOMEXX | 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) |  | 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
-| [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) | Cuba | 🟢 |  | cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion |
+| [cuba](https://rwtracker.level-4.net/docs/#/profiles?id=cuba) | Cuba | 🔴 | 2022-04-20 | cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion |
 | [pay2key](https://rwtracker.level-4.net/docs/#/profiles?id=pay2key) | Pay2Key Leak Directory! | 🔴 | 2022-03-15 | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | [aztroteam](https://rwtracker.level-4.net/docs/#/profiles?id=aztroteam) |  | 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | [lockdata](https://rwtracker.level-4.net/docs/#/profiles?id=lockdata) | LockData Auction | 🔴 | 2022-04-09 | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
@@ -93,7 +93,7 @@
 | [nemty](https://rwtracker.level-4.net/docs/#/profiles?id=nemty) |  | 🔴 | 2021-05-01 | zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |
 | [onepercent](https://rwtracker.level-4.net/docs/#/profiles?id=onepercent) |  | 🔴 | 2021-05-01 | 5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |
 | [prolock](https://rwtracker.level-4.net/docs/#/profiles?id=prolock) |  | 🔴 | 2021-05-01 | msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |
-| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🔴 | 2022-04-20 | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
+| [qlocker](https://rwtracker.level-4.net/docs/#/profiles?id=qlocker) |  | 🟢 |  | gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion |
 | [ranzy](https://rwtracker.level-4.net/docs/#/profiles?id=ranzy) |  | 🔴 | 2021-05-01 | 37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | [vfokx](https://rwtracker.level-4.net/docs/#/profiles?id=vfokx) |  | 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
@@ -106,7 +106,7 @@
 | [sabbath](https://rwtracker.level-4.net/docs/#/profiles?id=sabbath) |  | 🔴 | 2022-04-12 | 54bb47h.blog |
 | [quantum](https://rwtracker.level-4.net/docs/#/profiles?id=quantum) | Quantum Blog | 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
 | [medusa](https://rwtracker.level-4.net/docs/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
-| [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🔴 | 2022-04-20 | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
+| [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://rwtracker.level-4.net/docs/#/profiles?id=snatch) | News | 🟢 |  | snatch.press |
 | [midas](https://rwtracker.level-4.net/docs/#/profiles?id=midas) | Info | 🔴 | 2022-04-14 | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://rwtracker.level-4.net/docs/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
@@ -130,7 +130,7 @@
 | [nightsky](https://rwtracker.level-4.net/docs/#/profiles?id=nightsky) | Night Sky | 🔴 | 2022-01-25 | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |
 | [ransomcartel](https://rwtracker.level-4.net/docs/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
 | [adminlocker](https://rwtracker.level-4.net/docs/#/profiles?id=adminlocker) | Admin Locker | 🟢 |  | adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |
-| [sugar](https://rwtracker.level-4.net/docs/#/profiles?id=sugar) |  | 🔴 | 2022-04-10 | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
+| [sugar](https://rwtracker.level-4.net/docs/#/profiles?id=sugar) |  | 🟢 |  | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
 | [zeon](https://rwtracker.level-4.net/docs/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
 | [freecivilian](https://rwtracker.level-4.net/docs/#/profiles?id=freecivilian) | Free Civilian | 🟢 |  | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://rwtracker.level-4.net/docs/#/profiles?id=pandora) | Pandora Data Leak | 🟢 |  | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
