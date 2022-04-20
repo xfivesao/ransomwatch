@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-20 | [`Camden City School District`](https://google.com/search?q=Camden+City+School+District) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-20 | [`ingesw.com`](https://google.com/search?q=ingesw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`Instituto Meteorológico Nacional and racsa.go.cr`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional+and+racsa.go.cr) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-19 | [`Instituto Meteorológico Nacional`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-12 | [`DC ADVISORY`](https://google.com/search?q=DC+ADVISORY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`Florida International University (www.fiu.edu)`](https://google.com/search?q=Florida+International+University+%28www.fiu.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`tgs.com.ar`](https://google.com/search?q=tgs.com.ar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`wallyedgar.com - Wally Edgar Chevrolet`](https://google.com/search?q=wallyedgar.com+-+Wally+Edgar+Chevrolet) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
