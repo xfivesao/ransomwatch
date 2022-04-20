@@ -606,7 +606,7 @@
         "name": "revil",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -626,6 +626,15 @@
                 "available": true,
                 "updated": "2022-04-20 20:10:29.747034",
                 "lastscrape": "2022-04-20 20:10:29.747019"
+            },
+            {
+                "fqdn": "blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
