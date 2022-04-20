@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-20 | [`baugeschaeft-bo...`](https://google.com/search?q=baugeschaeft-bo...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`DavislandscapeL...`](https://google.com/search?q=DavislandscapeL...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`lekise.com`](https://google.com/search?q=lekise.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`MAGNAR-EIKELAND...`](https://google.com/search?q=MAGNAR-EIKELAND...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-29 | [`Stago`](https://google.com/search?q=Stago) | [ransomexx](https://rwtracker.level-4.net/docs/#/profiles?id=ransomexx) |
 | 2022-03-29 | [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
 | 2022-03-29 | [`Critical Content`](https://google.com/search?q=Critical+Content) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
-| 2022-03-29 | [`Automobil Holding AS`](https://google.com/search?q=Automobil+Holding+AS) | [conti](https://rwtracker.level-4.net/docs/#/profiles?id=conti) |
