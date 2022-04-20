@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-20 | [`baugeschaeft-bo...`](https://google.com/search?q=baugeschaeft-bo...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`DavislandscapeL...`](https://google.com/search?q=DavislandscapeL...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`AM International`](https://google.com/search?q=AM+International) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-04-20 | [`Trace Midstream`](https://google.com/search?q=Trace+Midstream) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-12 | [`DeeZee`](https://google.com/search?q=DeeZee) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
