@@ -161,7 +161,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": true,
-        "meta": null,
+        "meta": "previous clearnet fqdn lockbitapt.uz",
         "locations": [
             {
                 "fqdn": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
@@ -243,15 +243,6 @@
                 "available": true,
                 "updated": "2022-04-21 23:10:33.711030",
                 "lastscrape": "2022-04-21 23:10:33.711013"
-            },
-            {
-                "fqdn": "lockbitapt.uz",
-                "title": "Recreation Attendant Job in Williamsburg, VA - Mar",
-                "version": 0,
-                "slug": "http://lockbitapt.uz",
-                "available": false,
-                "updated": "2022-03-21 04:12:22.085896",
-                "lastscrape": "2022-03-21 04:12:22.085824"
             },
             {
                 "fqdn": "lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion",
