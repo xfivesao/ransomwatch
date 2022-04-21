@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-21 | [`Volvo data breach`](https://google.com/search?q=Volvo+data+breach) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`UKG Kronos Data Leak`](https://google.com/search?q=UKG+Kronos+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`T Mobile Data Leak Dec-2021`](https://google.com/search?q=T+Mobile+Data+Leak+Dec-2021) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`breadt`](https://google.com/search?q=breadt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-13 | [`Simply Placed`](https://google.com/search?q=Simply+Placed) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-13 | [`get-greenenergy...`](https://google.com/search?q=get-greenenergy...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`northstari`](https://google.com/search?q=northstari) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-12 | [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
