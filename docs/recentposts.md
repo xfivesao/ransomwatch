@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-21 | [`Major indian cryptocurrency Data Leak`](https://google.com/search?q=Major+indian+cryptocurrency+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`Asfaltproductienijmegen`](https://google.com/search?q=Asfaltproductienijmegen) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-21 | [`CYMZ`](https://google.com/search?q=CYMZ) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-21 | [`www.oil-india.com`](https://google.com/search?q=www.oil-india.com) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-12 | [`bet9ja.com - goldbet.it`](https://google.com/search?q=bet9ja.com+-+goldbet.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`inglotcosmetics...`](https://google.com/search?q=inglotcosmetics...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-12 | [`breadtalk.com`](https://google.com/search?q=breadtalk.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-12 | [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
