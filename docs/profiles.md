@@ -4981,6 +4981,8 @@ _parsing : `disabled`_
 
 _parsing : `enabled`_
 
+_`not a ransomware group`_
+
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Items | True | 0 | 13:18 22/04/2022 | `kelvinsecteamcyber.wixsite.com` |

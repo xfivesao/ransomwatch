@@ -2461,7 +2461,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": null,
+        "meta": "not a ransomware group",
         "locations": [
             {
                 "fqdn": "kelvinsecteamcyber.wixsite.com",
