@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-22 | [`metrobrokers`](https://google.com/search?q=metrobrokers) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-22 | [`simplilearn.net`](https://google.com/search?q=simplilearn.net) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-04-22 | [`fazenda.rj.gov....`](https://google.com/search?q=fazenda.rj.gov....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-14 | [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cassinobuilding...`](https://google.com/search?q=cassinobuilding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`mpm.fr`](https://google.com/search?q=mpm.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`Musco Sports Lighting`](https://google.com/search?q=Musco+Sports+Lighting) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
