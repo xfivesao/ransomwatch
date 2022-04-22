@@ -4977,3 +4977,30 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
+## kelvinsecurity
+
+_parsing : `enabled`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Items | True | 0 | 13:18 22/04/2022 | `kelvinsecteamcyber.wixsite.com` |
+
+| post | date |
+|---|---|
+| `CARACOL TV COLOMBIA` | 01/04/2022 |
+| `caribetours` | 01/04/2022 |
+| `ICONIC` | 01/04/2022 |
+| `eGOV` | 01/04/2022 |
+| `Equicom SAVINGS BANK` | 01/04/2022 |
+| `Cellulant Corporation` | 01/04/2022 |
+| `BEXIMCO` | 01/04/2022 |
+| `BMW CHILE` | 01/04/2022 |
+| `Banco do Brasil` | 01/04/2022 |
+| `CORT` | 01/04/2022 |
+| `Nestle` | 01/04/2022 |
+| `Salvadoran Ministry of Foreign Affairs` | 01/04/2022 |
+| `ANTEL` | 01/04/2022 |
+| `Pakistan Human Rights` | 01/04/2022 |
+| `CR ASIA` | 01/04/2022 |
+| `PT Pertamina Gas` | 22/04/2022 |
+
