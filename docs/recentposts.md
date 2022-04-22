@@ -5,6 +5,7 @@ _last `100` posts_
 | date | title | group |
 |---|---|---|
 | 2022-04-22 | [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-04-22 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`incegd.com`](https://google.com/search?q=incegd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-21 | [`Small Industries Development`](https://google.com/search?q=Small+Industries+Development) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-21 | [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-14 | [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`polyplastics.co...`](https://google.com/search?q=polyplastics.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`Elevate Services`](https://google.com/search?q=Elevate+Services) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-14 | [`www.verifiedlab...`](https://google.com/search?q=www.verifiedlab...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
