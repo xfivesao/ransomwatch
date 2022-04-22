@@ -5,6 +5,7 @@ _last `100` posts_
 | date | title | group |
 |---|---|---|
 | 2022-04-22 | [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-04-22 | [`lifestylesoluti...`](https://google.com/search?q=lifestylesoluti...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`produitsneptune...`](https://google.com/search?q=produitsneptune...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`ekz.de`](https://google.com/search?q=ekz.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`wilshire.com`](https://google.com/search?q=wilshire.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-14 | [`Musco Sports Lighting`](https://google.com/search?q=Musco+Sports+Lighting) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-14 | [`soharportandfre...`](https://google.com/search?q=soharportandfre...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`radmangroup.com`](https://google.com/search?q=radmangroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
