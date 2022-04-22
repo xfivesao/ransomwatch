@@ -2455,5 +2455,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "kelvinsecurity",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "kelvinsecteamcyber.wixsite.com",
+                "title": "Items",
+                "version": 0,
+                "slug": "https://kelvinsecteamcyber.wixsite.com/my-site/items",
+                "available": true,
+                "updated": "2022-04-22 13:18:02.304799",
+                "lastscrape": "2022-04-22 13:18:02.304790"
+            }
+        ],
+        "profile": []
     }
 ]

@@ -625,3 +625,14 @@ def leaktheanalyst():
         errlog('leaktheanalyst: ' + 'parsing fail')
     for post in posts:
         appender(post, 'leaktheanalyst')
+
+def kelvinsecurity():
+    stdlog('parser: ' + 'kelvinsecurity')
+    parser = '''
+    egrep -o '<span style="font-size:17px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('kelvinsecurity: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'kelvinsecurity')

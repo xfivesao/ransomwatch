@@ -260,6 +260,7 @@ if args.mode == 'parse':
     parsers.pandora()
     parsers.stormous()
     parsers.leaktheanalyst()
+    parsers.kelvinsecurity()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
