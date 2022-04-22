@@ -5,6 +5,7 @@ _last `100` posts_
 | date | title | group |
 |---|---|---|
 | 2022-04-22 | [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-04-22 | [`wilshire.com`](https://google.com/search?q=wilshire.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`incegd.com`](https://google.com/search?q=incegd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-14 | [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-04-14 | [`kpcg.com.hk`](https://google.com/search?q=kpcg.com.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`polyplastics.co...`](https://google.com/search?q=polyplastics.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
