@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-22 | [`Calvetti Ferguson`](https://google.com/search?q=Calvetti+Ferguson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-22 | [`prophoenix`](https://google.com/search?q=prophoenix) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-22 | [`metrobrokers`](https://google.com/search?q=metrobrokers) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-22 | [`simplilearn.net`](https://google.com/search?q=simplilearn.net) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-14 | [`Basra Multipurposr Terminal`](https://google.com/search?q=Basra+Multipurposr+Terminal) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2022-04-14 | [`Big Horn Plastering of Colorado, Inc.`](https://google.com/search?q=Big+Horn+Plastering+of+Colorado%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-14 | [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`cassinobuilding...`](https://google.com/search?q=cassinobuilding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
