@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-23 | [`https://valoore...`](https://google.com/search?q=https%3A%2F%2Fvaloore...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`Jasec`](https://google.com/search?q=Jasec) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-23 | [`Mossbourne Federation`](https://google.com/search?q=Mossbourne+Federation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-22 | [`Centre Hospitalier de Castelluccio`](https://google.com/search?q=Centre+Hospitalier+de+Castelluccio) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-15 | [`http://inland-e...`](https://google.com/search?q=http%3A%2F%2Finland-e...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`enclosuresoluti...`](https://google.com/search?q=enclosuresoluti...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`CJ Pony Parts`](https://google.com/search?q=CJ+Pony+Parts) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-15 | [`museum-dingo`](https://google.com/search?q=museum-dingo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
