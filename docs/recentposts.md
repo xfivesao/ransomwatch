@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-23 | [`Mossbourne Federation`](https://google.com/search?q=Mossbourne+Federation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-22 | [`Centre Hospitalier de Castelluccio`](https://google.com/search?q=Centre+Hospitalier+de+Castelluccio) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-22 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-22 | [`Calvetti Ferguson`](https://google.com/search?q=Calvetti+Ferguson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-15 | [`CJ Pony Parts`](https://google.com/search?q=CJ+Pony+Parts) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-15 | [`museum-dingo`](https://google.com/search?q=museum-dingo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`eNoah it solutions`](https://google.com/search?q=eNoah+it+solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-14 | [`Basra Multipurposr Terminal`](https://google.com/search?q=Basra+Multipurposr+Terminal) | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
