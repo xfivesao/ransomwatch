@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-23 | [`ccfsinc.com`](https://google.com/search?q=ccfsinc.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`SWIRESPO.COM FILES PART28 - 172.16.10.167 PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART28+-+172.16.10.167+PUBLISHED) | [clop](https://rwtracker.level-4.net/docs/#/profiles?id=clop) |
 | 2022-04-23 | [`www.tigergroup....`](https://google.com/search?q=www.tigergroup....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`https://valoore...`](https://google.com/search?q=https%3A%2F%2Fvaloore...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-03-31 | [`studiobrazzale....`](https://google.com/search?q=studiobrazzale....) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`keypoint.com`](https://google.com/search?q=keypoint.com) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
 | 2022-03-31 | [`yachtcharterfle...`](https://google.com/search?q=yachtcharterfle...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
-| 2022-03-31 | [`bafokengholding...`](https://google.com/search?q=bafokengholding...) | [lockbit2](https://rwtracker.level-4.net/docs/#/profiles?id=lockbit2) |
