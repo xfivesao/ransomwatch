@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-24 | [`AFJCONSULTING.NET FILES PART3 - E\data\documents\  PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART3+-+E%5Cdata%5Cdocuments%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`Co-opbank Pertama`](https://google.com/search?q=Co-opbank+Pertama) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-04-23 | [`MCH-GROUP.COM FILES PART29 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\  PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART29+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-23 | [`valoores.com`](https://google.com/search?q=valoores.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-16 | [`ALEXIM.COM FILES PART7 - 192.168.3.5\Mail\djimenez\28-06\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART7+-+192.168.3.5%5CMail%5Cdjimenez%5C28-06%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`AFJCONSULTING.NET FILES PART2 - E\data\users\Adam\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART2+-+E%5Cdata%5Cusers%5CAdam%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`MCH-GROUP.COM FILES PART28 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART28+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`EDAN.COM FILES PART27 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\宁姐\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART27+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C%E5%AE%81%E5%A7%90%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
