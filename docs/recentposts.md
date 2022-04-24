@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-24 | [`OAKDELL.COM FILES PART5 - 192.168.100.137\C$\Users\clillywhite\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART5+-+192.168.100.137%5CC%24%5CUsers%5Cclillywhite%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`JDAVIDTAXLAW.COM FILES PART5 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART5+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`FAIR-RITE.COM FILES PART5 - 172.16.10.6\snap_one\PART5 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART5+-+172.16.10.6%5Csnap_one%5CPART5+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`DRIVEANDSHINE.COM FILES PART5 - 192.168.100.4, 192.168.200.5, 10.0.30.122, P, S PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART5+-+192.168.100.4%2C+192.168.200.5%2C+10.0.30.122%2C+P%2C+S+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-16 | [`OAKDELL.COM FILES PART4 - 192.168.100.130\C$\Users\rwoodward\Documents\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART4+-+192.168.100.130%5CC%24%5CUsers%5Crwoodward%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`JDAVIDTAXLAW.COM FILES PART4 - D\Shares\Data\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART4+-+D%5CShares%5CData%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`FAIR-RITE.COM FILES PART4 - 172.16.10.6\snap_one\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART4+-+172.16.10.6%5Csnap_one%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`Standard Building Supplies Ltd.`](https://google.com/search?q=Standard+Building+Supplies+Ltd.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
