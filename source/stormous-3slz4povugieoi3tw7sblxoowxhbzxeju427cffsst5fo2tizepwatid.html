@@ -1,40 +1,291 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="home.css">
-    <title>Stormous-ransomware</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Database Shop</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,700,800" rel='stylesheet' type='text/css'>
+    <style>
+        input,
+        textarea,   
+        button {
+            height: 25px;
+            margin: 0;
+            padding: 10px;
+            font-family: Raleway, sans-serif;
+            font-weight: normal;
+            font-size: 12pt;
+            outline: none;
+            border-radius: 0;
+            background: none;
+            border: 1px solid #282B33;
+        }
+
+        button,
+        select {
+            height: 45px;
+            padding: 0 15px;
+            cursor: pointer;
+        }
+
+        button {
+            background: none;
+            border: 1px solid black;
+            margin: 25px 0;
+        }
+
+        button:hover {
+            background-color: #282B33;
+            color: white;
+        }
+
+
+        .tools {
+            overflow: auto;
+            zoom: 1;
+        }
+
+        .search-area {
+            float: left;
+            width: 60%;
+        }
+
+        .settings {
+            display: none;
+            float: right;
+            width: 40%;
+            text-align: right;
+        }
+
+        #view {
+            display: none;
+            width: auto;
+            height: 47px;
+        }
+
+        #searchbutton {
+            width: 60px;
+            height: 47px;
+        }
+
+        input#search {
+            width: 30%;
+            width: calc(100% - 90px);
+            padding: 10px;
+            border: 1px solid #000000;
+        }
+
+        @media screen and (max-width:400px) {
+            .search-area {
+                width: 100%;
+            }
+        }
+
+        .products {
+            width: 100%;
+            font-family: Raleway;
+        }
+
+        .product {
+            display: inline-block;
+            width: calc(24% - 13px);
+            margin: 10px 10px 30px 10px;
+            vertical-align: top;
+        }
+
+        .product img {
+            display: block;
+            margin: 0 auto;
+            width: auto;
+            height: 200px;
+            max-width: calc(100% - 20px);
+            background-cover: fit;
+            box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.8);
+            border-radius: 2px;
+        }
+
+        .product-content {
+            text-align: center;
+        }
+
+        .product h3 {
+            font-size: 20px;
+            font-weight: 600;
+            margin: 10px 0 0 0;
+        }
+
+        .product h3 small {
+            display: block;
+            font-size: 16px;
+            font-weight: 400;
+            font-style: italic;
+            margin: 7px 0 0 0;
+        }
+
+        .product .product-text {
+            margin: 7px 0 0 0;
+            color: rgb(255, 6, 6);
+        }
+
+        .product .price {
+            font-family: sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+
+        @media screen and (max-width:1150px) {
+            .product {
+                width: calc(33% - 23px);
+            }
+        }
+
+        @media screen and (max-width:700px) {
+            .product {
+                width: calc(50% - 43px);
+            }
+        }
+
+        @media screen and (max-width:400px) {
+            .product {
+                width: 100%;
+            }
+        }
+
+        /* TABLE VIEW */
+
+        @media screen and (min-width:401px) {
+            .settings {
+                display: block;
+            }
+            #view {
+                display: inline;
+            }
+            .products-table .product {
+                display: block;
+                width: auto;
+                margin: 10px 10px 30px 10px;
+            }
+            .products-table .product .product-img {
+                display: inline-block;
+                margin: 0;
+                width: 120px;
+                height: 120px;
+                vertical-align: middle;
+            }
+            .products-table .product img {
+                width: auto;
+                height: 120px;
+                max-width: 120px;
+            }
+            .products-table .product-content {
+                text-align: left;
+                display: inline-block;
+                margin-left: 20px;
+                vertical-align: middle;
+                width: calc(100% - 145px);
+            }
+            .products-table .product h3 {
+                margin: 0;
+            }
+        }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 </head>
-<body>
-    </div>
-    <div class="banner">
-    <div class="navbar">        
-        <img src="stourmousName.png" class="logo">
-        <ul>
-            <li><a href="home.html">Home</a></li>
-            <li><a href="lastnews.html">LastNews</a></li>
-            <li><a href="datashop.html">S.T.M (shop) <a></li>
 
-            <li><a href="contact.html">Contact<a></li>
+<body style="background: rgb(255, 255, 255);">
 
-        </ul>
-         
+    <div class="tools">
+        <div class="search-area">
+            <input type="text" id="search" placeholder="Search" />
+            <button id="searchbutton">Go</button>
+        </div>
+        <div class="settings">
+            <button id="view">Switch View</button>
+        </div>
     </div>
-         
-    <div class="content">
-          <img src="stourmous.png" class="logo-sc">
-          <h1> WHO IS STORMOUS ? </h1>
-          <p>
-           <h4> ( STORMOUS is made up of very professional hackers ! ):</h4> 
-            
-           <h4> Stormous gang was created during 2021 and our main objective was to attack on western countries especially USA.
-            ( We attacked nearly 700 US websites, defaced them and stole their database, as well as hacked the data of 44 US companies ) . But the situation changed in 2022 and we attacked different companies around the world especially Ukraine and India 
-            #We are sorry for all the companies we hacked but all we saw was weak protection, and everywhere a good breach !!!</h4>
-        </p>
-    </div>
-        
-    </div>
-    
-    
+    <div class="products products-table">
+        <div class="product">
+            <div class="product-img">
+                <a href="mailto:email@example.com,  stormouss21@dnmx.org">   <img src="Coca-Cola.jpg"></a>
+            </div>
+            <div class="product-content">
+                <h3>
+                    Coca-Cola
+                    <small>
+                        We hacked some of the company's servers and passed a large amount of data inside them without their knowledge and we want to sell it to someone else. You will win and we will win. You will also contact us! We will explain more Good deal, we'll give you the right to pay the amount you want depending on the amount of data you want! Click on the picture to contact us or via our e-mail
+
+
+
+
+
+                    </small>
+                </h3>
+                <hr>
+                <p class="product-text price">BTC : 1,6467000
+                </p>
+                <p class="product-text price">Price (USD) : 64,396,67
+                <p class="product-text price">Site : www.coca-cola.com</p>
+
+                <p class="product-text price">Transfer : Cryptocurrency </p>
+                <p class="product-text price">Size : (161G) 
+                <a href="coca-cola.html"><h4>scan : Click here</h4></a>
+                <p class="product-text price">Date: 04/24/2022  </p>
+
+            </div>
+        </div>
+        <div class="product">
+            <div class="product-img">
+                <a href="mailto:email@example.com,  stormouss21@dnmx.org">    <img src="mattele.jpg"></a>
+            </div>
+            <div class="product-content">
+                <h3>
+                            Mattele
+                    <small>
+                        A company that imports children's toys and video game systems has been a victim of this, we are offering their data for sale until you win and you win (Warning we will provide you with raw data about it, contact us to understand more)</small>
+                </h3>
+               <hr>
+                <p class="product-text price">warning : It will be ready for sale in 1/05/2022</p>
+                <p class="product-text price">Site : mattel.com</p>
+
+                <p class="product-text price">Transfer :</p>
+                <p class="product-text price">Size :  
+                <a href="coca-cola.html"><h4></h4></a>
+                <p class="product-text price">Date:  </p>
+
+              
+                
+            </div>
+        </div>
+        <div class="product">
+            <div class="product-img">
+                <a href="mailto:email@example.com,  stormouss21@dnmx.org">   <img src="danaher.jpg"></a>
+            </div>
+            <div class="product-content">
+                <h3>
+                    Danaher
+                    <small>An American multi-industry company headquartered in Washington, DC. The company designs, manufactures and markets professional, medical, industrial and commercial services She was a victim too and we want to sell her data! (Warning, we will provide you with some data about it before you pay. Contact us to explain it to you)</small>
+                </h3>
+              <hr>
+                <p class="product-text price">warning : It will be ready for sale in 1/05/2022</p>
+                <p class="product-text price">Site : www.danaher.com</p>
+
+                <p class="product-text price">Transfer : </p>
+                <p class="product-text price">Size :  
+                <a href="coca-cola.html"><h4></h4></a>
+                <p class="product-text price">Date:  </p>
+
+                       </div>
+        </div>
+       
+    <script>
+        $("#view").click(function () {
+            $(".products").toggleClass("products-table");
+        });
+    </script>
 </body>
+
 </html>
