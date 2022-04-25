@@ -605,9 +605,14 @@ def pandora():
 
 def stormous():
     stdlog('parser: ' + 'stormous')
+<<<<<<< HEAD
+    parser = '''
+    grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+=======
     # grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
     grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+>>>>>>> main
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -625,6 +630,8 @@ def leaktheanalyst():
         errlog('leaktheanalyst: ' + 'parsing fail')
     for post in posts:
         appender(post, 'leaktheanalyst')
+<<<<<<< HEAD
+=======
 
 def kelvinsecurity():
     stdlog('parser: ' + 'kelvinsecurity')
@@ -636,3 +643,4 @@ def kelvinsecurity():
         errlog('kelvinsecurity: ' + 'parsing fail')
     for post in posts:
         appender(post, 'kelvinsecurity')
+>>>>>>> main

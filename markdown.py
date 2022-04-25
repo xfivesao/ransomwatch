@@ -108,7 +108,7 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            line = '| [' + group['name'] + '](https://rwtracker.level-4.net/docs/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
 def sidebar():
@@ -165,7 +165,7 @@ def recentposts(top):
 
 def recentpage():
     '''create a markdown table for the last 100 posts based on the discovered value'''
-    fetching_count = 100
+    fetching_count = 250
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
@@ -185,7 +185,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://rwtracker.level-4.net/docs/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
