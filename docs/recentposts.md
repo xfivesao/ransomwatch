@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-25 | [`Elgin_Ca`](https://google.com/search?q=Elgin_Ca) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-25 | [`multimmobiliare...`](https://google.com/search?q=multimmobiliare...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`huesser.ch`](https://google.com/search?q=huesser.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`emucor.es`](https://google.com/search?q=emucor.es) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-18 | [`rockportmusic`](https://google.com/search?q=rockportmusic) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-18 | [`MILLS GROUP`](https://google.com/search?q=MILLS+GROUP) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-18 | [`gruppoathesis.i...`](https://google.com/search?q=gruppoathesis.i...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-18 | [`kainz-haustechn.`](https://google.com/search?q=kainz-haustechn.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
