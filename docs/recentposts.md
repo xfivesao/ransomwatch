@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-25 | [`schriesheim.de`](https://google.com/search?q=schriesheim.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-24 | [`KSSENTERPRISES.COM FILES PART1 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART1+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`kdaponte.com`](https://google.com/search?q=kdaponte.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-24 | [`ZISSERFAMILYLAW.COM FILES PART5 - D\Shares\BEACHESDATA\Business Office\Degnan, Jim\STI 201`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART5+-+D%5CShares%5CBEACHESDATA%5CBusiness+Office%5CDegnan%2C+Jim%5CSTI+201) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-17 | [`NuLife Med`](https://google.com/search?q=NuLife+Med) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-17 | [`Ministerio de Hacienda - República de Costa Rica`](https://google.com/search?q=Ministerio+de+Hacienda+-+Rep%C3%BAblica+de+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-17 | [`Tucker Door &amp; Trim`](https://google.com/search?q=Tucker+Door+%26amp%3B+Trim) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-17 | [`SLIMSTOCK.COM FILES PART30 - 10.31.1.134 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART30+-+10.31.1.134+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
