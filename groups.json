@@ -2389,12 +2389,12 @@
         "locations": [
             {
                 "fqdn": "3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion",
-                "title": "Stormous-ransomware",
+                "title": "Database Shop",
                 "version": 3,
-                "slug": "http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion",
-                "available": false,
-                "updated": "2022-04-25 17:30:18.136595",
-                "lastscrape": "2022-04-25 17:30:18.136584"
+                "slug": "http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion/datashop.html",
+                "available": true,
+                "updated": "2022-04-26 08:35:28.343450",
+                "lastscrape": "2022-04-26 08:35:28.343431"
             }
         ],
         "profile": []
