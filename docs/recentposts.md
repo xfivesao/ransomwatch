@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-25 | [`Danaher`](https://google.com/search?q=Danaher) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2022-04-25 | [`Mattele`](https://google.com/search?q=Mattele) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Waiting for next leak`](https://google.com/search?q=Waiting+for+next+leak) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-04-25 | [`NATION Costa Rica`](https://google.com/search?q=NATION+Costa+Rica) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-04-19 | [`tnmed.org`](https://google.com/search?q=tnmed.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`ssi-steel.com`](https://google.com/search?q=ssi-steel.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-18 | [`Barakat Travel and Private Jet was Hacked`](https://google.com/search?q=Barakat+Travel+and+Private+Jet+was+Hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-18 | [`Centris`](https://google.com/search?q=Centris) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-18 | [`Nordex SE`](https://google.com/search?q=Nordex+SE) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
