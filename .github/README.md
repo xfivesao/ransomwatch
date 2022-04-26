@@ -28,14 +28,21 @@ an onionsite scraping framework with the primary intent of tracking ransomware g
 
 running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
 
-_all artefacts, graphs and assets supporting [ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd) are dynamically generated_
-
 missing a group ? try the [_issue template_](https://github.com/thetanz/ransomwatch/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
 
 ```shell
 curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
+---
+
+<h4 align="center">⚠️</h4>
+
+<h4 align="center">
+  content within ransomwatch.telemetry.ltd, posts.json, groups.json and the docs/ & source/ directories is dynamically generated based on infrastructure of real-world threat actors in near-real-time. whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch generated material you acknowledge you are doing so at your own risk.
+</h4>
+
+---
 
 ## contributions 
 
