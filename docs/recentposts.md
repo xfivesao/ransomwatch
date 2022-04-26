@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-26 | [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-25 | [`Danaher`](https://google.com/search?q=Danaher) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Mattele`](https://google.com/search?q=Mattele) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-19 | [`daumar.com`](https://google.com/search?q=daumar.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`tnmed.org`](https://google.com/search?q=tnmed.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`ssi-steel.com`](https://google.com/search?q=ssi-steel.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-18 | [`Barakat Travel and Private Jet was Hacked`](https://google.com/search?q=Barakat+Travel+and+Private+Jet+was+Hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
