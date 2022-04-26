@@ -33,7 +33,7 @@ friendly_tz = custom_strftime('%B {S}, %Y', dt.now()).lower()
 
 def writeline(file, line):
     '''write line to file'''
-    with open(file, 'a') as f:
+    with open(file, 'a', encoding='utf-8') as f:
         f.write(line + '\n')
         f.close()
 
@@ -56,7 +56,7 @@ def mainpage():
     '''
     stdlog('generating main page')
     uptime_sheet = 'docs/README.md'
-    with open(uptime_sheet, 'w') as f:
+    with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '## summary')
@@ -83,7 +83,7 @@ def mainpage():
 
 def indexpage():
     index_sheet = 'docs/INDEX.md'
-    with open(index_sheet, 'w') as f:
+    with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
     writeline(index_sheet, '# 📚 index')
@@ -118,7 +118,7 @@ def sidebar():
     stdlog('generating sidebar')
     sidebar = 'docs/_sidebar.md'
     # delete contents of file
-    with open(sidebar, 'w') as f:
+    with open(sidebar, 'w', encoding='utf-8') as f:
         f.close()
     writeline(sidebar, '- [home](README.md)')
     writeline(sidebar, '- [group index](INDEX.md)')
@@ -134,7 +134,7 @@ def statspage():
     stdlog('generating stats page')
     statspage = 'docs/stats.md'
     # delete contents of file
-    with open(statspage, 'w') as f:
+    with open(statspage, 'w', encoding='utf-8') as f:
         f.close()
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
@@ -169,7 +169,7 @@ def recentpage():
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
-    with open(recentpage, 'w') as f:
+    with open(recentpage, 'w', encoding='utf-8') as f:
         f.close()
     writeline(recentpage, '# 📰 recent posts')
     writeline(recentpage, '')
@@ -197,7 +197,7 @@ def profilepage():
     stdlog('generating profile pages')
     profilepage = 'docs/profiles.md'
     # delete contents of file
-    with open(profilepage, 'w') as f:
+    with open(profilepage, 'w', encoding='utf-8') as f:
         f.close()
     writeline(profilepage, '# 🐦 profiles')
     writeline(profilepage, '')

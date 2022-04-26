@@ -60,7 +60,7 @@ def appender(post_title, group_name):
         newpost = posttemplate(post_title, group_name, str(datetime.today()))
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
-        with open('posts.json', 'w') as outfile:
+        with open('posts.json', 'w', encoding='utf-8') as outfile:
             '''
             use ensure_ascii to mandate utf-8 in the case the post contains cyrillic 🇷🇺
             https://pynative.com/python-json-encode-unicode-and-non-ascii-characters-as-is/
@@ -200,7 +200,7 @@ def ragnarlocker():
     '''
     posts = runshellcmd(json_parser)
     post_json = json.loads(posts[0])
-    with open('source/ragnarlocker.json', 'w') as f:
+    with open('source/ragnarlocker.json', 'w', encoding='utf-8') as f:
         json.dump(post_json, f, indent=4)
         f.close()
     if len(post_json) == 1:
