@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-26 | [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-26 | [`FRISA.com`](https://google.com/search?q=FRISA.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-26 | [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-25 | [`Danaher`](https://google.com/search?q=Danaher) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-19 | [`jannone.it`](https://google.com/search?q=jannone.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`groupe-corbat.c...`](https://google.com/search?q=groupe-corbat.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`daumar.com`](https://google.com/search?q=daumar.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`tnmed.org`](https://google.com/search?q=tnmed.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
