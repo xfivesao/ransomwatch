@@ -637,3 +637,14 @@ def kelvinsecurity():
         errlog('kelvinsecurity: ' + 'parsing fail')
     for post in posts:
         appender(post, 'kelvinsecurity')
+
+def bastanews():
+    stdlog('parser: ' + 'bastanews')
+    parser = '''
+    egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/basta*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('bastanews: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'bastanews')

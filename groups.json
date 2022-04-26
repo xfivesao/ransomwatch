@@ -2474,5 +2474,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "bastanews",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion",
+                "title": "Black Basta Blog",
+                "version": 3,
+                "slug": "https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/",
+                "available": true,
+                "updated": "2022-04-27 08:06:46.532964",
+                "lastscrape": "2022-04-27 08:06:46.532946"
+            }
+        ],
+        "profile": []
     }
 ]
