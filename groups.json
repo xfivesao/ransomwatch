@@ -712,6 +712,15 @@
                 "available": false,
                 "updated": "2022-04-17 21:12:34.822180",
                 "lastscrape": "2022-04-17 21:12:34.822166"
+            },
+            {
+                "fqdn": "continews.bz",
+                "title": "Error Response Page",
+                "version": 0,
+                "slug": "http://continews.bz",
+                "available": false,
+                "updated": "2022-01-01 01:01:01.000000",
+                "lastscrape": "2022-01-01 01:01:01.000000"
             }
         ],
         "profile": [
@@ -2397,7 +2406,9 @@
                 "lastscrape": "2022-04-26 21:10:54.735873"
             }
         ],
-        "profile": []
+        "profile": [
+            "stormouss21@dnmx.org"
+        ]
     },
     {
         "name": "leaktheanalyst",
@@ -2473,7 +2484,9 @@
                 "lastscrape": "2022-04-26 21:11:25.541647"
             }
         ],
-        "profile": []
+        "profile": [
+            "https://twitter.com/Ksecureteamlab"
+        ]
     },
     {
         "name": "bastanews",

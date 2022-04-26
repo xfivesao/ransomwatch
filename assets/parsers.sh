@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# get groups with parsers enabled
+# jq -r '.[] | select(.parser==true) | .name' groups.json
+
+# get groups with captcha
+# jq -r '.[] | select(.captcha==true) | .name' groups.json
+
 if [ "${1}" == "-h" ]; then
     echo "by default - will run very basic checks on each parser and report on those not returning anything"
     echo "switch: print all parsers | -p"
