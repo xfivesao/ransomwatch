@@ -2,11 +2,11 @@ name: "codeql"
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    paths:
+      - '**.py'
   schedule:
-    - cron: '20 16 * * 5'
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 jobs:
   analyze:
