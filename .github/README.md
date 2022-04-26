@@ -7,15 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="https://sonarcloud.io/dashboard?id=thetanz_ransomwatch">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=thetanz_ransomwatch&metric=alert_status" alt="ransomwatch sonarcloud analysis" />
-  </a>
   <a href="https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml">
     <img src="https://github.com/thetanz/ransomwatch/actions/workflows/pylint.yml/badge.svg" alt="ransomwatch pylint analysis" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml">
     <img src="https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg" alt="ransomwatch engine" />
   </a>
