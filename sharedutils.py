@@ -224,8 +224,7 @@ def getapex(slug):
     print(stripurl)
     if stripurl.subdomain:
         return stripurl.subdomain + '.' + stripurl.domain + '.' + stripurl.suffix
-    else:
-        return stripurl.domain + '.' + stripurl.suffix
+    return stripurl.domain + '.' + stripurl.suffix
 
 def striptld(slug):
     '''
@@ -258,8 +257,9 @@ def openhtml(file):
     '''
     opens a file and returns the html
     '''
-    file = codecs.open(file, 'r', 'utf-8')
-    return file.read()
+    with open(file, 'r', encoding='utf-8') as f:
+        html = f.read()
+    return html
 
 def openjson(file):
     '''
@@ -411,8 +411,6 @@ def totwitter(post_title, group):
         client.create_tweet(text=status)
     except TypeError as te:
         honk('sharedutils: ' + 'twitter tweepy unsatisfied: ' + str(te))
-    except Exception as e:
-        honk('sharedutils: ' + 'twitter unknown message release error: ' + str(e))
 
 def todiscord(post_title, group):
     '''
@@ -452,3 +450,4 @@ def todiscord(post_title, group):
         errlog('sharedutils: ' + 'discord webhook rate limit exceeded')
     else:
         honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
+    return False
