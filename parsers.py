@@ -630,7 +630,7 @@ def leaktheanalyst():
 def kelvinsecurity():
     stdlog('parser: ' + 'kelvinsecurity')
     parser = '''
-    egrep -o '<span style="font-size:17px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    egrep -o '<span style="font-size:20px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
