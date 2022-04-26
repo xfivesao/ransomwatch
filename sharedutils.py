@@ -119,7 +119,7 @@ def socksfetcher(url):
     '''
     try:
         stdlog('sharedutils: ' + 'starting socks request to ' + str(url))
-        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20)
+        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20, verify=False)
         dbglog(
             'sharedutils: ' + 'socks request - recieved statuscode - ' \
                 + str(request.status_code)
