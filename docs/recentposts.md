@@ -4,6 +4,18 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-26 | [`ADA`](https://google.com/search?q=ADA) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`TÜV NORD GROUP`](https://google.com/search?q=T%C3%9CV+NORD+GROUP) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Plauen Stahl Technologie GmbH`](https://google.com/search?q=Plauen+Stahl+Technologie+GmbH) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Oralia`](https://google.com/search?q=Oralia) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`LECHLER S.p.A.`](https://google.com/search?q=LECHLER+S.p.A.) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`LACKS`](https://google.com/search?q=LACKS) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`SSK Ingeniería Y Construcción S.A.C.`](https://google.com/search?q=SSK+Ingenier%C3%ADa+Y+Construcci%C3%B3n+S.A.C.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-26 | [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-26 | [`FRISA.com`](https://google.com/search?q=FRISA.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-26 | [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -92,15 +104,3 @@ _last `100` posts_
 | 2022-04-20 | [`MAGNAR-EIKELAND...`](https://google.com/search?q=MAGNAR-EIKELAND...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-20 | [`Camden City School District`](https://google.com/search?q=Camden+City+School+District) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-20 | [`ingesw.com`](https://google.com/search?q=ingesw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`Instituto Meteorológico Nacional and racsa.go.cr`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional+and+racsa.go.cr) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`Instituto Meteorológico Nacional`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`Del Sol`](https://google.com/search?q=Del+Sol) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`secova.com - Secova Inc`](https://google.com/search?q=secova.com+-+Secova+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-19 | [`compagniedephal...`](https://google.com/search?q=compagniedephal...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`For Costa Rica`](https://google.com/search?q=For+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`reitzner.de`](https://google.com/search?q=reitzner.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`procab.se`](https://google.com/search?q=procab.se) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`keisei-const.jp`](https://google.com/search?q=keisei-const.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`jannone.it`](https://google.com/search?q=jannone.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`groupe-corbat.c...`](https://google.com/search?q=groupe-corbat.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`daumar.com`](https://google.com/search?q=daumar.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
