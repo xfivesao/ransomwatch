@@ -2,10 +2,13 @@
 **.sh                @joshhighet
 **.md                @joshhighet
 **.zsh               @joshhighet
+**.txt               @joshhighet
 **.exclusions        @joshhighet
 /docs/CNAME          @joshhighet
 /docs/index.html     @joshhighet
+/.github             @joshhighet
 /docs/               @theta-bot
 /source/             @theta-bot
 posts.json           @theta-bot
 groups.json          @theta-bot
+*                    @theta-bot
