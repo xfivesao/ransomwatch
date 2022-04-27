@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-27 | [`Attica Holdings S.A.`](https://google.com/search?q=Attica+Holdings+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-27 | [`Alliant Physical Therapy DATA`](https://google.com/search?q=Alliant+Physical+Therapy+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-27 | [`For Peru`](https://google.com/search?q=For+Peru) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-26 | [`ADA`](https://google.com/search?q=ADA) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-20 | [`AM International`](https://google.com/search?q=AM+International) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-04-20 | [`Trace Midstream`](https://google.com/search?q=Trace+Midstream) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-20 | [`lekise.com`](https://google.com/search?q=lekise.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-20 | [`MAGNAR-EIKELAND...`](https://google.com/search?q=MAGNAR-EIKELAND...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
