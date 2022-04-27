@@ -6,7 +6,7 @@
 **.exclusions        @joshhighet
 /docs/CNAME          @joshhighet
 /docs/index.html     @joshhighet
-/.github             @joshhighet
+/.github/            @joshhighet
 /docs/               @theta-bot
 /source/             @theta-bot
 posts.json           @theta-bot
