@@ -9,17 +9,17 @@ _last `100` posts_
 | 2022-04-27 | [`Attica Holdings S.A.`](https://google.com/search?q=Attica+Holdings+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-27 | [`Alliant Physical Therapy DATA`](https://google.com/search?q=Alliant+Physical+Therapy+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-27 | [`For Peru`](https://google.com/search?q=For+Peru) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-26 | [`ADA`](https://google.com/search?q=ADA) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`TÜV NORD GROUP`](https://google.com/search?q=T%C3%9CV+NORD+GROUP) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Plauen Stahl Technologie GmbH`](https://google.com/search?q=Plauen+Stahl+Technologie+GmbH) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Oralia`](https://google.com/search?q=Oralia) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`LECHLER S.p.A.`](https://google.com/search?q=LECHLER+S.p.A.) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`LACKS`](https://google.com/search?q=LACKS) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
-| 2022-04-26 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | [bastanews](https://ransomwatch.telemetry.ltd/#/profiles?id=bastanews) |
+| 2022-04-26 | [`ADA`](https://google.com/search?q=ADA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`TÜV NORD GROUP`](https://google.com/search?q=T%C3%9CV+NORD+GROUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Plauen Stahl Technologie GmbH`](https://google.com/search?q=Plauen+Stahl+Technologie+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Oralia`](https://google.com/search?q=Oralia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`LECHLER S.p.A.`](https://google.com/search?q=LECHLER+S.p.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`LACKS`](https://google.com/search?q=LACKS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-26 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`SSK Ingeniería Y Construcción S.A.C.`](https://google.com/search?q=SSK+Ingenier%C3%ADa+Y+Construcci%C3%B3n+S.A.C.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-26 | [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-26 | [`FRISA.com`](https://google.com/search?q=FRISA.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
