@@ -1,7 +1,11 @@
+**.py                @joshhighet
+**.sh                @joshhighet
+**.md                @joshhighet
+**.zsh               @joshhighet
+**.exclusions        @joshhighet
 /docs/CNAME          @joshhighet
 /docs/index.html     @joshhighet
 /docs/               @theta-bot
 /source/             @theta-bot
 posts.json           @theta-bot
 groups.json          @theta-bot
-*                    @joshhighet
