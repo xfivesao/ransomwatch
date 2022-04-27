@@ -638,13 +638,13 @@ def kelvinsecurity():
     for post in posts:
         appender(post, 'kelvinsecurity')
 
-def bastanews():
-    stdlog('parser: ' + 'bastanews')
+def blackbasta():
+    stdlog('parser: ' + 'blackbasta')
     parser = '''
-    egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/basta*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('bastanews: ' + 'parsing fail')
+        errlog('blackbasta: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'bastanews')
+        appender(post, 'blackbasta')

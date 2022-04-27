@@ -261,7 +261,7 @@ if args.mode == 'parse':
     parsers.stormous()
     parsers.leaktheanalyst()
     parsers.kelvinsecurity()
-    parsers.bastanews()
+    parsers.blackbasta()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
