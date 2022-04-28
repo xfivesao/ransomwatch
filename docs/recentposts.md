@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`Ragle Incorporated`](https://google.com/search?q=Ragle+Incorporated) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-04-28 | [`hydromaxusa.com`](https://google.com/search?q=hydromaxusa.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-28 | [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`www.farmaciasta...`](https://google.com/search?q=www.farmaciasta...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`spirit-ord.com`](https://google.com/search?q=spirit-ord.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`l`](https://google.com/search?q=l) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`sadeco.fr`](https://google.com/search?q=sadeco.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`https://groupem...`](https://google.com/search?q=https%3A%2F%2Fgroupem...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
