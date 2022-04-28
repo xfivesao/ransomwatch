@@ -55,7 +55,7 @@ def screenshot(webpage):
         if 'dnsNotFound' in wde.msg:
             errlog('webshot: {}'.format(webpage) + ' dnsNotFound')
             return
-        elif 'connectionFailure' in wde.msg:
+        if 'connectionFailure' in wde.msg:
             errlog('webshot: {}'.format(webpage) + ' connection refused')
             return
         errlog('webshot: {}'.format(webpage) + ' webdriver error: {}'.format(wde))
