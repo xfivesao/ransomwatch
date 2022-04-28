@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-27 | [`warrengibson.co...`](https://google.com/search?q=warrengibson.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-27 | [`davislandscapel...`](https://google.com/search?q=davislandscapel...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`sadeco.fr`](https://google.com/search?q=sadeco.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`https://groupem...`](https://google.com/search?q=https%3A%2F%2Fgroupem...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-09 | [`clinique.cob-os...`](https://google.com/search?q=clinique.cob-os...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-09 | [`SWIRESPO.COM FILES PART26 - 172.16.10.166\H$\Files\Users\ETF\Training Matters\ PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART26+-+172.16.10.166%5CH%24%5CFiles%5CUsers%5CETF%5CTraining+Matters%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-09 | [`ENPRECIS.COM FILES PART24 - 10.51.122.5\VI\AHM\packages\FromProduction_utility\ PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART24+-+10.51.122.5%5CVI%5CAHM%5Cpackages%5CFromProduction_utility%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
