@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`Stratton Finance`](https://google.com/search?q=Stratton+Finance) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`Est Ensemble`](https://google.com/search?q=Est+Ensemble) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`Ragle Incorporated`](https://google.com/search?q=Ragle+Incorporated) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-28 | [`hydromaxusa.com`](https://google.com/search?q=hydromaxusa.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`MCH-GROUP.COM FILES PART27 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART27+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`EDAN.COM FILES PART26 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART26+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`BOLTONUSA.COM FILES PART31 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\PBGC-DISC PUB`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART31+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CPBGC-DISC+PUB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`www.farmaciasta...`](https://google.com/search?q=www.farmaciasta...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`spirit-ord.com`](https://google.com/search?q=spirit-ord.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`l`](https://google.com/search?q=l) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
