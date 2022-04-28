@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 45
     services:
       torproxy:
-        image: ghcr.io/thetanz/gotham/torproxy:latest
+        image: ghcr.io/xfivesao/ransomwatch/torproxy:latest
         ports:
         - 9050:9050
     steps:
@@ -40,7 +40,7 @@ jobs:
           python3 ransomwatch.py markdown
       - name: save changes
         run: |
-          git config --global user.email "theta-bot@users.noreply.github.com"
-          git config --global user.name "theta-bot"
-          git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
+          git config --global user.email "devgru@tutanota.com"
+          git config --global user.name "xfivesao"
+          git commit --all --message "Updated by RW Tracker LV4" || echo "no changes to commit"
           git push
