@@ -60,7 +60,7 @@ def appender(post_title, group_name):
         newpost = posttemplate(post_title, group_name, str(datetime.today()))
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
-        with open('posts.json', 'w') as outfile:
+        with open('posts.json', 'w', encoding='utf-8') as outfile:
             '''
             use ensure_ascii to mandate utf-8 in the case the post contains cyrillic 🇷🇺
             https://pynative.com/python-json-encode-unicode-and-non-ascii-characters-as-is/
@@ -200,7 +200,7 @@ def ragnarlocker():
     '''
     posts = runshellcmd(json_parser)
     post_json = json.loads(posts[0])
-    with open('source/ragnarlocker.json', 'w') as f:
+    with open('source/ragnarlocker.json', 'w', encoding='utf-8') as f:
         json.dump(post_json, f, indent=4)
         f.close()
     if len(post_json) == 1:
@@ -606,8 +606,9 @@ def pandora():
 def stormous():
     stdlog('parser: ' + 'stormous')
     # grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
     parser = '''
-    grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+    awk '/<h3>/{getline; print}' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -629,10 +630,21 @@ def leaktheanalyst():
 def kelvinsecurity():
     stdlog('parser: ' + 'kelvinsecurity')
     parser = '''
-    egrep -o '<span style="font-size:17px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    egrep -o '<span style="font-size:20px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('kelvinsecurity: ' + 'parsing fail')
     for post in posts:
         appender(post, 'kelvinsecurity')
+
+def blackbasta():
+    stdlog('parser: ' + 'blackbasta')
+    parser = '''
+    egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blackbasta: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'blackbasta')
