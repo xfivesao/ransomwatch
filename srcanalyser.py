@@ -11,7 +11,7 @@ if not os.path.exists('source/linkanalysis'):
 for file in os.listdir('source'):
     if file.endswith('.html'):
         stdlog('processing file: ' + file)
-        with open('source/' + file, 'r') as f:
+        with open('source/' + file, 'r', encoding='utf-8') as f:
             fqdn = file.split('-')[1].strip('.html')
             infosheet = {
                 'urls': list(),
@@ -55,6 +55,6 @@ for file in os.listdir('source'):
             infosheet['phnumbers'] = list(set(phnum))
             infosheet['unhandled'] = list(set(unhandled))
             infosheet['source'] = 'ransomwatch/source/' + file
-            with open('source/linkanalysis/' + fqdn + '.json', 'w') as f:
+            with open('source/linkanalysis/' + fqdn + '.json', 'w', encoding='utf-8') as f:
                 json.dump(infosheet, f, indent=4)
             stdlog('created findings file: ' + 'source/linkanalysis/' + fqdn + '.json')
