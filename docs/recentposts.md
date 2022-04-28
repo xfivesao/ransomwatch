@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`quito.gob.ec`](https://google.com/search?q=quito.gob.ec) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-28 | [`Tehama County Social Services`](https://google.com/search?q=Tehama+County+Social+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-28 | [`LARON an otp industrial solutions company`](https://google.com/search?q=LARON+an+otp+industrial+solutions+company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-10 | [`CAPCARPET.COM FILES PART6 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART6+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ALEXIM.COM FILES PART6 - 192.168.3.5\Mail\djimenez\28-06\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART6+-+192.168.3.5%5CMail%5Cdjimenez%5C28-06%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`MCH-GROUP.COM FILES PART27 - 172.16.60.11\DATA\LMS\EXP\EFF\Art &amp; Design\Art Basel Miam`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART27+-+172.16.60.11%5CDATA%5CLMS%5CEXP%5CEFF%5CArt+%26amp%3B+Design%5CArt+Basel+Miam) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
