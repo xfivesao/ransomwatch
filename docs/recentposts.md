@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Mercadocar Mercantil Ltda.`](https://google.com/search?q=Mercadocar+Mercantil+Ltda.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Suhl. City in Germany`](https://google.com/search?q=Suhl.+City+in+Germany) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`efile.c`](https://google.com/search?q=efile.c) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`DRC-LAW.COM FILES PART3 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART3+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`ORBITELECTRIC.COM FILES PART1 - 192.168.10.102, 192.168.10.114, 192.168.10.192 PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART1+-+192.168.10.102%2C+192.168.10.114%2C+192.168.10.192+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`AFJCONSULTING.NET FILES PART1 - E\data\users\Adam\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART1+-+E%5Cdata%5Cusers%5CAdam%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`ALTERNATIVETECHS.COM FILES PART3 - C\Shares\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART3+-+C%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`lo`](https://google.com/search?q=lo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`groupemeunier.c...`](https://google.com/search?q=groupemeunier.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
