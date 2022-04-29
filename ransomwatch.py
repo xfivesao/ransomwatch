@@ -262,6 +262,7 @@ if args.mode == 'parse':
     parsers.leaktheanalyst()
     parsers.kelvinsecurity()
     parsers.blackbasta()
+    parsers.onyx()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
