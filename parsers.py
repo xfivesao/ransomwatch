@@ -648,3 +648,14 @@ def blackbasta():
         errlog('blackbasta: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blackbasta')
+
+def onyx():
+    stdlog('parser: ' + 'onyx')
+    parser = '''
+    grep '<h6 class=' source/onyx-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Connect with us/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('onyx: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'onyx')

@@ -2515,5 +2515,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "onyx",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
+                "title": "ONYX NEWS",
+                "version": 3,
+                "slug": "http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
+                "available": true,
+                "updated": "2022-04-29 16:00:30.682618",
+                "lastscrape": "2022-04-29 16:00:30.682612"
+            }
+        ],
+        "profile": []
     }
 ]
