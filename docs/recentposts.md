@@ -4,6 +4,12 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Hufcor`](https://google.com/search?q=Hufcor) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-29 | [`Grosvenor Engineering Group`](https://google.com/search?q=Grosvenor+Engineering+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-29 | [`Valley Rentals`](https://google.com/search?q=Valley+Rentals) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-29 | [`Drive Products`](https://google.com/search?q=Drive+Products) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-29 | [`Petro Serve`](https://google.com/search?q=Petro+Serve) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-04-29 | [`Henry`](https://google.com/search?q=Henry) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-29 | [`vi`](https://google.com/search?q=vi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -248,9 +254,3 @@ _last `250` posts_
 | 2022-04-12 | [`DeeZee`](https://google.com/search?q=DeeZee) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-12 | [`tavistock`](https://google.com/search?q=tavistock) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-04-12 | [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`DC ADVISORY`](https://google.com/search?q=DC+ADVISORY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`Florida International University (www.fiu.edu)`](https://google.com/search?q=Florida+International+University+%28www.fiu.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`tgs.com.ar`](https://google.com/search?q=tgs.com.ar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`wallyedgar.com - Wally Edgar Chevrolet`](https://google.com/search?q=wallyedgar.com+-+Wally+Edgar+Chevrolet) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-11 | [`Broadleaf`](https://google.com/search?q=Broadleaf) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-11 | [`lee-associate`](https://google.com/search?q=lee-associate) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
