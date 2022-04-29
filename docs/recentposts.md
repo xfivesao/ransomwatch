@@ -4,6 +4,11 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Fonseca Supermarkets`](https://google.com/search?q=Fonseca+Supermarkets) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`GOLDENDUCK GROUP`](https://google.com/search?q=GOLDENDUCK+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`idm-`](https://google.com/search?q=idm-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-28 | [`quito.gob.ec`](https://google.com/search?q=quito.gob.ec) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-28 | [`Tehama County Social Services`](https://google.com/search?q=Tehama+County+Social+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -249,8 +254,3 @@ _last `250` posts_
 | 2022-04-10 | [`ALTERNATIVETECHS.COM FILES PART3 - C\Shares\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART3+-+C%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-10 | [`lo`](https://google.com/search?q=lo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-10 | [`groupemeunier.c...`](https://google.com/search?q=groupemeunier.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`farmaciastatuto...`](https://google.com/search?q=farmaciastatuto...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`JBINSTANTLAWN.NET FILES PART6 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART6+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-10 | [`lerros.com`](https://google.com/search?q=lerros.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-10 | [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-10 | [`CAPCARPET.COM FILES PART6 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART6+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
