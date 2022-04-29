@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-29 | [`vi`](https://google.com/search?q=vi) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-29 | [`KSSENTERPRISES.COM FILES PART2 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART2+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-12 | [`wallyedgar.com - Wally Edgar Chevrolet`](https://google.com/search?q=wallyedgar.com+-+Wally+Edgar+Chevrolet) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-11 | [`Broadleaf`](https://google.com/search?q=Broadleaf) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-11 | [`lee-associate`](https://google.com/search?q=lee-associate) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-11 | [`Newlat Food SPA`](https://google.com/search?q=Newlat+Food+SPA) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
