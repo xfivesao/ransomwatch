@@ -2508,7 +2508,7 @@
                 "fqdn": "aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion",
                 "title": "400 The plain HTTP request was sent to HTTPS port",
                 "version": 3,
-                "slug": "http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
+                "slug": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
                 "available": true,
                 "updated": "2022-05-03 10:53:15.993102",
                 "lastscrape": "2022-05-03 10:53:15.993084"
