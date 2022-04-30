@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-30 | [`sagefruit.com`](https://google.com/search?q=sagefruit.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-04-30 | [`hispanoamerican...`](https://google.com/search?q=hispanoamerican...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-04-30 | [`7generations.or...`](https://google.com/search?q=7generations.or...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Hufcor`](https://google.com/search?q=Hufcor) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Grosvenor Engineering Group`](https://google.com/search?q=Grosvenor+Engineering+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Valley Rentals`](https://google.com/search?q=Valley+Rentals) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-12 | [`DeeZee`](https://google.com/search?q=DeeZee) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-04-12 | [`tavistock`](https://google.com/search?q=tavistock) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-04-12 | [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
