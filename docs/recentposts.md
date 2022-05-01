@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-01 | [`so`](https://google.com/search?q=so) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`Davis Law Group, P.C.`](https://google.com/search?q=Davis+Law+Group%2C+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-30 | [`Phoenix/Packaging Inc.`](https://google.com/search?q=Phoenix%2FPackaging+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-30 | [`Municipio de Quito`](https://google.com/search?q=Municipio+de+Quito) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-12 | [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-12 | [`National Rehabilitation Training Center`](https://google.com/search?q=National+Rehabilitation+Training+Center) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-12 | [`ALAM LMS`](https://google.com/search?q=ALAM+LMS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-04-12 | [`Delhi Heights School`](https://google.com/search?q=Delhi+Heights+School) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
