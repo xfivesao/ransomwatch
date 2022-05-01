@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-01 | [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-01 | [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-01 | [`orthopaedie-app...`](https://google.com/search?q=orthopaedie-app...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`so`](https://google.com/search?q=so) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`Davis Law Group, P.C.`](https://google.com/search?q=Davis+Law+Group%2C+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-30 | [`Phoenix/Packaging Inc.`](https://google.com/search?q=Phoenix%2FPackaging+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-12 | [`bet9ja.com - goldbet.it`](https://google.com/search?q=bet9ja.com+-+goldbet.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-12 | [`inglotcosmetics...`](https://google.com/search?q=inglotcosmetics...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-12 | [`breadtalk.com`](https://google.com/search?q=breadtalk.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-12 | [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-04-12 | [`National Rehabilitation Training Center`](https://google.com/search?q=National+Rehabilitation+Training+Center) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-04-12 | [`ALAM LMS`](https://google.com/search?q=ALAM+LMS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
