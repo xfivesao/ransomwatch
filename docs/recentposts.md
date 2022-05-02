@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-05-02 | [`ca`](https://google.com/search?q=ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`Collegiate sports medicine`](https://google.com/search?q=Collegiate+sports+medicine) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-05-01 | [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-13 | [`northstari`](https://google.com/search?q=northstari) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-12 | [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-04-12 | [`TIC International Corporation`](https://google.com/search?q=TIC+International+Corporation) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-12 | [`bet9ja.com - goldbet.it`](https://google.com/search?q=bet9ja.com+-+goldbet.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-12 | [`inglotcosmetics...`](https://google.com/search?q=inglotcosmetics...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
