@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`PRGX Global Inc.`](https://google.com/search?q=PRGX+Global+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`Jameco Electronics`](https://google.com/search?q=Jameco+Electronics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`fivestarpr`](https://google.com/search?q=fivestarpr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-14 | [`Atlas Copco`](https://google.com/search?q=Atlas+Copco) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-04-14 | [`www.cassinobuil...`](https://google.com/search?q=www.cassinobuil...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`tpdrug.com`](https://google.com/search?q=tpdrug.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-13 | [`heartlandhealth...`](https://google.com/search?q=heartlandhealth...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
