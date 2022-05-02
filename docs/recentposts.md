@@ -4,6 +4,10 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`fivestarpr`](https://google.com/search?q=fivestarpr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`Limited May Access Sale`](https://google.com/search?q=Limited+May+Access+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-05-02 | [`ca`](https://google.com/search?q=ca) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -250,7 +254,3 @@ _last `250` posts_
 | 2022-04-13 | [`heartlandhealth...`](https://google.com/search?q=heartlandhealth...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`applya.com`](https://google.com/search?q=applya.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-13 | [`Standard Building Supplies Ltd`](https://google.com/search?q=Standard+Building+Supplies+Ltd) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-04-13 | [`Simply Placed`](https://google.com/search?q=Simply+Placed) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-04-13 | [`get-greenenergy...`](https://google.com/search?q=get-greenenergy...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-13 | [`northstari`](https://google.com/search?q=northstari) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-12 | [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
