@@ -4,6 +4,13 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-03 | [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`C&C FARMERSâ SUPPLY CORP`](https://google.com/search?q=C%26C+FARMERS%C3%A2%C2%80%C2%99+SUPPLY+CORP) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-05-03 | [`Jasper County Sheriff's Office`](https://google.com/search?q=Jasper+County+Sheriff%27s+Office) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-05-03 | [`Sarasin & partners LLP`](https://google.com/search?q=Sarasin+%26+partners+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-03 | [`fivestar`](https://google.com/search?q=fivestar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-03 | [`Municipality of Posadas`](https://google.com/search?q=Municipality+of+Posadas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
@@ -247,10 +254,3 @@ _last `250` posts_
 | 2022-04-14 | [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`cassinobuilding...`](https://google.com/search?q=cassinobuilding...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-14 | [`mpm.fr`](https://google.com/search?q=mpm.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`Musco Sports Lighting`](https://google.com/search?q=Musco+Sports+Lighting) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-04-14 | [`soharportandfre...`](https://google.com/search?q=soharportandfre...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`radmangroup.com`](https://google.com/search?q=radmangroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-04-14 | [`kpcg.com.hk`](https://google.com/search?q=kpcg.com.hk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-14 | [`polyplastics.co...`](https://google.com/search?q=polyplastics.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
