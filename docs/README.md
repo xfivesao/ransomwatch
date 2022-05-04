@@ -1,18 +1,18 @@
 
 ## summary
-_may 3rd, 2022_
+_may 4th, 2022_
 
 currently tracking `100` groups across `144` relays & mirrors - _`55` currently online_
 
-⏲ there have been `17` posts within the `last 24 hours`
+⏲ there have been `18` posts within the `last 24 hours`
 
-🦈 there have been `48` posts within the `month of may`
+🦈 there have been `49` posts within the `month of may`
 
-🪐 there have been `1068` posts within the `last 90 days`
+🪐 there have been `1069` posts within the `last 90 days`
 
-🏚 there have been `1367` posts within the `year of 2022`
+🏚 there have been `1368` posts within the `year of 2022`
 
-🦕 there have been `3653` posts `since the dawn of ransomwatch`
+🦕 there have been `3654` posts `since the dawn of ransomwatch`
 
 there are `49` custom parsers indexing posts
 
