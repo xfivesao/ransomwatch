@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`EYP`](https://google.com/search?q=EYP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-03 | [`Asia Pacific University`](https://google.com/search?q=Asia+Pacific+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-03 | [`BRITISH LINK KUWAIT`](https://google.com/search?q=BRITISH+LINK+KUWAIT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-15 | [`Importador Ferretero Trujillo Cia. Ltda`](https://google.com/search?q=Importador+Ferretero+Trujillo+Cia.+Ltda) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-04-15 | [`http://inland-e...`](https://google.com/search?q=http%3A%2F%2Finland-e...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-15 | [`enclosuresoluti...`](https://google.com/search?q=enclosuresoluti...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-15 | [`CJ Pony Parts`](https://google.com/search?q=CJ+Pony+Parts) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-15 | [`museum-dingo`](https://google.com/search?q=museum-dingo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-15 | [`eNoah it solutions`](https://google.com/search?q=eNoah+it+solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
