@@ -2,9 +2,9 @@
 ## summary
 _may 4th, 2022_
 
-currently tracking `100` groups across `144` relays & mirrors - _`55` currently online_
+currently tracking `100` groups across `144` relays & mirrors - _`54` currently online_
 
-⏲ there have been `15` posts within the `last 24 hours`
+⏲ there have been `8` posts within the `last 24 hours`
 
 🦈 there have been `52` posts within the `month of may`
 
