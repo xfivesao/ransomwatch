@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-04 | [`Zito Media`](https://google.com/search?q=Zito+Media) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-04 | [`Faw-Volkswagen Automobile Co., Ltd.`](https://google.com/search?q=Faw-Volkswagen+Automobile+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-04 | [`Tosoh Bioscience`](https://google.com/search?q=Tosoh+Bioscience) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-15 | [`ENPRECIS.COM FILES PART25 - 10.51.122.5\VI\AHM\packages\FromProduction_utility** PUBLISHED`](https://google.com/search?q=ENPRECIS.COM+FILES+PART25+-+10.51.122.5%5CVI%5CAHM%5Cpackages%5CFromProduction_utility%2A%2A+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-15 | [`[IMPORTANT ANNOUNCEMENT!]`](https://google.com/search?q=%5BIMPORTANT+ANNOUNCEMENT%21%5D) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-15 | [`inland-engineer...`](https://google.com/search?q=inland-engineer...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-15 | [`Importador Ferretero Trujillo Cia. Ltda`](https://google.com/search?q=Importador+Ferretero+Trujillo+Cia.+Ltda) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-04-15 | [`http://inland-e...`](https://google.com/search?q=http%3A%2F%2Finland-e...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
