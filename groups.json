@@ -2553,5 +2553,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "mindware",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion",
+                "title": "DataLeakBlog",
+                "version": 3,
+                "slug": "https://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion/",
+                "available": true,
+                "updated": "2022-05-06 00:30:06.993100",
+                "lastscrape": "2022-05-06 00:30:06.993086"
+            }
+        ],
+        "profile": []
     }
 ]
