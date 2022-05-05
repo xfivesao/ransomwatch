@@ -659,3 +659,14 @@ def onyx():
         errlog('onyx: ' + 'parsing fail')
     for post in posts:
         appender(post, 'onyx')
+
+def mindware():
+    stdlog('parser: ' + 'mindware')
+    parser = '''
+    grep '<div class="card-header">' source/mindware-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mindware: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mindware')
