@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-06 | [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-05-06 | [`PTC Industries`](https://google.com/search?q=PTC+Industries) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-05 | [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-05 | [`Sole Technology`](https://google.com/search?q=Sole+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-05 | [`delcourt.fr`](https://google.com/search?q=delcourt.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-16 | [`JBINSTANTLAWN.NET FILES PART7 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART7+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`CAPCARPET.COM FILES PART7 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART7+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-16 | [`ALEXIM.COM FILES PART7 - 192.168.3.5\Mail\djimenez\28-06\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART7+-+192.168.3.5%5CMail%5Cdjimenez%5C28-06%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`AFJCONSULTING.NET FILES PART2 - E\data\users\Adam\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART2+-+E%5Cdata%5Cusers%5CAdam%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`MCH-GROUP.COM FILES PART28 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART28+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
