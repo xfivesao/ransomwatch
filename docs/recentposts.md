@@ -4,6 +4,19 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-06 | [`willsent`](https://google.com/search?q=willsent) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`welplaat`](https://google.com/search?q=welplaat) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`toshfarms`](https://google.com/search?q=toshfarms) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`thebureau`](https://google.com/search?q=thebureau) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`smd`](https://google.com/search?q=smd) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`simpsonplastering`](https://google.com/search?q=simpsonplastering) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`nottco`](https://google.com/search?q=nottco) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`micropakkn`](https://google.com/search?q=micropakkn) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`mediuscorp`](https://google.com/search?q=mediuscorp) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`diager`](https://google.com/search?q=diager) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`callinc`](https://google.com/search?q=callinc) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`allwell`](https://google.com/search?q=allwell) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-06 | [`acorentacar`](https://google.com/search?q=acorentacar) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-06 | [`hitechpipin`](https://google.com/search?q=hitechpipin) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-06 | [`PTC Industries`](https://google.com/search?q=PTC+Industries) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
@@ -241,16 +254,3 @@ _last `250` posts_
 | 2022-04-17 | [`Ministerio de Hacienda - República de Costa Rica`](https://google.com/search?q=Ministerio+de+Hacienda+-+Rep%C3%BAblica+de+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-17 | [`Tucker Door &amp; Trim`](https://google.com/search?q=Tucker+Door+%26amp%3B+Trim) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-17 | [`SLIMSTOCK.COM FILES PART30 - 10.31.1.134 PUBLISHED`](https://google.com/search?q=SLIMSTOCK.COM+FILES+PART30+-+10.31.1.134+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-17 | [`SA1SOLUTIONS.COM  FILES PART4 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART4+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-17 | [`ZISSERFAMILYLAW.COM FILES PART4 - D\Shares\BEACHESDATA\Business Office\Degnan, Jim\STI 201`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART4+-+D%5CShares%5CBEACHESDATA%5CBusiness+Office%5CDegnan%2C+Jim%5CSTI+201) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-17 | [`SSMSJUSTICE.COM FILES PART31 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\Yanez\Discovery\ P`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART31+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5CYanez%5CDiscovery%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`ORBITELECTRIC.COM FILES PART2 - 192.168.10.3\E$\USERS\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART2+-+192.168.10.3%5CE%24%5CUSERS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`OAKDELL.COM FILES PART4 - 192.168.100.130\C$\Users\rwoodward\Documents\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART4+-+192.168.100.130%5CC%24%5CUsers%5Crwoodward%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`JDAVIDTAXLAW.COM FILES PART4 - D\Shares\Data\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART4+-+D%5CShares%5CData%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`FAIR-RITE.COM FILES PART4 - 172.16.10.6\snap_one\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART4+-+172.16.10.6%5Csnap_one%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`Standard Building Supplies Ltd.`](https://google.com/search?q=Standard+Building+Supplies+Ltd.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-04-16 | [`DRIVEANDSHINE.COM FILES PART4 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART4+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`DRC-LAW.COM FILES PART4 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART4+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`ALTERNATIVETECHS.COM FILES PART4 - C\Shares\Alternative\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART4+-+C%5CShares%5CAlternative%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`JBINSTANTLAWN.NET FILES PART7 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART7+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-16 | [`CAPCARPET.COM FILES PART7 - 10.1.2.5\accounting\Rob\ PUBLISHED`](https://google.com/search?q=CAPCARPET.COM+FILES+PART7+-+10.1.2.5%5Caccounting%5CRob%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
