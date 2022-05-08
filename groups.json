@@ -2572,5 +2572,26 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "ransomhhouse",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion",
+                "title": "©RansomHouse",
+                "version": 3,
+                "slug": "http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion/",
+                "available": true,
+                "updated": "2022-05-09 11:42:37.253319",
+                "lastscrape": "2022-05-09 11:42:37.253309"
+            }
+        ],
+        "profile": [
+            "https://t.me/ransom_house"
+        ]
     }
 ]

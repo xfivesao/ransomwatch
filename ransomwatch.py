@@ -264,6 +264,7 @@ if args.mode == 'parse':
     parsers.blackbasta()
     parsers.onyx()
     parsers.mindware()
+    parsers.ransomhouse()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
