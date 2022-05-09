@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-09 | [`shimamura.gr.jp`](https://google.com/search?q=shimamura.gr.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-09 | [`safarni.com`](https://google.com/search?q=safarni.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-07 | [`KSSENTERPRISES.COM FILES PART3 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART3+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`ZISSERFAMILYLAW.COM FILES PART7 - D\Shares\DATA\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART7+-+D%5CShares%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`SA1SOLUTIONS.COM  FILES PART7 - 192.168.10.238\D$\Storage - Customers PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART7+-+192.168.10.238%5CD%24%5CStorage+-+Customers+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-19 | [`secova.com - Secova Inc`](https://google.com/search?q=secova.com+-+Secova+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-19 | [`compagniedephal...`](https://google.com/search?q=compagniedephal...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`For Costa Rica`](https://google.com/search?q=For+Costa+Rica) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`reitzner.de`](https://google.com/search?q=reitzner.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`procab.se`](https://google.com/search?q=procab.se) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
