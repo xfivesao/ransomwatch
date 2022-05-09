@@ -4,6 +4,10 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-09 | [`Saskatchewan Liquor and Gaming Authority`](https://google.com/search?q=Saskatchewan+Liquor+and+Gaming+Authority) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-05-09 | [`Jefferson Credit Union`](https://google.com/search?q=Jefferson+Credit+Union) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-05-09 | [`Dellner Couplers AB`](https://google.com/search?q=Dellner+Couplers+AB) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-05-09 | [`AHS Aviation Handling Services GmbH`](https://google.com/search?q=AHS+Aviation+Handling+Services+GmbH) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-05-09 | [`Cavender`](https://google.com/search?q=Cavender) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-09 | [`Fachgroßhandel`](https://google.com/search?q=Fachgro%C3%9Fhandel) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-09 | [`Flexible Circuit Technologies`](https://google.com/search?q=Flexible+Circuit+Technologies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -250,7 +254,3 @@ _last `250` posts_
 | 2022-04-20 | [`AM International`](https://google.com/search?q=AM+International) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-04-20 | [`Trace Midstream`](https://google.com/search?q=Trace+Midstream) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-20 | [`lekise.com`](https://google.com/search?q=lekise.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-20 | [`MAGNAR-EIKELAND...`](https://google.com/search?q=MAGNAR-EIKELAND...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-20 | [`Camden City School District`](https://google.com/search?q=Camden+City+School+District) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-20 | [`ingesw.com`](https://google.com/search?q=ingesw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-19 | [`Instituto Meteorológico Nacional and racsa.go.cr`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional+and+racsa.go.cr) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
