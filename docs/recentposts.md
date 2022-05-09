@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-09 | [`Cavender`](https://google.com/search?q=Cavender) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-09 | [`Fachgroßhandel`](https://google.com/search?q=Fachgro%C3%9Fhandel) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-09 | [`Flexible Circuit Technologies`](https://google.com/search?q=Flexible+Circuit+Technologies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-09 | [`ioi`](https://google.com/search?q=ioi) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-05-09 | [`advantec`](https://google.com/search?q=advantec) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-09 | [`shimamura.gr.jp`](https://google.com/search?q=shimamura.gr.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-20 | [`Camden City School District`](https://google.com/search?q=Camden+City+School+District) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-20 | [`ingesw.com`](https://google.com/search?q=ingesw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-19 | [`Instituto Meteorológico Nacional and racsa.go.cr`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional+and+racsa.go.cr) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`Instituto Meteorológico Nacional`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`Del Sol`](https://google.com/search?q=Del+Sol) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-19 | [`secova.com - Secova Inc`](https://google.com/search?q=secova.com+-+Secova+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
