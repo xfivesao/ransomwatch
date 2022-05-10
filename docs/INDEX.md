@@ -65,7 +65,7 @@
 | [haron](https://ransomwatch.telemetry.ltd/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-31 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🟢 |  | aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion |
-| [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Hemp Drugs | 🟢 |  | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
+| [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |  | 🟢 |  | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
 | [prometheus](https://ransomwatch.telemetry.ltd/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
 | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) | Payload.bin | 🔴 | 2022-01-22 | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
@@ -109,7 +109,7 @@
 | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |  | 🔴 | 2022-04-13 | 54bb47h.blog |
 | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) | Quantum Blog | 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
 | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
-| [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
+| [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | News | 🔴 | 2022-05-10 | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | News | 🟢 |  | snatch.press |
 | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) | Info | 🔴 | 2022-04-15 | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://ransomwatch.telemetry.ltd/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
