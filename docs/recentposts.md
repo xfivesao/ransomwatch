@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-11 | [`Trans Technology Pte Ltd.`](https://google.com/search?q=Trans+Technology+Pte+Ltd.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-11 | [`Caldes de Montbui`](https://google.com/search?q=Caldes+de+Montbui) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-11 | [`Salud Total`](https://google.com/search?q=Salud+Total) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-10 | [`mcsmo`](https://google.com/search?q=mcsmo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-10 | [`Black Bros. Co.`](https://google.com/search?q=Black+Bros.+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-10 | [`topaces.us`](https://google.com/search?q=topaces.us) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-21 | [`Major indian cryptocurrency Data Leak`](https://google.com/search?q=Major+indian+cryptocurrency+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`Asfaltproductienijmegen`](https://google.com/search?q=Asfaltproductienijmegen) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-21 | [`CYMZ`](https://google.com/search?q=CYMZ) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-04-21 | [`www.oil-india.com`](https://google.com/search?q=www.oil-india.com) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-04-20 | [`Simonson-Lumber Inc. First batch of Data.`](https://google.com/search?q=Simonson-Lumber+Inc.+First+batch+of+Data.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-04-20 | [`Visotec Group www.visotec.com`](https://google.com/search?q=Visotec+Group+www.visotec.com) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
