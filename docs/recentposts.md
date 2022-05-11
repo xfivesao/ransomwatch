@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-11 | [`Simonson-Lumber decided to be Leaked`](https://google.com/search?q=Simonson-Lumber+decided+to+be+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-05-11 | [`Trans Technology Pte Ltd.`](https://google.com/search?q=Trans+Technology+Pte+Ltd.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-11 | [`Caldes de Montbui`](https://google.com/search?q=Caldes+de+Montbui) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-11 | [`Salud Total`](https://google.com/search?q=Salud+Total) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-21 | [`US Cellular data leak Dec-2021`](https://google.com/search?q=US+Cellular+data+leak+Dec-2021) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`Major indian cryptocurrency Data Leak`](https://google.com/search?q=Major+indian+cryptocurrency+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`Asfaltproductienijmegen`](https://google.com/search?q=Asfaltproductienijmegen) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-04-21 | [`CYMZ`](https://google.com/search?q=CYMZ) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
