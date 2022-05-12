@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-12 | [`wa`](https://google.com/search?q=wa) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-12 | [`zine-eskola.eus`](https://google.com/search?q=zine-eskola.eus) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-12 | [`Cjk Group, Inc.`](https://google.com/search?q=Cjk+Group%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-12 | [`Ludwig Freytag Group`](https://google.com/search?q=Ludwig+Freytag+Group) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-21 | [`Maristes Hermitage`](https://google.com/search?q=Maristes+Hermitage) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-21 | [`DDC Data Leak`](https://google.com/search?q=DDC+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`asp.messina.it`](https://google.com/search?q=asp.messina.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`Panasonic data breach`](https://google.com/search?q=Panasonic+data+breach) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
