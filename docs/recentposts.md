@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-22 | [`produitsneptune...`](https://google.com/search?q=produitsneptune...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`ekz.de`](https://google.com/search?q=ekz.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`wilshire.com`](https://google.com/search?q=wilshire.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
