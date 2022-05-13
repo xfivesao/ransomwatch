@@ -4,6 +4,10 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`bradfordmarine....`](https://google.com/search?q=bradfordmarine....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`M+A Partners`](https://google.com/search?q=M%2BA+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-13 | [`purapharm.com`](https://google.com/search?q=purapharm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`alliancesand.co...`](https://google.com/search?q=alliancesand.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -250,7 +254,3 @@ _last `250` posts_
 | 2022-04-22 | [`ekz.de`](https://google.com/search?q=ekz.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`wilshire.com`](https://google.com/search?q=wilshire.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`incegd.com`](https://google.com/search?q=incegd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`Small Industries Development`](https://google.com/search?q=Small+Industries+Development) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-21 | [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
