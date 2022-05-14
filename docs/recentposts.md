@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-14 | [`For Costa Rica and US terrorists (Biden and his administration)`](https://google.com/search?q=For+Costa+Rica+and+US+terrorists+%28Biden+and+his+administration%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-13 | [`www.optoma.com`](https://google.com/search?q=www.optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`boltburdonkemp....`](https://google.com/search?q=boltburdonkemp....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`vvrmc`](https://google.com/search?q=vvrmc) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-23 | [`valoores.com`](https://google.com/search?q=valoores.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`tigergroup.ae`](https://google.com/search?q=tigergroup.ae) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`EDAN.COM FILES PART28 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\宁姐\  PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART28+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C%E5%AE%81%E5%A7%90%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-23 | [`BOLTONUSA.COM FILES PART33 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\PBGC-DISC_Mul`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART33+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CPBGC-DISC_Mul) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
