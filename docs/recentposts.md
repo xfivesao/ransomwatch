@@ -4,6 +4,9 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-16 | [`Piggly Wiggly Alabama Distributing Company`](https://google.com/search?q=Piggly+Wiggly+Alabama+Distributing+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-16 | [`sherpamarketing...`](https://google.com/search?q=sherpamarketing...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-16 | [`cassagne.com.ar`](https://google.com/search?q=cassagne.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`fronteousa`](https://google.com/search?q=fronteousa) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-05-16 | [`teka.com.mx`](https://google.com/search?q=teka.com.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`talaadthaii.com`](https://google.com/search?q=talaadthaii.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -251,6 +254,3 @@ _last `250` posts_
 | 2022-04-24 | [`SA1SOLUTIONS.COM  FILES PART5 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART5+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`SSMSJUSTICE.COM FILES PART32 - 192.168.1.248\D\SHARES\CLOSED CASES\2021\Yanez\Discovery\ P`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART32+-+192.168.1.248%5CD%5CSHARES%5CCLOSED+CASES%5C2021%5CYanez%5CDiscovery%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`ORBITELECTRIC.COM FILES PART3 - 192.168.10.3\E$\USERS\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART3+-+192.168.10.3%5CE%24%5CUSERS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-24 | [`OAKDELL.COM FILES PART5 - 192.168.100.137\C$\Users\clillywhite\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART5+-+192.168.100.137%5CC%24%5CUsers%5Cclillywhite%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-24 | [`JDAVIDTAXLAW.COM FILES PART5 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART5+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-24 | [`FAIR-RITE.COM FILES PART5 - 172.16.10.6\snap_one\PART5 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART5+-+172.16.10.6%5Csnap_one%5CPART5+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
