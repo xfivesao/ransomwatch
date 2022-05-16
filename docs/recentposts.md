@@ -4,6 +4,8 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-16 | [`hinakaorg.com`](https://google.com/search?q=hinakaorg.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-16 | [`arcelormittal.h...`](https://google.com/search?q=arcelormittal.h...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-15 | [`mercyhurst.edu`](https://google.com/search?q=mercyhurst.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-15 | [`boltburdon.co.u...`](https://google.com/search?q=boltburdon.co.u...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`optoma.com`](https://google.com/search?q=optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -252,5 +254,3 @@ _last `250` posts_
 | 2022-04-24 | [`JBINSTANTLAWN.NET FILES PART8 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART8+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`ALEXIM.COM FILES PART8 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART8+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`AFJCONSULTING.NET FILES PART3 - E\data\documents\  PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART3+-+E%5Cdata%5Cdocuments%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-24 | [`Co-opbank Pertama`](https://google.com/search?q=Co-opbank+Pertama) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-04-23 | [`MCH-GROUP.COM FILES PART29 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\  PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART29+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
