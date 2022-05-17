@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-17 | [`Tecnopack`](https://google.com/search?q=Tecnopack) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-17 | [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`modetransportat...`](https://google.com/search?q=modetransportat...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`Tex-Isle Supply`](https://google.com/search?q=Tex-Isle+Supply) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-25 | [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Waiting for next leak`](https://google.com/search?q=Waiting+for+next+leak) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-04-25 | [`NATION Costa Rica`](https://google.com/search?q=NATION+Costa+Rica) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-04-25 | [`Elgin_Ca`](https://google.com/search?q=Elgin_Ca) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
