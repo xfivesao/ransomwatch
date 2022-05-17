@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-17 | [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`upskwt`](https://google.com/search?q=upskwt) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-05-17 | [`khs-wp.de`](https://google.com/search?q=khs-wp.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`Hirsch Watch Straps &amp; Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26amp%3B+Accessories) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-25 | [`emucor.es`](https://google.com/search?q=emucor.es) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`cronos.com.ar`](https://google.com/search?q=cronos.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`schriesheim.de`](https://google.com/search?q=schriesheim.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-24 | [`KSSENTERPRISES.COM FILES PART1 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART1+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
