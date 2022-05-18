@@ -4,6 +4,7 @@ _last `250` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-18 | [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-05-17 | [`Tecnopack`](https://google.com/search?q=Tecnopack) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-17 | [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`modetransportat...`](https://google.com/search?q=modetransportat...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -253,4 +254,3 @@ _last `250` posts_
 | 2022-04-25 | [`Mattele`](https://google.com/search?q=Mattele) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Waiting for next leak`](https://google.com/search?q=Waiting+for+next+leak) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-04-25 | [`NATION Costa Rica`](https://google.com/search?q=NATION+Costa+Rica) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
